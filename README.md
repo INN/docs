@@ -1,4 +1,4 @@
-# Hi
+# INN Documentation
 
 We've put all the information about INN into [the wiki](https://github.com/INN/INN-docs/wiki/). 
 
