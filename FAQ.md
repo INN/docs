@@ -20,5 +20,6 @@
 *  On the **Appearance** > **CSS Variables** menu that appears, you can now do some basic customization of the theme (mostly colors)
 *  You can use custom CSS to further refine the colors, but this will generally reduce the amount of custom CSS you need to use
 <hr>
+
 #### Q: Can I change the size of the text on the Nav bars and Widgets?
 **A:** No, you can't change those values in the Admin UI. That can only be done through custom CSS. We have tested this theme extensively for appearance on desktop to mobile devices to ensure that these elements display properly in all screen sizes. Changing this is not recommended. While you may improve the appearance in one view, it will often look worse on a different device.
