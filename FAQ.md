@@ -23,3 +23,10 @@
 
 #### Q: Can I change the size of the text on the Nav bars and Widgets?
 **A:** No, you can't change those values in the Admin UI. That can only be done through custom CSS. We have tested this theme extensively for appearance on desktop to mobile devices to ensure that these elements display properly in all screen sizes. Changing this is not recommended. While you may improve the appearance in one view, it will often look worse on a different device.
+<hr>
+
+#### Q: How do I change the prominence of posts and other items?
+**A:** When you edit a post you'll see a number of boxes in the right column with various checkboxes (categories, etc.) one of these is labelled **Prominence**. This controls where certain posts are displayed on the site (i.e. The **top story** on the homepage is selected by checking the **Top Story** box).
+
+* By default, the footer has a widget called **Footer Featured** that will show up to three posts that you select by checking the **Footer Featured widget** box from this prominence box when editing a post
+* If you don't see the pProminence box, make sure you're in the **Post Edit** screen, click on **Screen Options** at the top right corner of the screen and make sure the **Prominence** box is checked
