@@ -34,3 +34,7 @@
 
 #### Q: We switched to a new host, but it's still pointing to the old site. How long does it take for those changes to propagate?
 **A:** While the changes may propagate within a couple hours, it can actually take up to **48 hours** for them to take effect. If you **clear your cache** and **try the site from a new internet browser** and still see the old site, or it's pointing to the old host, the changes have not taken effect yet, and you just have to wait it out.
+<hr>
+
+#### Q: As an INN member, can I install WordPress plugins?
+**A:** Largo is a theme on a network with many other sites. We keep control of the plugin installation so we can avoid conflicts with the theme and with approved plugins. WordPress has thousands of plugins available, and the potential for them to cause problems is pretty high. If there's a plugin you'd like to install, **ask your Largo administrator to install it for you**. If it's one of our approved and tested plugins, they will install it for you. If not, they'll discuss it on a case-by-case basis.
