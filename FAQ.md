@@ -45,3 +45,11 @@
 
 * Send us a list of the changes you are requesting and we'll work with you to implement them
 * Make those changes in your staging environment and commit them to your Child Theme's repository so we can push them live for you
+<hr>
+
+#### Q: In Largo, can I get the social media buttons to open in a new tab/window?
+**A:** Not at this time.
+<hr>
+
+#### Q: In the Largo Follow Widget, can I change the appearance of the social media buttons?
+**A:** Those come to us from the providers, so we have very little control over their appearance.
