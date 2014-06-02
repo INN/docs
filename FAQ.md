@@ -30,3 +30,7 @@
 
 * By default, the footer has a widget called **Footer Featured** that will show up to three posts that you select by checking the **Footer Featured widget** box from this prominence box when editing a post
 * If you don't see the pProminence box, make sure you're in the **Post Edit** screen, click on **Screen Options** at the top right corner of the screen and make sure the **Prominence** box is checked
+<hr>
+
+#### Q: We switched to a new host, but it's still pointing to the old site. How long does it take for those changes to propagate?
+**A:** While the changes may propagate within a couple hours, it can actually take up to **48 hours** for them to take effect. If you **clear your cache** and **try the site from a new internet browser** and still see the old site, or it's pointing to the old host, the changes have not taken effect yet, and you just have to wait it out. 
