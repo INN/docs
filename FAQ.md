@@ -38,3 +38,10 @@
 
 #### Q: As an INN member, can I install WordPress plugins?
 **A:** Largo is a theme on a network with many other sites. We keep control of the plugin installation so we can avoid conflicts with the theme and with approved plugins. WordPress has thousands of plugins available, and the potential for them to cause problems is pretty high. If there's a plugin you'd like to install, **ask your Largo administrator to install it for you**. If it's one of our approved and tested plugins, they will install it for you. If not, they'll discuss it on a case-by-case basis.
+<hr>
+
+#### Q: The CSS Customizer doesn't let me change what I want to. How do I make changes to the CSS?
+**A:**
+
+* Send us a list of the changes you are requesting and we'll work with you to implement them
+* Make those changes in your staging environment and commit them to your Child Theme's repository so we can push them live for you
