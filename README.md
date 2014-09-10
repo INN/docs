@@ -2,7 +2,14 @@
 
 ## Table of Contents
 
+What's in here (so far):
+
 -  Some [sample job postings/descriptions](/job-descriptions) we've used to recruit and hire the team
+
+What is not (and will not) be in here:
+
+-  Documentation for [Largo](http://largoproject.org) which is kept in a Confluence knowledgebase
+-  Documentation for our other apps/tools/etc. (e.g. our [deployment tools](https://github.com/INN/deploy-tools) or our [responsive tables](https://github.com/INN/responsive-tables) rig) which will typically reside within those repos directly
 
 ## License
 
