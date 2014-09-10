@@ -1,6 +1,6 @@
 #Support Specialist (Contract)#
 
-***NOTE:** This is a contract position working flexible hours (we’d prefer 20-30 hrs/week to start). There is the possibility for advancement (converting this into a full-time position) depending on job performance. The pay for this position is also flexible and will be commensurate with experience but we expect it to be in the $25-40/hr range.*
+**NOTE:** This is a contract position working flexible hours (we’d prefer 20-30 hrs/week to start). There is the possibility for advancement (converting this into a full-time position) depending on job performance. The pay for this position is also flexible and will be commensurate with experience but we expect it to be in the $25-40/hr range.
 
 The Investigative News Network (INN), a network of 100 nonprofit news organizations, has an immediate opening for a contract support specialist on our news applications and technology team.
 
