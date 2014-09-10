@@ -20,4 +20,4 @@ To contribute changes:
 4.  Push the changes to your fork (git push origin my-branch)
 5.  [Submit a pull request to the parent repo](https://help.github.com/articles/creating-a-pull-request)
 
-Additionally, you can [create issues](/issues) on this repo to suggest changes or improvements.
+Additionally, you can [create issues](https://github.com/INN/docs/issues) on this repo to suggest changes or improvements.
