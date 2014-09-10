@@ -2,7 +2,7 @@
 
 ## Table of Contents
 
-What's in here (nothing so far)
+-  Some [sample job postings/descriptions](/job-descriptions) we've used to recruit and hire the team
 
 ## License
 
