@@ -29,3 +29,12 @@ To contribute changes:
 5.  [Submit a pull request to the parent repo](https://help.github.com/articles/creating-a-pull-request)
 
 Additionally, you can [create issues](https://github.com/INN/docs/issues) on this repo to suggest changes or improvements.
+
+## Who Wrote This?
+
+The INN Team:
+
+-  Adam Schweigert, Senior Director of Product and Technology
+-  Kaeti Hinck, Design Director
+-  Ryan Nagle, News Apps Developer
+-  Will Haynes, Apprentice News Apps Developer
