@@ -5,6 +5,7 @@
 What's in here (so far):
 
 -  Some [sample job postings/descriptions](/job-descriptions) we've used to recruit and hire the team
+-  Some [notes on how we conduct meetings](/meetings)
 
 What is not (and will not) be in here:
 
