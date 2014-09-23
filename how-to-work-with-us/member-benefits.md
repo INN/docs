@@ -1,0 +1,4 @@
+- up to 32 hours
+- hosting
+- typekit
+- site licenses for plugins (which?)
