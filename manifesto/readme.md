@@ -1,72 +1,100 @@
-## Mission
-[TK: Two or three sentence synopsis of our team’s purpose.]
+## Our mission
 
-### Always be learning/Growth (mentorship/teaching)
-We will host a monthly book club for the news nerd community
-We’ll pair program and share what we learn with each other (redundancy)
-We’ll document the new things we learn and share them publicly
-We’ll attend local and national events/user-groups, stay involved in journalism community
-We’ll invest in education (creating curriculum and training for members, and investing in apprentices/students, and training ourselves in new things)
-Experiment with new tools and processes — None of that “this is the way we’ve always done it”
-This list can change. All things are transitory (<--too fancy)
+The INN technology team strives to make nonprofit journalism better and more sustainable — by building and supporting tools like the Largo Project, working with member organizations on data collaborations and visual storytelling, and contributing back to the open source and journalism community.
 
+####About these values
+As we began to build our team, we wanted to clearly identify the values that will inform our work and our daily interactions. We think it's important to know what drives us and why we do what we do — and let other people know what to expect when working with us. Just listing values didn't feel like enough: We wanted to provide specific actions that will stem from those values, a la ["We believe in [value], therefore we will [action]](http://kerrizor.com/blog/2014/08/11/why-your-coworker-is-a-jerk/)." Below is the working list of values and actions we are striving toward.
 
-### Openness — to new ideas, approaches, being wrong (admitting when we’re wrong or don’t know), sharing/showing our work
-Document and show our work, release code open source
-Blog about our processes and projects
-Welcome new ideas and approaches
-Post office hours, be available for questions and communication
-We’ll lead efforts to make documentation in journalism better and useful
+### Always be learning
+Growth and learning drive us forward. Teaching and mentorship help us build each other up and make our community stronger. 
 
-### Diversity — Diversity of ideas, perspectives, gender, race, orientation, etc. As we hire and grow, we want our team to represent …. Want to do better than legacy journalism (with everything, really)
-Individuality — hiring well rounded people who do stuff
-KEEP INN WEIRD
-When hiring, we will post jobs publicly and leave them open long enough to recruit a more diverse pool of candidates
-Proactively reach out to people in less-represented communities
-Talk about it publicly and hold ourselves and others accountable
-We will always pay our not-interns (apprentices) 
-Pedantry is a force, of the privileged oppressor ?! literally.
-
-### Money - value the work we do, sustainability, etc.
-We will charge for our time at a fair market value
-We will work to create products that make our work sustainable and makes nonprofit journalism more sustainable
-We will be careful stewards of the money we receive from clients and foundations. We swear we won’t buy islands or shit
-
-### Empathy — treating each other as whole human beings, meeting clients where they are, be nice not snarky. Personal shit happens. Carry each other. 
-The kindness panda (we’ll hold each other accountable for staying positive)
-We won’t make fun of clients or members to their faces. Only in the secret repo
-Life happens: When personal stuff comes up, we’ll support each other and help carry the workload.
-We’ll never judge you or shame you for not knowing something
-We won’t feign surprise or give you a “Well, actually.” (source: hacker school CoC)
-Send pie
-
-### Making things better — building up vs. tearing down, contributing to community. Everything’s gonna be awesome.
-We’ll actively contribute to the journalism community
-We’ll leave things better than how we found them
-We will focus on building and creating, not tearing down what doesn’t work
-We will host hackathon-style events for nonprofit journalism/journalists to learn and build community
-We’re in this together — we won’t trash our colleagues at other orgs or ….
-We believe in journalism that furthers democracy, challenges corruption, and dismantles structural oppression. We will support our members and community in doing this work.
-
-### Members first/service — We are not more important than our members. We are not too cool for school. But we will be opinionated and help them do the best work possible. Service but not at the expense of excellence. Humble excellence.
-The things we build should directly benefit our members and clients
-We’re not in it for the glory, but we’re committed to helping people do digital journalism better and stuff
-
-### Thoughtfulness — follow through in process (our own projects and how we support clients, not leaving people high and dry, cradle to grave planning)
-Our processes will be thoroughly documented
-We will interrogate project ideas and features before building
-We’ll follow through on the things we ship
-We won’t follow a trend just because it’s new or shiny
-We won’t make knee-jerk decisions because somebody feels panicked
-
-### Honesty/Telling the truth — Setting boundaries when we have to, taking projects we care about and are reasonable, “Is this a project we should take on” checklist. Being able to talk about how things aren’t working (add to meetings section of docs)
-We’ll say no — and we’ll always explain why
-We will be honest with each other about what’s not working for us
-We’ll make space to discuss obstacles at our daily scrum
-We’ll choose clients and projects that are doing work we care about and represents us as a team/organization
-We will be clear about our process and time tracking, so clients know what they are paying for
+- We will host a monthly book club for the news nerd community
+- We’ll pair program and share what we learn with each other on a weekly basis
+- We’ll attend local and national events and user-groups, and stay actively involved in the journalism community
+- We’ll invest in education: creating curriculum and training for members, investing in our apprentices/students, and pursuing education opportunities for ourselves 
+- We will be open to new tools and processes, resisting the stale comfort of “this is how we’ve always done it.”
+- This list can and will change as we grow. 
 
 
-### Fun — Music, food, cocktails, snacks
-embrace pie
-eat all the things
+### Connection 
+A happy team has fun together. 
+
+- We'll share recipes and music and GIFs
+- We'll meet in person at least two times a year (probably more) to work together in the same space
+- We'll keep INN weird
+
+### Diversity
+As we hire and grow, we want our team to represent the diverse population we work with. This means a diversity of ideas, perspectives, genders, race, orientations, socioeconomic class, and more. 
+
+- We will hire well-rounded people who have full lives outside of work
+- When hiring, we will post jobs publicly and leave them open long enough to recruit a more diverse pool of candidates
+- We'll proactively reach out to people in less-represented communities
+- We'll be committed to gender parity in staffing and salaries
+- We'll talk about it publicly and hold ourselves and others accountable for making things better
+- We will always pay our apprentices a fair wage
+- We won't use snark or pedantry to exclude people from conversations
+
+
+### Empathy
+We believe in treating each other as whole human beings, meeting people where they are, and practicing kindness.
+
+- Life happens. Bad days happen. When personal stuff comes up, we will carry the workload so our colleagues can focus on what matters most
+- We'll hold each other accountable in the way we talk about our work — staying positive and not trash talking. The kindness panda can be deployed in HipChat to give each other a gentle nudge
+- When we share frustrations, we'll also talk about solutions 
+- We’ll never judge you or shame you for not knowing something
+- We won’t feign surprise or jump into conversations with [“Well, actually...”](https://www.hackerschool.com/manual#sub-sec-social-rules)
+- In emergencies, we will send pie
+
+### Fiscal sustainability
+Our work has value, and if we value ourselves the people we work with are more likely to value what we do, too.
+
+- We will charge for our time at a fair market value
+- We will work to create products that make our work sustainable and that make nonprofit journalism more sustainable
+- We will be careful stewards of the money we receive from clients and foundations. We won’t buy islands or shit
+
+
+### Making things better
+We want to build up instead of tearing down and make our community better. We're in this together. Everything’s going to be awesome.
+
+- We’ll actively contribute to the journalism community through conferences, documentation, listservs, professional orgs, etc.
+- We’ll leave things better than how we found them
+- We will focus on creating things that work, not tearing down what doesn’t
+- We will host hackathon-style events for nonprofit journalism/journalists to learn and build community
+- We believe in journalism that furthers democracy, challenges corruption, and dismantles structural oppression. We will support our members and community in doing this work
+
+### Members first
+Our own egos are not more important than our members' needs.
+
+- We recognize that our members and clients are often working with constraints, and we'll do everything we can to do excellent work while also respecting internal needs. Pursuing excellence with humility and flexibility
+- The things we build should directly benefit our members and clients (duh)
+
+
+### Openness
+We will welcome new ideas and approaches, will admit when we’re wrong or don’t know the answer, and are committed to sharing and showing our work.
+
+- We will document and show our work, and release code open source on [github.com/inn](github.com/inn)
+- We’ll document the new things we learn and share them publicly on [nerds.investigativenewsnetwork.org](nerds.investigativenewsnetwork.org)
+- We'll start hosting regular office hours, to be available for questions and conversations about our projects
+- We’ll lead efforts to make documentation in journalism better
+
+### Telling the truth 
+We won't hesitate to set boundaries when we have to, taking projects we care about and are reasonable, “Is this a project we should take on” checklist. Being able to talk about how things aren’t working (add to meetings section of docs)
+
+- We’ll say no when we have to — and we’ll always explain why
+- We will be honest with each other about what’s not working for us
+- We’ll make space to discuss obstacles at our daily scrum
+- We’ll choose clients and projects that are doing work we care about and align with us as a team and organization
+- We'll share our client intake checklist and how we make the, “Is this a project we should take on?” decision-making process
+- We will be clear about our time tracking, so clients know what they are paying for
+
+### Thoughtfulness
+We want to make good decisions, not just follow the first or loudest idea.
+
+- Our processes will be thoroughly documented
+- We will interrogate project ideas and features before building
+- We’ll follow through on the things we ship, planning from the beginning how we will support projects long-term and measuring results so we can learn from what we build
+- We won’t follow a trend just because it’s new or shiny
+- We won’t make hasty decisions because somebody feels panicked
+
+
+
