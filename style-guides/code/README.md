@@ -1,8 +1,11 @@
-# NPR Visuals' Best Practices
+# INN's Best Practices
+
+Based on [NPR Visuals' Best Practices](https://github.com/nprapps/bestpractices) with additions for WordPress and PHP.
 
 The contents of this repository are released under a [Creative Commons CC BY 3.0 License](http://creativecommons.org/licenses/by/3.0/deed.en_US).
 
-**Note:** This document references the [app-template](http://github.com/nprapps/app-template) in several places and generally assumes you are using it.
+**Note:** This document references the [app-template](http://github.com/INN/app-template) in several places and generally assumes you are using it.
+
 
 ## Index
 
@@ -13,7 +16,10 @@ The contents of this repository are released under a [Creative Commons CC BY 3.0
 * [HTML and CSS](#html-and-css)
 * [Javascript](#javascript)
 * [Python](#python)
+* [PHP](#php)
+* [WordPress](#wordpress)
 * [Assets](#assets)
+
 
 ## Project documentation
 
@@ -23,7 +29,6 @@ Always ensure the following things are documented in the README:
 * Required environment variables. If these are secrets they should also be stored in the team Dropbox.
 * Cron jobs that must be installed on the servers. When using the app-template specifying these in the `crontab` file is sufficient.
 * Dependencies that are not part of our standard stack. This includes documenting how to install them. Whenever feasible this documentation should be in the form of `fab` commands.
-
 
 
 ## Naming things
@@ -46,7 +51,7 @@ Naming things (variables, files, classes, etc.) consistently and intuitively is 
   <tr><td>make</td><td>build, generate</td></tr>
   <tr><td>wrapper</td><td>wrap</td></tr>
   <tr><td>render</td><td>draw</td></tr>
-</table>  
+</table>
 
 (Note: sometimes these words don't mean the same thing, but when they do, prefer the former.)
 
@@ -60,32 +65,36 @@ Naming things (variables, files, classes, etc.) consistently and intuitively is 
 * **Never, ever store passwords, keys or credentials in any repository.** (Use environment variables instead.)
 
 
-
 ## Servers
 
 * Environment variables belong in `/etc/environment`. This file should be sourced by cron jobs. (This happens automatically when using `run_on_server.sh`.)# git
 
 
-
 ## HTML and CSS
 
-See [html_and_css.md](https://github.com/nprapps/bestpractices/blob/master/html_and_css.md).
-
+See [html_and_css.md](https://github.com/INN/bestpractices/blob/master/html_and_css.md).
 
 
 ## Javascript
 
-See [javascript.md](https://github.com/nprapps/bestpractices/blob/master/javascript.md).
-
+See [javascript.md](https://github.com/INN/bestpractices/blob/master/javascript.md).
 
 
 ## Python
 
-See [python.md](https://github.com/nprapps/bestpractices/blob/master/python.md).
+See [python.md](https://github.com/INN/bestpractices/blob/master/python.md).
 
+
+## PHP
+
+See [php.md](https://github.com/INN/bestpractices/blob/master/php.md).
+
+
+## WordPress
+
+See [wordpress.md](https://github.com/INN/bestpractices/blob/master/wordpress.md).
 
 
 ## Assets
 
-See [assets.md](https://github.com/nprapps/bestpractices/blob/master/assets.md).
-
+See [assets.md](https://github.com/INN/bestpractices/blob/master/assets.md).
