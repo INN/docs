@@ -8,13 +8,21 @@ Refer to our [best practices for PHP](https://github.com/INN/bestpractices/blob/
 
 - Embrace convention and use hard tabs when [working with WordPress](http://make.wordpress.org/core/handbook/coding-standards/php/#indentation).
 
-- Return values for a group of related or similar functions should be consistent and predictable.
+- Return values for a group of related functions should be consistent and predictable.
 
-    For example, don't alternate between return values of null and '' and false when an error occurs. If you decide it's really not appropriate to throw an Exception, be consistent in the value your function returns.
+    Given the hypothetical functions `create_user_profile`, `update_user_profile` and `destroy_user_profile`, each should:
+
+    - Exhibit the same behavior when an error occurs. In other words, don't alternate between return values of null and '' and false. Return a `WP_Error` or throw an Exception.
+
+    - Return something **sane** on success.
+
+        For example, the function name `create_user_profile` gives a strong indication that it performs an action on a user profile. It would be **sane** expect a UserProfile object or the ID of the user profile as a return value from this function.
 
 - Keep your variables and object attribute names consistent with the existing WordPress schema.
 
     In other words, if the `WP_User` attribute is `user_login`, don't name your variable `userLogin` or `user_name` — stick with `user_login`.
+
+    Do this and avoid having to map your variable names to WordPress' variable names.
 
 - Work with, not against, The Loop.
 
