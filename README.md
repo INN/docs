@@ -34,7 +34,8 @@ Additionally, you can [create issues](https://github.com/INN/docs/issues) on thi
 
 The INN Team:
 
--  Adam Schweigert, Senior Director of Product and Technology
--  Kaeti Hinck, Design Director
--  Ryan Nagle, News Apps Developer
--  Will Haynes, Apprentice News Apps Developer
+-  **Adam Schweigert**, Senior Director of Product and Technology
+-  **Kaeti Hinck**, Design Director
+-  **Denise Malan**, Director of Data Services
+-  **Ryan Nagle**, News Apps Developer
+-  **Will Haynes**, Apprentice News Apps Developer
