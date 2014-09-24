@@ -4,9 +4,12 @@
 
 Refer to our [best practices for PHP](https://github.com/INN/docs/blob/master/style-guides/code/php.md) as the baseline for working with WordPress.
 
+- Get familiar with WordPress' [Theme Development](http://codex.wordpress.org/Theme_Development) documentation.
+- Embrace doing things The WordPress Way. Your software will be easier to maintain as new versions of WordPress are release and easier for others to contribute to.
+
 ### Specifics
 
-- Embrace convention and use hard tabs when [working with WordPress](http://make.wordpress.org/core/handbook/coding-standards/php/#indentation).
+- Use tabs when [working with WordPress](http://make.wordpress.org/core/handbook/coding-standards/php/#indentation).
 
 - Return values for a group of related functions should be consistent and predictable.
 
