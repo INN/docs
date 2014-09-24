@@ -2,7 +2,7 @@
 
 ### Baseline
 
-Refer to our [best practices for PHP](https://github.com/INN/bestpractices/blob/master/php.md) as the baseline for working with WordPress.
+Refer to our [best practices for PHP](https://github.com/INN/docs/blob/master/style-guides/code/php.md) as the baseline for working with WordPress.
 
 ### Specifics
 
