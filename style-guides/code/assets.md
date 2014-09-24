@@ -19,7 +19,7 @@
   <tr><td>-16x9-d</td><td>16x9</td><td>desktop</td><td>1200x675</td></tr>
   <tr><td>-16x9-m</td><td>16x9</td><td>mobile</td><td>400x225</td></tr>
   <tr><td>-sq-m</td><td>square</td><td>mobile</td><td>420x420</td></tr>
-</table>  
+</table>
 
 * File extenions should always be lowercase.
 
