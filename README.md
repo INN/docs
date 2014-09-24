@@ -2,12 +2,15 @@
 
 ## Table of Contents
 
-What's in here (so far):
+**What's in here (so far):**
 
--  Some [sample job postings/descriptions](/job-descriptions) we've used to recruit and hire the team
--  Some [notes on how we conduct meetings](/how-we-work/meetings)
+-  **[A manifesto](/manifesto)** outlining our team's mission and values
+-  **[Sample job postings/descriptions](/job-descriptions)** we've used to recruit and hire the team
+-  **[How we work](/how-we-work)** including our [internal process](/how-we-work/process.md), [what we've learned about working as a remote team](/how-we-work/remote-work.md), [the tools we use](/how-we-work/tools.md) and [notes on how we conduct meetings](/how-we-work/meetings.md)
+-  **[How to work with us](/how-to-work-with-us)** including the [services we offer to INN members](/how-to-work-with-us/member-benefits.md), [our paid consulting clients](/how-to-work-with-us/consulting.md), [intake documents](/how-to-work-with-us/intake-procedure.md) and [general guidelines](/how-to-work-with-us) for how to work with us effectively
+-  **[Style guides](/style-guides)** for code and design/ui elements
 
-What is not (and will not) be in here:
+**What is not (and will not) be in here:**
 
 -  Documentation for [Largo](http://largoproject.org) which is kept in a Confluence knowledgebase
 -  Documentation for our other apps/tools/etc. (e.g. our [deployment tools](https://github.com/INN/deploy-tools) or our [responsive tables](https://github.com/INN/responsive-tables) rig) which will typically reside within those repos directly
@@ -34,8 +37,8 @@ Additionally, you can [create issues](https://github.com/INN/docs/issues) on thi
 
 The INN Team:
 
--  **Adam Schweigert**, Senior Director of Product and Technology
--  **Kaeti Hinck**, Design Director
--  **Denise Malan**, Director of Data Services
--  **Ryan Nagle**, News Apps Developer
--  **Will Haynes**, Apprentice News Apps Developer
+-  **[Adam Schweigert](https://github.com/aschweigert)** ([@aschweig](http://twitter.com/aschweig)), Senior Director of Product and Technology
+-  **[Kaeti Hinck](https://github.com/kaeti)** ([@kaeti](http://twitter.com/kaeti)), Design Director
+-  **[Denise Malan](https://github.com/dnmalan)** ([@denisemalan](http://twitter.com/denisemalan)), Director of Data Services
+-  **[Ryan Nagle](https://github.com/rnagle)** ([@ryannagle](http://twitter.com/ryannagle)), News Apps Developer
+-  **[Will Haynes](https://github.com/willhaynes)** ([@willhaynes](http://twitter.com/willhaynes)), Apprentice News Apps Developer
