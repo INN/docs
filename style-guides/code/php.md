@@ -6,7 +6,7 @@
 - When something goes wrong, use an Exception.
 - Use [namespaces](http://php.net/manual/en/language.namespaces.php).
 
-<sup>*</sup>When [working with WordPress](https://github.com/INN/docs/blob/master/php.md), use tabs instead of spaces.
+<sup>*</sup>When [working with WordPress](https://github.com/INN/docs/blob/master/style-guides/code/php.md), use tabs instead of spaces.
 
 ### Libraries
 

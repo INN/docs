@@ -72,29 +72,29 @@ Naming things (variables, files, classes, etc.) consistently and intuitively is 
 
 ## HTML and CSS
 
-See [html_and_css.md](https://github.com/INN/docs/blob/master/html_and_css.md).
+See [html_and_css.md](https://github.com/INN/docs/blob/master/style-guides/code/html_and_css.md).
 
 
 ## Javascript
 
-See [javascript.md](https://github.com/INN/docs/blob/master/javascript.md).
+See [javascript.md](https://github.com/INN/docs/blob/master/style-guides/code/javascript.md).
 
 
 ## Python
 
-See [python.md](https://github.com/INN/docs/blob/master/python.md).
+See [python.md](https://github.com/INN/docs/blob/master/style-guides/code/python.md).
 
 
 ## PHP
 
-See [php.md](https://github.com/INN/docs/blob/master/php.md).
+See [php.md](https://github.com/INN/docs/blob/master/style-guides/code/php.md).
 
 
 ## WordPress
 
-See [wordpress.md](https://github.com/INN/docs/blob/master/wordpress.md).
+See [wordpress.md](https://github.com/INN/docs/blob/master/style-guides/code/wordpress.md).
 
 
 ## Assets
 
-See [assets.md](https://github.com/INN/docs/blob/master/assets.md).
+See [assets.md](https://github.com/INN/docs/blob/master/style-guides/code/assets.md).
