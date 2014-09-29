@@ -4,3 +4,7 @@
 -  [Designer/Developer (July 2014)](designer-job-posting.md)
 -  [News Applications and Technology Intern (July 2014)](intern-posting.md)
 -  [Support Specialist (Contract) (September 2014)](support-specialist-posting.md)
+
+### Still to-do:
+
+-  Updated apprentice job description
