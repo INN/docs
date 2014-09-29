@@ -31,7 +31,7 @@ Daily Scrum
 -  Literally stand up
 -  Scrum Master role rotates week to week
 
-Each team member answers three questions (no more than 2 minutes per person):
+Each team member answers three questions (no more than two minutes per person):
 
 -  What did you do yesterday?
 -  What are you planning to do today?
