@@ -1,8 +1,8 @@
-## Our mission
+# Our mission
 
 The INN technology team strives to make nonprofit journalism better and more sustainable — by building and supporting tools like the Largo Project, working with member organizations on data collaborations and visual storytelling, and contributing back to the open source and journalism community.
 
-####About these values
+### About these values
 As we began to build our team, we wanted to clearly identify the values that will inform our work and our daily interactions. We think it's important to know what drives us and why we do what we do — and let other people know what to expect when working with us. Just listing values didn't feel like enough: We wanted to provide specific actions that will stem from those values, a la ["We believe in [value], therefore we will [action]](http://kerrizor.com/blog/2014/08/11/why-your-coworker-is-a-jerk/)." Below is the working list of values and actions we are striving toward.
 
 ### Always be learning

@@ -1,4 +1,4 @@
-#News Applications Intern#
+# News Applications Intern
 
 The Investigative News Network (INN), a network of [100+ nonprofit news organizations](http://investigativenewsnetwork.org/member/), is looking for one or more good interns to join our news applications and technology team.
 
