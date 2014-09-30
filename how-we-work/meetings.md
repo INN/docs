@@ -1,5 +1,4 @@
-Meetings
-========
+# Meetings 
 
 Guidelines for how to run effective meetings and descriptions of various meeting types.
 
@@ -10,8 +9,7 @@ Guidelines for how to run effective meetings and descriptions of various meeting
 -  [Bi-weekly All Staff Meeting](#staff-meeting)
 
 <a id="guidelines"></a>
-Meeting Guidelines
-------------------
+## Meeting Guidelines
 
 -  **Avoid unnecessary meetings.** Meetings are time-consuming, expensive and leave less time for periods of focused, uninterrupted work. 
 -  **Most meetings are unnecessary.** Never schedule a meeting when email, IM or a quick hangout or phone call will do.
@@ -24,10 +22,10 @@ Meeting Guidelines
 -  **[Change the default meeting length in Google Calendar](http://gmailblog.blogspot.com/2011/06/change-google-calendars-default-meeting.html) to 15 minutes instead of an hour**. Meetings almost never need to be an hour and blocking out large chunks of time in your colleagues' calendars is annoying and disrespectful.
 -  **All meetings end with concrete action steps assigned to responsible individuals**. No exceptions.
 
+## Meeting Types
 
 <a id="scrum"></a>
-Daily Scrum
------------
+### Daily Scrum
 
 -  Every weekday at 10 AM ET
 -  Uses the Google Hangout link from the recurring event invite on the team Google calendar
@@ -50,8 +48,7 @@ No detailed discussion of issues during this meeting.
 
 
 <a id="recap"></a>
-Weekly Recap Meeting
---------------------
+### Weekly Recap Meeting
 
 -  Follows daily scrum every Friday (at 10:15 AM ET)
 -  Uses the Google Hangout link from the recurring event invite on the team Google calendar
@@ -78,8 +75,7 @@ Team leader:
 
 
 <a id="staff-meeting"></a>
-Bi-weekly All INN Staff Meeting
--------------------------------
+### Bi-weekly All INN Staff Meeting
 
 -  Every other Monday at 1 PM ET
 -  Usually takes about an hour

@@ -1,4 +1,4 @@
-## Code of conduct and how to contribute
+# Code of conduct and how to contribute
 
 1. Be welcoming, friendly and patient; kind, courteous and respectful.
 2. Use your best judgment — always do the right thing.

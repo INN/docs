@@ -1,4 +1,4 @@
-##How to Work With Us
+# How to Work With Us
 
 We love making things and helping our members and clients create great journalism. We want to make it easy for you to approach us with ideas and projects, and we want you to know what to expect when working with us.
 

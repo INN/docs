@@ -1,4 +1,4 @@
-#News Applications Developer (WordPress Focus)#
+# News Applications Developer (WordPress Focus)
 
 This position is full-time with competitive salary and benefits.
 
