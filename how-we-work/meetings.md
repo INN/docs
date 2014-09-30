@@ -16,8 +16,13 @@ Meeting Guidelines
 -  **Avoid unnecessary meetings.** Meetings are time-consuming, expensive and leave less time for periods of focused, uninterrupted work. 
 -  **Most meetings are unnecessary.** Never schedule a meeting when email, IM or a quick hangout or phone call will do.
 -  **Use asynchronous communication wherever possible** Prefer, in this order: chat or IM > individual phone/video calls > meetings or video chats > conference calls
--  **All meetings start on time.** Be respectful of your colleagues' and our partners' time and don't keep them waiting.
+-  **All meetings start and end on time.** Be respectful of your colleagues' and our partners' time and don't keep them waiting. Meetings should also end on time. Not having an end time leads to conversations that are rambling and aimless instead of focused and actionable.
+-  **All meetings should have a clearly stated purpose**. We don't have meetings just for the sake of having a meeting. An agenda distributed ahead of time is even better.
+-  **Invite as few people as possible**. For the same reason you don't reply all to an email chain.
+-  **Respect each individual's contribution**. Since everyone at the meeting needs to be there (see above), give everyone an equal chance to speak. Don't dominate the conversation, interrupt or talk over people. Be especially careful to involve people who might not typically speak up.
 -  **Test technology ahead of time.** If we're going to use a video chat or screensharing tool, make sure it works ahead of time so we don't spend half of the meeting wrestling with the technology.
+-  **[Change the default meeting length in Google Calendar](http://gmailblog.blogspot.com/2011/06/change-google-calendars-default-meeting.html) to 15 minutes instead of an hour**. Meetings almost never need to be an hour and blocking out large chunks of time in your colleagues' calendars is annoying and disrespectful.
+-  **All meetings end with concrete action steps assigned to responsible individuals**. No exceptions.
 
 
 <a id="scrum"></a>
