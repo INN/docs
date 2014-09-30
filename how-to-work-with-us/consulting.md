@@ -1,30 +1,30 @@
 # Our Paid Consulting Program
 
-INN's technology team is focused on helping our now 100+ member organizations any way we can.
+INN's technology team is focused on helping our 100+ member organizations in any way we can.
 
 We now provide free hosting and support to over 30 member websites on our [Largo platform](http://largoproject.org) and a significant portion of what we do involves improving the platform and supporting members so they can take maximum advantage of the tools we build.
 
-We've made a lot of headway in the past couple of years reducing costs for members, eliminating duplication of effort and getting members onto a stable platform that looks great and works well across devices.
+We've made a lot of headway in the past couple of years reducing costs for members, eliminating duplication of effort, and getting members onto a stable platform that looks great and works well across devices.
 
 But it's hard for us to help every member individually and there are many member (and non-member) organizations who would like us to do more and have expressed the willingness to pay for our services.
 
 **Specifically, we’ve heard from a number of INN members that they:**
 
--  Have a hard time finding vendors/contractors who “get” what they’re trying to do and often wind up working with local agencies or freelancers who focus mostly on internet marketing or building small business sites so they don’t understand the other considerations unique to news and content sites or nonprofits
+-  Have a hard time finding vendors/contractors who “get” what they’re trying to do and often wind up working with local agencies or freelancers who focus mostly on internet marketing or building small business sites so they don’t understand the considerations unique to news and content sites or nonprofits
 -  Are often unhappy with the vendors/contractors they do have and/or are overpaying for subpar services
--  Would, in a number of cases, rather work with INN's tech team directly rather than with an outside vendor. Given our current staffing and workload we typically haven't been able to do this if the request goes above and beyond what we’re able to do for "free" as a benefit of INN membership.
+-  Would, in a number of cases, rather work with INN's tech team directly instead of an outside vendor. Given our current staffing and workload we typically haven't been able to do this if the request goes above and beyond what we’re able to do for "free" as a benefit of INN membership.
 
 **We also frequently hear from non-members that they:**
 
 -  Want to use the tools we have built (particularly Largo) but may require some help setting them up or customizing them to suit their needs
--  In some case may require additional custom development to add functionality that we have not yet built
--  Would be willing to pay (provided our rates are competitive) for our services and even (potentially) pay us to host their sites in the same way we host sites for members.
+-  In some cases may require additional custom development to add functionality that we have not yet built
+-  Would be willing to pay (provided our rates are competitive) for our services and even pay us to host their sites in the same way we host sites for members.
 
-Until now we’ve just been referring people to outside contractors and freelancers but as we continue to grow our technology team we now have the capability to take on <em>some</em> of this work ourselves.
+Until now we’ve been referring people to outside contractors and freelancers, but as we continue to grow our technology team we have the capability to take on <em>some</em> of this work ourselves.
 
-For INN members we will subsidize the cost of these services to keep them very affordable (see the rates section below for details), but we will also, from time to time, take on work from non-members as well (at regular market rates).
+For INN members, we will subsidize the cost of these services to keep them very affordable (see the rates section below for details). We will also, from time to time, take on work from non-members (at regular market rates).
 
-**Some examples of the services we may offer include:**
+**Some examples of the services we offer include:**
 
 -  Content migration, design customization and custom development for members using our Largo platform beyond what we're able to do for "free" as a benefit of INN membership
 -  Assistance with editorial design and development for news apps, data projects or special series
@@ -38,7 +38,7 @@ For INN members we will subsidize the cost of these services to keep them very a
 -  Provide better service to members at lower rates than what they’re often getting now
 -  Assist non-members with the adoption of tools we build (particularly our Largo platform)
 
-We hope that this new program will be a win-win for members and for INN and that we'll now be able to provide an even higher level of support at very reasonable cost.
+We hope that this new program will be a win-win for members and for INN and that we'll now be able to provide an even higher level of support at a very reasonable cost.
 
 If you're interested in working with us, we'd love to discuss your needs and how we can help. [Get in touch with us here](http://nerds.investigativenewsnetwork.org/contact/) to learn more.
 
@@ -50,7 +50,7 @@ We've also assembled an FAQ to provide more detail on the program.
 
 As a benefit of your INN membership you receive free hosting for your main website if you use our Largo platform (if you have more complex needs, multiple sites, etc. we may need to pass some of our infrastructure costs through to you). In addition, we will provide a reasonable amount of support to help you migrate to the platform and customize the look and feel of your site.
 
-If you require more assistance, extensive design customization, custom functionality, etc. or ongoing support then this is typically what we would ask you to pay for.
+If you require more assistance, extensive design customization, custom functionality, or ongoing support then this is typically what we would ask you to pay for. Learn more about [member benefits here](https://github.com/INN/docs/blob/master/how-to-work-with-us/member-benefits.md).
 
 **Weren't you doing this for free? Why do we have to pay now?**
 
@@ -58,11 +58,11 @@ This new program does not affect any of the benefits we currently offer to membe
 
 We will continue, for the foreseeable future, to cover hosting costs for members using our Largo WordPress platform and will continue our work to improve the platform itself as well as help members where possible with migration, on-boarding and basic customization.
 
-The reason we're starting to do paid work is that we now have a lot of requests that are very specific to one particular member that we don't believe would necessarily benefit others in the network.
+The reason we're starting to do paid work is that we now have a lot of requests that are very specific to particular members, which we don't believe would necessarily benefit others in the network.
 
 Our team is focused on tackling problems we believe can best be solved at a network level and given our size and funding level we will never be a complete replacement for investment in technology at the member level.
 
-We also hope that by reducing duplication of effort, building common platforms and tools, etc. we free up resources that members can (and should!) re-invest in technology at their organization to best serve their audience, try new things and innovate further faster.
+We also hope that by reducing duplication of effort, building common platforms and tools, etc., we free up resources that members can (and should!) re-invest in technology at their organization to best serve their audience, try new things and innovate further.
 
 **Why should we pay you instead of a local freelancer/agency?**
 
@@ -70,11 +70,11 @@ In short, our aim is provide better services at a lower cost.
 
 In the past when members came to us with one-off needs we would refer them to outside contractor or in some cases helped them recruit and hire a full-time tech staff.
 
-Sometimes this works out well but many members have told us they have had bad experiences with contractors or had a hard time finding good help at all that was reasonably priced and understood what they were trying to do.
+Sometimes this works out well but many members have told us they have had bad experiences with contractors or had a hard time finding good help that was reasonably priced and understood what they were trying to do.
 
-Other members may want to eventually hire a full-time staff member focused on technology but aren't quite at that point yet and have a need for ongoing help in the meantime.
+Other members may want to eventually hire a full-time staff member focused on technology but aren't at that point yet and need ongoing help in the meantime.
 
-The way we're hoping to solve this problem is to form a sort of "co-op" comprised of the best news technologists, designers and support staff we can possibly find who will be focused full-time on meeting the needs of nonprofit news organizations. Members will then be able to tap into this team as needed on a project-by-project basis and/or use us for ongoing support, training, etc.
+The way we're hoping to solve this problem is by forming a sort of "co-op" comprised of the best news technologists, designers and support staff we can possibly find who will be focused full-time on meeting the needs of nonprofit news organizations. Members will then be able to tap into this team as needed on a project-by-project basis and/or use us for ongoing support, training, etc.
 
 **What are the rates? How do you structure your contracts?**
 
@@ -84,9 +84,9 @@ As of August 2014 our rates are as follows:
 -  **For non-member non-profit organizations** we offer a substantially reduced hourly rate of $85 per hour.
 -  **For non-member, for-profit organizations** our regular hourly rate is $150 per hour.
 
-Rates are subject to change but once we agree to an hourly rate we will honor it per the terms of your contract.
+Rates are subject to change, but once we agree to an hourly rate we will honor it per the terms of your contract.
 
-Contracts will typically be project-based and we will bill twice monthly for the actual hours worked during the preceding two week period. Under certain circumstances we may agree to do fixed bid contracts but we believe it's typically more fair for both parties to charge for actual hours worked.
+Contracts will typically be project based and we will bill twice monthly for the actual hours worked during the preceding two week period. Under certain circumstances we may agree to do fixed bid contracts but we believe it's typically more fair for both parties to charge for actual hours worked.
 
 **I have ongoing tech needs but we're not ready to hire a full-time staff member yet, can you help?**
 
