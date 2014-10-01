@@ -1,18 +1,60 @@
 # Code of conduct and how to contribute
 
-1. Be welcoming, friendly and patient; kind, courteous and respectful.
+## Code of conduct
+
+1. Be welcoming, friendly, patient, kind, courteous and respectful.
 2. Use your best judgment — always do the right thing.
 
-### What this means
+### What this means (our social rules)
 
-- When someone disagrees with you, take the time to understand why. Always expect an explanation.
-- Give **constructive** criticism, expect the same in return.
-    - Dismissing an idea out of hand is unacceptable. An explanation and support for an argument are required.
-- Be a professional. Remember that this is a public space and choose your words accordingly. Harassment and exclusionary behavior are not acceptable.
+##### Give constructive criticism
+
+Be friendly and offer well-reasoned opinions of someone's work or ideas, whether your critique is positive or negative.
+
+When someone disagrees with you, expect an explanation and support for their position. Take the time to understand why you disagree.
+
+Dismissing an idea out of hand is unacceptable. An explanation and support for your position are required.
+
+Set personal conflicts aside when giving critique. Focus on the merits of the idea or work, not the person presenting them.
+
+
+##### Create a safe space for learning
+
+Everyone should feel comfortable saying, "I don't know." Everyone should feel comfortable asking questions and requesting help.
+
+The [Hacker School User's Manual](https://www.hackerschool.com/manual) does a great job of explaining how to create a safe space for learning:
+
+- [No feigning surprise](https://www.hackerschool.com/manual#no-feigned-surprise)
+- [No well-actually's](https://www.hackerschool.com/manual#no-well-actuallys)
+- [No back-seat driving](https://www.hackerschool.com/manual#no-backseat-driving)
+- [No subtle-isms](https://www.hackerschool.com/manual#no-subtle-isms)
+ 
+
+##### Professionalism
+
+Remember that this is a public space. Act accordingly.
+
+**Harassment and exclusionary behavior are not acceptable.**
+
+Harassment and exclusionary behavior include offensive verbal comments related to gender, age, sexual orientation, disability, physical appearance, body size, race, religion, sexual images in public spaces, deliberate intimidation, stalking, following, harassing photography or recording, sustained disruption of talks or other events, inappropriate physical contact, and unwelcome sexual attention.<sup>*</sup>
+
+<sup>*</sup>From the [Conference Code of Conduct](http://confcodeofconduct.com/)
+
 
 ### Contributing code
 
 - Send us pull requests for bug fixes and small suggestions.
-- For feature requests, create an issue to start a discussion. We’ll decide together whether or not the requested feature gets built. Be sure and explain clearly why your feature request is essential.
+- For feature requests, create an issue to start a discussion. We'll decide together whether or not the requested feature gets built. Be sure and explain clearly why your feature request is essential.
+
+
+## Other resources
+
+This document is based on similar documents created by other organizations. Inspiration for this guide came from the following:
+
+- [Contributing to a Vox Media open source project](https://github.com/voxmedia/open-source-contribution-guidelines)
+- [SRCCON Code of Conduct](http://srccon.org/conduct/)
+- [Django Code of Conduct](https://www.djangoproject.com/conduct/)
+- [Conference Code of Conduct](http://confcodeofconduct.com/)
+- [Hacker School User's Manual](https://www.hackerschool.com/manual#sub-sec-social-rules)
 
 If you have questions about the code of conduct or how to contribute, feel free to contact us: nerds@investigativenewsnetwork.org.
