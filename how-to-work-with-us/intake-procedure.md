@@ -8,4 +8,8 @@ We love making things and helping our members and clients create great journalis
 
 **When working on a project with us**, expect to receive weekly updates and opportunities for review and feedback.
 
+**Approach us with problems or challenges, not solutions.** It's the difference between "We need you to put a widget with our Twitter stream on the homepage" and "We'd like to better incorporate our social content into our website." 
+
+"Make this button red" vs. "Nobody is clicking our donate button, could you help us figure that out?"
+
 ###TK TK TK TK
