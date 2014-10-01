@@ -5,7 +5,7 @@
 **What's in here (so far):**
 
 -  **[A manifesto](/manifesto)** outlining our team's mission and values
--  **[Staffing and Hiring](/staffing)** including how we recruit and hire new team members plus some [sample job descriptions](/staffing/job-descriptions)
+-  **[Staffing and Hiring](/staffing)** including how we recruit and hire new team members plus some [sample job descriptions](/staffing/job-descriptions) and [interview questions](/staffing/interview-questions.md) for screening candidates.
 -  **[How we work](/how-we-work)** including our [internal process](/how-we-work/process.md), [what we've learned about working as a remote team](/how-we-work/remote-work.md), [the tools we use](/how-we-work/tools.md) and [notes on how we conduct meetings](/how-we-work/meetings.md)
 -  **[How to work with us](/how-to-work-with-us)** including the [services we offer to INN members](/how-to-work-with-us/member-benefits.md), [our paid consulting clients](/how-to-work-with-us/consulting.md), [intake documents](/how-to-work-with-us/intake-procedure.md) and [general guidelines](/how-to-work-with-us) for how to work with us effectively
 -  **[Style guides](/style-guides)** for [code](/style-guides/code) and [design/ui](/style-guides/design) elements
