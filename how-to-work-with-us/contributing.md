@@ -1,9 +1,14 @@
 # Code of conduct and how to contribute
 
+Since the INN nerds team works primarily with open source projects in public spaces, we think it's important to identify some community guidelines for how we like to work, what we expect from the people we work with, and how to contribute to our projects. 
+
 ## Code of conduct
 
 1. Be welcoming, friendly, patient, kind, courteous and respectful.
-2. Use your best judgment — always do the right thing.
+2. Use your best judgment — if you're not sure about something, ask.
+3. When you mess up, own up to your mistake and apologize (except in instances where apologizing would do more harm).
+4. If you repeatedly violate this code of conduct, you will no longer be welcome to contribute to our projects. 
+
 
 ### What this means (our social rules)
 
@@ -41,10 +46,11 @@ Harassment and exclusionary behavior include offensive verbal comments related t
 <sup>*</sup>From the [Conference Code of Conduct](http://confcodeofconduct.com/)
 
 
-### Contributing code
+## How to contribute code
 
 - Send us pull requests for bug fixes and small suggestions.
 - For feature requests, create an issue to start a discussion. We'll decide together whether or not the requested feature gets built. Be sure and explain clearly why your feature request is essential.
+- For detailed information about our preferred code structure and styles, refer to our [code style guide](https://github.com/INN/docs/tree/master/style-guides/code).
 
 
 ## Other resources
