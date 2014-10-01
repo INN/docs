@@ -8,5 +8,4 @@ How we write job descriptions, approach recruiring and evaluate candidates.
 
 ### Still to-do:
 
--  General notes on how to write effective job descriptions/postings
--  Recruiting/staffing (how we do it, resources)
+-  Recruiting/staffing (team composition, how we handle recruiting, resources)
