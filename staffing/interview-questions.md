@@ -1,43 +1,39 @@
 # Interview Questions
 
-**A collection of interview questions we typically ask most job applicants (along with some that are more specific to each position).**
+**A collection of interview questions we typically ask job applicants.**
 
+1. Where did you hear about this position?
 
-Where did you hear about this position?
+2. What interested you about this position? Why are you the perfect fit for it?
 
+3. Talk me through a recent project:
 
-What interested you about this position? And why are you the perfect fit for it?
+    - What were the requirements?
+    - What issues did you run into and how did you overcome them?
+    - How did you arrive at the final solution(s)?
 
+4. If you get stuck on a problem what do you do? Where do you go to find help?
 
-Talk me through a recent project, what were the requirements, what issues did you run into, how did you overcome them, how did you arrive at the final solution(s)?
+5. Describe your ideal working environment.
 
- 
-If you get stuck on a problem what do you do? Where do you go to find help?
+6. What technologies, tools, programming languages, etc. do you like to work with?
 
+7. Do you have experience working with nonprofits?
 
-Describe your ideal working environment.
+    - If **yes**, what are some challenges you’ve encountered and how did you overcome them?
+    - If **no**, how do you imagine working with nonprofits might differ from working with for profits?
 
+8. What are your short and long-term career goals? What about this position do you feel will help you to attain them?
 
-What technologies, tools, programming languages, etc. do you like to work with?
+9. Where applicable:
 
+    - Do you have concerns about moving from being a freelancer to an in-house employee?
+    - Do you have concerns about working on a smaller team?
+    - Do you have concerns about working remotely?
 
-Do you have experience working with nonprofits? If yes, what are some challenges you’ve encountered and how did you overcome them? If no, how do you imagine working with nonprofits might differ from working with for profits?
+10. What are your interests and hobbies, relevant or otherwise, outside of work? 
 
+11. Do you plan on moving? If so, where to?
 
-What are your short and long-term career goals? What about this position do you feel will help you to attain them?
+12. Do you have any questions for me?
 
-
-Where applicable:
-
-- Concerns about moving from being a freelancer to in-house?
-- Concerns about working on a smaller team?
-- Concerns about working remotely?
-
-
-Interests/hobbies/etc. outside of work (relevant or otherwise)
-
-
-Moving/preferred location? 
-
-
-Questions for me?
