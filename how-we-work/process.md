@@ -25,9 +25,9 @@ This is a general framework for how our team approaches our work. Depending on t
 2. User profiles: A couple of sentences about who we're making the feature/project for and why/how they'll use it
 3. Stakeholders: List who needs to be looped in throughout the process, and who our point of contact will be when working with members/clients
 4. Features list: A general overview of critical and wishful features and how they serve the users' needs.
-    - "We need an analytics dashboard so that authors can gauge the success of their articles"   
+    - e.g., "We need an analytics dashboard so that authors can gauge the success of their articles"   
 5. Design direction: A general sense of how we want the product to look and feel
-    - (TODO: add an example design direction description)
+    - e.g., "The news application will have a simple, bold design meant to steer users toward the important campaign finance info for their state. For this project we especially want to avoid cluttered, unreadable, or overly complex design. The interface will include an easy to parse overview of the data (chart, etc.) and then narrow in on the ten individuals who have donated the most money. For each individual we will include a photo and key facts presented in a card-like style."
 6. How we are defining and measuring success (analytics, special promotion plans, sharing tools, etc.)
 7. Any areas where we need outside help or support from a member/client's team (i.e., things we can't do)
 8. Schedule: List project kick-off date, important milestones for feedback, drop dead dates for introducing feedback or new features, and projected launch dates
