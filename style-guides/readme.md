@@ -1,11 +1,10 @@
-### What's in here (so far):
-- [coding style guide](/code) - starting from [NPR's Best Practices](https://github.com/nprapps/bestpractices)
-- [design/ui style guide](/design) - just a stub (for now)
+# Style guides for code and design
 
-### Still todo:
--  Finish code style guide
--  Finish design style guide
--  Style guide/best practices for documentation
+A collection of best practices when writing code or designing for INN projects.
+
+### Table of Contents
+- [INN's Best Practices (for code)](/style-guides/code)
+- [INN's Design Style Guide](/style-guides/design)
 
 ### Inspiration
 
