@@ -35,4 +35,4 @@
 
 ### Video
 
-* TKTK
+* Most video assets are currently hosted on third-party platforms, e.g., YouTube and Vimeo.

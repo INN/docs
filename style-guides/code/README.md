@@ -38,8 +38,8 @@ Naming things (variables, files, classes, etc.) consistently and intuitively is 
 * Always proceed from more general to more specific. For example, ``widget-skinny`` is better than ``skinny-widget``.
 * Strive for parallelism. If you have a `begin()` function, then have an `end()` function (not `stop()` or `done()`).
 * Group related names with common prefixes, e.g. `search_query` and `search_address`.
-* Prefer more specific terms to more vague ones. If it's an address call it `address`, not `location`.
-* When a function operates on a variable, their naming should be consistent. If working with `updates` then `process_updates()`, don't `process_changes()`. 
+* Prefer more specific terms to vague ones. If it's an address call it `address`, not `location`.
+* When a function operates on a variable, the naming should be consistent. If working with `updates` then `process_updates()`, don't `process_changes()`. 
 * Maintain naming conventions between lists and their iterators: `for update in updates`, not `for record in updates`.
 
 <table>
@@ -61,13 +61,13 @@ Naming things (variables, files, classes, etc.) consistently and intuitively is 
 * Development of major features should happen on separate branches which periodically merge *from* ``master`` until development of the feature is complete.
 * A ``stable`` branch should always be present and should merge *from* ``master``, only when deploying to production.
 * Don't store binary files (comps, databases) in the repository.
-* If a binary object needs to be shared then store it in Dropbox or on S3. If it is part of the setup process (e.g. a database backup) then use fabric commands to read and write it.
+* If a binary object needs to be shared then store it in Dropbox or on S3. If it is part of the setup process (e.g., a database backup) then use fabric commands to read and write it.
 * **Never, ever store passwords, keys or credentials in any repository.** (Use environment variables instead.)
 
 
 ## Servers
 
-* Environment variables belong in `/etc/environment`. This file should be sourced by cron jobs. (This happens automatically when using `run_on_server.sh`.)# git
+* Environment variables belong in `/etc/environment`. This file should be sourced by cron jobs. (This happens automatically when using `run_on_server.sh`.)
 
 
 ## HTML and CSS

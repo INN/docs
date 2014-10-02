@@ -5,7 +5,7 @@
 Refer to our [best practices for PHP](https://github.com/INN/docs/blob/master/style-guides/code/php.md) as the baseline for working with WordPress.
 
 - Get familiar with WordPress' [Theme Development](http://codex.wordpress.org/Theme_Development) documentation.
-- Embrace doing things The WordPress Way. Your software will be easier to maintain as new versions of WordPress are release and easier for others to contribute to.
+- Embrace doing things The WordPress Way. Your software will be easier to maintain as new versions of WordPress are released and easier for others to contribute to.
 
 ### Specifics
 
@@ -19,7 +19,7 @@ Refer to our [best practices for PHP](https://github.com/INN/docs/blob/master/st
 
     - Return something **sane** on success.
 
-        For example, the function name `create_user_profile` gives a strong indication that it performs an action on a user profile. It would be **sane** expect a UserProfile object or the ID of the user profile as a return value from this function.
+        For example, the function name `create_user_profile` gives a strong indication that it performs an action on a user profile. It would be **sane** to expect a UserProfile object or the ID of the user profile as a return value from this function.
 
 - Keep your variables and object attribute names consistent with the existing WordPress schema.
 
