@@ -24,8 +24,10 @@ This is a general framework for how our team approaches our work. Depending on t
 1. Mission statement: One or two sentences answering what the project is and why we're doing it.
 2. User profiles: A couple of sentences about who we're making the feature/project for and why/how they'll use it
 3. Stakeholders: List who needs to be looped in throughout the process, and who our point of contact will be when working with members/clients
-4. Features list: A general overview of critical and wishful features
+4. Features list: A general overview of critical and wishful features and how they serve the users' needs.
+    - "We need an analytics dashboard so that authors can gauge the success of their articles"   
 5. Design direction: A general sense of how we want the product to look and feel
+    - (TODO: add an example design direction description)
 6. How we are defining and measuring success (analytics, special promotion plans, sharing tools, etc.)
 7. Any areas where we need outside help or support from a member/client's team (i.e., things we can't do)
 8. Schedule: List project kick-off date, important milestones for feedback, drop dead dates for introducing feedback or new features, and projected launch dates
@@ -38,7 +40,7 @@ This is a general framework for how our team approaches our work. Depending on t
 2. From those sketches, we create wireframes for the project or feature. Depending on the project, stakeholders may need to review wireframes or initial prototypes
 3. Again depending on the project, we may create a style tile or other general design inspiration board to give the client a sense of where we're heading and give them an opportunity to offer input (without getting bogged down in design polish too early in the process) 
 4. Design > code > review > refine > repeat. At this point in the process we are aiming to get a rough prototype up and refine that prototype through a series of code/review cycles. During this part of a project, design feedback is focused on functionality, structure, and UX needs. 
-5. Stakeholder check-in. After building a working prototype of the feature, we may touch base with the stakeholders to review functionality and make sure we're on the right track. Are we meeting our goals? Is the product accomplishing everything it needs to?
+5. Demonstration and review with stakeholders. At the end of each iteration, we will touch base with the stakeholders to demonstrate and review features to make sure we're on the right track. Are we meeting our goals? Is the product accomplishing everything it needs to?
 6. Design polish. This is where we get the feature ready to launch — finalizing colors, CSS interactions, spacing, and other styles. 
 7. Final stakeholder check in and feedback deadline. (Feedback at this stage is limited to interface polish, not major functionality or feature additions — those can go in the next iteration.)
 8. Browser testing, QA, beta testing. Listen to feedback and prioritize what needs to be fixed before launch.
