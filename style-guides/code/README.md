@@ -1,3 +1,4 @@
+
 # INN's Best Practices
 
 Based on [NPR Visuals' Best Practices](https://github.com/nprapps/bestpractices) with additions for WordPress and PHP.
@@ -26,7 +27,7 @@ The contents of this repository are released under a [Creative Commons CC BY 3.0
 Always ensure the following things are documented in the README:
 
 * Steps to setup the project from a blank slate. (Data loading, etc.)
-* Required environment variables. If these are secrets they should also be stored in the team Dropbox.
+* Required environment variables. If these are secrets they should stored in the team's secrets repo.
 * Cron jobs that must be installed on the servers. When using the app-template specifying these in the `crontab` file is sufficient.
 * Dependencies that are not part of our standard stack. This includes documenting how to install them. Whenever feasible this documentation should be in the form of `fab` commands.
 
@@ -58,12 +59,17 @@ Naming things (variables, files, classes, etc.) consistently and intuitively is 
 
 ## Version control
 
+### The basics
+
 * Development of major features should happen on separate branches which periodically merge *from* ``master`` until development of the feature is complete.
 * A ``stable`` branch should always be present and should merge *from* ``master``, only when deploying to production.
 * Don't store binary files (comps, databases) in the repository.
 * If a binary object needs to be shared then store it in Dropbox or on S3. If it is part of the setup process (e.g., a database backup) then use fabric commands to read and write it.
 * **Never, ever store passwords, keys or credentials in any repository.** (Use environment variables instead.)
 
+### Where we host our code
+
+We use Github and Bitbucket to host our code. Github is where we keep code meant for the general public. We use Bitbucket to house repositories that we deploy from. Code hosted on Bitbucket, while technically open, is usually member specific. Typically, this is not code that anyone outside INN and its members will want to use or fork to start their own project.
 
 ## Servers
 
