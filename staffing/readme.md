@@ -1,6 +1,6 @@
 # Staffing and Hiring
 
-How we write job descriptions, approach recruiring and evaluate candidates.
+How we write job descriptions, approach recruiting and evaluate candidates.
 
 ### What's in here (so far):
 
