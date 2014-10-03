@@ -8,9 +8,11 @@ We love making things and helping our members and clients perform acts of great 
 
 **You'll hear back from us within a week**, at which point we'll let you know whether we can work the project into our schedule and share some initial ideas about direction. We'll also provide an estimate of how long we expect the project to take and ask you a few more questions about what you're trying to create.
 
+**We will also go through the time and cost involved in building the project** We do some work for INN member organizations at no charge beyond their regular membership dues. For non-member organizations (both nonprofit and for-profit) and for INN member projects that do not meet the criteria outlined in [our member services doc](member-services.md) we offer [competitive rates](/how-to-work-with-us/consulting/consulting-rates.md) including discounted rates for INN member organizations and non-member nonprofit organizations. Please familiarize yourself with the [details of our consulting program](/how-to-work-with-us/consulting) to understand how our decision making process works and the rates we charge.
+
 **If we can't take on the project**, we'll do our best to connect you with vendors we trust, or point you toward tools and resources that could help.
 
-**When working on a project with us**, expect to receive weekly updates and multiple opportunities for review and feedback. We'll let you know about the important deadlines for submitting changes and feedback, and work with your team to make sure issues are addressed quickly.
+**When working on a project with us** we'll typically follow [the process outlined here](/how-we-work/process.md). You should expect to receive weekly updates and multiple opportunities for review and feedback. We'll let you know about the important deadlines for submitting changes and feedback, and work with your team to make sure issues are addressed quickly.
 
 **Maintenance:** As part of our contract, we'll work with you to identify any ongoing maintenance needs for a project, and if necessary create a plan to archive or retire projects that have a shorter shelf life. We won't ever leave you with a mess to clean up.
 
@@ -26,6 +28,3 @@ We want readers to know what our current top stories are     | Can you add a car
 
 ###Get in touch!
 Have a product idea you'd like us to help you with? We'd love to [hear from you](mailto:nerds@investigativenewsnetwork.org).
-
-
-
