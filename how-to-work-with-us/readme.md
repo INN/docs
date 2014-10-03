@@ -3,15 +3,10 @@
 Everything you need to know about the services we offer and how to work with us effectively.
 
 ### Table of Contents
-- [How We Support INN Members](member-benefits.md)
+- [How We Support INN Members](member-services.md)
 - [How To Work With Us](work-with-us.md)
-- [Our Paid Consulting Program](consulting.md)
-
-
-### Still To-do
-- flesh out consulting program doc
-- flesh out intake docs
-
+- [Our Paid Consulting Program](/how-to-work-with-us/consulting)
+- [Our Code Of Conduct And How To Contribute To Our Open Source Projects](contributing.md)
 
 ### Inspiration
 
