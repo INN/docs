@@ -1,4 +1,4 @@
-## Best Practices for PHP
+# Best Practices for PHP
 
 ### Baseline
 

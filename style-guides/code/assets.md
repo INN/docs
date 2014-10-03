@@ -1,4 +1,4 @@
-## Best Practices for Assets
+# Best Practices for Assets
 
 ### General
 

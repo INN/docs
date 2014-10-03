@@ -1,4 +1,4 @@
-## Best Practices for WordPress
+# Best Practices for WordPress
 
 ### Baseline
 

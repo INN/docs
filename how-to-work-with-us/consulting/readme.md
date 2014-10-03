@@ -18,18 +18,18 @@ But it's hard for us to help every member individually and there are many member
 
 -  Want to use the tools we have built (particularly Largo) but may require some help setting them up or customizing them to suit their needs
 -  In some cases may require additional custom development to add functionality that we have not yet built
--  Would be willing to pay (provided our rates are competitive) for our services and even pay us to host their sites in the same way we host sites for members.
+-  Would be willing to pay (provided [our rates](consulting-rates.md) are competitive) for our services and even pay us to host their sites in the same way we host sites for members.
 
 Until now we’ve been referring people to outside contractors and freelancers, but as we continue to grow our technology team we have the capability to take on <em>some</em> of this work ourselves.
 
-For INN members, we will subsidize the cost of these services to keep them very affordable (see the rates section below for details). We will also, from time to time, take on work from non-members (at regular market rates).
+For INN members, we will subsidize the cost of these services to keep them very affordable (see [our rates](consulting-rates.md) for details). We will also, from time to time, take on work from non-members (at regular market rates).
 
 **Some examples of the services we offer include:**
 
 -  Content migration, design customization and custom development for members using our Largo platform beyond what we're able to do for "free" as a benefit of INN membership
--  Assistance with editorial design and development for news apps, data projects or special series
+-  Assistance with editorial design and development for news apps, data projects or special projects
 -  Ongoing or project-based support, training and assistance with story production
--  Design and development of microsites or other special projects
+-  Assistance with general technology strategy, recruiting and hiring, and building and managing technology resources at your organization.
 
 **Taking on this additional paid work will allow us to:**
 
@@ -42,4 +42,4 @@ We hope that this new program will be a win-win for members and for INN and that
 
 If you're interested in working with us, we'd love to discuss your needs and how we can help. [Get in touch with us here](mailto:nerds@investigativenewsnetwork.org) to learn more.
 
-We've also assembled an FAQ to provide more detail on the program.
+We've also assembled a list of [frequently asked questions](consulting-faq.md) to provide more detail on the program.

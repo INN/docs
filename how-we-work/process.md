@@ -1,5 +1,4 @@
-##Our Process
-
+#Our Process
 
 This is a general framework for how our team approaches our work. Depending on the scope of the project, we may use an abbreviated version or add more checkpoints and iterations.
 
@@ -52,7 +51,7 @@ This is a general framework for how our team approaches our work. Depending on t
 
 
 
-####Jargon, defined  
+###Jargon, defined  
 **Stakeholders:** The people who are meaningfully involved in a project and have influence/decision-making power. 
  
 **User:** Anybody who is going to end up using the feature or product. These are often your readers, but don't forget about internal users (editors, reporters, business staff, etc.).  

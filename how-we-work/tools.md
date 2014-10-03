@@ -9,3 +9,4 @@ These are some of the tools we rely on to make our remote work possible.
 - **[Screenhero](https://screenhero.com/):** Remote pair programming software
 - **[Google Hangouts](https://plus.google.com/hangouts):** For [meetings](meetings.md) and daily scrum
 
+We maintain [a list of tools and services](http://nerds.investigativenewsnetwork.org/discounts/) (including many of the above) that offer discounts to nonprofits on our team blog.

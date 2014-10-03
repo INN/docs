@@ -1,8 +1,8 @@
 # How to Work With Us
 
-We love making things and we love helping our members and clients publish great journalism. We want to make it easy for you to approach us with ideas and projects, and we want you to know what to expect when working with us.
+We love making things and helping our members and clients perform acts of great journalism. We want to make it easy for you to approach us with ideas and projects, and we want you to know what to expect when working with us.
 
-**When you approach us with a project**, we'll talk about the idea as a team and review the requirements and expectations. We strongly recommend you familiarize yourself with [our process](https://github.com/INN/docs/blob/master/how-we-work/process.md) so you know what to expect. 
+**When you approach us with a project**, we'll talk about the idea as a team and review the requirements and expectations. We strongly recommend you familiarize yourself with [our process](/how-we-work/process.md) so you know what to expect. 
 
 **To get in touch** with the team, send an email to [nerds@investigativenewsnetwork.org](mailto:nerds@investigativenewsnetwork.org). Include a brief project description, what you hope to accomplish, and any timeline considerations we should know about.
 
@@ -14,7 +14,7 @@ We love making things and we love helping our members and clients publish great 
 
 **Maintenance:** As part of our contract, we'll work with you to identify any ongoing maintenance needs for a project, and if necessary create a plan to archive or retire projects that have a shorter shelf life. We won't ever leave you with a mess to clean up.
 
-**Approach us with problems or questions, not solutions.** To do our best work, we prefer to start with the question or problem we're trying to solve, and build a feature or product from there. Often times the first or most obvious solution isn't the best one and we want to make sure you succeed. Here are a few examples of what that can look like:
+**Approach us with problems or questions, not solutions.** To do our best work, we prefer to start with the question or problem we're trying to solve, and work with you to build a feature or product from there. Often times the first or most obvious solution may not be the best one and we want to be a partner with you in crafting the best solution because we are invested in your success. Here are a few examples of what that can look like:
   
 
 Better :thumbsup: | Worse :thumbsdown:    |
@@ -25,7 +25,7 @@ We want to tell this important story in a big way that sets it apart | Build us 
 We want readers to know what our current top stories are     | Can you add a carousel to the homepage? ([Ahem.](http://shouldiuseacarousel.com/))  | 
 
 ###Get in touch!
-We'd love to [hear from you](mailto:nerds@investigativenewsnetwork.org).
+Have a product idea you'd like us to help you with? We'd love to [hear from you](mailto:nerds@investigativenewsnetwork.org).
 
 
 
