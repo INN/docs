@@ -1,6 +1,6 @@
-# INN News Applications And Technology Team Docs
+# INN News Apps And Technology Team Docs
 
-## Table of Contents
+### Table of Contents
 
 **What's in here (so far):**
 
@@ -15,11 +15,11 @@
 -  Documentation for [Largo](http://largoproject.org) which is kept in a Confluence knowledgebase
 -  Documentation for our other apps/tools/etc. (e.g. our [deployment tools](https://github.com/INN/deploy-tools) or our [responsive tables](https://github.com/INN/responsive-tables) rig) which will typically reside within those repos directly
 
-## License
+### License
 
 All of these documents are licensed under a [Creative Commons BY-NC 3.0](http://creativecommons.org/licenses/by-nc/3.0/) license. You are free to share and to remix them (as long as you credit us) but please don't use them commercially without permission.
 
-## Suggestions
+### Suggestions
 
 We welcome contributions and suggestions to help us improve any of these documents. 
 
@@ -31,11 +31,11 @@ To contribute changes:
 4.  Push the changes to your fork (git push origin my-branch)
 5.  [Submit a pull request to the parent repo](https://help.github.com/articles/creating-a-pull-request)
 
-Additionally, you can [create issues](https://github.com/INN/docs/issues) on this repo to suggest changes or improvements.
+Additionally, you can [create issues](https://github.com/INN/docs/issues) on this repo to suggest changes or improvements. And of course you can always email us: [nerds@investigativenewsnetwork.org](mailto:nerds@investigativenewsnetwork.org).
 
-## Who Wrote This?
+### Who Wrote This?
 
-The INN Team:
+The INN news apps and technology team is:
 
 -  **[Adam Schweigert](https://github.com/aschweigert)** ([@aschweig](http://twitter.com/aschweig)), Senior Director of Product and Technology
 -  **[Kaeti Hinck](https://github.com/kaeti)** ([@kaeti](http://twitter.com/kaeti)), Design Director
