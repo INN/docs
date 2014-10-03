@@ -17,7 +17,7 @@
 
 ## License
 
-All of these documents are licensed under a [Creative Commons BY-NC 3.0](http://creativecommons.org/licenses/by-nc/3.0/) license. You are free to share and to remix them (as long as you credit us) but you may not use them commercially without permission.
+All of these documents are licensed under a [Creative Commons BY-NC 3.0](http://creativecommons.org/licenses/by-nc/3.0/) license. You are free to share and to remix them (as long as you credit us) but please don't use them commercially without permission.
 
 ## Suggestions
 
