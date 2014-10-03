@@ -7,13 +7,15 @@
 -  **[A manifesto](/manifesto)** outlining our team's mission and values
 -  **[Staffing and Hiring](/staffing)** including how we recruit and hire new team members plus some [sample job descriptions](/staffing/job-descriptions) and [interview questions](/staffing/interview-questions.md) for screening candidates.
 -  **[How we work](/how-we-work)** including our [internal process](/how-we-work/process.md), [what we've learned about working as a remote team](/how-we-work/remote-work.md), [the tools we use](/how-we-work/tools.md) and [notes on how we conduct meetings](/how-we-work/meetings.md)
--  **[How to work with us](/how-to-work-with-us)** including the [general guidelines](/how-to-work-with-us) for how to work with us effectively, [services we offer to INN members](/how-to-work-with-us/member-services.md), details of [our paid consulting program](/how-to-work-with-us/consulting.md), [intake documents](/how-to-work-with-us/intake-procedure.md) for new projects and [a code of conduct](/how-to-work-with-us/contributing.md) for contributing to our open source projects.
--  **[Style guides](/style-guides)** for [code](/style-guides/code) and [design/ui](/style-guides/design) elements
+-  **[How to work with us](/how-to-work-with-us)** including the [general guidelines](/how-to-work-with-us) for how to work with us effectively, [services we offer to INN members](/how-to-work-with-us/member-services.md), details of [our paid consulting program](/how-to-work-with-us/consulting), [intake documents](/how-to-work-with-us/intake-procedure.md) for new projects and [a code of conduct](/how-to-work-with-us/contributing.md) for contributing to our open source projects.
+-  **[Style guides](/style-guides)** for [code](/style-guides/code) and [design/ui](/style-guides/design) elements.
 
 **What is not (and will not) be in here:**
 
 -  Documentation for [Largo](http://largoproject.org) which is kept in a Confluence knowledgebase
 -  Documentation for our other apps/tools/etc. (e.g. our [deployment tools](https://github.com/INN/deploy-tools) or our [responsive tables](https://github.com/INN/responsive-tables) rig) which will typically reside within those repos directly
+
+**Important Note:** Nothing in these docs supercedes what you'll find in the INN employee manual. Always refer to that for any personnel, hiring, payroll, etc. issues.
 
 ### License
 
