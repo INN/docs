@@ -1,8 +1,10 @@
 # Best Practices for Assets
 
+**Note:** for now, this document only covers best practices for assets as they apply to the [INN app template](https://github.com/INN/app-template).
+
 ### General
 
-* When using the NPR app template, use their [assets rig](https://github.com/nprapps/app-template/blob/master/PROJECT_README.md#save-media-assets). Do **not** commit them to the project repository.  
+* When using the INN app template, use the [assets rig](https://github.com/INN/app-template/blob/master/PROJECT_README.md#save-media-assets). Do **not** commit assets to the project repository.  
 
 ### Photos
 
@@ -22,17 +24,3 @@
 </table>
 
 * File extenions should always be lowercase.
-
-### Audio
-
-* Audio should be encoded as OGG (for Firefox) and MP3 (for other browsers).
-* Music should be encoded as 128bps CBR Stereo:
-    * MP3: `lame -m s -b 128 input.wav output.mp3`
-    * OGG: `oggenc -m 128 -M 128 -o output.oga input.wav`
-* Voice should be encoded as 96bps CBR Mono:
-    * MP3: `lame -m m -b 96 input.wav output.mp3`
-    * OGG: `oggenc -m 96 -M 96 -o output.oga input.wav`
-
-### Video
-
-* Most video assets are currently hosted on third-party platforms, e.g., YouTube and Vimeo.
