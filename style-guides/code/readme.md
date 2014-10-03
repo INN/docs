@@ -70,8 +70,8 @@ Naming things (variables, files, classes, etc.) consistently and intuitively is 
 
 We use Github and Bitbucket to host our code. 
 
--  Github is where we keep code meant for the general public. 
--  We use Bitbucket to house repositories that we deploy from. Code hosted on Bitbucket, while technically open, is usually member-specific. Typically, this is not code that anyone outside INN and its members will want to use or fork to start their own project but it is available and free to use should you find it helpful.
+-  Github is where we keep code meant for the general public. We will always provide adequate documentation for project hosted here, monitor issues and pull requests and try to ensure this code is stable and ready for general use.
+-  We use Bitbucket to house repositories that we deploy from. Code hosted on Bitbucket, while technically open, is usually specific to a particular INN member. Typically, this is not code that anyone outside INN or the member it pertains to would want to use or fork to start their own project but all or our work is open source so we make this code available and free to use should you find it helpful.
 
 ## Servers
 
