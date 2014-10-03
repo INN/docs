@@ -17,6 +17,16 @@
 
 **Important Note:** Nothing in these docs supercedes what you'll find in the INN employee manual. Always refer to that for any personnel, hiring, payroll, etc. issues.
 
+### Thanks!
+
+These docs draw on (and sometimes straight up steal) excellent work from teams that have come before us. Here are a few of our sources of inspiration:
+
+- [ProPublica's News App and Data Style Guides](https://github.com/propublica/guides)
+- The NPR Visuals Team's [app template](https://github.com/nprapps/app-template), [coding best practices](https://github.com/nprapps/bestpractices) and [manifesto](http://blog.apps.npr.org/2014/06/04/how-we-work.html)
+- [Guides](https://github.com/newsapps/guides) and [Process Docs](http://blog.apps.chicagotribune.com/2014/03/05/everything-you-ever-wanted-to-know-about-the-news-apps-process/) from The Chicago Tribune's News Apps Team
+- [MinnPost's UI Style Guide](https://github.com/MinnPost/minnpost-styles)
+
+
 ### License
 
 All of these documents are licensed under a [Creative Commons BY-NC 3.0](http://creativecommons.org/licenses/by-nc/3.0/) license. You are free to share and to remix them (as long as you credit us) but please don't use them commercially without permission.
