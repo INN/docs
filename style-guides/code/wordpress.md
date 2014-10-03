@@ -27,7 +27,15 @@ Refer to our [best practices for PHP](https://github.com/INN/docs/blob/master/st
 
     Do this and avoid having to map your variable names to WordPress' variable names.
 
-- Work with, not against, The Loop.
+- Work with, not against, [The Loop](http://codex.wordpress.org/The_Loop).
+
+    This means taking advantage of the [template tags](http://codex.wordpress.org/Stepping_Into_Template_Tags#Template_Tags_and_The_Loop) that WordPress includes to make displaying content on your site easier. There are lots of convenience functions like `the_content()` that only work within the loop.
+
+    Note: The Loop, along with many other parts of WordPress, uses global variables to track the application's state.
+
+    Typically, using global variables is a [bad idea](http://programmers.stackexchange.com/a/148109). Try to avoid using them in your code, but be aware that many of the "magic" or "it just works" functions in WordPress are built using global variables.
+
+    Another note: you can create your own Loop using [WP_Query](http://codex.wordpress.org/Class_Reference/WP_Query), which will allow you to ([almost](http://codex.wordpress.org/Function_Reference/wp_reset_postdata)) avoid using global variables.
 
 - Keep the use of third party PHP libraries to a minimum.
 
