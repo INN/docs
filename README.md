@@ -27,7 +27,7 @@ We welcome contributions and suggestions to help us improve any of these documen
 
 To contribute changes:
 
-1.  [fork this repo](https://help.github.com/articles/fork-a-repo)
+1.  [Fork this repo](https://help.github.com/articles/fork-a-repo)
 2.  Create a branch (git checkout -b my-branch)
 3.  Stage and commit your changes (git commit -am 'description of my changes')
 4.  Push the changes to your fork (git push origin my-branch)
