@@ -2,7 +2,7 @@
 
 ### General
 
-* Use the `app-template` [assets rig](https://github.com/nprapps/app-template/blob/master/PROJECT_README.md#save-media-assets). Do **not** commit them to the project repository.  
+* When using the NPR app template, use their [assets rig](https://github.com/nprapps/app-template/blob/master/PROJECT_README.md#save-media-assets). Do **not** commit them to the project repository.  
 
 ### Photos
 
