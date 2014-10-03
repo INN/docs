@@ -21,9 +21,9 @@ All job descriptions/postings must include the follow EEO language:
 
 **Avoid a laundry list of required skills**, programming languages, etc., and instead explain what the role actually does. In some cases it will be important to list specific languages but make it clear that we understand not everyone will know how to do everything. The list represents things that will be helpful in the performance of the job but does not represent a list of absolute requirements.
 
-Avoid discriminatory or exclusionary language of any kind. Use tools like [joblint](https://github.com/rowanmanning/joblint) (see also: [http://bit.ly/1CINreU](http://bit.ly/1CINreU)) to catch language that may inadvertently discourage candidates from applying.
+**Avoid discriminatory or exclusionary language** of any kind. Use tools like [joblint](https://github.com/rowanmanning/joblint) (see also: [http://bit.ly/1CINreU](http://bit.ly/1CINreU)) to catch language that may inadvertently discourage candidates from applying.
 
-We are committed to diversity. This means that:
+**We are committed to diversity.** This means that:
 
 - All jobs will be posted publicly
 - We'll make sure our job postings get in front of a diverse pool of applicants through proactive outreach and building our networks 
