@@ -33,9 +33,9 @@ All of these documents are licensed under a [Creative Commons BY-NC 3.0](http://
 
 ### Suggestions
 
-We welcome contributions and suggestions to help us improve any of these documents. 
+We welcome contributions and suggestions to help us improve any of these documents. Please start by [reading our contribution guidelines](/how-to-work-with-us/contributing.md). 
 
-To contribute changes:
+And then, to contribute your changes:
 
 1.  [Fork this repo](https://help.github.com/articles/fork-a-repo)
 2.  Create a branch (git checkout -b my-branch)
