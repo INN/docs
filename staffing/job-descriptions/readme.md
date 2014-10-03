@@ -9,9 +9,11 @@
 
 -  Updated apprentice job description
 
-### General Guidelines for Job Descriptions
+### General Guidelines for Job Postings
 
 All job descriptions should contain a general description of what INN (and our team in particular) is and does. We want to hire people who share our mission so we need to provide sufficient background around who we are and how we work.
+
+Job postings should also play up some of the less tangible benefits we offer (mission focus, flexible schedule, remote working, commitment to continuing education and professional development, etc.) because these are often a huge draw for the sorts of people we want to be working with.
 
 All job descriptions/postings must include the follow EEO language:
 
@@ -19,7 +21,7 @@ All job descriptions/postings must include the follow EEO language:
 
 **Avoid a laundry list of required skills**, programming languages, etc., and instead explain what the role actually does. In some cases it will be important to list specific languages but make it clear that we understand not everyone will know how to do everything. The list represents things that will be helpful in the performance of the job but does not represent a list of absolute requirements.
 
-Avoid discriminatory or exclusionary language of any kind. Use tools like [joblint](https://github.com/rowanmanning/joblint) to catch language that may inadvertently discourage candidates from applying.
+Avoid discriminatory or exclusionary language of any kind. Use tools like [joblint](https://github.com/rowanmanning/joblint) (see also: [http://bit.ly/1CINreU](http://bit.ly/1CINreU)) to catch language that may inadvertently discourage candidates from applying.
 
 We are committed to diversity. This means that:
 
@@ -27,9 +29,4 @@ We are committed to diversity. This means that:
 - We'll make sure our job postings get in front of a diverse pool of applicants through proactive outreach and building our networks 
 - In some cases, we will leave a position open longer than we would like to make sure we have a diverse pool of applications to choose from
 
-Wherever possible we should be transparent about salary, job expectations, working conditions, etc., and be focused on finding a good mutual fit.
-
-
-
-
-
+Recruiting and hiring is time consuming and expensive so we want to find people who are excited about the work we do and who will (hopefully) want to stick around for a while. Wherever possible we should be transparent about salary, job expectations, working conditions, etc., and be focused on finding a good mutual fit. Interviews are as much for the candidate as they are for us.

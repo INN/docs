@@ -1,11 +1,10 @@
-
 # INN's Best Practices
 
 Based on [NPR Visuals' Best Practices](https://github.com/nprapps/bestpractices) with additions for WordPress and PHP.
 
 The contents of this repository are released under a [Creative Commons CC BY 3.0 License](http://creativecommons.org/licenses/by/3.0/deed.en_US).
 
-**Note:** This document references the [app-template](http://github.com/INN/app-template) in several places and generally assumes you are using it.
+**Note:** This document references our fork of NPR's [app-template](http://github.com/INN/app-template) in several places and generally assumes you are using it.
 
 
 ## Index
@@ -69,7 +68,10 @@ Naming things (variables, files, classes, etc.) consistently and intuitively is 
 
 ### Where we host our code
 
-We use Github and Bitbucket to host our code. Github is where we keep code meant for the general public. We use Bitbucket to house repositories that we deploy from. Code hosted on Bitbucket, while technically open, is usually member specific. Typically, this is not code that anyone outside INN and its members will want to use or fork to start their own project.
+We use Github and Bitbucket to host our code. 
+
+-  Github is where we keep code meant for the general public. We will always provide adequate documentation for project hosted here, monitor issues and pull requests and try to ensure this code is stable and ready for general use.
+-  We use Bitbucket to house repositories that we deploy from. Code hosted on Bitbucket, while technically open, is usually specific to a particular INN member. Typically, this is not code that anyone outside INN or the member it pertains to would want to use or fork to start their own project but all or our work is open source so we make this code available and free to use should you find it helpful.
 
 ## Servers
 

@@ -1,4 +1,4 @@
-## Best Practices for Javascript
+# Best Practices for Javascript
 
 ### General
 

@@ -6,16 +6,14 @@ We help our members become more sustainable by listening carefully to their need
 
 **This means that we will:**
  
--  **Identify common needs** that a number of members share. (We are often unable to provide one-on-one assistance for free and instead offer paid consulting services to members at a highly reduced rate.)
--  **Build platforms and tools to address these needs** but recognize that each member is different and the tools we build need to be customizable to suit these needs. For example, with Largo, we save members time and money by eliminating 90 percent of the effort typically involved in building a WordPress news website because the needs of sites are very similar, thus freeing you up to spend your time and money on the last 10 percent that is unique to your organization (mostly look and feel).
+-  **Identify common needs** that a number of members share. (We are often unable to provide one-on-one assistance for free and instead offer [paid consulting services](/how-to-work-with-us/consulting) to members at a highly reduced rate.)
+-  **Build platforms and tools to address these needs** but recognize that each member is different and the tools we build need to be customizable to suit these needs. For example, with [Largo](http://largoproject.org), we save members time and money by aiming to eliminate 90 percent of the effort typically involved in building a WordPress news website because the needs of sites are very similar, thus freeing you up to spend your time and money on the last 10 percent that is unique to your organization (mostly look and feel, in our experience).
 -  **Invest in documentation, group training and resources** to help members use and get the most out of the tools we build.
 -  **Negotiate on our members' behalf** to get free or reduced pricing for common third-party software and services.
 
 Information on how to become a member, membership standards, dues, etc., [can be found on the INN website](http://investigativenewsnetwork.org/members/become-a-member/).
 
-
 ### As part of their INN membership our members receive:
-
 
 **For members using [Largo](http://largoproject.org) (our WordPress framework/platform):**
 
@@ -25,13 +23,11 @@ Information on how to become a member, membership standards, dues, etc., [can be
 -  **Free access to fonts** from [Adobe's Typekit library](https://typekit.com/).
 -  **Site licenses** for a number of premium WordPress plugins.
 
-
 **For members participating in collaborative investigations and data projects:**
 
 -  **News applications and interactive features** to support collaborative investigations, localizable and flexible enough to work on a variety of member websites regardless of CMS.
 -  **Help with integrating these apps/features** into your stories and websites.
 -  **Promotion of member stories** through our website, newsletters and social media.
-
 
 **For members who want to use the tools we build:**
 
@@ -39,13 +35,11 @@ Information on how to become a member, membership standards, dues, etc., [can be
 -  **Individual assistance**. We always recommend reading the documentation first (and helping us improve it if we miss something!), but if you get stuck we're happy to provide assistance and answer any questions you might have.
 -  **We love feedback** and wherever possible we will prioritize feature requests from members.
 
-
 **For all members:**
 
--  **Discounted rates on paid consulting** — currently $50/hr for members, reduced from our regular rate of $150/hr.
+-  **[Discounted rates](/how-to-work-with-us/consulting/consulting-rates.md) on paid consulting** — currently $50/hr for members, reduced from our regular rate of $150/hr.
 -  **Open office hours** the first Thursday of the month from 3-5 p.m. CT. Members can sign up for a 30 minute (or more if you clear it with us in advance) block to meet with our entire team and get feedback on any tech related issues you might be facing (new project ideas, critique of works in progress, general tech/strategy/design questions). Since we're a remote team, these will be Google hangouts and can be either public (anyone can join or watch) or private (if you want to keep the conversation just between us).
 -  **General tech help**. Please consider signing up for our open office hours and/or paid consulting services, but when time and resources allow we're happy to answer general tech questions as they come up and help in any way we can. 
-
 
 **For developers at member organizations:**
 

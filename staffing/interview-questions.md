@@ -29,11 +29,11 @@
 
     - Do you have concerns about moving from being a freelancer to an in-house employee?
     - Do you have concerns about working on a smaller team?
-    - Do you have concerns about working remotely?
+    - Do you have concerns about working remotely? Does being in the same location/office as your co-workers matter to you?
 
 10. What are your interests and hobbies, relevant or otherwise, outside of work? 
 
-11. Do you plan on moving? If so, where to?
+11. If you could work from anywhere, where would that be?
 
 12. Do you have any questions for me?
 

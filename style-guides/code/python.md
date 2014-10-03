@@ -1,4 +1,4 @@
-## Best Practices for Python
+# Best Practices for Python
 
 ### Baseline
 
