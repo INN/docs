@@ -8,5 +8,7 @@ These are some of the tools we rely on to make our remote work possible.
 - **[JIRA](https://www.atlassian.com/software/jira):** For project management, planning sprints and iteration cycles, time tracking, and service desk features
 - **[Screenhero](https://screenhero.com/):** Remote pair programming software
 - **[Google Hangouts](https://plus.google.com/hangouts):** For [meetings](meetings.md) and daily scrum
+- **[Dropbox](http://dropbox.com) for file sharing
+- **[1password](https://agilebits.com/onepassword)** for password management (synced to everyone's computers/devices using dropbox)
 
 We maintain [a large list of tools and services](http://nerds.investigativenewsnetwork.org/discounts/) (including many of the above) that offer discounts to nonprofits on our team blog.
