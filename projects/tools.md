@@ -2,7 +2,6 @@
 
 Hacks and how-tos that we use for various projects.
 
-<a id="googleHangouts"></a>
 ## Google Hangouts
 
 ### Creating a public Google Hangout for community events
