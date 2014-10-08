@@ -63,10 +63,10 @@ Each team member:
 
 As a team:
 
--  What went well this week?
--  What could be improved?
--  Shoutouts
+-  What went well this week? What could be improved?
+-  Review editorial calendar for the following week, make sure everyone knows what's due and when
 -  New project ideas
+-  Shoutouts
 
 Team leader:
 
