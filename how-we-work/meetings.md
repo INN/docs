@@ -8,6 +8,11 @@ Guidelines for how to run effective meetings and descriptions of various meeting
 -  [Weekly Recap Meeting](#recap)
 -  [Bi-weekly All Staff Meeting](#staff-meeting)
 
+### Not in here (but related):
+-  [Book Club Meetings](/projects/book-club/)
+-  [Open Office Hours](/projects/office-hours/)
+
+
 <a id="guidelines"></a>
 ## Meeting Guidelines
 
