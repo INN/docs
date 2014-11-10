@@ -6,6 +6,8 @@ For notes on how we use these apps/tools/services, see [our list of tools](/how-
 
 ### Google Apps
 
+Note: You need to be an owner or have certain admin privileges in our apps account to create users and add them to groups.
+
 **Email**
 
 - Login to [Google Apps](http://apps.google.com) using investigativenewsnetwork.org as the primary domain.
