@@ -21,3 +21,4 @@ We get together in person a few times a year. Working remotely is generally grea
 - Great remote work tips in this [Source article by Christopher Groskopf](https://source.opennews.org/en-US/learning/making-remote-work-work/)
 - Helpful [tips on productivity](http://technori.com/2013/03/3280-the-6-best-tips-for-being-super-productive-while-working-remotely/)
 - The book on [remote work](http://37signals.com/remote/)
+- An excellent post by Ben Balter on [team communication at github](http://ben.balter.com/2014/11/06/rules-of-communicating-at-github/)
