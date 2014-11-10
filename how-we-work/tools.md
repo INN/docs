@@ -8,7 +8,7 @@ These are some of the tools we rely on to make our remote work possible.
 - **[JIRA](https://www.atlassian.com/software/jira):** For project management, planning sprints and iteration cycles, time tracking, and service desk features
 - **[Bee](http://www.neat.io/bee/):** Combines issues and tickets from JIRA, GitHub and others into a streamlined interface. Also offers time tracking and task prioritization.
 - **[Screenhero](https://screenhero.com/):** Remote pair programming software
-- **[Google Hangouts](https://plus.google.com/hangouts):** For [meetings](meetings.md) and daily scrum
+- **[Google Hangouts](https://plus.google.com/hangouts):** For [meetings](meetings.md) and daily scrum; [Google Calendar](https://www.google.com/calendar/) for coordinating our schedules and creating recurring events with hangout invites associated with them. We have a shared calendar (INN - Technology) that we're all able to add events to and we use this for things like recurring events, team meetings and deadlines for conference submissions, travel, vacations, etc.
 - **[Dropbox](http://dropbox.com)** for file sharing
 - **[1password](https://agilebits.com/onepassword)** for password management (synced to everyone's computers/devices using dropbox)
 
