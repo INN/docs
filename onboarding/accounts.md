@@ -38,6 +38,7 @@ Note: You need to be an owner or have certain admin privileges in our apps accou
 
 - New team member will need to purchase, download and install 1password ([https://agilebits.com/store](https://agilebits.com/store))
 - Then, follow the instructions here: [https://learn2.agilebits.com/1Password4/Mac/en/Tutorials/share-vault.html](https://learn2.agilebits.com/1Password4/Mac/en/Tutorials/share-vault.html) and use the INN keychain (in the main INN dropbox folder) to add a new vault. You will need to enter a confidential passphrase that you can get from Adam.
+- This vault contains most of the login information we share among the staff/team (for things like social media accounts, etc.)
 
 
 ### HipChat
