@@ -1,6 +1,6 @@
 # INN Nerds Book Club
 
-Once a month, we'll pick a book, read it and host a public Google Hangout to discuss it.
+Once a month, we'll pick a book, read it and host a public Google Hangout to discuss it. Unless we're at a conference or otherwise need to change the date, the meetings will be at 1pm ET on the second Wednesday of each month.
 
 Here's [our original announcement](http://nerds.investigativenewsnetwork.org/2014/09/02/come-learn-with-us-announcing-the-news-nerd-book-club/) of the program describing why we're doing this and what we hope to accomplish.
 
@@ -10,8 +10,12 @@ We also maintain [a running list of book suggestions](https://hackpad.com/News-N
 
 Once a book is selected, we'll let everyone know which book made the cut on our Twitter account, [@newsnerdbooks](https://twitter.com/newsnerdbooks) and a post on the [team's blog](http://nerds.investigativenewsnetwork.org/). You can find all of our [past book club books and blog posts here](http://nerds.investigativenewsnetwork.org/category/book-club/).
 
-For remote meetings (most months) we'll create a Google Plus event listing, which will include a link to the public Google Hangout where the discussion will happen. If you'd like to know how to set up a Google Plus event with a public Google Hangout, [click here](/projects/tools.md#google-hangouts).
+For remote meetings (most months) we'll create a Google Plus event listing, which will include a link to the public Google Hangout where the discussion will happen. If you'd like to know how to set up a Google Plus event with a public Google Hangout, we have [a tutorial for that](/projects/tools.md#google-hangouts).
 
 For in-person meetings (likely a couple times a year at conferences) we'll create an Eventbrite listing with details so people can RSVP because we'll need a rough count to make sure we choose an appropriate venue. 
+
+For all book club meetings/hangouts we will create a hackpad in advance of the hangout to collect notes and discussion questions. The link for this hackpad should be posted on the blog, Twitter, etc.
+
+For the meeting itself we will designate someone to facilitate the conversation and someone else to take notes and update the hackpad. Finally, after the meeting we will take the notes from the hackpad and turn them into a blog post which will also include the link to the survey to choose the book for next month and an announcement of the date of the next meeting.
 
 Wherever possible, there should be pie.
