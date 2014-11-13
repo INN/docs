@@ -9,7 +9,7 @@
 ### Post body
 
 - Copy edited (check spelling, grammar, formatting, etc.)
-- Liven things up with an intro paragraph (<p class="intro">), some subheads, pull quotes, visual elements where applicable
+- Liven things up with an intro paragraph (use css class "intro" on any paragraph tag), some subheads, pull quotes, visual elements where applicable
 - Photos in the post body have captions and credits
 - Photos should use the "link to - none" option unless it's a photo from a source we want to credit by linking back to the original photo/page (creative commons, etc.)
 
