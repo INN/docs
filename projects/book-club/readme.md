@@ -8,9 +8,11 @@ To pick which book gets read each month, we'll take suggestions via [@newsnerdbo
 
 We also maintain [a running list of book suggestions](https://hackpad.com/News-Nerd-Book-Club-Reading-List-YAApSL79SO2) on hackpad.
 
-Once a book is selected, we'll let everyone know which book made the cut on our Twitter account, [@newsnerdbooks](https://twitter.com/newsnerdbooks) and a post on the [team's blog](http://nerds.investigativenewsnetwork.org/). You can find all of our [past book club books and blog posts here](http://nerds.investigativenewsnetwork.org/category/book-club/).
+Once a book is selected, we'll let everyone know which book made the cut on our Twitter account, [@newsnerdbooks](https://twitter.com/newsnerdbooks) a post on the [team's blog](http://nerds.investigativenewsnetwork.org/) in the "book club" category and by creating a Google+ event from the [primary INN Google+ page](https://plus.google.com/+InvestigativenewsnetworkOrg/posts) (more on that in a minute). 
 
-For remote meetings (most months) we'll create a Google Plus event listing, which will include a link to the public Google Hangout where the discussion will happen. If you'd like to know how to set up a Google Plus event with a public Google Hangout, we have [a tutorial for that](/projects/tools.md#google-hangouts).
+You can find all of our [past book club books and blog posts here](http://nerds.investigativenewsnetwork.org/category/book-club/).
+
+For remote meetings (most months) we need to create a persistent link to a public Google Hangout. To do that, we need to create a Google Plus event listing, which will include a link to the public Google Hangout where the discussion will happen. This listing should be public by default and created from the INN Google+ page by following [these instructions](/projects/tools.md#google-hangouts).
 
 For in-person meetings (likely a couple times a year at conferences) we'll create an Eventbrite listing with details so people can RSVP because we'll need a rough count to make sure we choose an appropriate venue. 
 
