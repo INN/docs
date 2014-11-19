@@ -9,6 +9,8 @@
 -  **[How we work](/how-we-work)** including our [internal process](/how-we-work/process.md), [what we've learned about working as a remote team](/how-we-work/remote-work.md), [the tools we use](/how-we-work/tools.md) and [notes on how we conduct meetings](/how-we-work/meetings.md)
 -  **[How to work with us](/how-to-work-with-us)** including the [general guidelines](/how-to-work-with-us) for how to work with us effectively, [services we offer to INN members](/how-to-work-with-us/member-services.md), details of [our paid consulting program](/how-to-work-with-us/consulting/readme.md), [intake documents](/how-to-work-with-us/intake-procedure.md) for new projects and [a code of conduct](/how-to-work-with-us/contributing.md) for contributing to our open source projects.
 -  **[Style guides](/style-guides)** for [code](/style-guides/code) and [design/ui](/style-guides/design) elements.
+-  Descriptions and various other resources regarding the **[Projects](/projects)** we work on.
+-  **[Checklists](/checklists)** to help keep us organized.
 
 **What is not (and will not) be in here:**
 
@@ -33,7 +35,7 @@ All of these documents are licensed under a [Creative Commons BY-NC 3.0](http://
 
 ### Suggestions
 
-We welcome contributions and suggestions to help us improve any of these documents. Please start by [reading our contribution guidelines](/how-to-work-with-us/contributing.md). 
+We welcome contributions and suggestions to help us improve any of these documents. Please start by [reading our contribution guidelines](/how-to-work-with-us/contributing.md).
 
 And then, to contribute your changes:
 
@@ -52,11 +54,12 @@ The INN news apps and technology team is:
 -  **[Adam Schweigert](https://github.com/aschweigert)** ([@aschweig](http://twitter.com/aschweig)), Senior Director of Product and Technology
 -  **[Kaeti Hinck](https://github.com/kaeti)** ([@kaeti](http://twitter.com/kaeti)), Design Director
 -  **[Denise Malan](https://github.com/dnmalan)** ([@denisemalan](http://twitter.com/denisemalan)), Director of Data Services
+-  **[Meredith Melragon](https://github.com/meredithinn)** ([@meredithm](http://twitter.com/meredithm)), Support Specialist
 -  **[Ryan Nagle](https://github.com/rnagle)** ([@ryannagle](http://twitter.com/ryannagle)), News Apps Developer
 -  **[Will Haynes](https://github.com/willhaynes)** ([@willhaynes](http://twitter.com/willhaynes)), Apprentice News Apps Developer
 
 ### Changelog
 
-**Version 0.1** 
+**Version 0.1**
 - Initial Release
 
