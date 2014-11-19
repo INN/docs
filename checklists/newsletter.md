@@ -25,3 +25,5 @@
 - [ ] Share newsletter blog link on social platforms
 
 - [ ] Create Google doc for next week's newsletter and share with the team
+
+- [ ] Reach out to potential guest contributors by EOD Monday each week. Request that they submit their content by Thursday for inclusion in Friday's newsletter
