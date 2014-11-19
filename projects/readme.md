@@ -7,3 +7,4 @@ A list of projects we've worked on or are currently working on as well as links 
 - [Largo](/projects/largo/)
 - [Responsive Tables](/projects/responsive-tables/)
 - [Impaq.Me](/projects/impaq-me/)
+- [Newsletter](/projects/newsletter/)
