@@ -20,6 +20,7 @@ And we will always end with recipes/music/other fun stuff.
 
 ### Helpful Links
 
+- [Editorial Calendar](https://docs.google.com/a/investigativenewsnetwork.org/spreadsheets/d/1bRKcDupgokDEOaNBlpbsn8-t-eD99FW8G5CoW-ZEmNo/edit) (you'll need to request access to be able to see/edit this)
 - [Checklist](/checklists/newsletter.md)
 - [Signup form URL](http://eepurl.com/8MLZr)
 - [Sample email to guest contributors](/projects/newsletter/sample-contributor-email.md)
