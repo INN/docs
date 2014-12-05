@@ -10,6 +10,8 @@
 
 - [ ] Check that all links are working
 
+- [ ] Run images and GIFs through an optimizer
+
 - [ ] Proof subject line(s)
 
 - [ ] Check for any exclusionary language ("guys" and "dudes," etc.) or offensive content
