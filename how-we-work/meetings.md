@@ -69,7 +69,7 @@ Each team member:
 As a team:
 
 -  What went well this week? What could be improved?
--  Review editorial calendar for the following week, make sure everyone knows what's due and when
+-  Review [editorial calendar](https://docs.google.com/spreadsheets/d/1nJ2LAfQRzbDpxDfhpwfJo_a4DFM5-T4GDzRpj2t6qvk/edit#gid=0) (you'll need to request access to view this) for the following week, make sure everyone knows what's due and when
 -  New project ideas
 -  Shoutouts
 
