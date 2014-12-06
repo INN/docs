@@ -16,7 +16,7 @@ INN members will get priority but, if space is available, we'll open the signups
 
 Since we're a remote team, these will be **Google hangouts** (the persistent link for this hangout is [right here](https://plus.google.com/hangouts/_/investigativenewsnetwork.org/office-hours)).
 
-Hangouts are sometimes a pain, particularly if you're on a slow internet connection. When you join the hangout, try to be on time for your scheduled slot and be on a fast enough connection so we don't have to spend too much time troubleshooting technical issues. 
+Hangouts are sometimes a pain, particularly if you're on a slow internet connection. When you join the hangout, try to be on time for your scheduled slot and be on a fast enough connection so we don't have to spend too much time troubleshooting technical issues.
 
 If you know you might have connectivity issues, **it is also possible to join a hangout by phone** (just [email us the phone number](mailto:nerds@investigativenewsnetwork.org) you want us to call before the hangout and we'll dial you in.
 
@@ -25,3 +25,9 @@ If you know you might have connectivity issues, **it is also possible to join a 
 **The format for these is really determined by the type of questions or issues you have.** To make the most of our time together you might want to prepare a list of questions or [email us](mailto:nerds@investigativenewsnetwork.org) some background information, links to your website/project, git repos, etc. ahead of time so we can take a quick look and be better prepared to help you out.
 
 If you have any **questions or suggestions** for us on how to make these office hours work best for you and your organization, email us anytime: [nerds@investigativenewsnetwork.org](mailto:nerds@investigativenewsnetwork.org).
+
+### Helpful Links
+
+- [Signup sheet](https://docs.google.com/spreadsheets/d/1p-twn2D8oow7vXBfkcdYcZnVA4z8Q42OMs77KlHwf-g/edit) (Google spreadsheet)
+- [Google Hangout link](https://plus.google.com/hangouts/_/investigativenewsnetwork.org/office-hours) (this is the same every month)
+- [Leader Responsibilites](/projects/office-hours/leader-responsibilities.md)

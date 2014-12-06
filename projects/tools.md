@@ -2,8 +2,19 @@
 
 Hacks and how-tos that we use for various projects.
 
+### What's in here (so far):
+
+-  [Creating a public Google Hangout for community events](#public-hangouts)
+
+### TODO
+
+- how to setup a google form (for book club voting, etc.)
+- how to setup hackpad for notes (for book club and office hours)
+- how to add shared 1pass vault
+
 ## Google Hangouts
 
+<a id="public-hangouts"></a>
 ### Creating a public Google Hangout for community events
 
 1. Go to [Google+ Events](https://plus.google.com/events).
