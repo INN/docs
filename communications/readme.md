@@ -4,7 +4,7 @@ Our communications strategy and the various channels and tools we use.
 
 ### What's in here (so far):
 
-- [Nerd Alert (our weekly newsletter](/communications/newsletter/)
+- [Nerd Alert (our weekly newsletter)](/communications/newsletter/)
 
 ### Still todo:
 
