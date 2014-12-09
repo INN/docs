@@ -8,7 +8,7 @@ As we began to build our team, we wanted to clearly identify the values that wil
 ### Always be learning
 Growth and learning drive us forward. A commitment to teaching and mentorship helps us build each other up and make our community stronger. 
 
-- We will host a monthly book club for the news nerd community
+- We will host a [monthly book club](/projects/book-club) for the news nerd community
 - We’ll pair program and share what we learn with each other on a weekly basis
 - We’ll attend local and national events and user-groups, and stay actively involved in the journalism and tech communities
 - We’ll invest in education: creating curriculum and training for members, investing in our apprentices/students, and pursuing continuing education opportunities for ourselves 
@@ -26,8 +26,8 @@ A happy team has fun together.
 ### Diversity
 As we hire and grow, we want our team to represent the diverse population we work with. This means a diversity of ideas, perspectives, genders, race, orientations, socioeconomic class, and more. 
 
-- We will hire well-rounded people who have full lives outside of work
-- When hiring, we will post jobs publicly and leave them open long enough to recruit a more diverse pool of candidates (see also: [guidelines for job postings](/staffing/job-descriptions/readme.md))
+- We will hire well-rounded people who live full lives outside of work
+- When hiring, we will post jobs publicly and leave them open long enough to recruit a diverse pool of candidates (see also: [guidelines for job postings](/staffing/job-descriptions/readme.md))
 - We'll proactively reach out to people in less-represented communities
 - We'll be committed to gender parity in staffing and salaries
 - We'll talk about it publicly and hold ourselves and others accountable for making things better
@@ -73,8 +73,8 @@ Our own egos are not more important than our members' needs.
 We will welcome new ideas and approaches, will admit when we’re wrong or don’t know the answer, and are committed to sharing and showing our work.
 
 - We will document and show our work, and release code open source on [github.com/inn](http://github.com/inn)
-- We’ll document the new things we learn and share them publicly on [nerds.investigativenewsnetwork.org](nerds.investigativenewsnetwork.org)
-- We'll start hosting regular office hours, to be available for questions and conversations about our projects
+- We’ll document the new things we learn and share them publicly on [our team blog](nerds.investigativenewsnetwork.org)
+- We'll host [regular office hours](/projects/office-hours), to be available for questions and conversations about our projects
 - We’ll lead efforts to make documentation in journalism better
 
 ### Telling the truth 
@@ -90,7 +90,7 @@ We won't hesitate to set boundaries when we have to. We'll take on projects we c
 ### Thoughtfulness
 We want to make good decisions, not just follow the first or loudest idea.
 
-- Our processes will be thoroughly documented
+- Our processes will be thoroughly documented (see: [How we work](/how-we-work) and [How to work with us](/how-to-work-with-us))
 - We will interrogate project ideas and features before building
 - We’ll follow through on the things we ship, planning from the beginning how we will support projects long-term and measuring results so we can learn from what we build
 - We won’t follow a trend just because it’s new or shiny
