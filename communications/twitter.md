@@ -24,9 +24,9 @@ The responsibility for managing the team accounts rotates month to month (see th
 
 We don’t manage these but you might want to keep tabs on them.
 
-- [@INN](http://twitter.com/INN) is the main organization account
-- [@ImpaqMe](http://twitter.com/impaqme) is the project account for Impaq.Me
-- [@Journo_biz](http://twitter.com/journo_biz) is 
+- **[@INN](http://twitter.com/INN)** is the main organization account
+- **[@ImpaqMe](http://twitter.com/impaqme)** is the project account for [Impaq.Me](http://impaqme.org), a social fundraising tool developed by INN
+- **[@Journo_biz](http://twitter.com/journo_biz)** is the account for [journo.biz](http://journo.biz), INN’s site covering the nonprofit news business
 
 
 ### Individual Accounts
