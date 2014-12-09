@@ -17,7 +17,7 @@ The responsibility for managing the team accounts rotates month to month (see th
  
 **[@LargoProject](http://twitter.com/largoproject)** is used for project updates for [Largo](http://largoproject.org). Typically we'll just use this to announce product updates and the launch of new sites. In the future we might have sufficient resources to use this to promote interesting things sites are doing with Largo or to support their work more generally.
 
-**[@NewsNerdBooks](http://twitter.com/newsnerdbooks)** is the Twitter account for our [monthly book club](/projects/ and is managed by whoever is responsible for leading the book club meeting that month. Typically we'll use it to announce the book selection for that month, perhaps post some teases and discussion questions throughout the month and then post several times the week of the monthly hangout to remind people to attend.
+**[@NewsNerdBooks](http://twitter.com/newsnerdbooks)** is the Twitter account for our [monthly book club](/projects/book-club) and is managed by whoever is responsible for leading the book club meeting that month. Typically we'll use it to announce the book selection for that month, perhaps post some teases and discussion questions throughout the month and then post several times the week of the monthly hangout to remind people to attend.
 
 
 ### Other INN Accounts
