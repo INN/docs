@@ -11,7 +11,7 @@ The responsibility for managing the team accounts rotates month to month (see th
 **[@INNnerds](http://twitter.com/innnerds)** is our main team account. This account should tweet:
 
 - All new posts [on the team blog](http://nerds.investigativenewsnetwork.org) (typically 2-3 times per post at different times of day and days of the week to catch different audiences, try to not tweet exactly the same thing each time, pick a quote from the post or some other interesting tidbit to mix things up)
-- Product updates/announcements. Sometimes weÕll make small updates that wonÕt warrant a blog post, we should use this account to get the word out.
+- Product updates/announcements. Sometimes we'll make small updates that won't warrant a blog post, we should use this account to get the word out.
 - Tweet/retweet member organizations (apps teams and individuals) when they do cool stuff 
 - And finally, post things of general interest to technologists at member organizations (particularly) and the journalism and tech community at large
  
@@ -35,7 +35,7 @@ We do not have a formal policy regarding personal use of social media but here a
 
 - If it is at all vague, be clear that you are speaking as yourself and that your opinions do not represent those of your employer
 - Use common sense and try not to do anything stupid that would be likely to reflect poorly on you, our team or the company
-- Promoting our team, our work and the work of our members is everyoneÕs responsibility, so sometimes it might be appropriate to use your personal account for this sort of thing (promoting blog posts, product launches, etc.) but weÕre not going to set quotas or write tweets for you. Do what feels right and works best for you and your followers. 
+- Promoting our team, our work and the work of our members is everyone's responsibility, so sometimes it might be appropriate to use your personal account for this sort of thing (promoting blog posts, product launches, etc.) but we're not going to set quotas or write tweets for you. Do what feels right and works best for you and your followers and if you have questions of want a second opinion on anything just ask. 
 - If you're responsible for managing one of the team accounts it might occasionally be more appropriate to respond to questions or engage with other Twitter users from your personal account rather than the team/project account. Again, use common sense and respond from whichever account seems most appropriate to the situation at hand.
 
 
