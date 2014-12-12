@@ -20,9 +20,9 @@ Hacks and how-tos that we use for various projects.
 
 ## Google Hangouts
 
-<a id="Hackpad"></a>
+<a id="hackpad"></a>
 ### Set up a Hackpad
-(for book club and office hours)
+
 1. Log into your Google account.
 2. Go to [Hackpad](http://hackpad.com)
 3. Click on the New Hackpad icon.
