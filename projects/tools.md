@@ -4,15 +4,46 @@ Hacks and how-tos that we use for various projects.
 
 ### What's in here (so far):
 
+-  [Setting up a Hackpad (for book club or  office hours](#hackpad)
+
+-  [Setting up a Google form (for book club voting, etc.](#google-form)
+
 -  [Creating a public Google Hangout for community events](#public-hangouts)
 
 ### TODO
 
-- how to setup a google form (for book club voting, etc.)
-- how to setup hackpad for notes (for book club and office hours)
 - how to add shared 1pass vault
 
+## Set up a Hackpad
+
+## Google Form
+
 ## Google Hangouts
+
+<a id="Hackpad"></a>
+### Set up a Hackpad
+(for book club and office hours)
+1. Log into your Google account.
+2. Go to [Hackpad](http://hackpad.com)
+3. Click on the New Hackpad icon.
+4. Fill in the title
+5. Share the link. Hackpad
+[Reference](https://hackpad.com/How-to-use-Hackpad-mlZvEsJykI5)
+
+
+<a id="google-form"></a>
+### Creating a Google form for a quick survey
+
+1. Go to Google Drive.
+2. Click "Create."
+3. Select Form from the options.
+4. Fill in the title.
+5. Fill in the Question Title.
+6. Select Question Type, for book club book survey Multiple choice.
+7. Fill in the Options.
+8. Review your work.
+9. Click Send Form. This will allow to tweet the link and generate a public link. Form
+[Reference](https://support.google.com/docs/answer/87809?hl=en)
 
 <a id="public-hangouts"></a>
 ### Creating a public Google Hangout for community events
