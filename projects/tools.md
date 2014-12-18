@@ -4,10 +4,8 @@ Hacks and how-tos that we use for various projects.
 
 ### What's in here (so far):
 
--  [Setting up a Hackpad (for book club or  office hours](#hackpad)
-
--  [Setting up a Google form (for book club voting, etc.](#google-form)
-
+-  [Setting up a Hackpad (for book club or  office hours)](#hackpad)
+-  [Setting up a Google form (for book club voting, etc.)](#google-form)
 -  [Creating a public Google Hangout for community events](#public-hangouts)
 
 ### TODO
