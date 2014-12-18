@@ -7,17 +7,7 @@ Hacks and how-tos that we use for various projects.
 -  [Setting up a Hackpad (for book club or  office hours)](#hackpad)
 -  [Setting up a Google form (for book club voting, etc.)](#google-form)
 -  [Creating a public Google Hangout for community events](#public-hangouts)
-
-<<<<<<< HEAD
 -  [How to add a shared 1pass vault](#shared-vault)
-=======
-### TODO
-
-- how to add shared 1pass vault
-<<<<<<< Updated upstream
-=======
->>>>>>> FETCH_HEAD
->>>>>>> Stashed changes
 
 <a id="hackpad"></a>
 ### Setting up a Hackpad
