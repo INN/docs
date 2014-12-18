@@ -14,12 +14,6 @@ Hacks and how-tos that we use for various projects.
 
 - how to add shared 1pass vault
 
-## Set up a Hackpad
-
-## Google Form
-
-## Google Hangouts
-
 <a id="hackpad"></a>
 ### Set up a Hackpad
 
