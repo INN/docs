@@ -22,7 +22,7 @@ Some skills/technologies/attributes that would be helpful for this position incl
 
 We'd prefer a 6 month commitment working about 20 hours a week but the schedule and length of the internship is flexible.
 
-This is a **paid (hourly) position**> and remote candidates are fine.
+This is a **paid (hourly) position** and remote candidates are fine.
 
 **INN is an equal opportunity employer** and we are committed to creating a workplace where diversity is valued. In addition to federal law requirements, INN complies with applicable state and local laws governing nondiscrimination in employment in every location in which the company has facilities.
 
