@@ -31,7 +31,7 @@ Our team is presently distributed so **remote candidates are fine** as long as
 
 **INN is an equal opportunity employer** and we are committed to creating a workplace where diversity is valued. In addition to federal law requirements, INN complies with applicable state and local laws governing nondiscrimination in employment in every location in which the company has facilities.
 
-**To apply**, please send the following to [adam@investigativenewsnetwork.org](mailto:adam@investigativenewsnetwork.org):
+**To apply**, please send the following to [nerds@investigativenewsnetwork.org](mailto:nerds@investigativenewsnetwork.org):
 
 -  Brief resume/CV
 -  Cover letter (an email is fine) explaining why this is the perfect position for you
