@@ -15,21 +15,18 @@ We are a small (but growing!) team of makers (presently three, soon to be four f
 Here are some **desired skills and attributes** for this position (we understand you might not meet all of these but if this roughly sounds like you, we'd love to hear more):
 
 -  1-2+ years professional experience in web/mobile development; degree in computer science or another relevant field preferred (but not required)
--  Strong front-end skills (HTML/CSS/JS). Experience with CSS pre-compilers and front-end frameworks such as LESS/SASS, jQuery, Bootstrap, etc.
--  Strong design sensibility with a focus on end-user experience; experience with responsive design principles
--  Expert knowledge of the full LAMP stack with a particular focus on PHP and MySQL; Some exposure to and/or experience with one or more other modern server-side programming languages such as Python or Ruby would be helpful
--  Experience developing for WordPress including themes, plugins and experience with WordPress multisite
--  Experience with version control (we use git), automated deployment tools (we use fabric and grunt) and project management tools (we use Jira)
--  Experience working with data visualization and mapping tools; photo, video, illustration and other visual/graphic design skills would also be great to have
--  Strong communication skills including the ability to explain complex things simply and experience writing documentation for a variety of audiences
--  Commitment to openness and showing/writing/talking about your work. We open source and write about nearly every project we do and encourage our team members to speak at industry conferences, local tech meetups, etc. about their work
+-  Strong front-end skills (HTML/CSS/JS) and design sensibility with a focus on end-user experience; experience with responsive design principles. Experience with CSS pre-compilers and front-end frameworks such as LESS/SASS, jQuery, Bootstrap, etc. would also be helpful.
+-  Intermediate to expert knowledge of the full LAMP stack with a particular focus on PHP/MySQL and experience developing for WordPress including themes, plugins and working with WordPress multisite; Some exposure to and/or experience with one or more other modern server-side programming languages such as Python or Ruby would be helpful.
+-  Experience with version control (we use git), automated deployment tools (we use fabric and grunt) and project management tools (we use Jira).
+-  It would be great if you had some experience with one or more of the following: data visualization and mapping tools; photo, video, illustration and other visual/graphic design skills.
+-  Strong communication skills including the ability to explain complex things simply and experience writing documentation for a variety of audiences; commitment to openness and showing/writing/talking about your work. We open source and write about nearly every project we do and encourage our team members to speak at industry conferences, local tech meetups, etc.
 -  Curiosity and the willingness to learn, adapt and teach
 
 This is a **full-time position with benefits**. Our compensation package is commensurate with experience and extremely competitive. We are also committed to giving our employees the tools they need to do their job and supporting their professional growth so you'll get an allowance for hardware, software, travel to conferences, etc.
 
 Our team is presently distributed so **remote candidates are fine** as long as you're comfortable with that. Previous experience working remotely would be helpful. If you'd rather work with us (in the same room) we have team members in Columbus (OH), Chicago, Minneapolis and Kansas City (MO).
 
-**INN is an equal opportunity employer** and we are committed to creating a workplace where diversity is valued. In addition to federal law requirements, INN complies with applicable state and local laws governing nondiscrimination in employment in every location in which the company has facilities.
+**INN is an equal opportunity employer** and we are committed to creating a workplace where diversity is valued. Applications from women, people of color, and other under-represented groups are particularly encouraged. In addition to federal law requirements, INN complies with applicable state and local laws governing nondiscrimination in employment in every location in which the company has facilities.
 
 **To apply**, please send the following to [nerds@investigativenewsnetwork.org](mailto:nerds@investigativenewsnetwork.org):
 
