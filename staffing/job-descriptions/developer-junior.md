@@ -1,6 +1,5 @@
 # News Applications Developer (Junior)
 
-
 The Investigative News Network (INN), a network of 100+ nonprofit news organizations, has an immediate opening for a **full-time developer** on our technology team.
 
 As a team, we exist to support the work of our member organizations, many of which are small nonprofits with limited technology resources. We focus primarily on problems that we are uniquely suited to tackle at a network level, for example:
@@ -13,7 +12,7 @@ You can read more about us [on our team blog](http://nerds.investigativenewsnetw
 
 We are a small (but growing!) team of makers (presently three, soon to be four full-time employees with a handful of contractors and interns). This position would work closely with our senior developer and the rest of the team to tackle design and technology problems facing our member organizations and consulting clients.
 
-Here are some **desired skills and attributes** for this position (we understand you might not meet all of these but if this roughly sounds like you, we'd love to hear more):
+Here are some **desired skills and attributes** for this position (we understand you might not meet all of these but if this roughly sounds like you, we'd love to hear more):
 
 -  1-2+ years professional experience in web/mobile development; degree in computer science or another relevant field preferred (but not required)
 -  Strong front-end skills (HTML/CSS/JS). Experience with CSS pre-compilers and front-end frameworks such as LESS/SASS, jQuery, Bootstrap, etc.
