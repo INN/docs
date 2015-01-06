@@ -1,6 +1,6 @@
-# Developer (Junior)
+# News Applications Developer (Junior)
 
-The Institute for Nonprofit News (formerly the Investigative News Network), a network of 100+ nonprofit news organizations, has an immediate opening for a **full-time developer** on our technology team.
+The Investigative News Network, a network of 100+ nonprofit news organizations, has an immediate opening for a **full-time developer** on our technology team.
 
 As a team, we exist to support the work of our member organizations, many of which are small nonprofits with limited technology resources. We focus primarily on problems that we are uniquely suited to tackle at a network level, for example:
 
