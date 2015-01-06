@@ -11,7 +11,7 @@ A bit about us: as a team, we exist to support the work of our member organizati
 
 You can read more about us [on our team blog](http://nerds.investigativenewsnetwork.org/) and check out [our projects on github](http://github.com/inn).
 
-Our interns work closely with our full-time team members and, in some cases, with members directly on all of the above. You **will not** be making coffee and running errands. You **>will** however build stuff, work on real projects, ship code and write about your experience on our team blog.
+Our interns work closely with our full-time team members and, in some cases, with members directly on all of the above. You **will not** be making coffee and running errands. You **will** however build stuff, work on real projects, ship code and write about your experience on our team blog.
 
 Some skills/technologies/attributes that would be helpful for this position include:
 
@@ -22,10 +22,10 @@ Some skills/technologies/attributes that would be helpful for this position incl
 
 We'd prefer a 6 month commitment working about 20 hours a week but the schedule and length of the internship is flexible.
 
-This is a **paid (hourly) position**> and remote candidates are fine.
+This is a **paid (hourly) position** and remote candidates are fine.
 
 **INN is an equal opportunity employer** and we are committed to creating a workplace where diversity is valued. In addition to federal law requirements, INN complies with applicable state and local laws governing nondiscrimination in employment in every location in which the company has facilities.
 
 **To apply:** send resume/portfolio, brief cover letter (email is fine) explaining what you'd like to get out of your internship with us and links to recent projects you're proud of to [adam@investigativenewsnetwork.org](mailto:adam@investigativenewsnetwork.org).
 
-Open until filled, but for priority consideration please **apply by Friday, August 15, 2014 at 5pm ET**>.
+Open until filled, but for priority consideration please **apply by Friday, August 15, 2014 at 5pm ET**.
