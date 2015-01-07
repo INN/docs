@@ -1,6 +1,6 @@
 # News Applications Developer (Junior)
 
-The Investigative News Network (INN), a network of 100+ nonprofit news organizations, has an immediate opening for a **full-time developer** on our technology team.
+The Investigative News Network (INN), a network of 100+ nonprofit news organizations, has an opening for a **full-time developer** on our technology team.
 
 As a team, we exist to support the work of our member organizations, many of which are small nonprofits with limited technology resources. We focus primarily on problems that we are uniquely suited to tackle at a network level, for example:
 
@@ -24,7 +24,7 @@ Here are some **desired skills and attributes** for this position (we understand
 
 This is a **full-time position with benefits**. Our compensation package is commensurate with experience and extremely competitive. We are also committed to giving our employees the tools they need to do their job and supporting their professional growth so you'll get an allowance for hardware, software, travel to conferences, etc.
 
-Our team is presently distributed so **remote candidates are fine** as long as you're comfortable with that. Previous experience working remotely would be helpful. If you'd rather work with us (in the same room) we have team members in Columbus (OH), Chicago, Minneapolis and Kansas City (MO).
+Our team is presently distributed so **remote candidates are fine** as long as you're comfortable with that. Previous experience working remotely would be helpful. If you'd rather work with us (in the same room) we have team members in Columbus (OH), Chicago, Minneapolis and Kansas City (MO) and you could also work out of INN's home office in Encino, CA.
 
 **INN is an equal opportunity employer** and we are committed to creating a workplace where diversity is valued. Applications from women, people of color, and other under-represented groups are particularly encouraged. In addition to federal law requirements, INN complies with applicable state and local laws governing nondiscrimination in employment in every location in which the company has facilities.
 
