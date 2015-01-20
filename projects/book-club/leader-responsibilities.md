@@ -10,6 +10,7 @@ Like all of our recurring programs, we take turns leading the monthly book club 
 - [ ] Attend the hangout, lead the discussion, take notes (or make sure someone else is taking notes)
 - [ ] Edit notes and write recap blog post
 - [ ] Create google form for voting on next book
+    - Make sure that the "Require Investigative News Network login to view this form" box is [not checked](https://support.google.com/docs/answer/160166?hl=en).
 - [ ] Write blog post announcing next month's book
 - [ ] Make sure Luis and Laura know what's going on so it gets promoted via the main INN newsletters/Twitter/Facebook/etc.
 
