@@ -8,17 +8,17 @@ Preparing a repository for a new release:
 
 - [ ] Make sure a previous version tag exists.
 
-    > git checkout master
-    > git tag
-    0.1
-    0.2
+        > git checkout master
+        > git tag
+        0.1
+        0.2
 
-    > git tag -a v0.3 -m "tagging v0.3"
-
-    > git tag
-    0.1
-    0.2
-    0.3
+        > git tag -a v0.3 -m "tagging v0.3"
+    
+        > git tag
+        0.1
+        0.2
+        0.3
 
 - [ ] Minify/compress assets (LESS/CSS, Javascript)
 
@@ -39,14 +39,14 @@ For example, to compile translation files in Largo:
 
 - [ ] Merge develop branch into master and push
 
-    > git checkout master
-    > git merge develop
-    > git push origin master
+        > git checkout master
+        > git merge develop
+        > git push origin master
 
 - [ ] Tag the new release
 
-    > git tag -a v0.4 -m "tagging v0.4"
+        > git tag -a v0.4 -m "tagging v0.4"
 
 - [ ] Push newly created tags
 
-    > git push origin --tags
+        > git push origin --tags
