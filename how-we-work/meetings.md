@@ -37,7 +37,7 @@ Guidelines for how to run effective meetings and descriptions of various meeting
 -  Starts on time, no exceptions
 -  Never longer than 15 minutes
 -  Literally stand up
--  Scrum Master role rotates week to week
+-  Scrum Master role rotates monthly
 
 Each team member answers three questions (no more than two minutes per person):
 
