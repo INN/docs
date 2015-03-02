@@ -37,7 +37,7 @@ Information on how to become a member, membership standards, dues, etc., [can be
 
 **For all members:**
 
--  **[Discounted rates](/how-to-work-with-us/consulting/consulting-rates.md) on paid consulting** — currently $50/hr for members, reduced from our regular rate of $150/hr.
+-  **[Discounted rates](/how-to-work-with-us/consulting/consulting-rates.md) on paid consulting** — currently $85/hr for members, reduced from our regular rate of $175/hr.
 -  **[Open office hours](/projects/office-hours/)** the first Thursday of the month from 3-5 p.m. CT. Members can [sign up](https://docs.google.com/spreadsheets/d/1p-twn2D8oow7vXBfkcdYcZnVA4z8Q42OMs77KlHwf-g/edit) for a 30 minute (or more if you clear it with us in advance) block to meet with our entire team and get feedback on projects in progress or any tech related issues you might be facing.
 -  **General tech help**. Please consider signing up for our open office hours and/or paid consulting services, but when time and resources allow we're happy to answer general tech questions as they come up and help in any way we can. 
 
