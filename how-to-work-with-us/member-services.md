@@ -21,7 +21,7 @@ Information on how to become a member, membership standards, dues, etc., [can be
 -  **Free hosting** for one (primary) website in our WordPress multisite network on [WP Engine](http://www.shareasale.com/r.cfm?B=394686&U=1006149&M=41388&urllink=) (high-end managed WordPress hosting). We can host additional sites but reserve the right to pass on some of our hosting and infrastructure costs for members that want to host more than one site with us.
 -  **Automatic updates** to WordPress core, supported plugins and the Largo framework.
 -  **Free access to fonts** from [Adobe's Typekit library](https://typekit.com/).
--  **Site licenses** for a number of premium WordPress plugins.
+-  **Site licenses** for a number of [premium WordPress plugins](http://largo.readthedocs.org/users/plugins.html#complete-list-of-plugins-available).
 
 **For members participating in collaborative investigations and data projects:**
 
