@@ -8,7 +8,7 @@ As a team, we exist to support the work of our member organizations, many of whi
 -  Building open source tools to support members' editorial work and presentation needs with the goal of making their work look as great as any of the largest for-profit newsrooms
 -  Providing general technology consulting, training and developing resources to help increase the overall level of tech knowledge and ability across the network
 
-You can read more about us [on our team blog](http://nerds.investigativenewsnetwork.org) and check out [our projects on github](http://github.com/inn).
+You can read more about us [on our team blog](http://nerds.inn.org) and check out [our projects on github](http://github.com/inn).
 
 We are a small (but growing!) team of makers (presently three, soon to be four full-time employees with a handful of contractors and interns). This position would work closely with our senior developer and the rest of the team to tackle design and technology problems facing our member organizations and consulting clients.
 
@@ -28,7 +28,7 @@ Our team is presently distributed so **remote candidates are fine** as long as y
 
 **INN is an equal opportunity employer** and we are committed to creating a workplace where diversity is valued. Applications from women, people of color, and other under-represented groups are particularly encouraged. In addition to federal law requirements, INN complies with applicable state and local laws governing nondiscrimination in employment in every location in which the company has facilities.
 
-**To apply**, please send the following to [nerds@investigativenewsnetwork.org](mailto:nerds@investigativenewsnetwork.org):
+**To apply**, please send the following to [nerds@inn.org](mailto:nerds@inn.org):
 
 -  Brief resume/CV
 -  Cover letter (an email is fine) explaining why this is the perfect position for you

@@ -13,4 +13,4 @@ These are some of the tools we rely on to make our remote work possible.
 - **[Dropbox](http://dropbox.com)** for file sharing
 - **[1password](https://agilebits.com/onepassword)** for password management (synced to everyone's computers/devices using dropbox)
 
-We also maintain [a large list of tools and services](http://nerds.investigativenewsnetwork.org/discounts/) (including many of the above) that offer discounts to nonprofits on our team blog.
+We also maintain [a large list of tools and services](http://nerds.inn.org/discounts/) (including many of the above) that offer discounts to nonprofits on our team blog.

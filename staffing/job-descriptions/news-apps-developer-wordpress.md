@@ -34,7 +34,7 @@ We work hard and love what we do but we also offer a flexible (and fun) work env
 -  Experience working with social APIs, mapping, data visualization tools, etc. will occasionally be helpful but you’d also have an opportunity to learn these on the job
 -  Experience writing documentation and explaining technical concepts to non-technical users. This is not a key component of this job but you will, from time to time, interact with non-technically trained members directly.
 
-To apply, please send the following to INN Director of Technology Adam Schweigert at [adam@investigativenewsnetwork.org](mailto:adam@investigativenewsnetwork.org):
+To apply, please send the following to INN Director of Technology Adam Schweigert at [adam@inn.org](mailto:adam@inn.org):
 
 -  Resume/CV
 -  Brief cover letter explaining why you’re excited to use your mad technical skills to help nonprofit journalism save the world.

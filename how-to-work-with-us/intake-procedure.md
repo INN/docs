@@ -4,7 +4,7 @@ We love making things and helping our members and clients perform acts of great 
 
 **When you approach us with a project**, we'll talk about the idea as a team and review the requirements and expectations. We strongly recommend you familiarize yourself with [our process](/how-we-work/process.md) so you know what to expect. 
 
-**To get in touch** with the team, send an email to [nerds@investigativenewsnetwork.org](mailto:nerds@investigativenewsnetwork.org). Include a brief project description, what you hope to accomplish, and any timeline considerations we should know about.
+**To get in touch** with the team, send an email to [nerds@inn.org](mailto:nerds@inn.org). Include a brief project description, what you hope to accomplish, and any timeline considerations we should know about.
 
 **You'll hear back from us within a week**, at which point we'll let you know whether we can work the project into our schedule and share some initial ideas about direction. We'll also provide an estimate of how long we expect the project to take and ask you a few more questions about what you're trying to create.
 
@@ -27,4 +27,4 @@ We want to tell this important story in a big way that sets it apart | Build us 
 We want readers to know what our current top stories are     | Can you add a carousel to the homepage? ([Ahem.](http://shouldiuseacarousel.com/))  | 
 
 ###Get in touch!
-Have a product idea you'd like us to help you with? We'd love to [hear from you](mailto:nerds@investigativenewsnetwork.org).
+Have a product idea you'd like us to help you with? We'd love to [hear from you](mailto:nerds@inn.org).

@@ -41,4 +41,4 @@ Contracts will typically be project based and we will bill twice monthly for the
 
 If you have ongoing needs, we've talked to a few members about doing a retainer-based support agreements where you would essentially be sharing a full-time headcount on our team with a number of other INN members. The advantage would be that you would be guaranteed a certain percentage of that person's time without having to recruit and manage them.
 
-If this is something that you would be interested in, [contact us](mailto:nerds@investigativenewsnetwork.org) and we can discuss your particular needs and how we might best help you.
+If this is something that you would be interested in, [contact us](mailto:nerds@inn.org) and we can discuss your particular needs and how we might best help you.

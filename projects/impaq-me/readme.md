@@ -13,4 +13,4 @@ A social fundraising tool that enables funders to give money to nonprofits any t
 
 ### Relevant links:
 
-- [Project website](http://impaqme.org) 
+- [Project website](http://impaqme.org)

@@ -18,13 +18,13 @@ Since we're a remote team, these will be **Google hangouts** (the persistent lin
 
 Hangouts are sometimes a pain, particularly if you're on a slow internet connection. When you join the hangout, try to be on time for your scheduled slot and be on a fast enough connection so we don't have to spend too much time troubleshooting technical issues.
 
-If you know you might have connectivity issues, **it is also possible to join a hangout by phone** (just [email us the phone number](mailto:nerds@investigativenewsnetwork.org) you want us to call before the hangout and we'll dial you in.
+If you know you might have connectivity issues, **it is also possible to join a hangout by phone** (just [email us the phone number](mailto:nerds@inn.org) you want us to call before the hangout and we'll dial you in.
 
 **The default for these hangouts will be public** because we think sharing ideas in the open helps everyone learn and improve but if you want to keep the conversation just between us, indicate that on the signup sheet and we'll boot people out and make the hangout invite only when your time slot comes around. If you're wondering how to create your own Google Hangouts that are open to anyone, we have a [tutorial on that right here](/projects/tools.md).
 
-**The format for these is really determined by the type of questions or issues you have.** To make the most of our time together you might want to prepare a list of questions or [email us](mailto:nerds@investigativenewsnetwork.org) some background information, links to your website/project, git repos, etc. ahead of time so we can take a quick look and be better prepared to help you out.
+**The format for these is really determined by the type of questions or issues you have.** To make the most of our time together you might want to prepare a list of questions or [email us](mailto:nerds@inn.org) some background information, links to your website/project, git repos, etc. ahead of time so we can take a quick look and be better prepared to help you out.
 
-If you have any **questions or suggestions** for us on how to make these office hours work best for you and your organization, email us anytime: [nerds@investigativenewsnetwork.org](mailto:nerds@investigativenewsnetwork.org).
+If you have any **questions or suggestions** for us on how to make these office hours work best for you and your organization, email us anytime: [nerds@inn.org](mailto:nerds@inn.org).
 
 ### Helpful Links
 

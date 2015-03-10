@@ -11,14 +11,14 @@ Note: You need to be an owner or have certain admin privileges in our apps accou
 
 **Email**
 
-- Login to [Google Apps](http://apps.google.com) using investigativenewsnetwork.org as the primary domain.
-- Go to Users > Add New, select "add a user manually" and then fill out the new user's name and email address (typically firstname@investigativenewsnetwork.org) and allow Google to set their temporary password
+- Login to [Google Apps](http://apps.google.com) using inn.org as the primary domain.
+- Go to Users > Add New, select "add a user manually" and then fill out the new user's name and email address (typically firstname@inn.org) and allow Google to set their temporary password
 - Once the account is created you will get a confirmation message that includes a link to email instructions to the new user, you'll want to do this so they have the temporary password and know how to login and set up their account.
 
 **Groups**
 
 - Also managed from [Google Apps](http://apps.google.com)
-- There are a variety of groups setup for various projects but the main one new team members need to be added to is nerds@investigativenewsnetwork.org so they receive all of the email to the shared team account.
+- There are a variety of groups setup for various projects but the main one new team members need to be added to is nerds@inn.org so they receive all of the email to the shared team account.
 - To add someone to this group go to Groups > Technology > Manage users in group, add the new team member using their @INN email address and select "add as member"
 
 **Calendar**
@@ -60,7 +60,7 @@ Note: HipChat account creation can only be done by someone with Admin/Owner priv
 
 ### Websites
 
-- Typically we'll need to at least add new team members to the [team blog](http://nerds.investigativenewsnetwork.org) but they may also need access to other INN sites and/or to the Largo WP instance.
+- Typically we'll need to at least add new team members to the [team blog](http://nerds.inn.org) but they may also need access to other INN sites and/or to the Largo WP instance.
 - User creation for any of these sites follows the typical WordPress multisite user creation process. Always use the person's @INN email address. Super admin privileges to the Largo instance should be granted sparingly (typically users only need access to certain sites and only certain permissions on those sites).
 - For each WordPress instance a new team member is added to, they should fill out their profile as completely as possible.
 - Avatars on Largo sites use [gravatar](http://gravatar.com) so new users will need to create a gravatar associated with their @INN email address for it to display correctly

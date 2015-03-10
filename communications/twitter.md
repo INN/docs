@@ -10,7 +10,7 @@ The responsibility for managing the team accounts rotates month to month (see th
 
 **[@INNnerds](http://twitter.com/innnerds)** is our main team account. This account should tweet:
 
-- All new posts [on the team blog](http://nerds.investigativenewsnetwork.org) (typically 2-3 times per post at different times of day and days of the week to catch different audiences, try to not tweet exactly the same thing each time, pick a quote from the post or some other interesting tidbit to mix things up)
+- All new posts [on the team blog](http://nerds.inn.org) (typically 2-3 times per post at different times of day and days of the week to catch different audiences, try to not tweet exactly the same thing each time, pick a quote from the post or some other interesting tidbit to mix things up)
 - Product updates/announcements. Sometimes we'll make small updates that won't warrant a blog post, we should use this account to get the word out.
 - Tweet/retweet member organizations (apps teams and individuals) when they do cool stuff 
 - And finally, post things of general interest to technologists at member organizations (particularly) and the journalism and tech community at large

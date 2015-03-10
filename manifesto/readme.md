@@ -73,7 +73,7 @@ Our own egos are not more important than our members' needs.
 We will welcome new ideas and approaches, will admit when we’re wrong or don’t know the answer, and are committed to sharing and showing our work.
 
 - We will document and show our work, and release code open source on [github.com/inn](http://github.com/inn)
-- We’ll document the new things we learn and share them publicly on [our team blog](nerds.investigativenewsnetwork.org)
+- We’ll document the new things we learn and share them publicly on [our team blog](nerds.inn.org)
 - We'll host [regular office hours](/projects/office-hours), to be available for questions and conversations about our projects
 - We’ll lead efforts to make documentation in journalism better
 

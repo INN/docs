@@ -11,7 +11,7 @@ We help our members become more sustainable by listening carefully to their need
 -  **Invest in documentation, group training and resources** to help members use and get the most out of the tools we build.
 -  **Negotiate on our members' behalf** to get free or reduced pricing for common third-party software and services.
 
-Information on how to become a member, membership standards, dues, etc., [can be found on the INN website](http://investigativenewsnetwork.org/members/become-a-member/).
+Information on how to become a member, membership standards, dues, etc., [can be found on the INN website](http://inn.org/members/become-a-member/).
 
 ### As part of their INN membership our members receive:
 
@@ -43,5 +43,5 @@ Information on how to become a member, membership standards, dues, etc., [can be
 
 **For developers at member organizations:**
 
--  **Support for open source projects**. As a team we're committed to supporting members' open source projects. If you need help with something feel free to [reach out to us](mailto:nerds@investigativenewsnetwork.org).
--  **Help promoting your projects**. We're happy to help get the word out about your projects on our team blog, the [@INNnerds Twitter account](http://twitter.com/innnerds), and via INN's other communication channels. Please [share your stuff](http://nerds.investigativenewsnetwork.org) and pitch us guest blog post ideas anytime you launch a new project.
+-  **Support for open source projects**. As a team we're committed to supporting members' open source projects. If you need help with something feel free to [reach out to us](mailto:nerds@inn.org).
+-  **Help promoting your projects**. We're happy to help get the word out about your projects on our team blog, the [@INNnerds Twitter account](http://twitter.com/innnerds), and via INN's other communication channels. Please [share your stuff](http://nerds.inn.org) and pitch us guest blog post ideas anytime you launch a new project.
