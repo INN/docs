@@ -17,4 +17,3 @@ From Chicago Tribune:
 -  [Sample intake doc](https://docs.google.com/document/d/1m-JD39DBKMoFO1zTaV8_ZANVHySJr8YxHyekdxRGb5E/edit)
 
 From NPR Visuals: [How We Work](http://blog.apps.npr.org/2014/06/04/how-we-work.html)
-   
