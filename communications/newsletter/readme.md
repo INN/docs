@@ -1,6 +1,6 @@
 # Nerd Alert (our weekly newsletter)
 
-Every Friday afternoon we send out an email newsletter using [MailChimp](http://mailchimp.com) the contents of which are also then posted on [the team blog](http://nerds.investigativenewsnetwork.org).
+Every Friday afternoon we send out an email newsletter using [MailChimp](http://mailchimp.com) the contents of which are also then posted on [the team blog](http://nerds.inn.org).
 
 The target audience should be primarily INN members (likely mostly managers and technologists), but anyone can sign up to receive it (and opt-out if they get tired of us). As with all of our public-facing communications we should write for a general audience and avoid overly technical language, jargon, etc.
 

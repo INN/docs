@@ -5,7 +5,7 @@
 Refer to our [best practices for PHP](/style-guides/code/php.md) as the baseline for working with WordPress.
 
 - Get familiar with the WordPress [Theme Development](http://codex.wordpress.org/Theme_Development) documentation and their [Coding Standards](http://codex.wordpress.org/WordPress_Coding_Standards).
-- Embrace doing things The WordPress Way. Even if you disagree ([sometimes we do](http://nerds.investigativenewsnetwork.org/2014/10/02/spaces-or-tabs-which-will-you-choose/)). Your software will be easier to maintain as new versions of WordPress are released and easier for others to contribute to.
+- Embrace doing things The WordPress Way. Even if you disagree ([sometimes we do](http://nerds.inn.org/2014/10/02/spaces-or-tabs-which-will-you-choose/)). Your software will be easier to maintain as new versions of WordPress are released and easier for others to contribute to.
 - In a fight, the WordPress Way wins.
 
 ### Specifics

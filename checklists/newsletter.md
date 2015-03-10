@@ -4,7 +4,7 @@ Before sending the Friday newsletter:
 
 - [ ] Load all the content into the MailChimp template and proof (the MailChimp login is in the shared INN 1password vault on dropbox)
 
-- [ ] Send a test email from MailChimp to [nerds@investigativenewsnetwork.org](mailto:nerds@investigativenewsnetwork.org)
+- [ ] Send a test email from MailChimp to [nerds@inn.org](mailto:nerds@inn.org)
 
 - [ ] Make sure at least two other team members read through the test email for and everything has been thoroughly copyedited
 

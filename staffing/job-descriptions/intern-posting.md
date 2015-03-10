@@ -1,6 +1,6 @@
 # News Applications Intern
 
-The Investigative News Network (INN), a network of [100+ nonprofit news organizations](http://investigativenewsnetwork.org/member/), is looking for one or more good interns to join our news applications and technology team.
+The Investigative News Network (INN), a network of [100+ nonprofit news organizations](http://inn.org/member/), is looking for one or more good interns to join our news applications and technology team.
 
 A bit about us: as a team, we exist to support the work of our member organizations, many of which are small nonprofits with limited technology resources. We focus primarily on problems that we are uniquely suited to tackle at a network level, for example:
 
@@ -9,7 +9,7 @@ A bit about us: as a team, we exist to support the work of our member organizati
 -  Supporting editorial collaborations between member organizations, facilitated by INN's data and collaborations editor
 -  Providing general technology consulting, training and developing resources to help increase the overall level of tech knowledge and ability across the network
 
-You can read more about us [on our team blog](http://nerds.investigativenewsnetwork.org/) and check out [our projects on github](http://github.com/inn).
+You can read more about us [on our team blog](http://nerds.inn.org/) and check out [our projects on github](http://github.com/inn).
 
 Our interns work closely with our full-time team members and, in some cases, with members directly on all of the above. You **will not** be making coffee and running errands. You **will** however build stuff, work on real projects, ship code and write about your experience on our team blog.
 
@@ -26,6 +26,6 @@ This is a **paid (hourly) position** and remote candidates are fine.
 
 **INN is an equal opportunity employer** and we are committed to creating a workplace where diversity is valued. In addition to federal law requirements, INN complies with applicable state and local laws governing nondiscrimination in employment in every location in which the company has facilities.
 
-**To apply:** send resume/portfolio, brief cover letter (email is fine) explaining what you'd like to get out of your internship with us and links to recent projects you're proud of to [adam@investigativenewsnetwork.org](mailto:adam@investigativenewsnetwork.org).
+**To apply:** send resume/portfolio, brief cover letter (email is fine) explaining what you'd like to get out of your internship with us and links to recent projects you're proud of to [adam@inn.org](mailto:adam@inn.org).
 
 Open until filled, but for priority consideration please **apply by Friday, August 15, 2014 at 5pm ET**.

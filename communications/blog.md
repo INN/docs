@@ -1,6 +1,6 @@
 # Blog
 
-[nerds.investigativenewsnetwork.org](http://nerds.investigativenewsnetwork.org)
+[nerds.inn.org](http://nerds.inn.org)
 
 ### Strategy
 

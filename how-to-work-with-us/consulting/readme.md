@@ -40,6 +40,6 @@ For INN members, we will subsidize the cost of these services to keep them very 
 
 We hope that this new program will be a win-win for members and for INN and that we'll now be able to provide an even higher level of support at a very reasonable cost.
 
-If you're interested in working with us, we'd love to discuss your needs and how we can help. [Get in touch with us here](mailto:nerds@investigativenewsnetwork.org) to learn more.
+If you're interested in working with us, we'd love to discuss your needs and how we can help. [Get in touch with us here](mailto:nerds@inn.org) to learn more.
 
 We've also assembled a list of [frequently asked questions](consulting-faq.md) to provide more detail on the program.

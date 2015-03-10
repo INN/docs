@@ -11,7 +11,7 @@ As a team, we exist to support the work of our member organizations, many of whi
 -  Supporting editorial collaborations between member organizations, facilitated by INN's data and collaborations editor
 -  Providing general technology consulting, training and developing resources to help increase the overall level of tech knowledge and ability across the network
 
-You can read more about us [on our team blog](http://nerds.investigativenewsnetwork.org/) and check out [our projects on github](http://github.com/inn).
+You can read more about us [on our team blog](http://nerds.inn.org/) and check out [our projects on github](http://github.com/inn).
 
 We are a small (but growing!) team of makers (soon to be three full-time employees with a handful of contractors and interns) and this position would be responsible for helping develop and implement our support infrastructure, project management and training programs.
 
@@ -54,7 +54,7 @@ Our team is distributed so **remote candidates are fine** as long as you're co
 
 **Apply:**
 
-Please send the following to [adam@investigativenewsnetwork.org](mailto:adam@investigativenewsnetwork.org):
+Please send the following to [adam@inn.org](mailto:adam@inn.org):
 
 -  Brief cover letter (email is fine) explaining why you’re the perfect fit for the job
 -  Resume/portfolio highlighting your relevant experience, projects you’ve worked on, excellent support or training you’ve delivered, etc.

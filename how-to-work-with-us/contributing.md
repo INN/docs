@@ -64,4 +64,4 @@ This document is based on similar documents created by other organizations. Insp
 - [Conference Code of Conduct](http://confcodeofconduct.com/)
 - [Hacker School User's Manual](https://www.hackerschool.com/manual#sub-sec-social-rules)
 
-If you have questions about the code of conduct or how to contribute, feel free to contact us: [nerds@investigativenewsnetwork.org](mailto:nerds@investigativenewsnetwork.org).
+If you have questions about the code of conduct or how to contribute, feel free to contact us: [nerds@inn.org](mailto:nerds@inn.org).
