@@ -55,9 +55,11 @@ The INN news apps and technology team is:
 -  **[Adam Schweigert](https://github.com/aschweigert)** ([@aschweig](http://twitter.com/aschweig)), Senior Director of Product and Technology
 -  **[Kaeti Hinck](https://github.com/kaeti)** ([@kaeti](http://twitter.com/kaeti)), Design Director
 -  **[Denise Malan](https://github.com/dnmalan)** ([@denisemalan](http://twitter.com/denisemalan)), Director of Data Services
--  **[Meredith Melragon](https://github.com/meredithinn)** ([@meredithm](http://twitter.com/meredithm)), Support Specialist
 -  **[Ryan Nagle](https://github.com/rnagle)** ([@ryannagle](http://twitter.com/ryannagle)), News Apps Developer
+-  **[Nick Bennett](https://github.com/tothebeat)** ([yoyoohrho](http://twitter.com/yoyoohrho)), News Apps Developer
+-  **[Meredith Melragon](https://github.com/meredithinn)** ([@meredithm](http://twitter.com/meredithm)), Support Specialist
 -  **[Will Haynes](https://github.com/willhaynes)** ([@willhaynes](http://twitter.com/willhaynes)), Apprentice News Apps Developer
+-  **[Ben Keith](https://github.com/benlk)** ([@benlkeith](http://twitter.com/benlkeith)), Apprentice News Apps Developer
 
 ### Changelog
 
