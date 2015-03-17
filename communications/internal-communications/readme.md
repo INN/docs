@@ -76,7 +76,7 @@ You will more than likely encounter GitHub either through reporting issues with 
 
 - Visit [http://github.com](http://github.com) and create an account.
 - Email your username to [nerds@inn.org](mailto:nerds@inn.org) so we can add you to the INN team account and give you access to the relevant repositories.
-- Click on the "issues tab" of any repository (for example, the INN docs repository: [https://github.com/INN/docs/issues](https://github.com/INN/docs/issues)) and then click on the green "new issue" button to create a new issue. You will automatically be subscribed to notifications when someone comments or updates the issue.
+- Click on the **issues** tab of any repository (for example, the INN docs repository: [https://github.com/INN/docs/issues](https://github.com/INN/docs/issues)) and then click on the green **new issue** button to create a new issue. You will automatically be subscribed to notifications when someone comments or updates the issue.
 
 **Want to learn more about git?** Here are some resources and tutorials to help you get started:
 	
