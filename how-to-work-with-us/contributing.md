@@ -52,6 +52,7 @@ Harassment and exclusionary behavior include offensive verbal comments related t
 - Send us pull requests for bug fixes and small suggestions.
 - For feature requests, create an issue to start a discussion. We'll decide together whether or not the requested feature gets built. Be sure and explain clearly why your feature request is essential.
 - For detailed information about our preferred code structure and styles, refer to our [code style guide](/style-guides/code).
+- To contribute to this repository using Github.com directly, follow [this guide](/how-to-work-with-us/via-github.md).
 
 
 ###Other resources
