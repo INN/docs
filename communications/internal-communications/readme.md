@@ -26,7 +26,7 @@ Everyone gets stuck from time to time and we're here to help. Given the volume o
 
 Instead of having one-on-one conversations, posting in the relevant chat room makes these conversations visible, searchable and archivable so that everyone involved can easily see what is going on and/or quickly catch up if they're out of the office.
 
-This also has the affect of avoiding the at times unfortunate feeling that someone has been "left out of the loop" in a particular conversation.
+This also has the effect of avoiding the at times unfortunate feeling that someone has been "left out of the loop" in a particular conversation.
 
 HipChat also allows you to add links to important documents, resources or webpages and to upload files which are then also archived and searchable. This is a great way to share links to things like documentation, screenshots, mockups, etc. that you may want to be able to easily refer back to later.
 
