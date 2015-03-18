@@ -10,7 +10,8 @@ These are some of the tools we rely on to make our remote work possible.
 - **[Screenhero](https://screenhero.com/):** Remote pair programming software
 - **[Google Hangouts](https://plus.google.com/hangouts):** For [meetings](meetings.md) like our daily scrum and for public events like our monthly [book club meetings](/projects/book-club/) and [open office hours](/projects/office-hours/).
 - **[Google Calendar](https://www.google.com/calendar/):** for coordinating our schedules and creating recurring events with hangout invites associated with them. We have a shared calendar (INN - Technology) that we're all able to add events to and we use this for things like recurring events, team meetings and deadlines for conference submissions, travel, vacations, etc.
-- **[Dropbox](http://dropbox.com)** for file sharing
+- **Email** For correspondance we use email.  You may want to forward email; directions are linked, [Gmail] (https://support.google.com/mail/answer/10957?hl=en), [Apple Mail] (https://support.apple.com/kb/PH2642?locale=en_US), or [Outlook] (https://support.office.com/en-ca/article/Automatically-forward-my-messages-to-another-e-mail-account-9f124e4a-749e-4288-a266-2d009686b403).
+- **[Dropbox](http://dropbox.com)** for file sharing.
 - **[1password](https://agilebits.com/onepassword)** for password management (synced to everyone's computers/devices using dropbox)
 
 We also maintain [a large list of tools and services](http://nerds.inn.org/discounts/) (including many of the above) that offer discounts to nonprofits on our team blog.
