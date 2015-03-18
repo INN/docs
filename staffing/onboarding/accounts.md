@@ -80,5 +80,7 @@ Note: HipChat account creation can only be done by someone with Admin/Owner priv
 - Once the account is created it will send you to their profile page where you will also likely need to change the groups they belong to (we're still working this out so more details on which groups they need to be added to will be added here eventually)
 
 ### HelloSign
--To create an account,you can connect HelloSign to an existing Google account from the HelloSign website.
+
+- HelloSign is used for electronically signing documents.
+- To create an account, you can connect HelloSign to your inn.org Google account from the [HelloSign website](https://www.hellosign.com/).
 
