@@ -70,11 +70,15 @@ Note: HipChat account creation can only be done by someone with Admin/Owner priv
 
 - Login to WP Engine and click on the "users" tab at the top of the dashboard
 - From here you can add/manage users and the specific WordPress instances they have access to
-- Additionally you will need to create (for users where this is required) FTP credentials and/or grant the user access to INN Secrets GitHub repo (see above) if they need to be able to deploy
+- Additionally you will need to create (for users where this is required) FTP credentials and/or grant the user access to INN Secrets GitHub repo (see above) if they need to be able to deploy.
 
 
 ### Jira
 
-- When logged in, click on the gear icon at the top right corner of the dashboard and then select "user management"
+- When logged in, click on the gear icon at the top right corner of the dashboard and then select "user management."
 - From here select "create new user" and add their info (it will also give you an option to email them instructions to set their password, etc.)
 - Once the account is created it will send you to their profile page where you will also likely need to change the groups they belong to (we're still working this out so more details on which groups they need to be added to will be added here eventually)
+
+### HelloSign
+-To create an account,you can connect HelloSign to an existing Google account from the HelloSign website.
+
