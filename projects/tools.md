@@ -62,4 +62,5 @@ Hacks and how-tos that we use for various projects.
 ### How to add shared 1pass vault
 1. Download 1password software from [their site](https://agilebits.com/onepassword/mac).
 2. Create an account.
-3. To share a private vault follow these [directions](https://learn2.agilebits.com/1Password4/Mac/en/Tutorials/share-vault.html).
+3. [Link] (https://support.1password.com/sync-options/) it to a Dropbox account.
+4. To share a private vault follow these [directions](https://learn2.agilebits.com/1Password4/Mac/en/Tutorials/share-vault.html).
