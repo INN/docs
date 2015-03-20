@@ -11,7 +11,7 @@
 -  **[Style guides](/style-guides)** for [code](/style-guides/code) and [design/ui](/style-guides/design) elements.
 -  **[Projects](/projects)** we work on with descriptions of each project and relevant resources.
 -  **[Checklists](/checklists)** to help keep us organized.
--  **[Our Communications Strategy](/communications)** including external communications ([newsletter](/communications/newsletter), [Twitter accounts](/communications/twitter.md), etc.) and [internal communications](/communications/internal-communications)
+-  **[Our Communications Strategy](/communications)** including external communications ([newsletter](/communications/newsletter), [Twitter accounts](/communications/twitter.md), etc.) and some notes on [internal communications](/communications/internal-communications).
 
 **What is not (and will not) be in here:**
 
