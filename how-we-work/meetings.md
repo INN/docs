@@ -6,6 +6,8 @@ Guidelines for how to run effective meetings and descriptions of various meeting
 -  [Meeting Guidelines](#guidelines)
 -  [Daily Scrum](#scrum)
 -  [Weekly Recap Meeting](#recap)
+-  [Project Kickoff Meetings](#kickoff)
+-  [Project Retrospective Meetings](#retrospective)
 -  [Bi-weekly All Staff Meeting](#staff-meeting)
 
 ### Not in here (but related):
@@ -24,7 +26,7 @@ Guidelines for how to run effective meetings and descriptions of various meeting
 -  **Invite as few people as possible**. For the same reason you don't reply all to an email chain.
 -  **Respect each individual's contribution**. Since everyone at the meeting needs to be there (see above), give everyone an equal chance to speak. Don't dominate the conversation, interrupt or talk over people. Be especially careful to involve people who might not typically speak up.
 -  **Test technology ahead of time.** If we're going to use a video chat or screensharing tool, make sure it works ahead of time so we don't spend half of the meeting wrestling with the technology.
--  **[Change the default meeting length in Google Calendar](http://gmailblog.blogspot.com/2011/06/change-google-calendars-default-meeting.html) to 15 minutes instead of an hour**. Meetings almost never need to be an hour and blocking out large chunks of time in your colleagues' calendars is annoying and disrespectful.
+-  **[Change the default meeting length in Google Calendar](http://gmailblog.blogspot.com/2011/06/change-google-calendars-default-meeting.html) [or iCal](http://www.macobserver.com/tmo/answers/how_to_change_the_default_duration_of_new_ical_events) to 15 minutes instead of an hour**. Meetings almost never need to be an hour and blocking out large chunks of time in your colleagues' calendars is annoying and disrespectful.
 -  **All meetings end with concrete action steps assigned to responsible individuals**. No exceptions.
 
 ## Meeting Types
@@ -37,19 +39,19 @@ Guidelines for how to run effective meetings and descriptions of various meeting
 -  Starts on time, no exceptions
 -  Never longer than 15 minutes
 -  Literally stand up
--  Scrum Master role rotates monthly
+-  Scrum Master role rotates monthly - see the [team editorial calendar](https://docs.google.com/a/investigativenewsnetwork.org/spreadsheets/d/1nJ2LAfQRzbDpxDfhpwfJo_a4DFM5-T4GDzRpj2t6qvk/edit#gid=0) (login required) for rotating responsibilities
 
-Each team member answers three questions (no more than two minutes per person):
+Each team member answers three questions (no more than about a minute per person):
 
 -  What did you do yesterday?
 -  What are you planning to do today?
--  Do you have any blockers?
+-  Do you have any blockers? (i.e. - anything keeping you from accomplishing what you need to do today)
 
 Scrum Master schedules any necessary follow-up to remove blockers.
 
 It's important to acknowledge anything keeping you from accomplishing your tasks and make the team aware of them so we can try to help; don't be shy.
 
-No detailed discussion of issues during this meeting.
+No detailed discussion of issues during this meeting. You can always stay on the hangout with one or more team members to discuss projects or issues after the daily scrum is completed.
 
 
 <a id="recap"></a>
@@ -78,11 +80,38 @@ Team leader:
 -  General administrative updates
 -  Priorities for next week
 
+<a id="kickoff"></a>
+### Project Kickoff Meetings
+
+For each new project we'll have a brief kickoff meeting involving key members of our team working on the project as well as any key stakeholders. These meetings don't need to be long, but they should give us an opportunity to make sure everyone is clear on the goals of the project and that we have what we need to write the project manifesto and get started.
+
+- Confirm timeline, budget, key milestones, communication process
+- Do we have all credentials for third-party services we might need?
+- What is the mission statement for the project? What problem are we solving?
+- Who is it for? What do the key users need? 
+- How will we make it? Are there any technical limitations we need to take into account?
+- What does the minimum viable product need to include? What would be nice to have?
+- How will we measure success?
+
+
+<a id="retrospective"></a>
+### Project Retrospective Meetings
+
+- Typically 15-20 minutes in length
+- Held as soon as practical after a project launches while it's still fresh in our minds
+- We want to celebrate our successes but also learn from our mistakes and improve our process for next time. This means that these meetings need to be a safe place to talk openly about what went well, but especially where we ran into problems.
+
+We should cover:
+
+- Outstanding/backlog issues and our plan for tackling them
+- What went well?
+- What issues did we encounter?
+- How will we improve next time?
 
 <a id="staff-meeting"></a>
 ### Bi-weekly All INN Staff Meeting
 
--  Every other Monday at 1 PM ET
+-  Every other Monday at 1 PM ET via Google Hangout
 -  Usually takes about an hour
 -  Attended by all INN staff
 -  Team leader will report for the entire team but may in some cases ask other team members to report on and/or provide more specifics for projects they're working on
