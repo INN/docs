@@ -2,12 +2,10 @@
 
 -  [News Applications Developer (WordPress Focus) (January 2014)](news-apps-developer-wordpress.md)
 -  [Designer/Developer (July 2014)](designer-job-posting.md)
--  [News Applications and Technology Intern (July 2014)](intern-posting.md)
+-  [News Applications and Technology Intern (July 2014)](intern-posting-2014.md)
 -  [Support Specialist (Contract) (September 2014)](support-specialist-posting.md)
-
-### Still to-do:
-
--  Updated apprentice job description
+-  [News Apps Developer (Junior - January 2015)](developer-junior.md)
+-  [Summer Design/Dev Apprentices (2015)](summer-apprentice-2015.md)
 
 ### General Guidelines for Job Postings
 
@@ -30,3 +28,7 @@ All job descriptions/postings must include the follow EEO language:
 - In some cases, we will leave a position open longer than we would like to make sure we have a diverse pool of applications to choose from
 
 Recruiting and hiring is time consuming and expensive so we want to find people who are excited about the work we do and who will (hopefully) want to stick around for a while. Wherever possible we should be transparent about salary, job expectations, working conditions, etc., and be focused on finding a good mutual fit. Interviews are as much for the candidate as they are for us.
+
+We will always make ourselves available to give feedback to candidates we do not select for our positions and help them understand what they can do to improve and potentially be a better fit next time.
+
+We will also do what we can to connect people with opportunities at member organizations and make sure that we're helping our members find the best talent to fill their positions.
