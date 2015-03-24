@@ -9,6 +9,7 @@ Guidelines for how to run effective meetings and descriptions of various meeting
 -  [Project Kickoff Meetings](#kickoff)
 -  [Project Retrospective Meetings](#retrospective)
 -  [Bi-weekly All Staff Meeting](#staff-meeting)
+-  [Additional Reading](#additional-reading)
 
 ### Not in here (but related):
 -  [Book Club Meetings](/projects/book-club/)
@@ -116,6 +117,9 @@ We should cover:
 -  Attended by all INN staff
 -  Team leader will report for the entire team but may in some cases ask other team members to report on and/or provide more specifics for projects they're working on
 
+<a id="additional-reading"></a>
+### Additional Reading
 
+- [11 Ways to Cure Bad Newsroom Meetings](http://www.pbs.org/idealab/2015/03/11-ways-to-cure-bad-newsroom-meetings/)
 
 
