@@ -5,6 +5,7 @@
 **What's in here (so far):**
 
 -  **[A manifesto](/manifesto)** outlining our team's mission and values
+-  **[Our Strategy for 2015](/strategy/2015.md)**
 -  **[Staffing and Hiring](/staffing)** including how we recruit and hire new team members plus some [sample job descriptions](/staffing/job-descriptions), [interview questions](/staffing/interview-questions.md) for screening candidates and [our onboarding process](/staffing/onboarding).
 -  **[How we work](/how-we-work)** including our [internal process](/how-we-work/process.md), [what we've learned about working as a remote team](/how-we-work/remote-work.md), [the tools we use](/how-we-work/tools.md) and [notes on how we conduct meetings](/how-we-work/meetings.md)
 -  **[How to work with us](/how-to-work-with-us)** including the [general guidelines](/how-to-work-with-us) for how to work with us effectively, [services we offer to INN members](/how-to-work-with-us/member-services.md), details of [our paid consulting program](/how-to-work-with-us/consulting/readme.md), [intake documents](/how-to-work-with-us/intake-procedure.md) for new projects and [a code of conduct](/how-to-work-with-us/contributing.md) for contributing to our open source projects.
