@@ -1,4 +1,4 @@
-# A few job postings we've used recently:
+# Job Postings/Descriptions
 
 ### From INN:
 
