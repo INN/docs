@@ -14,9 +14,9 @@ Anyone from a nonprofit news organization who can commit to doing the homework, 
 **What will I need?**
 You will need access to your organization's Google Analytics as well as some basic metrics from your organization's social media accounts.  You'll need to know enough about Google Analytics to gather some basic data.
 
-**Structure** An audience development sprint takes place over four weeks, with one meeting via Google Hangout each week.  
+**Structure** An audience development sprint takes place over three weeks, with one hour-long meeting via Google Hangout each week.  
 
-**Pairing up**  Participants work in pairs during a sprint. You'll need to save time to read and respond to your partner's plans.
+**Pairing up**  Participants work in pairs during a sprint. You'll need to save time to read and respond to your partner's plans between sessions.
 
 # Sprint Schedule
 
