@@ -4,7 +4,7 @@
 
 Refer to our [best practices for PHP](/style-guides/code/php.md) as the baseline for working with WordPress.
 
-- Get familiar with the WordPress [Theme Development](http://codex.wordpress.org/Theme_Development) documentation and their [Coding Standards](http://codex.wordpress.org/WordPress_Coding_Standards).
+- Get familiar with the WordPress [Theme Development](http://codex.wordpress.org/Theme_Development) documentation and their [Coding Standards](https://make.wordpress.org/core/handbook/coding-standards/) and [Inline Documentation Standards](https://make.wordpress.org/core/handbook/inline-documentation-standards/). Write inline documentation for your code following the WordPress conventions. Look no further than the [WordPress code base itself](https://github.com/WordPress/WordPress) if you need to refer to examples.
 - Embrace doing things The WordPress Way. Even if you disagree ([sometimes we do](http://nerds.inn.org/2014/10/02/spaces-or-tabs-which-will-you-choose/)). Your software will be easier to maintain as new versions of WordPress are released and easier for others to contribute to.
 - In a fight, the WordPress Way wins.
 
@@ -41,3 +41,8 @@ Refer to our [best practices for PHP](/style-guides/code/php.md) as the baseline
 - Keep the use of third party PHP libraries to a minimum.
 
     Chances are that your third party lib will need to be refactored if you plan on submitting a theme or plugin to WordPress.
+
+- Use accurate versions in your `@since` and `@deprecated` inline doc tags.
+
+    Pay close attention to the WordPress conventions on the use of these tags. Inaccurate values here make these tags useless.
+
