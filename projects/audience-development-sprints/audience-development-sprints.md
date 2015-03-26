@@ -18,13 +18,10 @@ INN will announce new sprints on the INNED-L listerv (for INN members), the INN 
 An audience development sprint is a three week process that helps participants assess their current audience, identify strengths and weaknesses, and make a concrete, step-by-step plan of action to grow traffic and engagement online. 
 
 **What don't we do during an Audience Development Sprint?**
-INN Audience Development Sprints are about digital audience development.  We don't cover broadcast, print, or other types of audience development.  
-
-**Who can participate?**
-Anyone from a nonprofit news organization who can commit to doing the homework, attending all three sessions, and communicate with your assigned partner between sessions.  One participant per organization, please. 
+INN Audience Development Sprints are about digital audience development.  We don't cover broadcast, print, or other types of audience development.   
 
 **What will I need?**
-You will need access to your organization's Google Analytics as well as some basic metrics from your organization's social media accounts.  You'll need to know enough about Google Analytics to gather some basic data.
+You will need access to your organization's Google Analytics as well as some basic metrics from your organization's social media accounts.  You'll need to know enough about Google Analytics to gather some basic data.  
 
 
 # Sprint Schedule
