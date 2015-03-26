@@ -1,6 +1,15 @@
 # INN Audience Development Sprints
 
-INN and its members occasionally organize "sprints" on topics that are vital to a news organization's long-term sustainability.  Announcements of when a sprint is open for participants to sign up will be announced on the INNED-L email list, INN's newsletters, and on Twitter. 
+INN and its members occasionally organize "sprints" on topics that are vital to a news organization's long-term sustainability.  
+
+**Structure** 
+An audience development sprint takes place over three weeks, with one hour-long meeting via Google Hangout each week.  
+
+**Pairing up**  
+Participants work in pairs during a sprint. You'll need to save time to read and respond to your partner's plans between sessions.
+
+**How Can I Find Out When A Sprint Is Happening?**
+INN will announce new sprints on the INNED-L listerv (for INN members), the INN newsletter, and via the @INN Twitter account. 
 
 **What Do We Do During An Audience Development Sprint?**
 An audience development sprint is a three week process that helps participants assess their current audience, identify strengths and weaknesses, and make a concrete, step-by-step plan of action to grow traffic and engagement online. 
@@ -14,9 +23,6 @@ Anyone from a nonprofit news organization who can commit to doing the homework, 
 **What will I need?**
 You will need access to your organization's Google Analytics as well as some basic metrics from your organization's social media accounts.  You'll need to know enough about Google Analytics to gather some basic data.
 
-**Structure** An audience development sprint takes place over three weeks, with one hour-long meeting via Google Hangout each week.  
-
-**Pairing up**  Participants work in pairs during a sprint. You'll need to save time to read and respond to your partner's plans between sessions.
 
 # Sprint Schedule
 
