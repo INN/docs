@@ -11,7 +11,7 @@ Anyone from a nonprofit news organization who can commit to doing the homework, 
 **Pairing up**  
 Participants work in pairs during a sprint. You'll need to save time to read and respond to your partner's plans between sessions. Because there's only one participant per organization, you will be working alongside someone from another nonprofit newsroom.  
 
-**How Can I Find Out When A Sprint Is Happening?**
+**How Can I Find Out When A Sprint Is Happening?** 
 INN will announce new sprints on the INNED-L listerv (for INN members), the INN newsletter, and via the @INN Twitter account. 
 
 **What Do We Do During An Audience Development Sprint?**
