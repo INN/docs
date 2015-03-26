@@ -5,8 +5,11 @@ INN and its members occasionally organize "sprints" on topics that are vital to 
 **Structure** 
 An audience development sprint takes place over three weeks, with one hour-long meeting via Google Hangout each week.  
 
+**Who can participate?**
+Anyone from a nonprofit news organization who can commit to doing the homework, attending all three sessions, and communicate with your assigned partner between sessions.  *One participant per organization, please.*  
+
 **Pairing up**  
-Participants work in pairs during a sprint. You'll need to save time to read and respond to your partner's plans between sessions.
+Participants work in pairs during a sprint. You'll need to save time to read and respond to your partner's plans between sessions. Because there's only one participant per organization, you will be working alongside someone from another nonprofit newsroom.  
 
 **How Can I Find Out When A Sprint Is Happening?**
 INN will announce new sprints on the INNED-L listerv (for INN members), the INN newsletter, and via the @INN Twitter account. 
