@@ -1,6 +1,6 @@
-# INN Revenue Development Sprints
+# INN Earned Revenue Development Sprints
 
-INN and its members occasionally organize "sprints" on topics that are vital to a news organization's long-term sustainability.  
+INN and its members occasionally organize "sprints" on topics that are vital to a news organization's long-term sustainability.  Earned revenue development sprints focus on building a plan to generate earned revenue as a way of reducing dependence on foundation funding in the long term.  
 
 **Structure** A revenue development sprint takes place over three weeks, with one hour-long meeting via Google Hangout each week.  
 
@@ -20,7 +20,7 @@ Revenue development sprints focus on developing earned revenue through event and
 
 # Sprint Schedule
 
-*Week 1*  What's Your Purpose?  Before participating in the Week 1 Hangout, please fill out a Lean Canvas to describe your organization's purpose, and fill out Section 1 of your revenue development plan template (which describes the current state of your organization in terms of where your money goes and 
+*Week 1*  What's Your Purpose?  Before participating in the Week 1 Hangout, please fill out a Lean Canvas to describe your organization's purpose. If you have already participated in another Sprint, you may have one already.  Please review and update it.  Fill out Section 1 of your revenue development plan template (which describes the current state of your organization in terms of where your money goes and how it is spent).  
 
 *Week 2* Strengths & Weaknesses Identify your organization's strengths and weaknesses when it comes to online audience. Before participating in the Week 2 Hangout, fill out the Channels portion of the revenue development plan template. 
 
