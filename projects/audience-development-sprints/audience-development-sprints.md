@@ -20,7 +20,7 @@ INN Audience Development Sprints are about digital audience development. We don'
 
 # Sprint Schedule
 
-*Week 1*  What's Your Purpose?  Before participating in the Week 1 Hangout, please fill out a [Lean Canvas](https://leanstack.com/) to describe your organization's purpose, and fill out the analytics portion of the audience development plan template.  [See an example Lean Canvas here](https://leanstack.com/products/149519/product.pdf).  You will get an email with the audience development plan template from the sprint leader. 
+*Week 1*  What's Your Purpose?  Before participating in the Week 1 Hangout, please fill out a [Lean Canvas](https://leanstack.com/) to describe your organization's purpose, and fill out the analytics portion of the audience development plan template.  You will get an email with the audience development plan template from the sprint leader. 
 
 *Week 2* Strengths & Weaknesses Identify your organization's strengths and weaknesses when it comes to online audience. Before participating in the Week 2 Hangout, fill out the Channels portion of the audience development plan template. 
 
