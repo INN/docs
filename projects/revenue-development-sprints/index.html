@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8"/>
+	<title>sStory</title>
+
+  <script src="lib/js/3rdparty.min.js" type="text/javascript" charset="utf-8"></script>
+  <script src="http://maps.stamen.com/js/tile.stamen.js?v1.2.4" type="text/javascript"></script>  
+  
+  <script src="lib/js/sstory.js" type="text/javascript" charset="utf-8"></script>
+
+  <link rel="stylesheet" href="lib/styles/style.css" type="text/css" media="screen" title="Primary Stylesheet" charset="utf-8">
+</head>
+
+<body>
+<nav id="header">
+  <div id="header-content" class="show-front">
+    <div id="header-front">
+      <h1 id="title">sStory</h1>
+      <h4 id="subtitle">Making beautiful stories easy</h4>
+    </div>
+
+    <ul id="navigation">
+    </ul>
+
+    <div id="header-bottom"><div id="progress" style="width: 0%;">&nbsp;</div></div>
+  </div>
+</nav>
+
+<div id="content">
+</div>
+
+<script type="text/javascript" charset="utf-8">
+var story_list = [
+  {
+    photoUrl: 'http://postimg.org/image/7rrg54fx7/'
+    ,type: 'photoBigText'
+    
+    // Hey, we want a big picture here but no title right now
+   // ,title: 'Mayor Menino: A Man of Substance'
+  }
+  ,{
+    type: 'locationSinglePlace'
+    ,address: "1600 Pennsylvania Ave NW  Washington, DC"
+    ,caption: "Easily make maps- just provide an address!"
+    ,title: 'A map of the White House'
+  }
+  ,{
+    type: 'photoCaption'
+    ,photoUrl: 'https://farm8.staticflickr.com/7030/6751144021_d9b328e737_b.jpg'
+    ,title: 'Full-screen media automatically'
+    ,caption: '<h3>Captions too!</h3><p><a href="http://ejfox.github.io/sStory/documentation/">Read about more sStory features in the documentation</a></p><p>Lorem ipsum <em>dolor sit</em> amet. Include styled <span style="color: red">HTML</span>!'
+  }
+  ,{
+    type: 'photoMulti'
+   // ,photoUrlArray: ['http://37.media.tumblr.com/76cd2f0e146ac4d6251bd9ff28eb8307/tumblr_ms91cgSwmX1qcn8pro1_1280.jpg', 'http://24.media.tumblr.com/9a5c41e468022c91dfd201053d1a099b/tumblr_ms91cgSwmX1qcn8pro2_1280.jpg', 'http://24.media.tumblr.com/5aeb959fd9c416f18e80d27b84384f1b/tumblr_ms91cgSwmX1qcn8pro3_1280.jpg']
+     ,photoUrlArray: ['http://37.mediamy url in here lr.com/76cd2f0e146ac4d6251bd9ff28eb8307/tumblr_ms91cgSwmX1qcn8pro1_1280.jpg', 'http://24.media.tumblr.com/9a5c41e468022c91dfd201053d1a099b/tumblr_ms91cgSwmX1qcn8pro2_1280.jpg', 'http://24.media.tumblr.com/5aeb959fd9c416f18e80d27b84384f1b/tumblr_ms91cgSwmX1qcn8pro3_1280.jpg']
+
+  }
+  ,{
+    type: 'videoYoutube'
+    ,embedCode: '<iframe width="640" height="480" src="//www.youtube.com/embed/dQw4w9WgXcQ?rel=0" frameborder="0" allowfullscreen></iframe>'
+  }
+  ,{
+    type: 'videoVimeo'
+    ,embedCode: '<iframe src="http://player.vimeo.com/video/35912908?badge=0" width="500" height="281" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe> <p><a href="http://vimeo.com/35912908">FACETURE</a> from <a href="http://vimeo.com/user9669590">Phil Cuttance</a> on <a href="https://vimeo.com">Vimeo</a>.</p>'
+  }
+  ,{
+    type: 'soundSoundcloud'
+    ,embedCode: '<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/125682501&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_artwork=true"></iframe>'
+  }
+  ,{
+    type: 'timelineVerite'
+    ,embedCode: "<iframe src='http://cdn.knightlab.com/libs/timeline/latest/embed/index.html?source=0ApAkxBfw1JT4dFVxOEk0aGRxbk9URE9yeDJKMXNIS3c&font=Bevan-PotanoSans&maptype=toner&lang=en&start_at_slide=1&height=650' width='100%' height='650' frameborder='0'></iframe>"
+  }
+  ,{
+    type: 'text'
+    ,html: '<h2>sStory</h2><p>sStory is being continually developed by me, <a href="http://ejfox.com">EJ Fox</a>. If you have any suggestions, comments, or Pull Requests, please let me know <a href="https://github.com/ejfox/sStory/issues?state=open">on GitHub</a>. I hope you find sStory useful!</p>'
+  }
+]
+
+var story = new sStory(story_list)
+story.render()
+
+</script>
+</body>
+</html>
