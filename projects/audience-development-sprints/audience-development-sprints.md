@@ -4,9 +4,11 @@ INN and its members occasionally organize "sprints" on topics that are vital to 
 
 **Structure** An audience development sprint takes place over three weeks, with one hour-long meeting via Google Hangout each week.  
 
-**Who can participate?** Anyone from a nonprofit news organization who can commit to doing the homework, attending all three sessions, and communicate with your assigned partner between sessions.  *One participant per organization, please.*  
+**Who can participate?** Anyone from a nonprofit news organization who can commit to doing the homework, attending all three sessions, and communicate with your assigned partner between sessions.  *One participant per organization, please.*
 
 **Pairing up** Participants work in pairs during a sprint. You'll need to save time to read and respond to your partner's plans between sessions. Because there's only one participant per organization, you will be working alongside someone from another nonprofit newsroom.  
+
+**How many people can participate?** We use Google Hangout for our weekly meetings, and Hangouts have a participant limit.  We cap sprints at 12 spots.  
 
 **How Can I Find Out When A Sprint Is Happening?** INN will announce new sprints on the INNED-L listerv (for INN members), the INN newsletter, and via the @INN Twitter account. 
 
@@ -20,7 +22,7 @@ INN Audience Development Sprints are about digital audience development. We don'
 
 # Sprint Schedule
 
-*Week 1*  What's Your Purpose?  Before participating in the Week 1 Hangout, please fill out a [Lean Canvas](https://leanstack.com/) to describe your organization's purpose, and fill out the analytics portion of the audience development plan template.  You will get an email with the audience development plan template from the sprint leader. 
+*Week 1*  What's Your Purpose?  Before participating in the Week 1 Hangout, please fill out a [Lean Canvas](https://leanstack.com/) to describe your organization's purpose, and fill out the analytics baseline portion of the audience development plan template.  This will require some research by you using Google Analytics for your site. You will get an email with the audience development plan template from the sprint leader. 
 
 *Week 2* Strengths & Weaknesses Identify your organization's strengths and weaknesses when it comes to online audience. Before participating in the Week 2 Hangout, fill out the Channels portion of the audience development plan template. 
 
