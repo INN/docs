@@ -44,7 +44,7 @@ Refer to our [best practices for PHP](/style-guides/code/php.md) as the baseline
 
 #### Inline Documentation
 
-We believe that inline documentation of the Largo code is important and necessary, both to help future developers (including our future selves) and to encourage less experienced developers to work with our code. If you're not convinced, read [this blog post on inline documentation by John Jacob Jacoby](http://jaco.by/2012/06/04/inline-documentation/), a major contributor to WordPress and related projects.
+We believe that inline documentation of our WordPress-related code is important and necessary, both to help future developers (including our future selves) and to encourage less experienced developers to work with our code. If you're not convinced, read [this blog post on inline documentation by John Jacob Jacoby](http://jaco.by/2012/06/04/inline-documentation/), a major contributor to WordPress and related projects.
 
 ##### What should be documented?
 
@@ -276,9 +276,9 @@ return apply_filters( "post_type_labels_{$post_type}", $labels );
 
 - For each type of DocBlock, refer to the WordPress documentation on how each tag (e.g. `@param`) should be used. If it's still unclear, refer to the [WordPress reference on PHPDoc Tags](https://make.wordpress.org/core/handbook/inline-documentation-standards/php-documentation-standards/#phpdoc-tags).
 
-- For the tags `@since` and `@deprecated`, be sure that these accurately reflect Largo's version at the time the feature was added or deprecated.
+- For the tags `@since` and `@deprecated`, be sure that these accurately reflect the project's version at the time the feature was added or deprecated.
 
-- When using the `@package` tag, be sure to use `@package Largo` instead of `@package WordPress` as seen in the WordPress source code.
+- When using the `@package` tag, be sure to use the name of the containing project. If working on Largo, this should be `@package Largo`.
 
 - When creating multi-line comments in the code that are not meant to be seen in the extracted PHP documentation, be sure to **not** start your block with `/**` and instead with a single asterisk `/*`.
 
