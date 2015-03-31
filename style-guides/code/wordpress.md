@@ -62,191 +62,215 @@ We follow the [WordPress ethos on inline documentation](https://make.wordpress.o
 
 PHP Files should start with a DocBlock, just after the opening `<?php`, that give an overview of what is contained in the file, and should have the following format. ([WordPress standards](https://make.wordpress.org/core/handbook/inline-documentation-standards/php-documentation-standards/#6-file-headers))
 
-    /**
-     * Summary (no period for file headers)
-     *
-     * Description. (use period)
-     *
-     * @link URL
-     * @since x.x.x (if available)
-     *
-     * @package Largo
-     * @subpackage Component
-     */
+```php
+/**
+ * Summary (no period for file headers)
+ *
+ * Description. (use period)
+ *
+ * @link URL
+ * @since x.x.x (if available)
+ *
+ * @package Largo
+ * @subpackage Component
+ */
+```
 
 Examples:
 
 - wp-includes/post.php of the WordPress 4.1 source code ([source](https://github.com/WordPress/WordPress/blob/4.1-branch/wp-includes/post.php#L2-L8))
 
-    <?php
-    /**
-     * Post functions and post utility function.
-     *
-     * @package WordPress
-     * @subpackage Post
-     * @since 1.5.0
-     */
+```php
+<?php
+/**
+ * Post functions and post utility function.
+ *
+ * @package WordPress
+ * @subpackage Post
+ * @since 1.5.0
+ */
+```
 
 ###### Functions and Class Methods
 
 Functions and class methods should include a DocBlock preceding their definition of the following format. ([WordPress standards](https://make.wordpress.org/core/handbook/inline-documentation-standards/php-documentation-standards/#1-functions-and-class-methods))
 
-    /**
-     * Summary.
-     *
-     * Description.
-     *
-     * @since x.x.x
-     * @access (for functions: only use if private)
-     *
-     * @see Function/method/class relied on
-     * @link URL
-     * @global type $varname Description.
-     * @global type $varname Description.
-     *
-     * @param type $var Description.
-     * @param type $var Optional. Description.
-     * @return type Description.
-     */
+```php
+/**
+ * Summary.
+ *
+ * Description.
+ *
+ * @since x.x.x
+ * @access (for functions: only use if private)
+ *
+ * @see Function/method/class relied on
+ * @link URL
+ * @global type $varname Description.
+ * @global type $varname Description.
+ *
+ * @param type $var Description.
+ * @param type $var Optional. Description.
+ * @return type Description.
+ */
+```
 
 Examples:
 
 - `get_post()` as defined in wp-includes/post.php of the WordPress 4.1 source code ([source](https://github.com/WordPress/WordPress/blob/4.1-branch/wp-includes/post.php#L402-L416))
 
-    /**
-     * Retrieves post data given a post ID or post object.
-     *
-     * See {@link sanitize_post()} for optional $filter values. Also, the parameter
-     * $post, must be given as a variable, since it is passed by reference.
-     *
-     * @since 1.5.1
-     *
-     * @param int|WP_Post $post   Optional. Post ID or post object. Defaults to global $post.
-     * @param string      $output Optional, default is Object. Accepts OBJECT, ARRAY_A, or ARRAY_N.
-     *                            Default OBJECT.
-     * @param string      $filter Optional. Type of filter to apply. Accepts 'raw', 'edit', 'db',
-     *                            or 'display'. Default 'raw'.
-     * @return WP_Post|null WP_Post on success or null on failure.
-     */
-    function get_post( $post = null, $output = OBJECT, $filter = 'raw' ) {
+```php
+/**
+ * Retrieves post data given a post ID or post object.
+ *
+ * See {@link sanitize_post()} for optional $filter values. Also, the parameter
+ * $post, must be given as a variable, since it is passed by reference.
+ *
+ * @since 1.5.1
+ *
+ * @param int|WP_Post $post   Optional. Post ID or post object. Defaults to global $post.
+ * @param string      $output Optional, default is Object. Accepts OBJECT, ARRAY_A, or ARRAY_N.
+ *                            Default OBJECT.
+ * @param string      $filter Optional. Type of filter to apply. Accepts 'raw', 'edit', 'db',
+ *                            or 'display'. Default 'raw'.
+ * @return WP_Post|null WP_Post on success or null on failure.
+ */
+function get_post( $post = null, $output = OBJECT, $filter = 'raw' ) {
+```
 
 ###### Classes
 
 Classes should include a DocBlock immediately preceding their declaration with a summary of their purpose. (Although the WordPress standard specifies that these should be documented, there is no specification in the WordPress standards. The implementation in the WordPress source code is also spotty.)
 
-   /**
-     * Summary.
-     *
-     * Description.
-     *
-     * @package Largo
-     * @subpackage Component
-     * @since x.x.x
-     */
+```php
+/**
+ * Summary.
+ *
+ * Description.
+ *
+ * @package Largo
+ * @subpackage Component
+ * @since x.x.x
+ */
+```
 
 Examples:
 
 - `WP_Post` class defined in wp-includes/post.php of the WordPress 4.1 source code ([source](https://github.com/WordPress/WordPress/blob/4.1-branch/wp-includes/post.php#L449-L454))
 
-    /**
-     * WordPress Post class.
-     *
-     * @since 3.5.0
-     *
-     */
-    final class WP_Post {
+```php
+/**
+ * WordPress Post class.
+ *
+ * @since 3.5.0
+ *
+ */
+final class WP_Post {
+```
 
 - `WP_Http` class defined in wp-includes/class-http.php of the WordPress 4.1 source code ([source](https://github.com/WordPress/WordPress/blob/4.1-branch/wp-includes/class-http.php#L15-L27))
 
-    /**
-     * WordPress HTTP Class for managing HTTP Transports and making HTTP requests.
-     *
-     * This class is used to consistently make outgoing HTTP requests easy for developers
-     * while still being compatible with the many PHP configurations under which
-     * WordPress runs.
-     *
-     * Debugging includes several actions, which pass different variables for debugging the HTTP API.
-     *
-     * @package WordPress
-     * @subpackage HTTP
-     * @since 2.7.0
-     */
-    class WP_Http {
+```php
+/**
+ * WordPress HTTP Class for managing HTTP Transports and making HTTP requests.
+ *
+ * This class is used to consistently make outgoing HTTP requests easy for developers
+ * while still being compatible with the many PHP configurations under which
+ * WordPress runs.
+ *
+ * Debugging includes several actions, which pass different variables for debugging the HTTP API.
+ *
+ * @package WordPress
+ * @subpackage HTTP
+ * @since 2.7.0
+ */
+class WP_Http {
+```
 
 ###### Public Class Properties
 
 Each public property of a class should include a DocBlock before it that summarizes its purpose and indicates its type. We deviate from the WordPress Way here in that we do not require documentation of non-public class properties. ([WordPress standards](https://make.wordpress.org/core/handbook/inline-documentation-standards/php-documentation-standards/#2-class-properties))
 
-    /**
-     * Summary.
-     *
-     * @since x.x.x
-     * @var type $var Description.
-     */
+```php
+/**
+ * Summary.
+ *
+ * @since x.x.x
+ * @var type $var Description.
+ */
+```
 
 Examples:
 
 - `post_author` property of the `WP_Post` class defined in wp-includes/post.php of the WordPress 4.1 source code ([source](https://github.com/WordPress/WordPress/blob/4.1-branch/wp-includes/post.php#L464-L470))
 
-    /**
-     * ID of post author.
-     *
-     * A numeric string, for compatibility reasons.
-     *
-     * @var string
-     */
-    public $post_author = 0;
+```php
+/**
+ * ID of post author.
+ *
+ * A numeric string, for compatibility reasons.
+ *
+ * @var string
+ */
+public $post_author = 0;
+```
 
 ###### Actions and Filters
 
 Actions and filters should include a DocBlock immediately preceding the call to `do_action()` or `apply_filters()` with the following format. ([WordPress standards](https://make.wordpress.org/core/handbook/inline-documentation-standards/php-documentation-standards/#4-hooks-actions-and-filters))
 
-    /**
-     * Summary.
-     *
-     * Description.
-     *
-     * @since x.x.x
-     *
-     * @param type  $var Description.
-     * @param array $args {
-     *     Short description about this hash.
-     *
-     *     @type type $var Description.
-     *     @type type $var Description.
-     * }
-     * @param type  $var Description.
-     */
+```php
+/**
+ * Summary.
+ *
+ * Description.
+ *
+ * @since x.x.x
+ *
+ * @param type  $var Description.
+ * @param array $args {
+ *     Short description about this hash.
+ *
+ *     @type type $var Description.
+ *     @type type $var Description.
+ * }
+ * @param type  $var Description.
+ */
+```
 
 Examples:
 
 - `do_action( 'registered_post_type', $post_type, $args )` in wp-includes/post.php of the WordPress 4.1 source code ([source](https://github.com/WordPress/WordPress/blob/4.1-branch/wp-includes/post.php#L1455-L1462))
 
-    /**
-     * Fires after a post type is registered.
-     *
-     * @since 3.3.0
-     *
-     * @param string $post_type Post type.
-     * @param object $args      Arguments used to register the post type.
-     */
-    do_action( 'registered_post_type', $post_type, $args );
+```php
+/**
+ * Fires after a post type is registered.
+ *
+ * @since 3.3.0
+ *
+ * @param string $post_type Post type.
+ * @param object $args      Arguments used to register the post type.
+ */
+do_action( 'registered_post_type', $post_type, $args );
+```
 
 - `apply_filters( "post_type_labels_{$post_type}", $labels )` in wp-includes/post.php of the WordPress 4.1 source code ([source](https://github.com/WordPress/WordPress/blob/4.1-branch/wp-includes/post.php#L1455-L1462))
 
-    /**
-     * Filter the labels of a specific post type.
-     *
-     * The dynamic portion of the hook name, `$post_type`, refers to
-     * the post type slug.
-     *
-     * @since 3.5.0
-     *
-     * @see get_post_type_labels() for the full list of labels.
-     *
-     * @param array $labels Array of labels for the given post type.
-     */
-    return apply_filters( "post_type_labels_{$post_type}", $labels );
+```php
+/**
+ * Filter the labels of a specific post type.
+ *
+ * The dynamic portion of the hook name, `$post_type`, refers to
+ * the post type slug.
+ *
+ * @since 3.5.0
+ *
+ * @see get_post_type_labels() for the full list of labels.
+ *
+ * @param array $labels Array of labels for the given post type.
+ */
+return apply_filters( "post_type_labels_{$post_type}", $labels );
+```
 
 ##### Notes
 
@@ -258,17 +282,21 @@ Examples:
 
 - When creating multi-line comments in the code that are not meant to be seen in the extracted PHP documentation, be sure to **not** start your block with `/**` and instead with a single asterisk `/*`.
 
-    GOOD:
+**GOOD**:
 
-    /*
-     * This is a comment that is long enough to warrant being stretched over
-     * the span of multiple lines. You'll notice this follows basically
-     * the same format as the PHPDoc wrapping and comment block style.
-     */
+```php
+/*
+ * This is a comment that is long enough to warrant being stretched over
+ * the span of multiple lines. You'll notice this follows basically
+ * the same format as the PHPDoc wrapping and comment block style.
+ */
+```
 
-    BAD:
+**BAD**:
 
-    /**
-     * This multi-line comment will appear in the extracted PHP documentation
-     * and may not make sense in context. Use with caution.
-     */
+```php
+/**
+ * This multi-line comment will appear in the extracted PHP documentation
+ * and may not make sense in context. Use with caution.
+ */
+```
