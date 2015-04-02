@@ -23,12 +23,6 @@ Information on how to become a member, membership standards, dues, etc., [can be
 -  **Free access to fonts** from [Adobe's Typekit library](https://typekit.com/).
 -  **Site licenses** for a number of [premium WordPress plugins](http://largo.readthedocs.org/users/plugins.html#complete-list-of-plugins-available).
 
-**For members participating in collaborative investigations and data projects:**
-
--  **News applications and interactive features** to support collaborative investigations, localizable and flexible enough to work on a variety of member websites regardless of CMS.
--  **Help with integrating these apps/features** into your stories and websites.
--  **Promotion of member stories** through our website, newsletters and social media.
-
 **For members who want to use the tools we build:**
 
 -  **Easy to understand documentation** to help members get up and running with any tools we build and open source.
