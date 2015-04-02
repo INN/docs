@@ -27,7 +27,7 @@ For INN members, we will subsidize the cost of these services to keep them very 
 **Some examples of the services we offer include:**
 
 -  Content migration, design customization and custom development for members using our Largo platform beyond what we're able to do for "free" as a benefit of INN membership
--  Assistance with editorial design and development for news apps, data projects or special projects
+-  Assistance with editorial design and development for news apps, data projects or special projects (including cleaning and analyzing data for news apps)
 -  Ongoing or project-based support, training and assistance with story production
 -  Assistance with general technology strategy, recruiting and hiring, and building and managing technology resources at your organization.
 
