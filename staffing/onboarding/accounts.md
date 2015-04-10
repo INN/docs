@@ -58,6 +58,11 @@ Note: HipChat account creation can only be done by someone with Admin/Owner priv
 - Typically we'll add all team members to the "Tech Team" team and then optionally to "Owners" (for core team members) and "Secret" for people with permission to deploy sites/apps to production.
 
 
+### Bitbucket
+
+- To add a user to any of our Bitbucket teams they need to first create a personal Bitbucket account.
+- Assuming you know the new team member's account and are logged into Bitbucket, go to [https://bitbucket.org/account/user/projectlargo/groups/](https://bitbucket.org/account/user/projectlargo/groups/). There are two teams, Administrators for staff and Interns for apprentices. Enter their username in the text field under the appropriate team and click the "Add" button.
+
 ### Websites
 
 - Typically we'll need to at least add new team members to the [team blog](http://nerds.inn.org) but they may also need access to other INN sites and/or to the Largo WP instance.
