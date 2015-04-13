@@ -261,11 +261,9 @@ Even though we have a super-admin that can see all the sites, it still needs to 
 
 4. Edit your host computer's `/etc/hosts file` by adding the line `192.168.33.10 project.vagrant.dev` to the end of the file.
 
-5. Check that [http://project.vagrant.dev](http://project.vagrant.dev) points to the correct site.
+5. Back in the WordPress admin, click on the "Users" tab.
 
-6. Click the "Users" tab.
-
-7. Under "Add Existing User", enter superadmin as the username and choose the "Administrator" role.
+6. Under "Add Existing User", enter superadmin as the username and choose the "Administrator" role.
 
 **SNAPSHOT**: Let's save our progress now. In your command line, take another snapshot with (substitute in the name of the project):
 
