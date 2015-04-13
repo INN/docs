@@ -2,7 +2,7 @@
 
 You're new to INN, or you've been here for a while and never set up the Largo umbrella of sites before on your computer, or you you've been here and have it set up but you did the setup back in the Cenozoic era and avoid doing it because you forget all the details.
 
-Fret not! This guide will show you how to go from a Mac OS X system, with a baseline of what is described in our [setup docs](https://github.com/INN/docs/blob/master/staffing/onboarding/os-x-setup.md#terminal-emulator), and get to the point of:
+Fret not! This guide will show you how to go from a Mac OS X system, with a baseline of what is described in our [setup docs](/staffing/onboarding/os-x-setup.md#terminal-emulator), and get to the point of:
 
 * being able to browse the current version of [http://largoproject.org/](http://largoproject.org/) at the local URL [http://vagrant.dev/](http://vagrant.dev/)
 * being able to browse every INN member's site that uses Largo and which we host, such as [http://wisconsinwatch.org/](http://wisconsinwatch.org/) and [http://current.org/](http://current.org/), at local URLs
@@ -15,7 +15,7 @@ Fret not! This guide will show you how to go from a Mac OS X system, with a base
 Pretty cool, right?
 
 
-Most of this stuff works from your command line, which you get to through the default Mac application terminal or, if you followed the setup guide, iTerm2. If you're unfamiliar with using the terminal or don't have iTerm2, be sure to go through that section in the [setup guide](https://github.com/INN/docs/blob/master/staffing/onboarding/os-x-setup.md#terminal-emulator) to get some prerequisites set up. If you have questions, be sure to ask in the INN Tech HipChat room, because the terminal can be a perplexing and idiosyncratic interface. We've all been there.
+Most of this stuff works from your command line, which you get to through the default Mac application terminal or, if you followed the setup guide, iTerm2. If you're unfamiliar with using the terminal or don't have iTerm2, be sure to go through that section in the [setup guide](/staffing/onboarding/os-x-setup.md#terminal-emulator) to get some prerequisites set up. If you have questions, be sure to ask in the INN Tech HipChat room, because the terminal can be a perplexing and idiosyncratic interface. We've all been there.
 
 What's next?
 
@@ -47,7 +47,7 @@ $ git submodule init && git submodule update
 
 ## 3. Install Python tools.
 
-We use a few Python libraries for this project, including [Fabric](http://www.fabfile.org/) which powers the INN deploy-tools to elegantly run common but complex tasks. In the [OS X setup guide](https://github.com/INN/docs/blob/master/staffing/onboarding/os-x-setup.md), you should have installed Python virtualenv and virtualenvwrapper. With that as a base, create a virtual environment and install the required Python libraries:
+We use a few Python libraries for this project, including [Fabric](http://www.fabfile.org/) which powers the INN deploy-tools to elegantly run common but complex tasks. In the [OS X setup guide](/staffing/onboarding/os-x-setup.md), you should have installed Python virtualenv and virtualenvwrapper. With that as a base, create a virtual environment and install the required Python libraries:
 
 ```
 $ mkvirtualenv largo-umbrella -no-site-packages
@@ -90,7 +90,7 @@ In order to access the live website data, and to send notifications to HipChat w
 
 ## 6. Set up a virtual machine.
 
-We use Vagrant, in conjunction with Virtual Box, to create and manage virtual machines on our development systems. If you don't have these installed yet, the [OS X setup guide](https://github.com/INN/docs/blob/ae86dba1e0eb783d9ddb085a61de4dc038b02cf1/staffing/onboarding/os-x-setup.md#virtual-machines) explains where to get them.
+We use Vagrant, in conjunction with Virtual Box, to create and manage virtual machines on our development systems. If you don't have these installed yet, the [OS X setup guide](/staffing/onboarding/os-x-setup.md#virtual-machines) explains where to get them.
 
 With Vagrant installed, start the largo-umbrella virtual machine setup process with:
 
