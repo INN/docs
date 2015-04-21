@@ -37,3 +37,6 @@
 
 12. Do you have any questions for me?
 
+## Further Reading
+
+- [Front end developer interview questions from b5bp](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
