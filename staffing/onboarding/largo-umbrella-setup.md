@@ -101,11 +101,19 @@ $ vagrant up
 
 Now you can go make a cup of tea and answer some emails, because this might take up to an hour. In that time, it downloads the image of a Ubuntu Linux system, installs the MySQL and PHP servers, along with all of the most recent updates, and configures it just so that all the Fabric commands work.
 
-When it's done, edit your `/etc/hosts` file and add the following line:
+When it's done, edit your `/etc/hosts` file:
+
+```
+$ sudo nano /etc/hosts
+```
+
+Enter your password, use the arrow keys to position the cursor at the end of the file and add the following line:
 
 ```
 192.168.33.10 vagrant.dev
 ```
+
+Then use Ctrl-O to save your changes and Ctrl-X to exit the editor.
 
 This tells your system that whenever you use the address `http://vagrant.dev`, you really mean the IP address of the virtual machine.
 
