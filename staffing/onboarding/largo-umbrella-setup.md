@@ -111,10 +111,10 @@ This tells your system that whenever you use the address `http://vagrant.dev`, y
 
 ## 7. Download WordPress.
 
-We still need to get the WordPress core files downloaded to the right locations to tie all of this together. Based on whatever the latest version of WordPress is (4.1 at the time of writing), use Fabric to download it:
+We still need to get the WordPress core files downloaded to the right locations to tie all of this together. Based on whatever the latest version of WordPress is (4.1.2 at the time of writing), use Fabric to download it:
 
 ```
-$ fab wp.install:4.1
+$ fab wp.install:4.1.2
 ```
 
 ## 8. Download production database.
