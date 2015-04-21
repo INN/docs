@@ -51,6 +51,7 @@ We use a few Python libraries for this project, including [Fabric](http://www.fa
 
 ```
 $ mkvirtualenv largo-umbrella --no-site-packages
+$ workon largo-umbrella
 $ pip install -r requirements.txt
 ```
 
