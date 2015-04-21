@@ -50,7 +50,7 @@ $ git submodule init && git submodule update
 We use a few Python libraries for this project, including [Fabric](http://www.fabfile.org/) which powers the INN deploy-tools to elegantly run common but complex tasks. In the [OS X setup guide](/staffing/onboarding/os-x-setup.md), you should have installed Python virtualenv and virtualenvwrapper. With that as a base, create a virtual environment and install the required Python libraries:
 
 ```
-$ mkvirtualenv largo-umbrella -no-site-packages
+$ mkvirtualenv largo-umbrella --no-site-packages
 $ pip install -r requirements.txt
 ```
 
