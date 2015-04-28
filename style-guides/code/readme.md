@@ -106,3 +106,7 @@ See [wordpress.md](https://github.com/INN/docs/blob/master/style-guides/code/wor
 ## Assets
 
 See [assets.md](https://github.com/INN/docs/blob/master/style-guides/code/assets.md).
+
+## Release Checklist
+
+See [releases.md](/checklists/releases.md) in the checklists folder.
