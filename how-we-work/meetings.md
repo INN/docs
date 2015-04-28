@@ -112,14 +112,15 @@ We should cover:
 <a id="staff-meeting"></a>
 ### Bi-weekly All INN Staff Meeting
 
--  Every other Monday at 1 PM ET via Google Hangout
+-  Every other Monday at 4 PM ET via Google Hangout (link in the shared Google Calendar invite)
 -  Usually takes about an hour
--  Attended by all INN staff
--  Team leader will report for the entire team but may in some cases ask other team members to report on and/or provide more specifics for projects they're working on
+-  Mandatory for all full-time INN staff. Hourly staff and contractors may attend in some cases, but typically won't need to. Your supervisor will let you know if your attendance is required.
+-  Team leader will report for the entire team but may in some cases ask other team members to report on and/or provide more specifics for projects they're working on.
 
 <a id="additional-reading"></a>
 ### Additional Reading
 
 - [11 Ways to Cure Bad Newsroom Meetings](http://www.pbs.org/idealab/2015/03/11-ways-to-cure-bad-newsroom-meetings/)
+- [Blameless Postmortems](https://codeascraft.com/2012/05/22/blameless-postmortems/)
 
 
