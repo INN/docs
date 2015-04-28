@@ -4,7 +4,7 @@
 
 **What's in here (so far):**
 
--  **[A manifesto](/manifesto)** outlining our team's mission and values
+-  **[A manifesto](manifesto.md)** outlining our team's mission and values
 -  **[Our Strategy for 2015](/strategy/2015.md)**
 -  **[Staffing and Hiring](/staffing)** including how we recruit and hire new team members plus some [sample job descriptions](/staffing/job-descriptions), [interview questions](/staffing/interview-questions.md) for screening candidates and [our onboarding process](/staffing/onboarding).
 -  **[How we work](/how-we-work)** including our [internal process](/how-we-work/process.md), [what we've learned about working as a remote team](/how-we-work/remote-work.md), [the tools we use](/how-we-work/tools.md) and [notes on how we conduct meetings](/how-we-work/meetings.md)
@@ -35,7 +35,7 @@ These docs draw on (and sometimes straight up steal) excellent work from teams t
 
 All of these documents are licensed under a [Creative Commons BY-NC 3.0](http://creativecommons.org/licenses/by-nc/3.0/) license. You are free to share and to remix them (as long as you credit us) but please don't use them commercially without permission.
 
-### Suggestions
+### Contributing
 
 We welcome contributions and suggestions to help us improve any of these documents. Please start by [reading our contribution guidelines](/how-to-work-with-us/contributing.md) and then [review the specifics](contributing.md) for this project to get started.
 
