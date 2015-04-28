@@ -8,6 +8,7 @@ A collection of best practices when writing code or designing for INN projects.
 
 ### Still todo:
 - Guidelines for working with data (resources from IRE, etc.)
+- Documentation standards
 
 ### Inspiration
 
