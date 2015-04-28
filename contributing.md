@@ -21,5 +21,5 @@ And of course you can always email us: [nerds@inn.org](mailto:nerds@inn.org).
 
 ### Standards
 
-- Use markdown syntax for all documents
+- Use [markdown syntax](http://daringfireball.net/projects/markdown/syntax) for all documents
 - Follow all INN documentation standards
