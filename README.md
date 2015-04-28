@@ -37,19 +37,7 @@ All of these documents are licensed under a [Creative Commons BY-NC 3.0](http://
 
 ### Suggestions
 
-We welcome contributions and suggestions to help us improve any of these documents. Please start by [reading our contribution guidelines](/how-to-work-with-us/contributing.md).
-
-And then, to contribute your changes:
-
-1.  [Fork this repo](https://help.github.com/articles/fork-a-repo)
-2.  Create a branch (git checkout -b my-branch)
-3.  Stage and commit your changes (git commit -am 'description of my changes')
-4.  Push the changes to your fork (git push origin my-branch)
-5.  [Submit a pull request to the parent repo](https://help.github.com/articles/creating-a-pull-request)
-
-We also have [a helpful how-to](/how-to-work-with-us/via-github.md) that walks through this process in more detail if you're new to using Git.
-
-Additionally, you can [create issues](https://github.com/INN/docs/issues) on this repo to suggest changes or improvements. And of course you can always email us: [nerds@inn.org](mailto:nerds@inn.org).
+We welcome contributions and suggestions to help us improve any of these documents. Please start by [reading our contribution guidelines](/how-to-work-with-us/contributing.md) and then [review the specifics](contributing.md) for this project to get started.
 
 ### Who Wrote This?
 
