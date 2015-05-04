@@ -22,6 +22,6 @@ Revenue development sprints focus on developing earned revenue through event and
 
 *Week 1*  What's Your Purpose?  Before participating in the Week 1 Hangout, please fill out a Lean Canvas to describe your organization's purpose. If you have already participated in another Sprint, you may have one already.  Please review and update it.  Fill out Section 1 of your revenue development plan template (which describes the current state of your organization in terms of where your money goes and how it is spent).  
 
-*Week 2* Strengths & Weaknesses Identify your organization's strengths and weaknesses when it comes to online audience. Before participating in the Week 2 Hangout, fill out the Channels portion of the revenue development plan template. 
+*Week 2* Strengths & Weaknesses Identify your organization's strengths and weaknesses when it comes to revenue.  Use the plan template to outline your major goals for the next three quarters.  
 
 *Week 3* Show Your Plan You will do a five-slide presentation -- not of your plan, but of your buddy's plan. Come to this session with a complete revenue development plan. 
