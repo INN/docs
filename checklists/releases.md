@@ -52,6 +52,13 @@ For example, in Largo, make sure version numbers are update (see the next list i
 
 - [ ] Run the test suite one last time to make sure you're not tagging a broken version
 
+- [ ] Rebuild documentation
+
+For example, to rebuild the PHP documentation in Largo
+
+        > git checkout develop
+        > grunt shell
+
 - [ ] Merge develop branch into master and push
 
         > git checkout master
