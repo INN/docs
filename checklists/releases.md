@@ -25,6 +25,7 @@ Preparing a repository for a new release:
 For example, to compile CSS and JS files in Largo:
 
     > git checkout develop
+    > grunt less
     > grunt cssmin
     > grunt uglify
 
