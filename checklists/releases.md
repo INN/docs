@@ -38,6 +38,20 @@ For example, to compile translation files in Largo:
     > msgmerge -o lang/es_ES.po.merged lang/es_ES.po lang/largo.pot
     > mv lang/es_ES.po.merged lang/es_ES.po
 
+- [ ] Update the project's readme
+
+For example, in Largo, make sure version numbers are update (see the next list item) and any links to Travs or Read The Docs are using the appropriate branch.
+
+- [ ] Update the version number in the project
+
+    - For Largo, update the version number in:
+        - `style.css`
+        - `readme.md`
+        - `package.json`
+        - `docs/conf.py`
+
+- [ ] Run the test suite one last time to make sure you're not tagging a broken version
+
 - [ ] Merge develop branch into master and push
 
         > git checkout master
