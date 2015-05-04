@@ -28,6 +28,7 @@ For example, to compile CSS and JS files in Largo:
     > grunt less
     > grunt cssmin
     > grunt uglify
+    > grunt shell
 
 - [ ] Compile translation file(s).
 
