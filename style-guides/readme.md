@@ -5,9 +5,9 @@ A collection of best practices when writing code or designing for INN projects.
 ### Table of Contents
 - [INN's Best Practices (for code)](/style-guides/code)
 - [INN's Design Style Guide](/style-guides/design)
+- [INN's Data Guide and Resources](/style-guides/data)
 
 ### Still todo:
-- Guidelines for working with data (resources from IRE, etc.)
 - Documentation standards
 
 ### Inspiration
