@@ -12,6 +12,8 @@
 ### From Member Organizations
 
 - [Data Visualisation Specialist](stl-public-radio-data-visualisation-specialist-2015.md) (St. Louis Public Radio)
+- [Design Fellowship](pro-publica-design-fellowship-2015.md) (Pro Publica)
+- [Open Data Project Lead](sunlight-foundation-open-data-project-lead-2015.md) (Sunlight Foundation)
 
 
 ### General Guidelines for Job Postings
