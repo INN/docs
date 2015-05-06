@@ -6,10 +6,10 @@ The ideal candidate for this position is a detail-oriented self starter who want
 
 Specifically, they will own our support process (and, we hope, make it even more awesome), including:
 
-- communicating with members and clients
-- refining our support and project management workflow
-- resolving bugs and issues (collaborating with other team members when needed)
-- writing great documentation to help people maximize their use of the products we build and reduce our support volume in the long-run
+- Communicating with members and clients
+- Refining our support and project management workflow
+- Resolving bugs and issues (collaborating with other team members when needed)
+- Writing great documentation to help people maximize their use of the products we build and reduce our support volume in the long-run
 
 **Who are we?**
 
