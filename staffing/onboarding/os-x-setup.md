@@ -54,9 +54,9 @@ Let's install MySQL, to be able to work with MySQL databases in the future. `bre
 
 [phpunit](https://phpunit.de/) is a unit testing tool for PHP that INN uses for unit testing in WordPress.
 
-`wget https://phar.phpunit.de/phpunit.phar`
-`chmod +x phpunit.phar`
-`mv phpunit.phar /usr/local/bin/phpunit`
+```wget https://phar.phpunit.de/phpunit.phar
+   chmod +x phpunit.phar
+   mv phpunit.phar /usr/local/bin/phpunit```
 
 Will Haynes blog post [WordPress-specific PHP unit testing](http://nerds.inn.org/2014/10/22/unit-testing-themes-and-plugins-in-wordpress/) on INN Nerds outlines additional dependencies (see Step Two) and process.
 
