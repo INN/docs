@@ -22,7 +22,7 @@ While you may like to fork some of the INN repositories into your own account to
 
 **If you will not be forking an INN directory into your personal account, make sure to always create a new branch for your changes.**
 
-![git cloning](http://inn.org/wp-content/uploads/2015/05/github-example3x.png)
+![git cloning](http://inn.org/wp-content/uploads/2015/05/github-example.png)
 
 
 
