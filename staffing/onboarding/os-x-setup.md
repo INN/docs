@@ -54,11 +54,11 @@ Let's install MySQL, to be able to work with MySQL databases in the future. `bre
 
 [phpunit](https://phpunit.de/) is a unit testing tool for PHP that INN uses for unit testing in WordPress.
 
-```wget https://phar.phpunit.de/phpunit.phar
-   chmod +x phpunit.phar
-   mv phpunit.phar /usr/local/bin/phpunit```
+    wget https://phar.phpunit.de/phpunit.phar
+    chmod +x phpunit.phar
+    mv phpunit.phar /usr/local/bin/phpunit
 
-Will Haynes blog post [WordPress-specific PHP unit testing](http://nerds.inn.org/2014/10/22/unit-testing-themes-and-plugins-in-wordpress/) on INN Nerds outlines additional dependencies (see Step Two) and process.
+Will Haynes' post [Unit Testing Themes and Plugins in WordPress](http://nerds.inn.org/2014/10/22/unit-testing-themes-and-plugins-in-wordpress/) on INN Nerds outlines additional dependencies (see Step Two) and WordPress-specific elements.
 
 Later, we'll be using Python for a few projects, and the way to keep Python library versions and environments organized with different projects is to use[virtualenv](https://virtualenv.pypa.io/en/latest/) and [virtualenvwrapper](https://virtualenvwrapper.readthedocs.org/en/latest/). To install those, we need to first install the [pip](https://pip.pypa.io/en/latest/) Python package manager, and then we'll install the virtualenv packages with pip. Run `sudo easy_install pip &amp;&amp; sudo pip install virtualenv virtualenvwrapper` in your terminal.
 
