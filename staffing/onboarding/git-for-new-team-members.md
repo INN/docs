@@ -5,7 +5,7 @@ This guide is for introducing new INN team members to Github and git version con
 
 Start using [Github](https://github.com/) before moving on to the command line. Understand what the following terms mean:
 
-- **repository:** n. a directory, a folder that contain documents
+- **repository:** n. a place where all the changes to files are stored. In github, it is a particular project within your account. In your computer, it is a particular folder where you have told git to track changes.
 - **fork:**  v. copying a user's repository to your personal account; n. the copied repository; for example, if you fork *INN/docs*, the new fork will be called *your-username/docs*. Forks allow you to make changes to entire projects without affecting the original repository. To contribute to the original project, you can request the owners to integrate your work through a pull request. 
 - **branch:** n.  a parallel version of a repository within the repository; unlike a fork, a branch creates an internal copy of the repository so you can make changes to the repository without affecting work in other branches. The initial and main branch is called *master*. A branch is both an internal copy of an original repository (such as *INN/docs*) as well as a branch you may create within a fork (a branch within *your-username/docs*). NOTE:  Always keep the master branch intact by creating new branches for new commits.
 - **commit:** n. a changed you have authorized
