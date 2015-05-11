@@ -18,11 +18,13 @@ Start using [Github](https://github.com/) before moving on to the command line. 
 
 While you may like to fork some of the INN repositories into your own account to work on them, as a member of our team we trust you to simply create branches within INN's repositories and make commits within your branches. Once you are satisfied with the changes you have made within your branch, create a pull request so the team can merge your changes into the master branch. 
 
-[This guide](/INN/docs/blob/master/how-to-work-with-us/via-github.md) explains this process. Notice that Ryan forks the INN repository into his account and edits a file inside the master branch of his fork. If you are going to make many changes, it is a good idea to create a new branch within your fork (call it my-new-changes) so your master branch is clean.
+[This guide](https://github.com/INN/docs/blob/master/how-to-work-with-us/via-github.md) explains this process. Notice that Ryan forks the INN repository into his account and edits a file inside the master branch of his fork. If you are going to make many changes, it is a good idea to create a new branch within your fork (call it my-new-changes) so your master branch is clean.
 
 **If you will not be forking an INN directory into your personal account, make sure to always create a new branch for your changes.**
 
-#### Git in the command line
+
+
+## Git in the command line
 
 **tl;dr:  If you are simply making changes to markdown files, such as helping with documentation, it's probably easier to stick to working in Github.com. However, if you will be working with data files and code, it's best to learn how to use git in the command line.**
 
