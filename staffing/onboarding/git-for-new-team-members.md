@@ -22,6 +22,8 @@ While you may like to fork some of the INN repositories into your own account to
 
 **If you will not be forking an INN directory into your personal account, make sure to always create a new branch for your changes.**
 
+![git cloning](http://inn.org/wp-content/uploads/2015/05/github-example3x.png)
+
 
 
 ## Git in the command line
@@ -31,6 +33,8 @@ While you may like to fork some of the INN repositories into your own account to
 If you don't have git in your computer, [follow the instructions](https://help.github.com/articles/set-up-git/) to set it up.
  
 Once you understand how git works from Github.com, you can learn a bit about how to use it in the command line. Why use the command line instead of just working directly in Github.com? Well, certain changes to a directory are easier made in the command line. For example, while you can manually add new files to repositories in Github.com, you can't import files from your computer. In fact, cloning your repository to your computer and then pushing the files is the way to "import" files into Github.com. 
+
+![git cloning](http://inn.org/wp-content/uploads/2015/05/git-clone-exampleSMALL.png)
 
 Let's start using git commands! Pick a repository, such as INN/docs, or your fork your-user/docs, or any other repository to clone. **Please note that if you are going to clone INN/docs directly, make a new branch for any changes you make as to not directly alter the master branch.** 
 
