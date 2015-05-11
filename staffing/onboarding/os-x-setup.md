@@ -50,15 +50,15 @@ Start with the command-line tools you'll need to use for further terminal goodne
 
 Let's install MySQL, to be able to work with MySQL databases in the future. `brew install mysql`. Yup, that's it. There are some instructions it supplies you after completing the install about getting the MySQL server to start automatically or manually.
 
-[**Wget**](http://www.gnu.org/software/wget/) is a command-line tool for retrieving files using HTTP(S) and FTP. It's as simple as `brew install wget`. It's useful for the basics or [creating a flat mirror](http://fosswire.com/post/2008/04/create-a-mirror-of-a-website-with-wget/) of a dynamic site.
+[Wget](http://www.gnu.org/software/wget/) is a command-line tool for retrieving files using HTTP(S) and FTP. It's as simple as `brew install wget`. It's useful for the basics or [creating a flat mirror](http://fosswire.com/post/2008/04/create-a-mirror-of-a-website-with-wget/) of a dynamic site.
 
-[**phpunit**](https://phpunit.de/) is a unit testing tool for PHP that INN uses for unit testing in WordPress.
+[phpunit](https://phpunit.de/) is a unit testing tool for PHP that INN uses for unit testing in WordPress.
 
-`wget https://phar.phpunit.de/phpunit.phar
-chmod +x phpunit.phar
-mv phpunit.phar /usr/local/bin/phpunit`
+`wget https://phar.phpunit.de/phpunit.phar`
+`chmod +x phpunit.phar`
+`mv phpunit.phar /usr/local/bin/phpunit`
 
-Will Haynes blog post on INN Nerds walks through [WordPress-specific PHP unit testing](http://nerds.inn.org/2014/10/22/unit-testing-themes-and-plugins-in-wordpress/) and additional dependencies.
+Will Haynes blog post [WordPress-specific PHP unit testing](http://nerds.inn.org/2014/10/22/unit-testing-themes-and-plugins-in-wordpress/) on INN Nerds outlines additional dependencies (see Step Two) and process.
 
 Later, we'll be using Python for a few projects, and the way to keep Python library versions and environments organized with different projects is to use[virtualenv](https://virtualenv.pypa.io/en/latest/) and [virtualenvwrapper](https://virtualenvwrapper.readthedocs.org/en/latest/). To install those, we need to first install the [pip](https://pip.pypa.io/en/latest/) Python package manager, and then we'll install the virtualenv packages with pip. Run `sudo easy_install pip &amp;&amp; sudo pip install virtualenv virtualenvwrapper` in your terminal.
 
