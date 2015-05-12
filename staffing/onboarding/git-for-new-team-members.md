@@ -1,6 +1,5 @@
 # Github and Git version control for INN tech team and INN staff
 
-
 This guide is for introducing new INN team members to Github and git version control and how we use these tools.
 
 Start using [Github](https://github.com/) before moving on to the command line. Understand what the following terms mean:
