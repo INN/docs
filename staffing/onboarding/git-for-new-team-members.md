@@ -24,6 +24,13 @@ While you may like to fork some of the INN repositories into your own account to
 
 ![git cloning](http://inn.org/wp-content/uploads/2015/05/github-example.png)
 
+### Naming Branches
+
+There are a few choices for naming the branches you create. If you are contributing to an INN repository and making some documentation changes, you could name your branch something like "your-name-doc-changes", or even better, "your-name-specific-changes". A good branch name is concise and specific so that you and other team members know what the branch is for.
+
+If you are working with Largo, include in the branch name the issue you are addressing and even the milestone number. 
+
+
 
 
 ## Git in the command line
