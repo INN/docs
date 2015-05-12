@@ -26,12 +26,9 @@ While you may like to fork some of the INN repositories into your own account to
 
 ### Naming Branches
 
-There are a few choices for naming the branches you create. If you are contributing to an INN repository and making some documentation changes, you could name your branch something like "your-name-doc-changes", or even better, "your-name-specific-changes". A good branch name is concise and specific so that you and other team members know what the branch is for.
+If you are contributing to an INN repository, name your branch starting with your name and then add the a short description of the issue you are addressing (e.g. - "your-name-doc-changes", or even better, "your-name-specific-changes"). A good branch name should be concise but descriptive so that you and other team members know immediately what the branch is for.
 
-If you are working with Largo, include in the branch name the issue you are addressing and even the milestone number. 
-
-
-
+If you are creating a new branch to address a numbered issue in GitHub or JIRA (such as with [Largo](http://github.com/inn/largo), follow the above guidance but start the branch name with the number of the issue you are addressing (e.g. - "671-ben-largo-related-stories").
 
 ## Git in the command line
 
