@@ -47,7 +47,17 @@ $ git submodule init && git submodule update
 
 ## 3. Install Python tools.
 
-We use a few Python libraries for this project, including [Fabric](http://www.fabfile.org/) which powers the INN deploy-tools to elegantly run common but complex tasks. In the [OS X setup guide](/staffing/onboarding/os-x-setup.md), you should have installed Python virtualenv and virtualenvwrapper. With that as a base, create a virtual environment and install the required Python libraries:
+We use a few Python libraries for this project, including [Fabric](http://www.fabfile.org/) which powers the INN deploy-tools to elegantly run common but complex tasks. In the [OS X setup guide](/staffing/onboarding/os-x-setup.md), you should have installed Python virtualenv and virtualenvwrapper.
+
+Make sure you tell virtualenvwrapper where the umbrella is.
+
+```
+$ export WORKON_HOME=~/largo-umbrella
+$ mkdir -p $WORKON_HOME
+$ source /usr/local/bin/virtualenvwrapper.sh
+```
+
+Now we can create a virtual environment and install the required Python libraries:
 
 ```
 $ mkvirtualenv largo-umbrella --no-site-packages
@@ -119,17 +129,19 @@ This tells your system that whenever you use the address `http://vagrant.dev`, y
 
 ## 7. Download WordPress.
 
-We still need to get the WordPress core files downloaded to the right locations to tie all of this together. Based on whatever the latest version of WordPress is (4.1.2 at the time of writing), use Fabric to download it:
+We still need to get the WordPress core files downloaded to the right locations to tie all of this together. Download the latest version of WordPress (4.2.2 as of 5.13.2015) using Fabric.
 
 ```
-$ fab wp.install:4.1.2
+$ fab wp.install:4.2.2
 ```
 
 ## 8. Download production database.
 
-Let's get the latest version of the WordPress database that powers the live, production sites. Do that with:
+Let's get the latest version of the WordPress database that powers the live, production sites.
 
+**NOTE**: Access to the INN/secrets repo is required.
 
+Do that with:
 ```
 $ fab production wp.fetch_sql_dump
 ```
@@ -146,6 +158,10 @@ $ fab vagrant.load_db:mysql.sql
 ```
 
 The `vagrant.create_db` command knows what to name the database based on the `env.project_name` value set in `fabfile.py`. In this case it is `largoproject`.
+
+#### Alternative to using production database
+
+If you can't wait for 3 GB of SQL to download or don't have access to the INN/secrets repository, use a vanilla WordPress database. You can then complete the WordPress setup to make sure everything is working. Ignore steps 13 and 15 below.
 
 ## 10. Take a snapshot of the virtual machine.
 
@@ -341,4 +357,3 @@ Be sure to take vagrant snapshots liberally when you make changes to the databas
 If you get a redirect loop when you try to log in to [http://vagrant.dev/wp-login.php](http://vagrant.dev/wp-login.php) after creating the network super-admin, this may happen if the replacement of `largoproject.wpengine.com` to `vagrant.dev` didn't complete. Try redoing this step.
 
 If you don't see the "Network Admin" menu when trying to add your user to a subsite via [http://vagrant.dev/wp-admin/](http://vagrant.dev/wp-admin/), your network super-admin might not be so super after all. Redo the step of adding the network super-admin, only skipping the command to create the account. The command `wp super-admin add superadmin` should respond with `Success: Granted super-admin capabilities.`.
-
