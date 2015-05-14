@@ -2,7 +2,7 @@
 
 The [Institute for Nonprofit News](http://inn.org) (INN, formerly the Investigative News Network), a network of 100+ nonprofit news organizations, has an opening for a **full-time manager of support, documentation and training** on our technology and product team.
 
-The ideal candidate for this position is a detail-oriented self starter who wants to help us provide exemplary service to INN members and our paid consulting clients. This person should have experience making things for the web, a passion for sharing what they know with others and be excited about being a leader in creating documentation and training resources to assist both members and non-members in their adoption of the Largo platform and the other tools and applications we build.
+The ideal candidate for this position is a detail-oriented self starter who wants to help us provide exemplary service to INN members and our paid consulting clients. This person should have experience making things for the web, a passion for sharing what they know with others and be excited about being a leader in creating documentation and training resources to assist people in their adoption and use of the products we build.
 
 Specifically, they will own our support process (and, we hope, make it even more awesome), including:
 
