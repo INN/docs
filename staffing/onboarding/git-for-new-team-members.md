@@ -29,6 +29,10 @@ If you are contributing to an INN repository, name your branch starting with you
 
 If you are creating a new branch to address a numbered issue in GitHub or JIRA (such as with [Largo](http://github.com/inn/largo), follow the above guidance but start the branch name with the number of the issue you are addressing (e.g. - "671-ben-largo-related-stories").
 
+### Guidelines for Submitting Pull Requests
+
+See: [Pull Requests Guide](/how-to-work-with-us/pull-requests.md)
+
 ## Git in the command line
 
 **tl;dr:  If you are simply making changes to markdown files, such as helping with documentation, it's probably easier to stick to working in Github.com. However, if you will be working with data files and code, it's best to learn how to use git in the command line.**
