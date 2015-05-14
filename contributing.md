@@ -8,7 +8,7 @@ We welcome contributions and suggestions to help us improve any of these documen
 2.  Create a branch (git checkout -b my-branch)
 3.  Stage and commit your changes (git commit -am 'description of my changes')
 4.  Push the changes to your fork (git push origin my-branch)
-5.  [Submit a pull request to the parent repo](https://help.github.com/articles/creating-a-pull-request)
+5.  [Submit a pull request to the parent repo](https://help.github.com/articles/creating-a-pull-request). Please read our [guide to submitting pull requests](/how-to-work-with-us/pull-requests.md) to see what we expect in a good pull request message.
 6.  Pull request should be assigned to:
     - [@aschweigert](http://github.com/aschweigert) (primary)
     - [@kaeti](http://github.com/kaeti) or [@rnagle](http://github.com/rnagle) (secondary)

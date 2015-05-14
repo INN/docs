@@ -6,13 +6,35 @@
 
 -  **[A manifesto](manifesto.md)** outlining our team's mission and values
 -  **[Our Strategy for 2015](/strategy/2015.md)**
--  **[Staffing and Hiring](/staffing)** including how we recruit and hire new team members plus some [sample job descriptions](/staffing/job-descriptions), [interview questions](/staffing/interview-questions.md) for screening candidates and [our onboarding process](/staffing/onboarding).
--  **[How we work](/how-we-work)** including our [internal process](/how-we-work/process.md), [what we've learned about working as a remote team](/how-we-work/remote-work.md), [the tools we use](/how-we-work/tools.md) and [notes on how we conduct meetings](/how-we-work/meetings.md)
--  **[How to work with us](/how-to-work-with-us)** including the [general guidelines](/how-to-work-with-us) for how to work with us effectively, [services we offer to INN members](/how-to-work-with-us/member-services.md), details of [our paid consulting program](/how-to-work-with-us/consulting/readme.md), [intake documents](/how-to-work-with-us/intake-procedure.md) for new projects and [a code of conduct](/how-to-work-with-us/contributing.md) for contributing to our open source projects.
--  **[Style guides](/style-guides)** for [code](/style-guides/code) and [design/ui](/style-guides/design) elements.
+-  **[Staffing and Hiring](/staffing)** including how we recruit and hire new team members, plus:
+	- [Sample job descriptions](/staffing/job-descriptions) from our team and from INN member organizations
+	- [Interview questions](/staffing/interview-questions.md) for screening candidates
+	- [Our onboarding process](/staffing/onboarding)
+-  **[How we work](/how-we-work)** including:
+	- [Our internal process](/how-we-work/process.md) we follow for most of our projects
+	- [What we've learned about working as a remote team](/how-we-work/remote-work.md)
+	- [The tools we use](/how-we-work/tools.md)
+	- [Notes on how we conduct meetings](/how-we-work/meetings.md)
+	- [How we give feedback to other team members](/how-we-work/feedback.md)
+	- [How we use GitHub and Git for version control](/how-we-work/version-control.md)
+-  **[How to work with us](/how-to-work-with-us)** including:
+	- [General guidelines](/how-to-work-with-us) for how to work with us effectively
+	- [Services we offer to INN members](/how-to-work-with-us/member-services.md)
+	- [Details of our paid consulting program](/how-to-work-with-us/consulting/readme.md)
+	- [Intake documents](/how-to-work-with-us/intake-procedure.md) for new projects
+	- [A code of conduct](/how-to-work-with-us/contributing.md) for contributing to our open source projects
+	- [How to contribute to our projects using GitHub](/how-to-work-with-us/via-github.md)
+	- [Guidelines for submitting great pull requests](/how-to-work-with-us/pull-requests.md)
+-  **[Style guides](/style-guides)** for:
+	- [Code](/style-guides/code)
+	- [Design/ui](/style-guides/design) elements
 -  **[Projects](/projects)** we work on with descriptions of each project and relevant resources.
 -  **[Checklists](/checklists)** to help keep us organized.
--  **[Our Communications Strategy](/communications)** including external communications ([newsletter](/communications/newsletter), [Twitter accounts](/communications/twitter.md), etc.) and some notes on [internal communications](/communications/internal-communications).
+-  **[Our Communications Strategy](/communications)** including:
+	-  External communications
+		- [Our weekly newsletter](/communications/newsletter)
+		- [Twitter accounts](/communications/twitter.md)
+	- [internal communications](/communications/internal-communications).
 
 **What is not (and will not) be in here:**
 
@@ -46,11 +68,15 @@ The INN news apps and technology team is:
 -  **[Adam Schweigert](https://github.com/aschweigert)** ([@aschweig](http://twitter.com/aschweig)), Senior Director of Product and Technology
 -  **[Kaeti Hinck](https://github.com/kaeti)** ([@kaeti](http://twitter.com/kaeti)), Design Director
 -  **[Denise Malan](https://github.com/dnmalan)** ([@denisemalan](http://twitter.com/denisemalan)), Director of Data Services
--  **[Ryan Nagle](https://github.com/rnagle)** ([@ryannagle](http://twitter.com/ryannagle)), News Apps Developer
+-  **[Ryan Nagle](https://github.com/rnagle)** ([@ryannagle](http://twitter.com/ryannagle)), Director of Technology
 -  **[Nick Bennett](https://github.com/tothebeat)** ([yoyoohrho](http://twitter.com/yoyoohrho)), News Apps Developer
+-  **[Ben Keith](https://github.com/benlk)** ([@benlkeith](http://twitter.com/benlkeith)), News Apps Developer
 -  **[Meredith Melragon](https://github.com/meredithinn)** ([@meredithm](http://twitter.com/meredithm)), Support Specialist
 -  **[Will Haynes](https://github.com/willhaynes)** ([@willhaynes](http://twitter.com/willhaynes)), Apprentice News Apps Developer
--  **[Ben Keith](https://github.com/benlk)** ([@benlkeith](http://twitter.com/benlkeith)), Apprentice News Apps Developer
+-  **[Dani Litovsky Alcalá](https://github.com/danilito19)** ([@DataDanaL](http://twitter.com/datadanal)), Apprentice News Apps Developer
+-  **[David Ryan](https://github.com/dryanmedia)** ([@dryanmedia](http://twitter.com/dryanmedia)), Apprentice News Apps Developer
+
+Additional contributions from: [@chriszs](https://github.com/chriszs) and [@brentajones](https://github.com/brentajones)
 
 ### Changelog
 
