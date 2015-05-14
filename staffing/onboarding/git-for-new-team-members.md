@@ -1,8 +1,8 @@
-# Github and Git version control for INN tech team and INN staff
+# How We Use GitHub and Git for Version Control
 
-This guide is for introducing new INN team members to Github and git version control and how we use these tools.
+This guide is for introducing new INN team members to GitHub and git version control and how we use these tools.
 
-Start using [Github](https://github.com/) before moving on to the command line. Understand what the following terms mean:
+Start using [GitHub](https://github.com/) before moving on to the command line. Understand what the following terms mean:
 
 - **repository:** n. a place where all the changes to files are stored. In github, it is a particular project within your account. In your computer, it is a particular folder where you have told git to track changes.
 - **fork:**  v. copying a user's repository to your personal account; n. the copied repository; for example, if you fork *INN/docs*, the new fork will be called *your-username/docs*. Forks allow you to make changes to entire projects without affecting the original repository. To contribute to the original project, you can request the owners to integrate your work through a pull request. 
@@ -17,7 +17,7 @@ Start using [Github](https://github.com/) before moving on to the command line. 
 
 While you may like to fork some of the INN repositories into your own account to work on them, as a member of our team we trust you to simply create branches within INN's repositories and make commits within your branches. Once you are satisfied with the changes you have made within your branch, create a pull request so the team can merge your changes into the master branch. 
 
-[This guide](https://github.com/INN/docs/blob/master/how-to-work-with-us/via-github.md) explains this process. Notice that Ryan forks the INN repository into his account and edits a file inside the master branch of his fork. If you are going to make many changes, it is a good idea to create a new branch within your fork (call it my-new-changes) so your master branch is clean.
+[This guide](/how-to-work-with-us/via-github.md) explains this process. Notice that Ryan forks the INN repository into his account and edits a file inside the master branch of his fork. If you are going to make many changes, it is a good idea to create a new branch within your fork (call it my-new-changes) so your master branch is clean.
 
 **If you will not be forking an INN directory into your personal account, make sure to always create a new branch for your changes.**
 
