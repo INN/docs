@@ -1,5 +1,5 @@
 # Anatomy of a Pull Request and Submission Protocol
-=========================
+-------------------------
 
 A pull request (PR) is a request to merge changes you have made to an existing branch of a project. For specific guidelines on which branch to submit pull requests to, see the contributing guidelines in that specific project repo.
 
@@ -9,7 +9,7 @@ Remember that a PR is part of a process to document the changes to a product or 
 
 ### What information to include in a PR
 
-**A PR should contain commits that are related and that address only one functional change. If you made changes to unrelated documents, projects, or various feature or issues, you should submit separate pull requests for each one.**
+A PR should contain commits that are related and that address only one functional change. If you made changes to unrelated documents, projects, or various feature or issues, you should submit separate pull requests for each one.
 
 To explain your PR, include:
 
