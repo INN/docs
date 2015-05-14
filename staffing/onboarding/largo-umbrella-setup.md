@@ -161,7 +161,7 @@ The `vagrant.create_db` command knows what to name the database based on the `en
 
 #### Alternative to using production database
 
-If you can't wait for 3 GB of SQL to download or don't have access to the INN/secrets repository, use a vanilla WordPress database. You can then complete the WordPress setup to make sure everything is working. Ignore steps 13 and 15 below.
+If you can't wait for 3 GB of SQL to download or don't have access to the INN/secrets repository, use a vanilla WordPress database. You can then complete the WordPress setup to make sure everything is working. Ignore steps 13, 14 and 15 below.
 
 ## 10. Take a snapshot of the virtual machine.
 
