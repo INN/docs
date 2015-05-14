@@ -84,6 +84,8 @@ You'll be presented with another dialog, asking you to include any relevant deta
 
 ![Pull request details](http://assets.apps.inn.org/github-tutorial/pull-request-message.png)
 
+For guidelines on how to write a good pull request message, see [our guide to pull requests](/how-to-work-with-us/pull-requests.md).
+
 Once you add a sufficient message, click "Create pull request" (this time, with feeling!).
 
 Hooray! We now have an open pull request on the original repository's page:
