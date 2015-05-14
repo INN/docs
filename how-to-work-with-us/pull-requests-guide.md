@@ -1,5 +1,4 @@
 # Anatomy of a Pull Request and Submission Protocol
--------------------------
 
 A pull request (PR) is a request to merge changes you have made to an existing branch of a project. For specific guidelines on which branch to submit pull requests to, see the contributing guidelines in that specific project repo.
 
