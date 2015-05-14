@@ -34,7 +34,7 @@
 	-  External communications
 		- [Our weekly newsletter](/communications/newsletter)
 		- [Twitter accounts](/communications/twitter.md)
-	- [internal communications](/communications/internal-communications).
+	- [Internal communications](/communications/internal-communications).
 
 **What is not (and will not) be in here:**
 
