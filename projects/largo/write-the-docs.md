@@ -105,5 +105,5 @@ Then:
 
 6. Create a pull request from your branch against INN/Largo, branch write-the-docs
     - How to make a [PR on GitHub](https://help.github.com/articles/creating-a-pull-request/)
-    - If it's a big PR, please make sure it's well-documented. Thanks!
+    - If it's a big PR, please [make sure it's well-documented](/how-to-work-with-us/pull-requests.md). Thanks!
 7. Done? Return to step 3.
