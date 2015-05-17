@@ -4,19 +4,28 @@ Here you'll find our plans for the OpenNews Code Convening at Write the Docs, Ma
 
 Cheers to making [Largo's](https://github.com/INN/Largo) documentation great!
 
+Side note: [we're looking for somone to manage support, documentation and training for INN](http://nerds.inn.org/2015/05/07/join-our-team-help-make-our-support-process-and-documentation-awesome/).
+
+## About Largo
+
+[Largo](https://github.com/INN/Largo) is a responsive WordPress theme and framework built for news sites.
+
 ## Our audience:
 
-Our primary audience for the work we aim to complete this weekend is the group of developers using Largo as the base/parent theme for their news site. We want to pay special attention to the INN's members that are short on time, money and technical skill.
+Our primary audience for the work we'll do this weekend is the group of developers using Largo as the base/parent theme for their news site. We want to pay special attention to the INN's members that are short on time, money and technical skill.
 
 ## Our goals:
 
-- We're aiming to start filling out the API docs/function reference, which means LOTS of cleanup of Largo source code.
-- We need technical docs for those people looking to use Largo as a framework to customize and/or enhance their site.
-	- Homepage layout system.
-	- Child themes (partially covered in Largo Sample Child Theme).
-	- Custom Largo functionality that can be used in widgets and child theme.
-	- How to setup a development environment to work on your child theme.
-	- Teach people how to work with us more effectively.
+The team at INN is small. We act as the tech support department for around 100 member organizations. We want and need our documentation to act as a tool for teaching members how to work with us more effectively.
+
+This weekend, we'll focus on documenting:
+
+- How to use Largo to build a child theme
+    - We'll be writing documentation for our [sample child theme](https://github.com/INN/Largo-Sample-Child-Theme)
+- How we do development for Largo and child themes
+    - We have a [set of tools](http://github.com/INN/deploy-tools) for getting up and running using Vagrant, with the goal of making support and collaboration with members easier.
+- Filling out the API docs/function reference, which means LOTS of cleanup of Largo source code.
+    - A lofty goal with 140+ open tickets, but a valuable resource for developers really digging in.
 
 ## Assumptions:
 
