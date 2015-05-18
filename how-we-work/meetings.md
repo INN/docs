@@ -122,5 +122,4 @@ We should cover:
 
 - [11 Ways to Cure Bad Newsroom Meetings](http://www.pbs.org/idealab/2015/03/11-ways-to-cure-bad-newsroom-meetings/)
 - [Blameless Postmortems](https://codeascraft.com/2012/05/22/blameless-postmortems/)
-
-
+- [The Chokehold of Calendars](https://medium.com/@monteiro/the-chokehold-of-calendars-f70bb9221b36)
