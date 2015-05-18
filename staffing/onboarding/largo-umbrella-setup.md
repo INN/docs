@@ -225,7 +225,7 @@ $ vagrant snapshot take default after_largoproject_searchandreplace
 
 ## 14. Add multisite variables to WordPress config.
 
-The file `wp-config.php` that was created by the WordPress basic configuration process is meant for a standalone site install. Largo-umbrella, on the other hand, is a special kind of WordPress site called multisite. In order for this to work for us, we need to add some variables to the file. Open `wp-config.php` in a text editor and add the following text somewhere before the last line:
+The file `wp-config.php` that was created by the WordPress basic configuration process is meant for a standalone site install. Largo-umbrella, on the other hand, is a special kind of WordPress site called multisite. In order for this to work for us, we need to add some variables to the file. Open `wp-config.php` in a text editor and add the following text somewhere before `/* That's all, stop editing! Happy blogging. */`:
 
 ```
 /* Make this a multisite install. */
