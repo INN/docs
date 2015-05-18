@@ -35,7 +35,7 @@ Guidelines for how to run effective meetings and descriptions of various meeting
 <a id="scrum"></a>
 ### Daily Scrum
 
--  Every weekday at 10 AM ET
+-  Every weekday at 10 AM ET (except Friday when it is replaced by our [weekly recap meeting](#recap))
 -  Uses the Google Hangout link from the recurring event invite on the team Google calendar
 -  Starts on time, no exceptions
 -  Never longer than 15 minutes
@@ -58,25 +58,26 @@ No detailed discussion of issues during this meeting. You can always stay on the
 <a id="recap"></a>
 ### Weekly Recap Meeting
 
--  Follows daily scrum every Friday (at 10:15 AM ET)
+-  Replaces daily scrum every Friday (at 10:00 AM ET)
 -  Uses the Google Hangout link from the recurring event invite on the team Google calendar
 -  Limited to 30 minutes
 
-Each team member:
+Each team member, in less than 2 minutes (no more than 15 minutes total):
 
--  What were your main accomplishments this week?
+-  What you did yesterday, your plan for today (your regular scrum)
+-  Your main accomplishments this week
 -  What did you learn?
--  What is your plan for next week?
+-  Your plan for next week
 -  Blockers/issues to resolve so you can start strong next week
 
-As a team:
+As a team (no more than 10 minutes):
 
 -  What went well this week? What could be improved?
 -  Review [editorial calendar](https://docs.google.com/spreadsheets/d/1nJ2LAfQRzbDpxDfhpwfJo_a4DFM5-T4GDzRpj2t6qvk/edit#gid=0) (you'll need to request access to view this) for the following week, make sure everyone knows what's due and when
 -  New project ideas
 -  Shoutouts
 
-Team leader:
+Team leader (no more than 5 minutes):
 
 -  General administrative updates
 -  Priorities for next week
