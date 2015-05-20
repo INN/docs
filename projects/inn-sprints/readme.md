@@ -4,7 +4,7 @@ INN Sprints are three week online workshops on topics of interest to INN members
 
 Participants commit to attending one weekly hour-long Google Hangout. There are homework assignments each week. Each sprint is designed to leave participants with a tangible plan of action.  Sprints can be suggested by members, and are repeated based on demand.  
 
-The number of participants is limited, ranging from 8 to 12 participants.  While we give preference to INN members, we encourage others from nonprofit news organizations to attend.
+The number of participants is limited, ranging from 8 to 12 participants.  While we give preference to INN members, we encourage others from nonprofit news organizations to attend. 
 
 ## Audience Development Sprint
 
