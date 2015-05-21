@@ -50,3 +50,4 @@ See: [Project retrospectives](/how-we-work/meetings.md#retrospective).
 - [9 Rules For Effective Feedback](http://www.inc.com/geoffrey-james/9-rules-for-effective-feedback.html)
 - [Getting the Most from Critique](http://blog.capwatkins.com/getting-the-most-from-critique)
 - [How to Run a Design Critique](http://scottberkun.com/essays/23-how-to-run-a-design-critique/)
+- [How to Run Design Reviews](http://blog.invisionapp.com/how-to-run-design-reviews/)
