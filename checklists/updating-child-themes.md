@@ -24,11 +24,13 @@ Checking
 
 - [ ] Make sure that the site loads without errors on Vagrant
 - [ ] Do the widgets look okay?
-- [ ] What about these locations?
- 	- [ ] Homepage
- 	- [ ] Articles
- 	- [ ] Series
- 	- [ ] Category archive pages
- 	- [ ] Series landing pages
- 	- [ ] Search pages
- 	- [ ] Tag archives
+- [ ] What about these locations? `common url`
+ 	- [ ] Homepage `/`
+ 	- [ ] Articles `/?p=1234`
+ 	- [ ] Series `/series/slug/` `/?series=1234`
+ 	- [ ] Category archive pages `/category/slug/`
+ 	- [ ] Series archive pages `/series/slug/`
+ 	- [ ] Series landing pages `/slug/`
+ 	- [ ] Search results `/?s=words`
+ 	- [ ] Pages `/slug/`
+ 	- [ ] Tag archives `/tag/slug`
