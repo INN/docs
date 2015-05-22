@@ -1,4 +1,4 @@
-Research:
+### Research:
 
 - [ ] What plugins are used by the site?
 - [ ] What is the current version of Largo? What version was this child theme built for? [What has changed since then?](https://github.com/INN/Largo/releases)
@@ -6,7 +6,7 @@ Research:
 - [ ] Does the theme include many custom functions? What do they do?
 - [ ] Document requirements in the theme's README.md.
 
-Cleanup:
+### Cleanup:
 
 - [ ] Go through theme, file-by-file, and check for
 	- Child theme code duplicating Largo code
@@ -20,9 +20,11 @@ Cleanup:
 - [ ] Consider using Largo's LESS customizer for changing main colors
 - [ ] Document requirements in the theme's README.md
 
-Checking
+Then, and only then, should you switch the line in the child theme's `style.css` from `Template: largo` to `Template: largo-dev`.
 
-- [ ] Make sure that the site loads without errors on Vagrant
+### Checking
+
+- [ ] Make sure that the site loads without PHP errors on Vagrant
 - [ ] Do the widgets look okay?
 - [ ] What about these locations? `common url`
  	- [ ] Homepage `/`
