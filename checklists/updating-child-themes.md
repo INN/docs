@@ -22,10 +22,22 @@
 
 Then, and only then, should you switch the line in the child theme's `style.css` from `Template: largo` to `Template: largo-dev`.
 
+### Enabling the new theme
+
+For the site (on Vagrant, on staging, and on production), you'll need to:
+
+- Enable the current Largo theme version >=v0.4 in Sites > Themes > Project Largo (by The INN Nerds) > Enable
+- In Appearance > Themes, temporarily switch to the newest version of Project Largo - Base Theme
+- Switch to the updated child theme. 
+- Run the Largo Update if prompted in the admin interface.
+
+This procedure is needed to reset WordPress' knowledge of the child theme's parent, which is only updated on theme activation.
+
 ### Checking
 
 - [ ] Make sure that the site loads without PHP errors on Vagrant
 - [ ] Do the widgets look okay?
+- [ ] Are the menus okay?
 - [ ] What about these locations? `common url`
  	- [ ] Homepage `/`
  	- [ ] Articles `/?p=1234`
