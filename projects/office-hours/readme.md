@@ -24,8 +24,6 @@ If you know you might have connectivity issues, **it is also possible to join a 
 
 **The default for these hangouts will be public** because we think sharing ideas in the open helps everyone learn and improve but if you want to keep the conversation just between us, indicate that on the signup sheet and we'll boot people out and make the hangout invite only when your time slot comes around. 
 
-If you're wondering how to create your own Google Hangouts that are open to anyone, we have a [tutorial on that right here](/projects/tools.md).
-
 **The format for these is really determined by the type of questions or issues you have.** To make the most of our time together you might want to prepare a list of questions or [email us](mailto:nerds@inn.org) some background information, links to your website/project, git repos, etc. ahead of time so we can take a look and be better prepared to help you out.
 
 If you have any **questions or suggestions** for us on how to make these office hours work best for you and your organization, email us anytime: [nerds@inn.org](mailto:nerds@inn.org).
@@ -35,3 +33,10 @@ If you have any **questions or suggestions** for us on how to make these office 
 - [Signup sheet](https://docs.google.com/spreadsheets/d/1p-twn2D8oow7vXBfkcdYcZnVA4z8Q42OMs77KlHwf-g/edit) (Google spreadsheet)
 - [Google Hangout link](https://plus.google.com/hangouts/_/investigativenewsnetwork.org/office-hours) (this is the same every month)
 - [Leader Responsibilites](/projects/office-hours/leader-responsibilities.md)
+
+### Related Reading
+
+- Our team docs on [giving/getting feedback](/how-we-work/feedback.md)
+- [How to create Google Hangouts that are open to anyone](/projects/tools.md)
+- The Fusion tech team's [doc on code review](https://github.com/fusioneng/tech-docs/blob/29e2060077ebad527aede9b29b4a95d47fd3b186/team-culture/code-review.md)
+- NPR's Brian Boyer [on project retrospectives](http://happyhacks.tumblr.com/post/116464561825/conduct-regular-retrospectives)
