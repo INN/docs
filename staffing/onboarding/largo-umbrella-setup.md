@@ -313,7 +313,7 @@ Then use Ctrl-O to save your changes and Ctrl-X to exit the editor. This tells y
 $ vagrant snapshot take default after_project_adding_superadmin
 ```
 
-## 2. Find the blog ID of `project.org`.
+## 5. Find the blog ID of `project.org`.
 
 We're going to need the numeric blog ID associated with `project.org` for further steps. If you're going to be working a lot with this site, you should probably keep a cheat sheet handy.
 
@@ -325,7 +325,7 @@ We're going to need the numeric blog ID associated with `project.org` for furthe
 
 4. Find the ID number in the browser's current URL. For example, if the URL is `http://vagrant.dev/wp-admin/network/site-info.php?id=53` then the ID is 53. Copy this down.
 
-## 3. Convert `project.org` to `project.vagrant.dev`.
+## 6. Convert `project.org` to `project.vagrant.dev`.
 
 This process is similar to what we did in replacing `largoproject.wpengine.com` with `vagrant.dev`, only we'll be selecting a different set of tables to search through based on the blog ID you now have copied down.
 
@@ -341,7 +341,7 @@ This process is similar to what we did in replacing `largoproject.wpengine.com` 
     In the process of replacing "investigatemidwest.org" with "investigatemidwest.vagrant.dev" we scanned 9 tables with a total of 18694 rows, 581 cells were changed and 579 db update performed and it all took 6.668104 seconds.
     ```
 
-## 4. Change `project.org` to `project.vagrant.dev` in WordPress Admin.
+## 7. Change `project.org` to `project.vagrant.dev` in WordPress Admin.
 
 We also need to change the settings in the Largo-umbrella network site so that `project.org` is changed to `project.vagrant.dev`. This will be the final step before we can visit `http://project.vagrant.dev` in the browser.
 
