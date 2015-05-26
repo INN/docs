@@ -266,9 +266,9 @@ This will create the network super-admin with username `superadmin` and password
 $ vagrant snapshot take default after_adding_superadmin
 ```
 
-## Almost finished...
+## Setup Process for Each Member Site
 
-Rock on! You now have the Largo site network set up on your computer! Continue below to get access to individual sub-sites of that network.
+Rock on! You now have the Largo site network set up on your computer! However, you'll need to do a brief setup for each member site you work with. You've downloaded a production database, so we need to update some settings in WordPress to tell it it's running on your virtual machine.
 
 We'll use the shorthand `project.org` to represent a sub-site of the Largo umbrella, and you should substitute in the site you want to get access to. For example, this might instead be `investigatemidwest.org` or `iowawatch.org`.
 
@@ -276,19 +276,36 @@ Repeat the following sections for every sub-site that you need to access.
 
 ## 1. Add your super-admin user to `project.org`.
 
-Even though we have a super-admin that can see all the sites, it still needs to be added manually to each site you want to administer. We'll also want to make things a little easier on ourselves when visiting the site locally, so we'll add another shortcut to our system's `/etc/hosts` file.
+Even though we have a super-admin that can see all the sites, it still needs to be added manually to each site you want to administer.
 
-1. Log in to the main dashboard of your multisite via [http://vagrant.dev/wp-login.php](http://vagrant.dev/wp-login.php). In the header where it says "My Sites" open that menu and open "Network Admin" > "Sites" (or [http://vagrant.dev/wp-admin/network/sites.php](http://vagrant.dev/wp-admin/network/sites.php)).
+### Log in to the main dashboard of your multisite
 
-2. Find the `project.org` site (remember to substitute in the name of the actual site you're looking for) and click on its "Edit" button.
+[http://vagrant.dev/wp-login.php](http://vagrant.dev/wp-login.php)
 
-3. Find the site's URL near the top of the page: "Edit Site: project.org" or "Edit Site: project.vagrant.dev".
+In the header where it says "My Sites" open that menu and open "Network Admin" > "Sites"
+[http://vagrant.dev/wp-admin/network/sites.php](http://vagrant.dev/wp-admin/network/sites.php)
 
-4. Edit your host computer's `/etc/hosts file` by adding the line `192.168.33.10 project.vagrant.dev` to the end of the file.
+## 2. In the list of Network Sites, find the `project.org` site (remember to substitute in the name of the actual site you're looking for) and click Edit.
 
-5. Back in the WordPress admin, click on the "Users" tab.
+### Find the site's URL near the top of the page: 
 
-6. Under "Add Existing User", enter superadmin as the username and choose the "Administrator" role.
+"Edit Site: project.org" or "Edit Site: project.vagrant.dev".
+
+## 3. Edit your host computer's `/etc/hosts` file.
+
+```
+$ sudo nano /etc/hosts
+```
+Enter your password, use the arrow keys to position the cursor at the end of the file and add the following line, substituting `project` for your `project.org` name:
+```
+192.168.33.10 project.vagrant.dev
+```
+
+Then use Ctrl-O to save your changes and Ctrl-X to exit the editor. This tells your computer where to resolve the subdomain.
+
+## 4. Back in the WordPress admin, click on the "Users" tab.
+
+### Under "Add Existing User", enter `superadmin` as the username and choose the "Administrator" role.
 
 **SNAPSHOT**: Let's save our progress now. In your command line, take another snapshot with (substitute in the name of the project):
 
