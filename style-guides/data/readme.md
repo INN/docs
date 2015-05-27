@@ -15,6 +15,8 @@ Resources for working with data:
   * [Awesome Public Datasets](https://github.com/danilito19/awesome-public-datasets)
   * [NICAR Data Library](http://ire.org/nicar/database-library/)
   * [Intro to APIs](http://ire.org/resource-center/tipsheets/3457/) **
+  * [API repository](http://www.programmableweb.com/apis/directory)
+  * [Use Kimono to turn websites into APIs](https://www.kimonolabs.com)
   * [Use Scrapy for web scraping](http://scrapy.org/)
   * [Web scraping with Python and Ruby](https://github.com/esagara/advanced-web-scraping) **
   * [Downloading Web Data Without Scraping](https://github.com/kleinmatic/datashow)
