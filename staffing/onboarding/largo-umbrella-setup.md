@@ -14,7 +14,6 @@ Fret not! This guide will show you how to go from a Mac OS X system, with a base
 
 Pretty cool, right?
 
-
 Most of this stuff works from your command line, which you get to through the default Mac application terminal or, if you followed the setup guide, iTerm2. If you're unfamiliar with using the terminal or don't have iTerm2, be sure to go through that section in the [setup guide](/staffing/onboarding/os-x-setup.md#terminal-emulator) to get some prerequisites set up. If you have questions, be sure to ask in the INN Tech HipChat room, because the terminal can be a perplexing and idiosyncratic interface. We've all been there.
 
 What's next?
@@ -374,3 +373,7 @@ Be sure to take vagrant snapshots liberally when you make changes to the databas
 If you get a redirect loop when you try to log in to [http://vagrant.dev/wp-login.php](http://vagrant.dev/wp-login.php) after creating the network super-admin, this may happen if the replacement of `largoproject.wpengine.com` to `vagrant.dev` didn't complete. Try redoing this step.
 
 If you don't see the "Network Admin" menu when trying to add your user to a subsite via [http://vagrant.dev/wp-admin/](http://vagrant.dev/wp-admin/), your network super-admin might not be so super after all. Redo the step of adding the network super-admin, only skipping the command to create the account. The command `wp super-admin add superadmin` should respond with `Success: Granted super-admin capabilities.`.
+
+## Local Development
+
+Learn more about working locally in the [**INN/deploy-tools**](https://github.com/INN/deploy-tools#local-development).
