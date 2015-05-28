@@ -30,6 +30,8 @@ Install additional web browsers. Safari is a fine browser, but when writing and
 
 You may not need the FTP client immediately, but when you do need to access an FTP server you'll be glad you already have a client. You can use FTP from the command line, but I find that experience to be akin to doing a road trip in a horse and buggy cart. Do yourself a favor, install [Cyberduck](https://cyberduck.io), and ride in style with air conditioning and power steering.
 
+If you are using git-ftp and are experiencing problems deploying with the deploy-tools scripts, try using git-ftp version 0.9.0. ``git-ftp --version`` will tell you what version you are on.
+
 ## Text Editor
 
 If you already have a favorite text editor, feel free to skip this section. If you are open to trying new things, or are looking for a recommendation, then I highly recommend you install [Sublime Text](http://www.sublimetext.com/). It's free, is beginner-friendly, and using it makes me feel like I'm driving a space ship. I originally installed it for the [color](https://packagecontrol.io/browse/labels/color%20scheme) [schemes](https://github.com/daylerees/colour-schemes) [which](http://tmtheme-editor.herokuapp.com/#/theme/Monokai) [abound](http://colorsublime.com/).
