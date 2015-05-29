@@ -37,6 +37,31 @@
 
 12. Do you have any questions for me?
 
-## Further Reading
+### Questions specific to our [support/docs position](/staffing/job-descriptions/INN-support-training-manager-2015.md)
+
+1. Tell me about a time you answered a support request and you were able to resolve the issue yourself
+
+2. Tell me about a time you answered a support request and had to request help from a coworker or peer to help resolve the issue
+
+3. What is your comfort level with git?
+	- Comfy with using branches?
+	- Merging branches?
+	- Opening pull requests?
+
+4. Have you ever installed WordPress on a server yourself?
+
+5. Are you comfortable with updating WordPress themes and plugins?
+	- Would you use FTP to do this or typically use the WordPress upgrade/update functionality for these purposes?
+
+6. Any concerns about *leading* the support and documentation initiatives for a team?
+	- Are you comfortable making decisions and giving direction?
+	- This position will require the ability to work independently and get up to speed quickly, do you have any concerns about your ability to hit the ground running and work (at times) with only high level direction to turn general directives into actionable plans?
+
+7. What do you think a good support workflow looks like? What elements should it include?
+
+8. How do you assess a support ticket before taking action?
+	- How might you approach a client request for a feature we know would not help them accomplish their business goals?
+
+### Further Reading
 
 - [Front end developer interview questions from b5bp](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
