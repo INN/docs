@@ -32,7 +32,7 @@ Information on how to become a member, membership standards, dues, etc., [can be
 **For all members:**
 
 -  **[Discounted rates](/how-to-work-with-us/consulting/consulting-rates.md) on paid consulting** — currently $85/hr for members, reduced from our regular rate of $175/hr.
--  **[Open office hours](/projects/office-hours/)** the first Thursday of the month from 3-5 p.m. CT. Members can [sign up](https://docs.google.com/spreadsheets/d/1p-twn2D8oow7vXBfkcdYcZnVA4z8Q42OMs77KlHwf-g/edit) for a 30 minute (or more if you clear it with us in advance) block to meet with our entire team and get feedback on projects in progress or any tech related issues you might be facing.
+-  **[Open office hours](/projects/office-hours/)** every Friday from 2-3 p.m. ET. Anyone can [sign up](https://docs.google.com/spreadsheets/d/1p-twn2D8oow7vXBfkcdYcZnVA4z8Q42OMs77KlHwf-g/edit) for a 20-minute block to meet with our entire team and get feedback on tech-related issues you might be facing (new project ideas, critique of works in progress, general tech/strategy/design questions, etc.). We know that sometimes 20 minutes will not be enough, so you can sign up for a longer block of time if you clear it with us in advance.
 -  **General tech help**. Please consider signing up for our open office hours and/or paid consulting services, but when time and resources allow we're happy to answer general tech questions as they come up and help in any way we can. 
 
 **For developers at member organizations:**
