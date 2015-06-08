@@ -12,7 +12,7 @@ Largo is structured a specific way, and when you create a child theme it will be
 
 Standard File Names
 - ```style.less``` - @import all other LESS here (use order here). This file generates style.css in ```css/style.css```.
-- ```_variables.less``` - Define Brand and Theme Colors Here, as well as @sans, @serif and @headline fonts.
+- ```variables.less``` - Define Brand and Theme Colors Here, as well as @sans, @serif and @headline fonts.
 - ```_global.less``` - Define major elements like body, anchors, buttons and other global styles here.
 - ```_header.less``` - Define Site Header, Global Navigation, and Main Navigation styles here. Use these sections to organize the file.
 - ```_single.less``` - Define styles for the Article Header, Article Body, Article Footer and Below Article here. Use these sections to organize the file.
@@ -27,7 +27,7 @@ Standard File Names
 
 ### Sample Gruntfile
 
-Look at ```Gruntfile.js``` here in the Largo Sample Child Theme.
+Look at ```Gruntfile.js``` [here](https://github.com/INN/Largo-Sample-Child-Theme/blob/master/Gruntfile.js) in the Largo Sample Child Theme.
 
 ###Override Largo Template Parts and Add Custom Parts
 
