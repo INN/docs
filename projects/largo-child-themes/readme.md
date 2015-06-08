@@ -6,6 +6,8 @@ Largo is structured a specific way, and when you create a child theme it will be
 
 ### Largo Child Theme Structure
 
+![Visual Representation of Child Theme Structure](https://raw.githubusercontent.com/INN/docs/master/projects/largo-child-themes/structure.jpg)
+
 ### Sample Gruntfile
 
 Look at ```Gruntfile.js``` here in the Largo Sample Child Theme.
