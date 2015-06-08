@@ -8,7 +8,7 @@ Largo is structured a specific way, and when you create a child theme it will be
 
 ![Visual Representation of Child Theme Structure](https://raw.githubusercontent.com/INN/docs/master/projects/largo-child-themes/structure.jpg)
 
-#### /less
+#### ```/less```
 
 Standard File Names
 - ```style.less``` - @import all other LESS here (use order here). This file generates style.css in ```css/style.css```.
@@ -20,7 +20,7 @@ Standard File Names
 - ```_footer.less``` - Define Site Footer styles here.
 - ```_plugin-slug.less``` - Define plugin-specific style here, including but not limited to Plugin Widgets, Pages, etc.
 
-#### /css
+#### ```/css```
 
 - ```style.css``` - An unminified version of ```less/style.less``` processed into CSS. You might need to create a blank file first time around.
 - ```style.min.css``` - Minified version of ```css/style.css`` used in production. You might need to create a blank file first time around.
@@ -51,7 +51,6 @@ To override a custom function from Largo (like the byline output):
 - **Don't move functions to a new location.** Overriding largo_byline() output? It should be in ```/inc/post-meta.php```, not ```functions.php```.
 - **Don't Rebuild the Wheel**. Always modify and use existing functions instead of DIY. This saves clients money, us time and future us hassle.
 - **Don't assume the plugin is there**. Wrap plugin-dependent functions with ```if(function_exists('function')){ plugin_dependent_function(); }``` to prevent missing plugins from breaking the site.
--
 
 ### Other Largo Child Theme Resources
 - [Child Themes Checklist](https://github.com/INN/docs/blob/master/checklists/updating-child-themes.md) in INN/docs.
