@@ -8,6 +8,23 @@ Largo is structured a specific way, and when you create a child theme it will be
 
 ![Visual Representation of Child Theme Structure](https://raw.githubusercontent.com/INN/docs/master/projects/largo-child-themes/structure.jpg)
 
+#### /less
+
+Standard File Names
+- ```style.less``` - @import all other LESS here (use order here). This file generates style.css in ```css/style.css```.
+- ```_variables.less``` - Define Brand and Theme Colors Here, as well as @sans, @serif and @headline fonts.
+- ```_global.less``` - Define major elements like body, anchors, buttons and other global styles here.
+- ```_header.less``` - Define Site Header, Global Navigation, and Main Navigation styles here. Use these sections to organize the file.
+- ```_single.less``` - Define styles for the Article Header, Article Body, Article Footer and Below Article here. Use these sections to organize the file.
+- ```_archives.less``` - Define styles for Author Pages, Category Archives, Time-Based Archives, Series and Custom Taxonomies here. Use these sections to organize the file.
+- ```_footer.less``` - Define Site Footer styles here.
+- ```_plugin-slug.less``` - Define plugin-specific style here, including but not limited to Plugin Widgets, Pages, etc.
+
+#### /css
+
+- ```style.css``` - An unminified version of ```less/style.less``` processed into CSS. You might need to create a blank file first time around.
+- ```style.min.css``` - Minified version of ```css/style.css`` used in production. You might need to create a blank file first time around.
+
 ### Sample Gruntfile
 
 Look at ```Gruntfile.js``` here in the Largo Sample Child Theme.
