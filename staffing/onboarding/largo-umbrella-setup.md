@@ -265,9 +265,33 @@ This will create the network super-admin with username `superadmin` and password
 $ vagrant snapshot take default after_adding_superadmin
 ```
 
+## 16. Configure Your Virtual Machine Memory
+
+The default virtual machine has 384MB of RAM to be respectful of a range machines.  If you have adequate memory (we assume, but don't insist you have more than this), bump this towards 1-2GB.
+
+**Slow WordPress = Less Being Awesome.**
+
+1. Run ```vagrant halt``` or start with your machine shut down. If you haven't, ```vagrant snapshot take default some_name```.
+
+2. Open VirtualBox and find the vagrant.
+
+3. Right-click the vagrant and click **Settings...** (or select then Command + S).
+
+4. RAM is under System (2nd tab) as Base Memory. If 4-8GB between 768-1024MB is healthy. *With 16GB, I tossed it 2048MB because VM lag burns daylight and client dollars.*
+
+5. ```vagrant up``` and check all is well.
+
+6. ```vagrant snapshot take default speed_demon```
+
+### Rock on! You're done.
+
 ## Setup Process for Each Member Site
 
-Rock on! You now have the Largo site network set up on your computer! However, you'll need to do a brief setup for each member site you work with. You've downloaded a production database, so we need to update some settings in WordPress to tell it it's running on your virtual machine.
+
+
+You now have the Largo site network set up on your computer!
+
+However, you'll need to do a brief setup for each member site you work with. You've downloaded a production database, so we need to update some settings in WordPress to tell it it's running on your virtual machine.
 
 We'll use the shorthand `project.org` to represent a sub-site of the Largo umbrella, and you should substitute in the site you want to get access to. For example, this might instead be `investigatemidwest.org` or `iowawatch.org`.
 
@@ -286,7 +310,7 @@ In the header where it says "My Sites" open that menu and open "Network Admin" >
 
 ## 2. In the list of Network Sites, find the `project.org` site (remember to substitute in the name of the actual site you're looking for) and click Edit.
 
-### Find the site's URL near the top of the page: 
+### Find the site's URL near the top of the page:
 
 "Edit Site: project.org" or "Edit Site: project.vagrant.dev".
 
