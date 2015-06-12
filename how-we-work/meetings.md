@@ -5,6 +5,7 @@ Guidelines for how to run effective meetings and descriptions of various meeting
 ### What's in here:
 -  [Meeting Guidelines](#guidelines)
 -  [Daily Scrum](#scrum)
+-  [Weekly Planning Meeting](#planning)
 -  [Weekly Recap Meeting](#recap)
 -  [Project Kickoff Meetings](#kickoff)
 -  [Project Retrospective Meetings](#retrospective)
@@ -17,7 +18,7 @@ Guidelines for how to run effective meetings and descriptions of various meeting
 
 
 <a id="guidelines"></a>
-## Meeting Guidelines
+## General Meeting Guidelines
 
 -  **Avoid unnecessary meetings.** Meetings are time-consuming, expensive and leave less time for periods of focused, uninterrupted work. 
 -  **Most meetings are unnecessary.** Never schedule a meeting when email, IM or a quick hangout or phone call will do.
@@ -54,6 +55,19 @@ It's important to acknowledge anything keeping you from accomplishing your tasks
 
 No detailed discussion of issues during this meeting. You can always stay on the hangout with one or more team members to discuss projects or issues after the daily scrum is completed or take the discussion to chat.
 
+<a id="planning"></a>
+### Weekly Planning
+
+-  Replaces daily scrum every Monday
+-  Uses the Google Hangout link from the recurring event invite on the team Google calendar
+
+-  Leadership team meets at 9:45 before the rest of the team joins
+-  During this time we will review priorities and assignments for the week and update the [roadmap doc](https://docs.google.com/document/d/1WCCB_N93d3jyYbFfKMr1z4Ag1n4EMe5YlaoSgdh8MYY/edit) (login required)
+-  We will also discuss new clients/prospects, projects kicking off, important deadlines for the week, etc.
+
+-  The rest of the team joins at 10 am ET
+-  Meeting begins with a review of the roadmap for the week, important deadlines, top priorities, etc.
+-  Scrum then proceeds as normal
 
 <a id="recap"></a>
 ### Weekly Recap Meeting
@@ -62,14 +76,14 @@ No detailed discussion of issues during this meeting. You can always stay on the
 -  Uses the Google Hangout link from the recurring event invite on the team Google calendar
 -  Limited to 20 minutes
 
-Each team member, in less than 2 minutes (no more than 15 minutes total):
+Each team member, in about a minute:
 
 -  What you did yesterday, your plan for today (your regular scrum)
 -  Your main accomplishments this week
 -  What did you learn?
 -  Blockers/issues to resolve so you can start strong next week
 
-As a team (no more than 10 minutes):
+As a team (no more than 5 minutes):
 
 -  What went well this week? What could be improved?
 -  Review [editorial calendar](https://docs.google.com/spreadsheets/d/1nJ2LAfQRzbDpxDfhpwfJo_a4DFM5-T4GDzRpj2t6qvk/edit#gid=0) (you'll need to request access to view this) for the following week, make sure everyone knows what's due and when
