@@ -35,10 +35,10 @@ Guidelines for how to run effective meetings and descriptions of various meeting
 <a id="scrum"></a>
 ### Daily Scrum
 
--  Every weekday at 10 AM ET (except Friday when it is replaced by our [weekly recap meeting](#recap))
+-  Every weekday at 10 AM ET (Monday and Friday are a little different, as described below)
 -  Uses the Google Hangout link from the recurring event invite on the team Google calendar
 -  Starts on time, no exceptions
--  Never longer than 15 minutes
+-  Never longer than 10 minutes
 -  Literally stand up
 -  Scrum Master role rotates monthly - see the [team editorial calendar](https://docs.google.com/a/investigativenewsnetwork.org/spreadsheets/d/1nJ2LAfQRzbDpxDfhpwfJo_a4DFM5-T4GDzRpj2t6qvk/edit#gid=0) (login required) for rotating responsibilities
 
@@ -52,7 +52,7 @@ Scrum Master schedules any necessary follow-up to remove blockers.
 
 It's important to acknowledge anything keeping you from accomplishing your tasks and make the team aware of them so we can try to help; don't be shy.
 
-No detailed discussion of issues during this meeting. You can always stay on the hangout with one or more team members to discuss projects or issues after the daily scrum is completed.
+No detailed discussion of issues during this meeting. You can always stay on the hangout with one or more team members to discuss projects or issues after the daily scrum is completed or take the discussion to chat.
 
 
 <a id="recap"></a>
