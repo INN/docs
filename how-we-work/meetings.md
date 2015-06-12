@@ -60,14 +60,13 @@ No detailed discussion of issues during this meeting. You can always stay on the
 
 -  Replaces daily scrum every Friday (at 10:00 AM ET)
 -  Uses the Google Hangout link from the recurring event invite on the team Google calendar
--  Limited to 30 minutes
+-  Limited to 20 minutes
 
 Each team member, in less than 2 minutes (no more than 15 minutes total):
 
 -  What you did yesterday, your plan for today (your regular scrum)
 -  Your main accomplishments this week
 -  What did you learn?
--  Your plan for next week
 -  Blockers/issues to resolve so you can start strong next week
 
 As a team (no more than 10 minutes):
@@ -80,7 +79,6 @@ As a team (no more than 10 minutes):
 Team leader (no more than 5 minutes):
 
 -  General administrative updates
--  Priorities for next week
 
 <a id="kickoff"></a>
 ### Project Kickoff Meetings
