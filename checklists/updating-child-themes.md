@@ -4,6 +4,7 @@
 - [ ] What is the current version of Largo? What version was this child theme built for? [What has changed since then?](https://github.com/INN/Largo/releases)
 - [ ] Is the site already using the LESS customizer?
 - [ ] Does the theme include many custom functions? What do they do?
+- [ ] Does the theme include any custom partials or templates? What do they override? Can they be removed?
 - [ ] Document requirements in the theme's README.md.
 
 ### Cleanup:
