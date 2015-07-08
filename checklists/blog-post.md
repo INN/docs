@@ -39,7 +39,7 @@
 - [ ] Tweet from @INNnerds and personal accounts
 - [ ] Let the rest of the team know it's published so they can share it too
 - [ ] If the post is applicable for any of the regular INN newsletters add it to the newsletter budget docs and/or let the editor of that newsletter know it exists
-- [ ] Ping Luis to tweet from main INN account and/or post on Facebook
+- [ ] email [news@inn.org](news@inn.org) to schedule it to be tweeted from main INN account and/or posted on Facebook
 
 
 
