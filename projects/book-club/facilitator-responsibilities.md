@@ -13,3 +13,8 @@ Like all of our recurring programs, we take turns leading the monthly book club 
 - [ ] Make sure INN's communications person (news@inn.org) knows what's going on so it gets promoted via the main INN newsletters/Twitter/Facebook/etc.
 
 For in person events there may be some additional responsibilities involved such as finding a venue, securing adequate pie, etc. but we'll tackle that on a case by case basis.
+
+### Helpful links
+
+- [How to plan a session](http://opennews.org/blog/srccon-session-planning/) from SRCCON
+- [How to create the Google event/hangout](/projects/tools.md#google-hangouts)
