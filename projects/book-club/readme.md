@@ -22,7 +22,7 @@ Wherever possible, there should be pie.
 
 ### Helpful Links
 
-- [Leader Responsibilites](/projects/book-club/leader-responsibilities.md)
+- [Facilitator Responsibilites](/projects/book-club/facilitator-responsibilities.md)
 - [Book Suggestions Hackpad](https://hackpad.com/News-Nerd-Book-Club-Reading-List-YAApSL79SO2)
 - [Past months' archives](http://nerds.inn.org/category/book-club/)
 - [@NewsNerdBooks on Twitter](https://twitter.com/newsnerdbooks) (credentials are in the shared 1password vault in dropbox)
