@@ -4,7 +4,7 @@ Once a month, we'll pick a book, read it and host a public Google Hangout to dis
 
 Here's [our original announcement](http://nerds.inn.org/2014/09/02/come-learn-with-us-announcing-the-news-nerd-book-club/) of the program describing why we're doing this and what we hope to accomplish.
 
-To pick which book gets read each month, we'll take suggestions via [@newsnerdbooks](https://twitter.com/newsnerdbooks) or in-person at the end of each book club meeting. We maintain [a running list of book suggestions](https://Hackpad.com/News-Nerd-Book-Club-Reading-List-YAApSL79SO2) on Hackpad. At the end of each meeting, the book club facilitator will choose a book for the next book club meeting.
+To pick which book gets read each month, we'll take suggestions via [@newsnerdbooks](https://twitter.com/newsnerdbooks) or in-person at the end of each book club meeting. We maintain [a running list of book suggestions](https://Hackpad.com/News-Nerd-Book-Club-Reading-List-YAApSL79SO2) on Hackpad. At the end of each meeting we'll discuss some options and the book club facilitator will choose a book for the next book club meeting.
 
 Once a book is selected, we'll let everyone know which book made the cut on our Twitter account, [@newsnerdbooks](https://twitter.com/newsnerdbooks) a post on the [team's blog](http://nerds.inn.org/) in the "book club" category and by creating a Google+ event from the [primary INN Google+ page](https://plus.google.com/+InvestigativenewsnetworkOrg/posts) (more on that in a minute).
 
