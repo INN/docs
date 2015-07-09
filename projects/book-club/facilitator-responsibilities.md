@@ -18,3 +18,4 @@ For in person events there may be some additional responsibilities involved such
 
 - [How to plan a session](http://opennews.org/blog/srccon-session-planning/) from SRCCON
 - [How to create the Google event/hangout](/projects/tools.md#google-hangouts)
+- [Blog post checklist](/checklists/blog-post.md)
