@@ -11,6 +11,7 @@
 
 - [ ] Go through theme, file-by-file, and check for
 	- Child theme code duplicating Largo code
+		- Redefined `largo_load_more_posts` will have been broken by [0.5.1](https://github.com/INN/Largo/releases/tag/v0.5.1), and will need to be updated based on [the current code](https://github.com/INN/Largo/blob/master/inc/ajax-functions.php#L70)
 	- Child theme code that is outdated
 	- Functions that depend upon plugins
 - [ ] Wrap plugin-dependent functions in `if(function_exists('function')){ function(); }` to prevent missing plugins from breaking the site.
