@@ -1,6 +1,6 @@
-## Setup Process for Each Member Site
+# Setup Process for Each Member Site
 
-You now have the INN Largo Umbrella Network set up on your computer!
+You've probably [just installed the largo-umbrella](/onboarding/largo-umbrella-setup.md) or [updated your database](database-reload.md)! Huzzah!
 
 However, you'll need to do a brief setup for **each** member site you work with.
 
@@ -8,7 +8,7 @@ You've downloaded a production database, so we need to update some settings in W
 
 We'll use the shorthand `project.org` to represent a sub-site of the Largo umbrella, and you should substitute in the site you want to get access to. For your purposes, this might instead be `investigatemidwest.org` or `iowawatch.org`.
 
-### Log in to the main dashboard of your multisite and navigate to Network > Sites
+### 1. Log in to the main dashboard of your multisite and navigate to Network > Sites
 
 The Largo Network of Sites:
 [http://vagrant.dev/wp-admin/network/sites.php](http://vagrant.dev/wp-admin/network/sites.php)
