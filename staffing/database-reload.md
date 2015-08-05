@@ -24,7 +24,7 @@ There are a number of relevant commands here.
 * ```fab vagrant.create_db``` -- creates MySQL db called largoproject
 * ```fab vagrant.destroy_db``` -- deletes db called largoproject
 * ```fab vagrant.load_db:mysql.sql``` -- loads mysql.sql from largo-umbrella directory
-* **fab vagrant.reload_db:mysql.sql** - Compound operation that runs
+* **fab vagrant.reload_db:mysql.sql** - Compound command that runs
     1. ```vagrant.destroy_db```
     1. ```vagrant.create_db```
     1. ```vagrant.load_db:mysql.sql```
