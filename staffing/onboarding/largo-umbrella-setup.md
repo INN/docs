@@ -1,6 +1,6 @@
-# Set up Largo-Umbrella Local Dev Environment
+# Set up Largo-Umbrella Local Environment
 
-You're new to INN, or you've been here for a while and never set up the Largo umbrella of sites before on your computer, or you you've been here and have it set up but you did the setup back in the Cenozoic era and avoid doing it because you forget all the details.
+You're new to INN, or you've been here for a while and never set up the Largo Umbrella of sites before on your computer, or you you've been here and have it set up but you did the setup back in the Cenozoic era and avoid doing it because you forget all the details.
 
 Fret not! This guide will show you how to go from a Mac OS X system, with a baseline of what is described in our [setup docs](/staffing/onboarding/os-x-setup.md#terminal-emulator), and get to the point of:
 
@@ -283,13 +283,19 @@ The default virtual machine has 384MB of RAM to be respectful of a range machine
 
 6. ```vagrant snapshot take default speed_demon```
 
-### Rock on! But wait, you're not done.
+#### Rock on! But wait, you're not done.
 
-## [Member Site Setup Required For Each Site](../member-site-setup.md)
+## Complete Member Site Setup 
+#### [Instructions](../member-site-setup.md)
+Each site in the Umbrella requires it's own brief setup before it can be used in a local development environment to remove production values.
+
+## Sweet, now you're done
 
 Now you can work with the full Largo-umbrella network of sites locally, with all of the advantages listed at the beginning of this article.
 
 Be sure to take vagrant snapshots liberally when you make changes to the database, as they're a real timesaver in the event of making a mistake or a system crash. My system crashed with no warning while I was writing this up, and when I tried starting my virtual machine again I got an error that the virtual machine image was corrupted. I was saved a whole lot of work because I was able to just revert to the latest snapshot I had made (`vagrant snapshot go original_database_2015_04_09`).
+
+### You may need to [reload the databse](../database-reload.md) at some point 
 
 ## Troubleshooting
 
