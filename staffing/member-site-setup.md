@@ -50,17 +50,17 @@ If the change is successful, you should see a final summary screen with details 
 
 We also need to change the settings in the Largo-umbrella network site so that `project.org` is changed to `project.vagrant.dev`. This will be the final step before we can visit `http://project.vagrant.dev` in the browser.
 
-    1. Return to the tab for the site you just preformed the search-and-replance on. Refresh for good measure.
+1. Return to the tab for the site you just preformed the search-and-replance on. Refresh for good measure.
 
-    3. In the **Domain** text field, change `project.org` to `project.vagrant.dev` substituting in the sub-site's actual name.
+2. In the **Domain** text field, change `project.org` to `project.vagrant.dev` substituting in the sub-site's actual name.
 
-    4. Click on the "Settings" tab.
+3. Click on the "Settings" tab.
 
-    5. Change the **Siteurl** text field from `http://project.org` to `http://project.vagrant.dev`.
+4. Change the **Siteurl** text field from `http://project.org` to `http://project.vagrant.dev`.
 
-    6. Scroll all the way to the bottom and click the "Save Changes" button.
+5. Scroll all the way to the bottom and click the "Save Changes" button.
 
-    **SNAPSHOT**: Let's save our progress now. In your command line, take another snapshot with (substitute in the name of the project):
+6. **SNAPSHOT**: Let's save our progress now. In your command line, take another snapshot with (substitute in the name of the project):
 
 ```
 $ vagrant snapshot take default after_project_rename_domain
