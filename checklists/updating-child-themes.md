@@ -18,6 +18,7 @@
 - [ ] Remove child theme code that is exact duplicate of Largo code
 - [ ] Remove child partials that are exact duplicate of Largo partials
 - [ ] Remove Helvetica from font families.
+- [ ] [Rename style.css to child-style.css](https://github.com/INN/Largo-Sample-Child-Theme/issues/14)
 - [ ] For inexact duplicates, see if there is a hook or filter that can be used to the same effect
 - [ ] Consider using Largo's LESS customizer for changing main colors
 - [ ] Document requirements in the theme's README.md
