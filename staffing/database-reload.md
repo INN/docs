@@ -20,9 +20,8 @@ vagrant snapshot take default the_important_safe_thing_to_do
 ### 3. Reload SQL used in vagrant database
 
 There are a number of relevant commands here.
-
-* ```fab vagrant.create_db``` -- creates MySQL db called largoproject
 * ```fab vagrant.destroy_db``` -- deletes db called largoproject
+* ```fab vagrant.create_db``` -- creates MySQL db called largoproject
 * ```fab vagrant.load_db:mysql.sql``` -- loads mysql.sql from largo-umbrella directory
 * **fab vagrant.reload_db:mysql.sql** - Compound command that runs
     1. ```vagrant.destroy_db```
@@ -67,6 +66,5 @@ exit
 ```
 4. Take a snapshot.
 
-### 6. Resetup each member site
+### 6. [Re-setup each member site](member-site-setup.md)
 
-Link pending...
