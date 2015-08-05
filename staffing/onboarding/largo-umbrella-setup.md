@@ -285,8 +285,7 @@ The default virtual machine has 384MB of RAM to be respectful of a range machine
 
 #### Rock on! But wait, you're not done.
 
-## Complete Member Site Setup 
-#### [Instructions](../member-site-setup.md)
+## [Complete Member Site Setup](../member-site-setup.md)
 Each site in the Umbrella requires it's own brief setup before it can be used in a local development environment to remove production values.
 
 ## Sweet, now you're done
