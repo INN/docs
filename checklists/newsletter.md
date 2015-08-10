@@ -22,13 +22,13 @@
 
 - [ ] Create INN Nerds Blog Post and publish. This is the link to share.
 
-- Notify ye fellow Nerds to share with their followers.
-
 - [ ] Use TweetDeck w/ the @INNNerds twitter to tweet the nerds.inn.org link. Don't just stick to the subject line. Emoji and/or the newsletter GIF help.
 
+- [ ] Notify ye fellow Nerds to share with their followers.
+
 - [ ] But wait, now it's time to schedule some more tweets:
-  1. If there was a guest, schedule a Thank You from your personal account (preferably for the personal touch) for post Office Hours. @tag the guest if they're clearly a public Twitter person.
-  1. Schedule ICYMI Tweet for Sunday Evening catchup time (4-5 PM PT / 7-8 PM ET)*
+  1. If there was a guest, definitely make sure a Thank You happens. Preferably from your personal account (for the personal touch), but at minimum the @INNNerds. Schedule for post Office Hours. @tag the guest if they're clearly a public Twitter person.
+  1. Schedule ICYMI tweet for Sunday Evening catchup time (4-5 PM PT / 7-8 PM ET)
   1. If we made a thing, tweet that thing! Give 15-45 minute padding from other scheduled tweets. If it was a Largo thing, perhaps tweet from @LargoProject and RT onto @INNNerds. If it's a BIG thing, don't be stingy -- space a few more tweets throughout the next week.
   1. *Optional* - Schedule the shoutout + link-off if it is a particularly cool thing. Tag the org. Monday morning (8 AM PT / 11 AM ET) is a good time.
 
