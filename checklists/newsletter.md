@@ -20,21 +20,18 @@
 
 ### After sending the Friday newsletter:
 
-- [ ] Create INN Nerds Blog Post and publish. This is the link to share.
+- [ ] Create blog post and publish. This is the link to share.
 
-- [ ] Use TweetDeck with the @INNNerds twitter to tweet the nerds.inn.org link. Don't just stick to the subject line. Emoji and/or the newsletter GIF help.
+- [ ] Tweet the nerds.inn.org link from the @INNnerds Twitter account. Don't just stick to the subject line. Emoji, images and/or the newsletter GIF will make your tweet mor effective
 
-- [ ] Notify ye fellow Nerds to share with their followers.
+- [ ] Notify the rest of the team to share the link (or retweet the @INNnerds link) with their followers.
 
-- [ ] But wait, now it's time to schedule some more tweets:
-  1. If there was a guest, definitely make sure a Thank You happens. Preferably from your personal account (for the personal touch), but at minimum the @INNNerds. Schedule for post Office Hours. @tag the guest if they're clearly a public Twitter person.
+- [ ] Consider scheduling some more tweets (schedule these using Tweetdeck or Buffer to avoid overwhelming people):
+  1. If there was a guest, make sure a Thank You happens. This can either come from your personal account (for the personal touch) or from @INNNerds. @tag the guest if they're clearly a public Twitter person.
   2. Schedule ICYMI tweet for Sunday Evening catchup time (4-5 PM PT / 7-8 PM ET)
-  3. If we made a thing, tweet that thing! Give 15-45 minute padding from other scheduled tweets. If it was a Largo thing, perhaps tweet from @LargoProject and RT onto @INNNerds. If it's a BIG thing, don't be stingy -- space a few more tweets throughout the next week.
-  4. *Optional* - Schedule the shoutout + link-off if it is a particularly cool thing. Tag the org. Monday morning (8 AM PT / 11 AM ET) is a good time.
-
+  3. If we made a thing, tweet that thing! Give 15-45 minute padding from other scheduled tweets. If it was a Largo thing, perhaps tweet from @LargoProject and retweet that tweet from @INNNerds.
 
 ### Tips
 - **On writing**... less is more.
-- **On MailChimp**... careful of pasting in the MailChimp WYSIWYG. Check mode or edit raw code. You don't want to wipe out existing styles.
+- **On MailChimp**... be careful when copying and pasting from the newsletter draft to the MailChimp WYSIWYG editor. Check mode or edit raw code. You don't want to wipe out existing styles.
 - **On GIFs**... Keep the gif between 400-500 wide, shorter than 3.33 seconds. [Resize it and optimize it](http://ezgif.com/optimize).
-- **On TweetDeck**... when scheduling text, TweetDeck allows Scheduled Tweets to be re-timed. When scheduling images, you must delete the tweet and start over :[
