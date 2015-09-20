@@ -1,8 +1,8 @@
-#Project Documents and Design Assets
+# Project Documents and Design Assets
 
 Each project we work on requires a number of common documents and assets. This is a list of those items and how to use them.
 
-###Documents
+### Documents
 
 - **Project summary:** The manifesto for the project that is shared with the client ([as documented here](https://github.com/INN/docs/blob/master/how-we-work/process.md)), this serves to identify the main goals and priorities of the project.
 
@@ -13,7 +13,8 @@ Each project we work on requires a number of common documents and assets. This i
 - **Other memos:** Depending on the project, we may create other documents about topics like taxonomy, third party integrations, etc.
 
 
-###Design Assets
+### Design Assets
+
 For most projects, we will create a number of design, IA, and UX assets. Including:
 
 - **Wireframes** — To give broad level structural framework for the project. Every page type should be mocked up.
@@ -24,13 +25,14 @@ For most projects, we will create a number of design, IA, and UX assets. Includi
 
 - **Comps or mockups** — When needed, we will create full or partial design comps for site designs.
 
-###How to set up a project
+
+### How to set up a project
 
 For standard documents and assets, we will use templates as much as possible so that we're not starting from scratch with each new client. 
 
-All of the templates live, aptly, in the templates folder on Google Drive. When beginning a new client project: 
+All of the templates live, aptly, in [the templates folder](https://drive.google.com/drive/u/0/folders/0BxfhnBiuyIFjfkRyc1NaQVNNbDFqczJFUmZPcEtGNUQtN0xvVFpHVzJSQ2NKN1g4Q0ZpZ0k) on Google Drive. When beginning a new client project: 
 
-- Create a folder for the client (if one doesn't already exist) in the shared project documents folder in Google Drive.
+- Create a folder for the client (if one doesn't already exist) in the [shared project documents](https://drive.google.com/drive/u/0/folders/0BxfhnBiuyIFjfl95X0VWb3NnZ184RDRZdm1aWmJ6UUdXeDhnQkREMXVRN1JQendudVdsa2c) folder in Google Drive (you should be able to access and edit this folder while logged into Google using your @inn.org account).
 
 - Find the templates folder and make a copy of the document(s) that you need to create and move those copies to the client folder. Edit the copied documents to add information specific to that client.
 

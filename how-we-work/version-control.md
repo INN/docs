@@ -23,17 +23,20 @@ While you may like to fork some of the INN repositories into your own account to
 
 ![git cloning](http://inn.org/wp-content/uploads/2015/05/github-example.png)
 
+
 ### Naming Branches
 
 If you are contributing to an INN repository, name your branch starting with your name and then add the a short description of the issue you are addressing (e.g. - "your-name-doc-changes", or even better, "your-name-specific-changes"). A good branch name should be concise but descriptive so that you and other team members know immediately what the branch is for.
 
 If you are creating a new branch to address a numbered issue in GitHub or JIRA (such as with [Largo](http://github.com/inn/largo), follow the above guidance but start the branch name with the number of the issue you are addressing (e.g. - "671-ben-largo-related-stories").
 
+
 ### Guidelines for Submitting Pull Requests
 
 See: [Pull Requests Guide](/how-to-work-with-us/pull-requests.md)
 
-## Git in the command line
+
+### Git in the command line
 
 **tl;dr:  If you are simply making changes to markdown files, such as helping with documentation, it's probably easier to stick to working in Github.com. However, if you will be working with data files and code, it's best to learn how to use git in the command line.**
 
@@ -92,3 +95,39 @@ Here are a few of the commands you will use the most when making changes through
 **to pull changes made in Github.com to local repository**
 
             git pull origin branch-name
+
+
+### Git Apps for OS X
+
+Most seasoned developers prefer using git through the Terminal for the raw power it offers.
+
+But particularly when handling a large repository containing dozens of submodules, there are times the Terminal isn't graphic enough to illustrate intricate data about the status of a repo.
+
+Fortunately, there are some great apps for graphically interacting with Bitbucket and GitHub.
+
+**[GitHub Desktop](https://desktop.github.com/)**
+
+This is probably the most popular and also the easiest-to-use Git app for Mac OS.
+
+Features:
+
+* Clean UI for displaying repos
+* Works with GitHub out of the box and Bitbucket repos initialized via Terminal
+* Undo commits easily
+* Switch branches without the need to manually stash changes (switch back to `master` to check something without hassle)
+* Open GitHub pull requests within the app
+* Really easy "sync" button, don't worry about fetch, push, pull etc.
+* Great, clean diff view
+* SUPER snappy
+
+**Adding BitBucket repos**
+
+1. First [initialize](https://confluence.atlassian.com/bitbucket/checkout-a-branch-into-a-local-repository-313466957.html) via Terminal. 
+2. Install GitHub Desktop and Open.
+3. Add the repo with the **+** in the upper-left corner, and choose **Add**.
+4. GitHub Desktop will detect the `.git` file for the repo and load it (you'll see commits appear)
+5. Note that when committing GitHub Desktop provides title and description fields -- these are combined when committing to a Bitbucket repo **just use the title**.
+
+**[SourceTree](https://www.sourcetreeapp.com/)**
+
+This program tries to do a little too much, can run quite slow and is prone to crashing, but provides a great in-between GUI for Terminal-comfortable git users. Also includes powerful tools around stashing, .gitignores and other advanced functions.

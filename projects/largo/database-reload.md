@@ -67,4 +67,3 @@ exit
 4. Take a snapshot.
 
 ### 6. [Re-setup each member site](member-site-setup.md)
-
