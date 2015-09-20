@@ -6,6 +6,7 @@ Here are some guidelines for what information to include in your PR, when to sub
 
 Remember that a PR is part of a process to document the changes to a product or procedure, so the more information you provide, the better you and your teammates will understand the purpose of your PR.
 
+
 ### What information to include in a PR
 
 A PR should contain commits that are related and that address only one functional change. If you made changes to unrelated documents, projects, or various feature or issues, you should submit separate pull requests for each one.
@@ -13,12 +14,10 @@ A PR should contain commits that are related and that address only one functiona
 To explain your PR, include:
 
 - Explanation of the issues (including specific issue numbers) the PR addresses
-
 - Explanation of **why** you chose to make these changes and any notes on your methodology or process that would be helpful to the person reviewing the request. We need to know not only **what** you changed but also the rationale behind your decisions.
-
 - Any new issues or conflicts that your changes might create.
-
 - Screenshots or useful links to explain your PR wherever relevant
+
 
 ### FAQs
 
@@ -38,6 +37,7 @@ After your submit a PR, designated team members (usually a primary and secondary
 
 Check out this [beautifully documented PR](https://github.com/INN/Largo/pull/646) by @benlk.  
  
+
 ### Inspiration
 
 - [Texas Tribune Pull Request Template](https://gist.github.com/risatrix/ceabdf7e8d00f9dbdd38)

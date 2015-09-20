@@ -2,10 +2,15 @@
 
 [nerds.inn.org](http://nerds.inn.org)
 
+
 ### Strategy
+
+Coming soon!
 
 
 ### Style guidelines
+
+Coming soon!
 
 
 ### Checklists/Helpful Links

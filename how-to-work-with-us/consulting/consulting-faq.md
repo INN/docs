@@ -35,10 +35,10 @@ The way we're hoping to solve this problem is by forming a sort of "co-op" compr
 
 Our rates [can be found right here](consulting-rates.md).
 
-Contracts will typically be project based and we will bill twice monthly for the actual hours worked during the preceding two week period. Under certain circumstances we may agree to do fixed bid contracts but we believe it's typically more fair for both parties to charge for actual hours worked.
+Contracts will typically be project based and we will bill monthly for the actual hours worked during the previous month. Under certain circumstances we may agree to do fixed bid contracts but we believe it's typically more fair for both parties to charge for actual hours worked.
 
 **I have ongoing tech needs but we're not ready to hire a full-time staff member yet, can you help?**
 
-If you have ongoing needs, we've talked to a few members about doing a retainer-based support agreements where you would essentially be sharing a full-time headcount on our team with a number of other INN members. The advantage would be that you would be guaranteed a certain percentage of that person's time without having to recruit and manage them.
+If you have ongoing needs, we've talked to a few members/clients about doing a retainer-based support agreements where you would essentially be sharing a full-time headcount on our team with a number of other INN members or other paying clients. The advantage would be that you would be guaranteed a certain percentage of that person's time without having to recruit and manage them.
 
 If this is something that you would be interested in, [contact us](mailto:nerds@inn.org) and we can discuss your particular needs and how we might best help you.

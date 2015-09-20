@@ -7,6 +7,7 @@ Everything you need to know about the services we offer and how to work with us 
 - [How To Work With Us](https://github.com/INN/docs/blob/master/how-to-work-with-us/intake-procedure.md)
 - [Our Paid Consulting Program](/how-to-work-with-us/consulting/readme.md)
 - [Our Code Of Conduct And How To Contribute To Our Open Source Projects](contributing.md)
+- How to work with GitHub including a guide for [creating great pull requests](pull-requests.md) and [contributing to projects directly via github.com](via-github.md).
 
 ### Inspiration
 
