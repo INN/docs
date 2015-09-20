@@ -36,10 +36,9 @@
 
 - [ ] Optionally you can specify related posts in Largo (currently just using the post ID of the related post(s)) so if you know there are other posts closely related to the one you're writing you might want to do that.
 - [ ] Update the editorial calendar with the link to the finished post, move it to the "published" tab
-- [ ] Tweet from @INNnerds and personal accounts
+- [ ] Tweet from [@INNnerds](http://twitter.com/innnerds) and personal accounts
 - [ ] Let the rest of the team know it's published so they can share it too
-- [ ] If the post is applicable for any of the regular INN newsletters add it to the newsletter budget docs and/or let the editor of that newsletter know it exists
-- [ ] email [news@inn.org](news@inn.org) to schedule it to be tweeted from main INN account and/or posted on Facebook
+- [ ] If the post is applicable for any of the regular INN newsletters let the editor of that newsletter know it exists by emailing [news@inn.org](news@inn.org). This is also the way to get it scheduled to be tweeted from main INN account and/or posted on Facebook
 
 
 
