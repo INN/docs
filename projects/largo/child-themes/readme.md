@@ -7,6 +7,7 @@ More on how child themes work in general can be found [in the WordPress codex](h
 Largo is structured a specific way, and when you create a child theme it will be easiest for you to follow parallel structures as you modify and add.
 
 ### Largo Child Theme Resources
+
 - [Child Themes Checklist](/checklists/child-themes.md) in INN/docs.
 - [Largo Documentation --> For Developers](http://largo.readthedocs.org/developers/fordevelopers.html#overview) on readthedocs.org.
 - [Largo Sample Child Theme](https://github.com/INN/Largo-Sample-Child-Theme) in INN/Largo-Sample-Child-Theme

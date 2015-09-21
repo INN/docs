@@ -33,6 +33,6 @@ Logo by [Alli Berry](http://alliberry.com/)
 
 One benefit of INN membership (here's a full list of [what we offer to to members](/how-to-work-with-us/members-services.md)) is access to a hosted version of Largo that we maintain for a number of member sites.
 
-- [How to setup the Largo umbrella repository on your local machine](/staffing/onboarding/largo-umbrell-setup.md)
+- [How to setup the Largo umbrella repository on your local machine](umbrella-setup.md)
 - [Reloading a copy of the production database on your local machine](database-reload.md)
 - [Our deploy tools](https://github.com/INN/deploy-tools)
