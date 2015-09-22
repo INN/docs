@@ -107,6 +107,8 @@ For each new project we'll have a brief kickoff meeting involving key members of
 - What does the minimum viable product need to include? What would be nice to have?
 - How will we measure success?
 
+Here's a complete [description of our process](/how-we-work/process.md) when taking on new projects. 
+
 
 <a id="retrospective"></a>
 ### Project Retrospective Meetings
