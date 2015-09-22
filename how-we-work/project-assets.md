@@ -30,9 +30,9 @@ For most projects, we will create a number of design, IA, and UX assets. Includi
 
 For standard documents and assets, we will use templates as much as possible so that we're not starting from scratch with each new client. 
 
-All of the templates live, aptly, in [the templates folder](https://drive.google.com/drive/u/0/folders/0BxfhnBiuyIFjfkRyc1NaQVNNbDFqczJFUmZPcEtGNUQtN0xvVFpHVzJSQ2NKN1g4Q0ZpZ0k) on Google Drive. When beginning a new client project: 
+All of the templates live, aptly, in [the templates folder](https://drive.google.com/a/investigativenewsnetwork.org/folderview?id=0BxfhnBiuyIFjfkRyc1NaQVNNbDFqczJFUmZPcEtGNUQtN0xvVFpHVzJSQ2NKN1g4Q0ZpZ0k) on Google Drive. When beginning a new client project: 
 
-- Create a folder for the client (if one doesn't already exist) in the [shared project documents](https://drive.google.com/drive/u/0/folders/0BxfhnBiuyIFjfl95X0VWb3NnZ184RDRZdm1aWmJ6UUdXeDhnQkREMXVRN1JQendudVdsa2c) folder in Google Drive (you should be able to access and edit this folder while logged into Google using your @inn.org account).
+- Create a folder for the client (if one doesn't already exist) in the [shared project documents](https://drive.google.com/a/investigativenewsnetwork.org/folderview?id=0BxfhnBiuyIFjfl95X0VWb3NnZ184RDRZdm1aWmJ6UUdXeDhnQkREMXVRN1JQendudVdsa2c) folder in Google Drive (you should be able to access and edit this folder while logged into Google using your @inn.org account).
 
 - Find the templates folder and make a copy of the document(s) that you need to create and move those copies to the client folder. Edit the copied documents to add information specific to that client.
 
