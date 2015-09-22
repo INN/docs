@@ -64,7 +64,6 @@ No detailed discussion of issues during this meeting. You can always stay on the
 -  Leadership team meets at 9:45 before the rest of the team joins
 -  During this time we will review priorities and assignments for the week and update the [roadmap doc](https://docs.google.com/document/d/1WCCB_N93d3jyYbFfKMr1z4Ag1n4EMe5YlaoSgdh8MYY/edit) (login required)
 -  We will also discuss new clients/prospects, projects kicking off, important deadlines for the week, etc.
-
 -  The rest of the team joins at 10 am ET
 -  Meeting begins with a review of the roadmap for the week, important deadlines, top priorities, etc.
 -  Scrum then proceeds as normal
@@ -108,7 +107,6 @@ For each new project we'll have a brief kickoff meeting involving key members of
 - How will we measure success?
 
 Here's a complete [description of our process](/how-we-work/process.md) when taking on new projects. 
-
 
 <a id="retrospective"></a>
 ### Project Retrospective Meetings
