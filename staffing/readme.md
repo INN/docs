@@ -14,4 +14,4 @@ How we write job descriptions, approach recruiting, evaluate candidates and help
 
 ### Not in here, but related:
 
-- [INN staff roster and contact info](https://docs.google.com/document/d/1OFMDAbyjgfQSm9qbD8nogyGaL33ea-0tNLO9-P6DFfU/edit)
+- [INN staff roster and contact info](https://docs.google.com/document/d/1OFMDAbyjgfQSm9qbD8nogyGaL33ea-0tNLO9-P6DFfU/edit) (login required)
