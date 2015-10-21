@@ -6,9 +6,11 @@ Follow the Wordpress [PHP Coding Standards](http://nerds.inn.org/2014/10/02/spac
 
 - Use tabs instead of spaces
 - Use { } even when they're not necessary:  
+
 	if ( condition ) {
 		action0();
 	}
+
 - Remove trailing spaces
 
 One notable exception to WordPress' rules is that we do not use spaces or tabs for indentation within a line of code.
