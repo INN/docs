@@ -2,7 +2,7 @@
 
 INN's technology team is focused on helping our 100+ member organizations in any way we can.
 
-We now provide free hosting and support to over 30 member websites on our [Largo platform](http://largoproject.org) and a significant portion of what we do involves improving the platform and supporting members so they can take maximum advantage of the tools we build.
+We now provide free hosting and support to over 40 member websites on our [Largo platform](http://largoproject.org) and a significant portion of what we do involves improving the platform and supporting members so they can take maximum advantage of the tools we build.
 
 We've made a lot of headway in the past couple of years reducing costs for members, eliminating duplication of effort, and getting members onto a stable platform that looks great and works well across devices.
 
@@ -16,7 +16,7 @@ But it's hard for us to help every member individually and there are many member
 
 **We also frequently hear from non-members that they:**
 
--  Want to use the tools we have built (particularly Largo) but may require some help setting them up or customizing them to suit their needs
+-  Want to use the tools we have built (particularly [Largo](http://largoproject.org)) but may require some help setting them up or customizing them to suit their needs
 -  In some cases may require additional custom development to add functionality that we have not yet built
 -  Would be willing to pay (provided [our rates](consulting-rates.md) are competitive) for our services and even pay us to host their sites in the same way we host sites for members.
 
