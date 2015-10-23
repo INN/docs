@@ -19,6 +19,11 @@ Additionally, you can [create issues](https://github.com/INN/docs/issues) on thi
 
 And of course you can always email us: [nerds@inn.org](mailto:nerds@inn.org).
 
+### Things to check:
+
+- If you move a file, check that links to it are also updated.
+- Preview your Markdown files' rendered output.
+
 ### Standards
 
 - Use [markdown syntax](http://daringfireball.net/projects/markdown/syntax) for all documents
