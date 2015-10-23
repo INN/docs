@@ -2,7 +2,7 @@
 
 ### What is it?
 
-An open source WordPress framework we built to make it easier to make websites for our members.
+An open source WordPress framework we built to make it easier to make websites for our members. Read [our manifesto](./manifesto.md)!
 
 ### Who made it?
 
@@ -11,6 +11,14 @@ Originally, we started from NPR's [Project Argo](https://github.com/argoproject/
 The early work on Largo was done by Adam Schweigert but we've since benefitted from the contributions of everyone on the INN team and a number of [open source contributors](https://github.com/INN/Largo/graphs/contributors).
 
 Logo by [Alli Berry](http://alliberry.com/)
+
+### What's in this directory?
+
+- [How to get set up with the Largo umbrella repository](./umbrella-setup.md)
+- [How to contribute documentation](./write-the-docs.md)
+- [How to reload the database](./database-reload.md)
+- [How to commit to the umbrella](./umbrella-commit.md)
+- [How to deploy the umbrella](./umbrella-deploy.md)
 
 ### Other relevant info/links:
 
