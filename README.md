@@ -69,6 +69,7 @@ The INN news apps and technology team is:
 -  **[Kaeti Hinck](https://github.com/kaeti)** ([@kaeti](http://twitter.com/kaeti)), Design Director
 -  **[Denise Malan](https://github.com/dnmalan)** ([@denisemalan](http://twitter.com/denisemalan)), Director of Data Services
 -  **[Ryan Nagle](https://github.com/rnagle)** ([@ryannagle](http://twitter.com/ryannagle)), Director of Technology
+-  **[Jack Brighton](http://github.com/jackbrighton)** ([@jackbrighton](http://twitter.com/jackbrighton), Manager of Support, Documentation and Training
 -  **[Ben Keith](https://github.com/benlk)** ([@benlkeith](http://twitter.com/benlkeith)), News Apps Developer
 -  **[David Ryan](https://github.com/dryanmedia)** ([@dryanmedia](http://twitter.com/dryanmedia)), Apprentice News Apps Developer
 
