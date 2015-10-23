@@ -14,11 +14,18 @@ Logo by [Alli Berry](http://alliberry.com/)
 
 ### What's in this directory?
 
-- [How to get set up with the Largo umbrella repository](./umbrella-setup.md)
-- [How to contribute documentation](./write-the-docs.md)
-- [How to reload the database](./database-reload.md)
-- [How to commit to the umbrella](./umbrella-commit.md)
-- [How to deploy the umbrella](./umbrella-deploy.md)
+- Largo documentation
+	- [How to contribute documentation](./write-the-docs.md)
+- Largo umbrella repo documentation
+	- [How to get set up with the Largo umbrella repository](./umbrella-setup.md)
+	- [How to reload the database](./database-reload.md)
+	- [How to commit to the umbrella](./umbrella-commit.md)
+	- [How to deploy the umbrella](./umbrella-deploy.md)
+- Child theme docs
+	- [Sample Largo child theme](https://github.com/INN/Largo-Sample-Child-Theme) for reference purposes, typically you will **not** want to clone this directly
+	- Child themes for all of the sites we host can be found [on bitbucket](https://bitbucket.org/projectlargo/) as can [the umbrella repository](https://bitbucket.org/projectlargo/largo-umbrella) we use for deployment purposes.
+	- [How to setup and add a new member site to the umbrella repo](/projects/largo/child-themes/new-site.md)
+
 
 ### Other relevant info/links:
 
@@ -30,12 +37,6 @@ Logo by [Alli Berry](http://alliberry.com/)
 - Project Twitter account is [@LargoProject](http://twitter.com/largoproject) and it has its own [MailChimp list](http://eepurl.com/yu0bT) for project updates in the main INN MailChimp account.
 - Group email addresses exist for [support@largoproject](mailto:support@largoproject.org) or [largo@inn.org](mailto:largo@inn.org) in the INN Google Apps account
 - Logo and brand guidelines are in the INN shared Dropbox folder
-
-### Child Themes
-
-- [Sample Largo child theme](https://github.com/INN/Largo-Sample-Child-Theme) for reference purposes, typically you will **not** want to clone this directly
-- Child themes for all of the sites we host can be found [on bitbucket](https://bitbucket.org/projectlargo/) as can [the umbrella repository](https://bitbucket.org/projectlargo/largo-umbrella) we use for deployment purposes.
-- [How to setup and add a new member site to the umbrella repo](/projects/largo/child-themes/new-site.md)
 
 ### Our hosted version of Largo (for INN members)
 
