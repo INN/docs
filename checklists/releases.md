@@ -1,75 +1,37 @@
 # Releasing software
 
+## In general
+
 Preparing a repository for a new release:
 
 - [ ] All must-have issues are closed (likely all normal and high priority issues).
 
 - [ ] Move any left-over issues to the backlog or the next release as appropriate.
 
-- [ ] Make sure a previous version tag exists.
+- [ ] Prepare a changelog based on the issues and pull requests closed for the respective milestone/version number.
 
-        > git checkout master
-        > git tag
-        0.1
-        0.2
+## Largo releases
 
-        > git tag -a v0.3 -m "tagging v0.3"
-    
-        > git tag
-        0.1
-        0.2
-        0.3
+This assumes all changes for a given release are included in the `develop` branch. This process works based on the assumption that releases are packaged by merging `develop` into the `master` branch.
 
-- [ ] Minify/compress assets (LESS/CSS, Javascript)
+- [ ] On the `develop` branch, update the version number in the project's `package.json` file.
 
-For example, to compile CSS and JS files in Largo:
+- [ ] Run the `grunt build-release` task to build all assets, project documentation, language files and increment the version number in all appropriate files.
 
-    > git checkout develop
-    > grunt less
-    > grunt cssmin
-    > grunt uglify
-    > grunt shell
+- [ ] Run the test suite one last time to make sure nothing is broken.
 
-- [ ] Compile translation file(s).
+- [ ] Commit any changes.
 
-For example, to compile translation files in Largo:
+For example:
 
-    > git checkout develop
-    > grunt pot
-    > msgmerge -o lang/es_ES.po.merged lang/es_ES.po lang/largo.pot
-    > mv lang/es_ES.po.merged lang/es_ES.po
+    > git commit -m "running 'grunt build-release' ahead of v0.5.3 release"
 
-- [ ] Update the project's readme
+- [ ] Run the `grunt publish` task to:
+    - Checkout the `master` branch
+    - Merge `develop` to `master`
+    - Tag the release
+    - Finally, push to the remote repository.
 
-For example, in Largo, make sure version numbers are update (see the next list item) and any links to Travs or Read The Docs are using the appropriate branch.
+## After pushing a tagged release:
 
-- [ ] Update the version number in the project
-
-    - For Largo, update the version number in:
-        - `style.css`
-        - `readme.md`
-        - `package.json`
-        - `docs/conf.py`
-
-- [ ] Run the test suite one last time to make sure you're not tagging a broken version
-
-- [ ] Rebuild documentation
-
-For example, to rebuild the PHP documentation in Largo
-
-        > git checkout develop
-        > grunt shell
-
-- [ ] Merge develop branch into master and push
-
-        > git checkout master
-        > git merge develop
-        > git push origin master
-
-- [ ] Tag the new release
-
-        > git tag -a v0.4 -m "tagging v0.4"
-
-- [ ] Push newly created tags
-
-        > git push origin --tags
+- [ ] Publish a `changelog` for the new version on the project page
