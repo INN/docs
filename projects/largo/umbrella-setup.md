@@ -18,6 +18,8 @@ Most of this stuff works from your command line, which you get to through the de
 
 What's next?
 
+(If you're running Linux, check out [the Linux supplement to these instructions](./umbrella-setup-linux.md).)
+
 ## 1. Clone the largo-umbrella git repository hosted at BitBucket.
 
 While we use Github for hosting our open source contributions, we use Bitbucket instead for the actual production code that powers our websites. Bitbucket allows for unlimited private repositories for Non-Profits like us, and gives us finer-grained control of permissions to individual projects.
