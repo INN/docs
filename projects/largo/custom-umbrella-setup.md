@@ -9,18 +9,29 @@ There are two moving parts when setting up a new umbrella.
 ## 1. Create Child Theme in `largo-umbrella`
 
 1. Login to Bitbucket 
-2. Confirm you are permissioned to create new repositories in projectlargo (if you don't see an owner dropdown when you Create a repo in the web interface, ping the INN Nerds)
-3. Create a new Git repository for the child theme via web or command line. Our theme repository names are prefixed with "theme-" (ex. theme-cornellsun)
-4. Create a new folder for the child theme in the `largo-umbrella` such as `/wp-content/themes/cornellsun` (don't prefix folder name)
-4. Open the `.gitmodules` file in the `largo-umbrella`
-5. Mimic the submodule setup seen for other themes.
+2. Confirm you are permissioned to create new repos in projectlargo *(if you don't see an owner dropdown when you Create a repo in the web interface, ping the INN Nerds)*
+3. Create a new Git repository for the child theme via web or command line. Our theme repository names are prefixed with "theme-" for clarity (ex. theme-cornellsun)
+4. Make sure the repository isn't empty (empty repos can't be initialized as submodules), so add a `style.css` file.
 ```
-[submodule "wp-content/themes/cornellsun"]
-	path = wp-content/themes/cornellsun
-	url = https://bitbucket.org/projectlargo/theme-cornellsun.git
+/*
+Theme Name:     Cornell Daily Sun
+Theme URI:      http://largoproject.org
+Description:    A child theme for the The Cornell Daily Sun at Cornell University.
+Author:         Institute for Nonprofit News
+Author URI:     http://nerds.inn.org
+Template:       largo-dev
+Version:        0.1.0
+*/
 ```
 
-6. Commit these changes to largo-umbrella.
+Now it's time to initialize the repository in `largo-umbrella` in the `master` branch.
+```
+cd ~/largo-umbrella
+git submodule add -f git@bitbucket.org:projectlargo/theme-REPO-NAME.git wp-content/themes/REPO-NAME` 
+```
+*Note: -f excempts the submodule from .gitignore rules. Also, don't prefix the destination directory with "theme-".*
+
+Finally, commit these changes to `largo-umbrella`.
 
 ## 2. Create a custom umbrella for the client
 
