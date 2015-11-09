@@ -66,4 +66,4 @@ In the root directory of the new umbrella, run `vagrant up` to setup the vagrant
 
 ## 4. Continue [standard umbrella setup](https://github.com/INN/docs/blob/master/projects/largo/umbrella-setup.md#8-download-production-database)
 
-From here, you'll need to import a database, localize URLs and make sure your /etc/hosts file is setup for development URLs. These steps are explained [here](https://github.com/INN/docs/blob/master/projects/largo/umbrella-setup.md#8-download-production-database) the largo-umbrella setup.
+From here, you'll need to import a database, localize the URLs for use with your local development domain, and make sure your /etc/hosts file is setup for development URLs. These steps are explained [here](https://github.com/INN/docs/blob/master/projects/largo/umbrella-setup.md#8-download-production-database) the largo-umbrella setup.
