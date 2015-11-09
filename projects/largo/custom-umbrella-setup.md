@@ -36,7 +36,7 @@ Finally, commit these changes to `largo-umbrella`.
 
 1. Login to Bitbucket
 2. Either fork or build a new repository based off the [custom-umbrella-boilerplate](https://bitbucket.org/projectlargo/custom-umbrella-boilerplate/src) on Bitbucket.
-4. Make sure you've already [installed the proper Python tools](https://github.com/INN/docs/blob/master/projects/largo/umbrella-setup.md#3-install-python-tools), and then follow INN/deploy-tools setup instructions (including **initializing the submodule** in the new umbrella repo!).
+4. Make sure you've already [installed the proper Python tools](https://github.com/INN/docs/blob/master/projects/largo/umbrella-setup.md#3-install-python-tools), and then follow INN/deploy-tools setup instructions (including **initializing the deploy-tools submodule** in the new umbrella repo!).
 5. Check WordPress prerequisites `fab wp.verify_prerequisites`
 6. Install WordPress `fab wp.install:4.3.1`
 7. Finally, it's time to initialize the Largo submodule and the new child theme submodule.
@@ -66,4 +66,4 @@ In the root directory of the new umbrella, run `vagrant up` to setup the vagrant
 
 ## 4. Continue [standard umbrella setup](https://github.com/INN/docs/blob/master/projects/largo/umbrella-setup.md#8-download-production-database)
 
-From here, you'll need to import a database, localize URLs and make sure your /etc/hosts file is setup for development URLs.
+From here, you'll need to import a database, localize URLs and make sure your /etc/hosts file is setup for development URLs. These steps are explained [here](https://github.com/INN/docs/blob/master/projects/largo/umbrella-setup.md#8-download-production-database) the largo-umbrella setup.
