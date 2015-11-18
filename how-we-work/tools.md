@@ -2,7 +2,7 @@
 
 These are some of the tools we rely on to make our remote work possible.
 
-- **[HipChat](https://www.hipchat.com/):** We use this as our group chat tool and always-on back channel. We have two rooms we primarily use: a room restricted to our team only (INN - Technology) and a room that is open to all technologist at partner/member organizations (INN - Technology (Open)). In addition we create a room for each project we work on to collaborate internally and also, at times, with members/partners/vendors.
+- **[Slack](https://slack.com/):** We use this as our group chat tool and always-on back channel. We have three channels we primarily use: a room for all INN staff (#00-inn-staff) a room restricted to our team only (#00-tech team) and a room that is open to all tech folks at partner/member organizations (#00-open-tech). In addition we create a channel for each project we work on to collaborate internally and also, at times, with members/partners/vendors.
 - **[GitHub](http://www.github.com):** For versioning and hosting our open source projects. We have a number of teams under our [INN organization account](http://github.com/inn) to grant access to various groups of projects to various types of users: 
 	- **Owners** have read/write/admin access to all team projects
 	- **Tech Team** has read/write/admin to a smaller subset of our projects
