@@ -51,15 +51,25 @@ Alternatively, if you're comfortable with editing the database directly, you can
 ### Testing
 
 - [ ] Make sure that the site loads without PHP errors on Vagrant
-- [ ] Do the widgets look okay?
-- [ ] Are the menus okay?
 - [ ] What about these locations? `common url`
- 	- [ ] Homepage `/`
- 	- [ ] Articles `/?p=1234`
- 	- [ ] Series `/series/slug/` `/?series=1234`
- 	- [ ] Category archive pages `/category/slug/`
- 	- [ ] Series archive pages `/series/slug/`
- 	- [ ] Series landing pages `/slug/`
- 	- [ ] Search results `/?s=words`
- 	- [ ] Pages `/slug/`
- 	- [ ] Tag archives `/tag/slug`
+	- [ ] Homepage `/`
+	- [ ] Articles `/?p=1234`
+	- [ ] Series `/series/slug/` `/?series=1234`
+	- [ ] Category archive pages `/category/slug/`
+	- [ ] Series archive pages `/series/slug/`
+	- [ ] Series landing pages `/slug/`
+	- [ ] Search results `/?s=words`
+	- [ ] Pages `/slug/`
+	- [ ] Tag archives `/tag/slug`
+- [ ] Styles?
+	- [ ] Sticky nav
+		- [ ] Mobile
+		- [ ] Desktop
+	- [ ] Non-sticky nav
+	- [ ] Widgets
+	- [ ] Article
+		- [ ] Social buttons
+		- [ ] Type
+		- [ ] Fonts rendered are fonts specified in stylesheet ( In Chrome: "Inspect element" on a `<p>`, then look at the bottom of the "Computed" tab. )
+		- [ ] Images
+	- [ ] Footer
