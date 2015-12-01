@@ -41,7 +41,7 @@
 -  Documentation for [Largo](http://largoproject.org) and some of our other large projects which will typically be kept with their respective project repos as well as on [Read the Docs](https://readthedocs.org/).
 -  Documentation for our other apps/tools/etc. (e.g. our [deployment tools](https://github.com/INN/deploy-tools) or our [responsive tables](https://github.com/INN/responsive-tables) rig) that are on the smaller side will typically reside within those repos directly as a readme file at the root of the repository.
 
-**Important Note:** Nothing in these docs supercedes what you'll find in the [INN employee manual](https://www.dropbox.com/s/2seoweg22cdaqh6/INN%20Employee%20Policy%20Manual_v1.3_031015.doc?dl=0). Always refer to that for any personnel, hiring, payroll, etc. issues.
+**Important Note:** Nothing in these docs supercedes what you'll find in the [INN employee manual](https://www.dropbox.com/s/cu1xe7kgfg6cm3r/INNEmployeePolicyManual_v1.4_070115.pdf?dl=0). Always refer to that for any personnel, hiring, payroll, etc. issues.
 
 ### Thanks!
 
