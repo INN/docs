@@ -9,6 +9,7 @@ A checklist for reviewing child themes when updating from pre-version 0.4. Also 
 - [ ] Is the site already using the LESS customizer?
 - [ ] Does the theme include any custom functions? What do they do?
 - [ ] Does the theme include any custom partials or templates? What do they override? Can they be removed?
+- [ ] If the custom partials and templates cannot be removed, are they loaded by the Load More Posts button? If they are not, the theme needs a function to choose the correct partial for the [`largo_lmp_template_partial` filter in `largo_load_more_posts_choose_partial`](https://github.com/INN/Largo/blob/master/inc/ajax-functions.php#L192). Example code for the filter can be seen in [this theme's functions.php](https://bitbucket.org/projectlargo/theme-aspen/src/master/functions.php?at=master).
 - [ ] Document requirements in the theme's README.md
 
 
@@ -34,7 +35,7 @@ Then, and only then, should you switch the line in the child theme's `style.css`
 
 ### Enabling a new child theme
 
-Enabling a child theme can be a bit problemmatic, particularly if the template (parent theme) name has changed.
+Enabling a child theme can be a bit problematic, particularly if the template (parent theme) name has changed.
 
 The following procedure is needed to reset WordPress' knowledge of the child theme's parent, which is only updated on theme activation. 
 
@@ -61,6 +62,9 @@ Alternatively, if you're comfortable with editing the database directly, you can
 	- [ ] Search results `/?s=words`
 	- [ ] Pages `/slug/`
 	- [ ] Tag archives `/tag/slug`
+- [ ] Load More Posts
+	- [ ] Did you define a custom archive template?
+	- [ ] Does the custom archive template load the correct partial when the Load More Posts button is clicked?
 - [ ] Styles?
 	- [ ] Sticky nav
 		- [ ] Mobile
