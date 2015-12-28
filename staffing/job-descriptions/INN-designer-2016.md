@@ -1,4 +1,4 @@
-#Interactive Designer
+#Design Lead
 
 The Institute for Nonprofit News (INN), a network of 110+ nonprofit news organizations, has an immediate opening for a **full-time designer** on our product and technology team.
 
@@ -12,15 +12,15 @@ You can read more about us [on our team blog](http://nerds.inn.org) and check ou
 
 The ideal candidate for this position is passionate about design and looking to put her/his skills to use tackling problems facing nonprofit news organizations.
 
-You'll be joining an accomplished team as our design lead, but our team is highly collaborative so you'll have an opportunity to work on a diverse range of projects while learning and developing new skills.
+You'll be joining an accomplished team as our design lead, but our team is highly collaborative so you'll have an opportunity to work on a diverse range of projects while continuing to learn and develop new skills.
 
-We are flexible on exactly what this role will be and how it will fit in with the rest of the team. That said, here are some **desired skills and attributes** (we understand you might not meet all of these but if this roughly sounds like you, we'd love to hear from you):
+We are flexible on exactly what this role will be and how it will fit in with the rest of the team, but here are some **desired skills and attributes** for the position (we understand you might not meet all of these but if this roughly sounds like you, we'd love to hear from you):
 
 -  Previous professional experience in editorial design and technology
--  Strong knowledge of front-end web design/development (particularly HTML and CSS, but some experience with JavaScript programming would also be helpful)
+-  Strong knowledge of front-end web design/development (particularly HTML, CSS and at least some experience with JavaScript)
 -  Strong design sense and a relentless focus on improving user-experience
 -  Experience with rapid prototyping and an understanding of the right level of fidelity needed to clearly communicate your ideas
--  We use WordPress a lot, so some experience working with WordPress templating would be helpful
+-  We use WordPress a lot, so some experience working with WordPress theming would be helpful
 -  Commitment to openness and sharing/writing/talking about your work
 -  Curiosity and the willingness to learn, adapt and teach
 
