@@ -2,11 +2,13 @@
 
 The Institute for Nonprofit News (INN), a network of 110+ nonprofit news organizations, has an immediate opening for a **full-time designer** on our product and technology team.
 
-As a team, we exist primarily to support the work of our members, many of which are small nonprofits with limited technology resources. We focus on problems that we are uniquely suited to tackle at a network level, such as:
+As a team, INN works to advance new business and editorial models for public service journalism. The tech team supports many startups and small nonprofits that have limited technology resources. We also serve as a central tech community and knowledge hub for well-established newsrooms. We focus on problems that we are uniquely suited to tackle at a network level, such as:
 
--  Hosting and supporting 40+ members using a WordPress-powered platform/framework we design, build and maintain [http://largoproject.org](http://largoproject.org)
+-  Hosting and supporting 40+ members using a WordPress platform/framework we design, build and maintain [http://largoproject.org](http://largoproject.org)
 -  Building open source tools to support members' editorial work
 -  Providing consulting services, training and resources to help members and a select group of consulting clients
+
+Our work is divided between our own projects advancing the sector as a whole and one-on-one consulting and support for members and clients.
 
 You can read more about us [on our team blog](http://nerds.inn.org) and check out [our projects on github](http://github.com/inn).
 
