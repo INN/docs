@@ -22,7 +22,7 @@ We are flexible on exactly what this role will be and how it will fit in with
 -  Strong knowledge of front-end web design/development (particularly HTML, CSS and at least some experience with JavaScript)
 -  Strong design sense and a relentless focus on improving user-experience
 -  Experience with rapid prototyping and an understanding of the right level of fidelity needed to clearly communicate your ideas
--  We use WordPress a lot, so some experience working with WordPress theming would be helpful
+-  We use WordPress for many of our projects, so some experience with that community and working with WordPress theming would be helpful
 -  Commitment to openness and sharing/writing/talking about your work
 -  Curiosity and the willingness to learn, adapt and teach
 
