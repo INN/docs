@@ -4,7 +4,7 @@ How we write job descriptions, approach recruiting, evaluate candidates and help
 
 ### What's in here (so far):
 
--  [Some information](/staffing/application-process.md) on our application/interview process.
+-  [Some information](/staffing/hiring/application-process.md) on our application/interview process.
 -  [A few job postings](/staffing/job-descriptions) from our hiring process and from member organizations
 -  [Sample interview questions](/staffing/hiring/interview-questions.md) we use for screening candidates (usually with a few additional questions that are unique to each position) and [some exercises](/staffing/hiring/exercises.md) to evaluate candidates for different types of roles.
 -  [Onboarding resources](/staffing/onboarding/readme.md) for new team members
