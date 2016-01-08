@@ -84,3 +84,4 @@ We'd love to hear from you!
 ### Inspiration/Further Reading
 
 - [How to write a great cover letter for your internship](http://blog.apps.npr.org/2015/10/14/how-to-apply.html) (NPR Visuals Team)
+- [How To Apply To Be A Knight-Mozilla Fellow](https://opennews.org/blog/fellowships-final-week-two/) (OpenNews)
