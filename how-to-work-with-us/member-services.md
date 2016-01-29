@@ -17,7 +17,7 @@ Information on how to become a member, membership standards, dues, etc., [can be
 
 **For members using [Largo](http://largoproject.org) (our WordPress framework/platform):**
 
--  **Up to 32 hours of complimentary assistance** with setup and configuration if they use our shared hosting.
+-  **Up to 10 hours of complimentary assistance** with setup and configuration if they use our shared hosting.
 -  **Subsidized hosting** currently free for one (primary) website in our WordPress multisite network on [WP Engine](http://www.shareasale.com/r.cfm?B=394686&U=1006149&M=41388&urllink=) (high-end managed WordPress hosting). We can host additional sites for a fee and reserve the right to pass on some of our hosting and infrastructure costs for members that want to host more than one site with us or that have very high traffic or other special needs.
 -  **Automatic updates** to WordPress core, supported plugins and the Largo framework.
 -  **Free access to fonts** from [Adobe's Typekit library](https://typekit.com/).
