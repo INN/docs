@@ -1,0 +1,28 @@
+# Onboarding Checklist
+
+- [ ] All hiring paperwork
+- [ ] Employee manual
+- [ ] Create @inn.org email address
+  - [ ] Add to staff@inn.org and nerds@inn.org groups
+- [ ] Announcement blog post
+- [ ] All staff email
+- [ ] Add to staff directory
+  - [ ] On website
+  - [ ] In dropbox
+- [ ] Accounts
+  - [ ] Slack
+  - [ ] Dropbox
+  - [ ] Website
+  - [ ] JIRA
+  - [ ] GitHub
+  - [ ] Bitbucket
+  - [ ] WP Engine
+  - [ ] Hellosign
+- [ ] Shared folders/calendars
+  - [ ] Dropbox
+  - [ ] Google Drive
+  - [ ] Shared Google Calendars
+- [ ] 1password
+  - Install app
+  - Add INN shared vault ([on dropbox](https://www.dropbox.com/sh/gyd23qs0mf9at77/AACSVoYJXDXCEYUQ2fzdQlkha?dl=0)) ([instructions](https://support.1password.com/guides/mac/share-a-vault.html), get the passphrase from your supervisor)
+- [ ] Create and review onboarding plan
