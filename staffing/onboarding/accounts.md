@@ -41,14 +41,15 @@ Note: You need to be an owner or have certain admin privileges in our apps accou
 - This vault contains most of the login information we share among the staff/team (for things like social media accounts, etc.).
 
 
-### HipChat
+### Slack
 
-Note: HipChat account creation can only be done by someone with Admin/Owner privileges.
+Note: Slack account creation can only be done by someone with Admin/Owner privileges.
 
+- Our Slack org is [http://innorg.slack.com](http://innorg.slack.com)
 - Add new account using the new team member's @inn.org email address (will send user an email invitation).
-- An admin/owner should then add them to the technology room(s) and any relevant project-specific rooms.
+- An admin/owner should then add them to the #00-tech-team #00-inn-staff private rooms and  and any relevant project-specific rooms.
 - New user will need to click on a confirmation link in the email invitation.
-- And optionally they can download the HipChat desktop/mobile apps from the [HipChat website](http://hipchat.com).
+- And optionally they can download the slack desktop/mobile apps from the [Slack website](https://slack.com/downloads).
 
 
 ### GitHub

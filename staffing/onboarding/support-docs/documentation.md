@@ -50,7 +50,6 @@ Just to put a few general notes, thoughts down as a place to start. Add/improve 
 	- create knowledgebase entries for anything that can be made generalizable
 	- feedback into our product roadmap where applicable
 - One-pagers or more detailed proposals for current/prospective funders on anything we think might be worth sharing with them
-- 
 
 ### Questions
 
