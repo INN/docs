@@ -1,4 +1,4 @@
-# Sample Onboarding Plan
+# Onboarding Plan - Apprentices
 
 #### Welcome to the team, we're super excited to have you!
 
@@ -49,4 +49,4 @@ After the first month or so we hope you're reasonably familiar with how the team
 
 ### 60 Day Review
 
-Both full-time and part-time employees have a review at 60 days. This is less formal than your annual review but it's still an important opportunity to check in with your supervisor about how things have been going, set goals for the coming months and identify areas for improvement. For bonus-eligible employees this will also be the time to set some goals for the year.
+Both full-time and part-time employees have a review at 60 days. This is less formal than a typical annual review but it's still an important opportunity to check in with your supervisor about how things have been going, set goals for the coming months and identify areas for improvement. For Apprentices this is also a good time to talk about any personal project ideas you'd like to work on and complete by the end of your apprenticeship so we can plan for those.
