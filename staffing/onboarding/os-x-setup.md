@@ -64,7 +64,7 @@ Will Haynes' post [Unit Testing Themes and Plugins in WordPress](http://nerds.in
 
 Later, we'll be using Python for a few projects, and the way to keep Python library versions and environments organized with different projects is to use[virtualenv](https://virtualenv.pypa.io/en/latest/) and [virtualenvwrapper](https://virtualenvwrapper.readthedocs.org/en/latest/). To install those, we need to first install the [pip](https://pip.pypa.io/en/latest/) Python package manager, and then we'll install the virtualenv packages with pip. Run `sudo easy_install pip && sudo pip install virtualenv virtualenvwrapper` in your terminal.
 
-You're also going to want to install [node](https://nodejs.org/) (`brew install node`) which will get you the [node package manager](https://www.npmjs.com/) and [grunt](http://gruntjs.com/) (`npm install -g grunt-cli`) which we'll use a bit later for asset minification and other tasks in working on our projects.
+You're also going to want to install [node](https://nodejs.org/) (`brew install node`) which will get you the [node package manager](https://www.npmjs.com/) and [grunt](http://gruntjs.com/) (`npm install -g grunt-cli`) which we'll use a bit later for [asset minification](http://whatis.techtarget.com/definition/code-minification-minify) and other tasks in working on our projects.
 
 If you installed Sublime Text, it's nice to be able to invoke it from the command line, like `subl README.md`. We can create a `subl` alias by using [these instructions](https://www.sublimetext.com/docs/2/osx_command_line.html).
 
