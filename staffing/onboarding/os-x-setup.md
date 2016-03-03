@@ -84,7 +84,7 @@ For a real example of using VirtualBox and Vagrant, check out our [deploy-tools 
 
 ## Communications
 
-Working remotely full-time only works if we're all in constant communication. [We use a host of tools](/how-we-work/tools.md) for this, most of them are browser-based. Although you can use [HipChat](//www.hipchat.com) in the browser, we strongly recommend installing that as a native client on your computer (there's also a mobile app). 
+Working remotely full-time only works if we're all in constant communication. [We use a host of tools](/how-we-work/tools.md) for this, most of them are browser-based. You can use [Slack](//www.slack.com) in the browser, you can also download the mobile app. 
 
 Dropbox is another tool we use that really begs for a native client to be installed. Dropbox is like the shared network drive so common to Windows-based networks, only the files actually go on your computer instead of accessing them through some tenuous ethereal connection. This is why [FileVault](https://support.apple.com/en-us/HT4790) hard drive encryption is so important.
 
