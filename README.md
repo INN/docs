@@ -9,7 +9,7 @@
 -  **[Staffing and Hiring](/staffing)** including how we recruit and hire new team members, plus:
     - [Some information](/staffing/application-process.md) on our application/interview process
 	- [Sample job descriptions](/staffing/job-descriptions) from our team and from INN member organizations
-	- [Interview questions](/staffing/interview-questions.md) for screening candidates
+	- [Interview questions](/staffing/hiring/interview-questions.md) for screening candidates
 	- [Our onboarding process](/staffing/onboarding)
 -  **[How we work](/how-we-work)** including:
 	- [Our internal process](/how-we-work/process.md) we follow for most of our projects
@@ -67,14 +67,14 @@ We welcome contributions and suggestions to help us improve any of these documen
 The INN news apps and technology team is:
 
 -  **[Adam Schweigert](https://github.com/aschweigert)** ([@aschweig](http://twitter.com/aschweig)), Senior Director of Product and Technology
--  **[Kaeti Hinck](https://github.com/kaeti)** ([@kaeti](http://twitter.com/kaeti)), Design Director
 -  **[Denise Malan](https://github.com/dnmalan)** ([@denisemalan](http://twitter.com/denisemalan)), Director of Data Services
 -  **[Ryan Nagle](https://github.com/rnagle)** ([@ryannagle](http://twitter.com/ryannagle)), Director of Technology
 -  **[Jack Brighton](http://github.com/jackbrighton)** ([@jackbrighton](http://twitter.com/jackbrighton)), Manager of Support, Documentation and Training
 -  **[Ben Keith](https://github.com/benlk)** ([@benlkeith](http://twitter.com/benlkeith)), News Apps Developer
--  **[David Ryan](https://github.com/dryanmedia)** ([@dryanmedia](http://twitter.com/dryanmedia)), Apprentice News Apps Developer
+-  **[Julia Smith](https://github.com/julia67)** ([@julia67](https://twitter.com/julia67)), Lead Designer
+-  **[Sinduja Rangarajan](https://github.com/cynduja)** ([@cynduja](https://twitter.com/cynduja)), Apprentice Developer
 
-**Nerds emeriti:** [Nick Bennett](https://github.com/tothebeat), [Meredith Melragon](https://github.com/meredithinn), [Will Haynes](https://github.com/willhaynes) and [Dani Litovsky Alcalá](https://github.com/danilito19)
+**Nerds emeriti:** [Kaeti Hinck](https://github.com/kaeti), [David Ryan](https://github.com/dryanmedia), [Nick Bennett](https://github.com/tothebeat), [Meredith Melragon](https://github.com/meredithinn), [Will Haynes](https://github.com/willhaynes) and [Dani Litovsky Alcalá](https://github.com/danilito19)
 
 **Additional contributions from:** [@chriszs](https://github.com/chriszs) and [@brentajones](https://github.com/brentajones)
 
