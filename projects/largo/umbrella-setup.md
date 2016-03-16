@@ -71,6 +71,7 @@ There are a couple other tools that might need to be updated specifically to be 
 ```
 $ fab wp.verify_prerequisites
 ```
+Make sure to have [git-ftp] (https://github.com/git-ftp/git-ftp/blob/develop/INSTALL.md) and the latest version of curl installed. 
 
 ## 5. Set up the secrets repository.
 
