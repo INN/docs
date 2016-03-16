@@ -75,7 +75,7 @@ Make sure to have [git-ftp] (https://github.com/git-ftp/git-ftp/blob/develop/INS
 
 ## 5. Set up the secrets repository.
 
-In order to access the live website data, and to send notifications to HipChat when you do deploy, you'll need to set up the INN secrets repository.
+In order to access the live website data, and to send notifications to Slack when you do deploy, you'll need to set up the INN secrets repository.
 
 1. If you don't already have access to it on Github, talk to Adam or Ryan to get access. Once you get access, clone the repository to your local system:
 
