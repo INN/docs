@@ -18,7 +18,7 @@ To explain your PR, include:
 - Any new issues or conflicts that your changes might create.
 - Screenshots or useful links to explain your PR wherever relevant
 
-Before submitting a PR please also make sure you have removed any debugging code (var_logs, etc.), commented out code and unnecessary code comments (such as pseudocode or your personal notes).
+Before submitting a PR, please also make sure you have removed any debugging code (var_logs, etc.), commented out code and unnecessary code comments (such as pseudocode or your personal notes).
 
 ### FAQs
 
