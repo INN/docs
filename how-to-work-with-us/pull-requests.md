@@ -1,6 +1,6 @@
 # Anatomy of a Pull Request and Submission Protocol
 
-A pull request (PR) is a request to merge changes you have made to an existing branch of a project. For specific guidelines on which branch to submit pull requests to, see the contributing guidelines in that specific project repo.
+A pull request (PR) is a request to merge changes you have made to an existing branch of a project. For specific guidelines on which branch to submit pull requests to, see the contributing guidelines in that specific project repo (usually in a contributing.md file at the root of the project).
 
 Here are some guidelines for what information to include in your PR, when to submit a PR and when to wait to submit one. 
 
@@ -18,6 +18,7 @@ To explain your PR, include:
 - Any new issues or conflicts that your changes might create.
 - Screenshots or useful links to explain your PR wherever relevant
 
+Before submitting a PR please also make sure you have removed any debugging code (var_logs, etc.), commented out code and unnecessary code comments (such as pseudocode or your personal notes).
 
 ### FAQs
 
@@ -31,7 +32,7 @@ Wait to submit a PR if you still have more edits to do or more content to add. M
 
 ##### What should I expect after submitting a PR?
 
-After your submit a PR, designated team members (usually a primary and secondary reviewer for each of our projects) will get a chance to review your work. Your PR may undergo changes before it is merged, so don't be surprised, discouraged, or hurt if we ask you to change things or if we make changes ourselves. 
+After your submit a PR, designated team members (usually a primary and secondary reviewer for each of our projects as designated in the project's contributing.md) will get a chance to review your work. Your PR may undergo changes before it is merged, so don't be surprised, discouraged, or hurt if we ask you to change things or if we make changes ourselves. 
 
 ##### What does a good PR look like?
 
