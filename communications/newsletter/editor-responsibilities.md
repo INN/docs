@@ -22,5 +22,3 @@ And then for each newsletter:
 - [ ] Publish newsletter post on the blog after the email is sent
 
 - [ ] Share newsletter blog link on social platforms
-
-- [ ] Move content from the [draft Google doc](https://docs.google.com/a/investigativenewsnetwork.org/document/d/1DlgHsgSN4Z-uOIUqUg3PcQYLsyYftnRIEEWLbjxlNlg/edit) to the [archive Google spreadsheet](https://docs.google.com/a/investigativenewsnetwork.org/spreadsheets/d/1bRKcDupgokDEOaNBlpbsn8-t-eD99FW8G5CoW-ZEmNo/edit)
