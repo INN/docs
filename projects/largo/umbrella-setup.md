@@ -14,7 +14,7 @@ Fret not! This guide will show you how to go from a Mac OS X system, with a base
 
 Pretty cool, right?
 
-Most of this stuff works from your command line, which you get to through the default Mac application terminal or, if you followed the setup guide, iTerm2. If you're unfamiliar with using the terminal or don't have iTerm2, be sure to go through that section in the [setup guide](/staffing/onboarding/os-x-setup.md#terminal-emulator) to get some prerequisites set up. If you have questions, be sure to ask in the INN Tech HipChat room, because the terminal can be a perplexing and idiosyncratic interface. We've all been there.
+Most of this stuff works from your command line, which you get to through the default Mac application terminal or, if you followed the setup guide, iTerm2. If you're unfamiliar with using the terminal or don't have iTerm2, be sure to go through that section in the [setup guide](/staffing/onboarding/os-x-setup.md#terminal-emulator) to get some prerequisites set up. If you have questions, be sure to ask in the [INN Tech slack channel](http://slack.inn.org/), because the terminal can be a perplexing and idiosyncratic interface. We've all been there.
 
 What's next?
 
