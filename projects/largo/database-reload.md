@@ -23,6 +23,8 @@ Say it with me now
 vagrant snapshot take default the_important_safe_thing_to_do
 ```
 
+To get a list of previous snapshots, use `vagrant snapshot list`. The currently-active one has a `*` next to it.
+
 ### 3. Reload SQL used in vagrant database
 
 There are a number of relevant commands here.
@@ -40,14 +42,27 @@ There are two ways to do this. The first uses [searchreplacedb2](https://interco
 
 #### WP-CLI
 
+The following requires `wp-cli` version 0.23 or later. Follow [the installation instructions](http://wp-cli.org/) to make sure you've got the latest version.
+
 ```
 $ vagrant up
 $ vagrant ssh
 vagrant@precise64:~$ cd /vagrant
-vagrant@precise64:/vagrant$ wp cli search-replace 'largoproject.wpengine.com' 'vagrant.dev' 'wp_*_options' wp_blogs
+vagrant@precise64:/vagrant$ wp plugin deactivate --url="largoproject.wpengine.com" redirection
+vagrant@precise64:/vagrant$ wp search-replace 'largoproject.org' 'vagrant.dev' 'wp_*_options' wp_options wp_blogs wp_sitemeta
+vagrant@precise64:/vagrant$ wp search-replace 'largoproject.wpengine.com' 'vagrant.dev' 'wp_*_options' wp_options wp_blogs wp_sitemeta
 ```
 
-That will update all the options tables.
+That will update all the options tables that have largoproject.wpengine.com. You will have to go back and do this later with every other site listed in [largoproject.wpengine.com/wp-admin/network/sites.php](//largoproject.wpengine.com/wp-admin/network/sites.php), because not all sites have domain names of the form `*.largoproject.wpengine.com`.
+
+`wp plugin deactivate --url="largoproject.wpengine.com" redirection` is used to deactivate the homepage redirect that happens at `/` on the main site, which can cause problems
+
+A breakdown of what's happening in the search-replace commands:
+
+- `wp search-replace`: http://wp-cli.org/commands/search-replace/
+- `'largoproject.org' 'vagrant.dev'`: Replace 'largoproject.org' with 'vagrant.dev' in all the tables specified
+- `'largoproject.wpengine.com' 'vagrant.dev'`: Replace 'largoproject.wpengine.com' with 'vagrant.dev' in all the tables specified
+- `'wp_*_options' wp_options wp_blogs wp_sitemeta`: these are the tables that the search-replace will be performed upon. `'wp_*_options'` needs version 0.23 to work properly; it failed in 0.21 because glob expansion wasn't available.
 
 To leave the Vagrant machine, run the following:
 
