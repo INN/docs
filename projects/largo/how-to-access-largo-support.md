@@ -18,6 +18,6 @@ Note that our work is primarily focused on improving the core Largo platform for
 
 Thanks to the generosity of our funders, we’re able to offer INN members custom design, development and support at a reduced rate of $85/hr (from our regular rate of $175/hr). We also offer non-member nonprofits a discounted rate of $125/hr.
 
-If you have questions about our consulting program or would like to discuss an upcoming project, email [support@largoproject.org](support@largoproject.org).
+If you have questions about our consulting program or would like to discuss an upcoming project, email [support@largoproject.org](mailto:support@largoproject.org).
 
 Finally, if you have more general questions about Largo, we also hold weekly open [office hours](/docs/tree/master/projects/office-hours) every Friday from 2-3 ET. You’re welcome to [sign up for a slot](https://docs.google.com/spreadsheets/d/1p-twn2D8oow7vXBfkcdYcZnVA4z8Q42OMs77KlHwf-g/edit#gid=0) and our team would be happy to try to help any way we can!
