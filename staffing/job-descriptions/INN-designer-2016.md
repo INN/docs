@@ -1,4 +1,4 @@
-#Design Lead
+# Design Lead
 
 The Institute for Nonprofit News (INN), a network of 110+ nonprofit news organizations, has an immediate opening for a **full-time designer** on our product and technology team.
 
