@@ -1,8 +1,10 @@
 # Senior Full Stack Developer (WordPress focus)
 
-The Institute for Nonprofit News (INN), a network of 120+ nonprofit news organizations, has an immediate opening for a **Senior Full Stack Developer** on our product and technology team.
+The [Institute for Nonprofit News](https://inn.org) (INN), a network of 120+ nonprofit news organizations (learn more about them in [our member directory](https://inn.org/members)), has an immediate opening for a **Senior Full Stack Developer** on our product and technology team.
 
-As a team, INN works to advance new business and editorial models for public service journalism. The tech team supports many startups and small nonprofits with limited technology resources. We also serve a central role foster collaboration among more well-established newsrooms. The team focuses primary on problems that we are uniquely suited to tackle at a network level, such as:
+The INN network represents the broadest field of independent investigative and public service newsrooms in the U.S. The nonprofit model is growing and we believe it is particularly well-suited to supporting innovative business and editorial models for public service journalism. 
+
+Our product and technology team supports many startups and small nonprofits with limited technology resources. We also serve a central role foster collaboration among more well-established newsrooms. The team focuses primary on problems that we are uniquely suited to tackle at a network level, such as:
 
 -  Hosting and supporting 50+ member websites using a WordPress platform/framework we design, build and maintain [http://largoproject.org](http://largoproject.org)
 -  Building open source tools to support members' editorial work
@@ -12,7 +14,7 @@ Our work is divided between our own projects advancing the sector as a whole and
 
 You can read more about us [on our team blog](http://nerds.inn.org), [our team docs](https://github.com/INN/docs) and check out [our projects on github](http://github.com/inn).
 
-The ideal candidate for this position is an experienced full stack developer with some specific expertise working with WordPress who is looking to apply her/his skills to tackling problems facing nonprofit news organizations.
+The ideal candidate for this position is an experienced full stack developer with some specific expertise working with WordPress who is looking to apply her/his skills to moving the industry forward by tackling problems facing nonprofit news organizations.
 
 You'll be joining an accomplished team in a key role as senior developer, but our team is highly collaborative so you'll have an opportunity to work on a diverse range of projects while continuing to learn and develop new skills.
 
