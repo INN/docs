@@ -13,6 +13,7 @@ The responsibility for managing the team accounts rotates month to month (see th
 - All new posts [on the team blog](http://nerds.inn.org) (typically 2-3 times per post at different times of day and days of the week to catch different audiences, try to not tweet exactly the same thing each time, pick a quote from the post or some other interesting tidbit to mix things up)
 - Product updates/announcements. Sometimes we'll make small updates that won't warrant a blog post, we should use this account to get the word out.
 - Tweet/retweet member organizations (apps teams and individuals) when they do cool stuff 
+- Promote jobs at member organizations by either retweeting them or linking to the posting. Use the #INNjobs hashtag to collect these listings in one place and also remember to add relevant jobs as you find them to the next Friday newsletter.
 - And finally, post things of general interest to technologists at member organizations (particularly) and the journalism and tech community at large
  
 **[@LargoProject](http://twitter.com/largoproject)** is used for project updates for [Largo](http://largoproject.org). Typically we'll just use this to announce product updates and the launch of new sites. In the future we might have sufficient resources to use this to promote interesting things sites are doing with Largo or to support their work more generally.
@@ -22,12 +23,13 @@ The responsibility for managing the team accounts rotates month to month (see th
 
 ### Other INN Accounts
 
-We don't manage these but you might want to keep tabs on them.
+**[@INN](http://twitter.com/INN)** is the main organization account. If you have an announcement you want this account to post, @mention INN in your tweet and/or email [news@inn.org](mailto:news@inn.org)
 
-- **[@INN](http://twitter.com/INN)** is the main organization account
-- **[@ImpaqMe](http://twitter.com/impaqme)** is the project account for [Impaq.Me](http://impaqme.org), a social fundraising tool developed by INN
-- **[@Journo_biz](http://twitter.com/journo_biz)** is the account for [journo.biz](http://journo.biz), INN's site covering the nonprofit news business
+### Voice and Tone for Organizational Accounts
 
+- As with all of our public-facing communications, social media posts to organizational accounts should be professional and reflect well on the organization
+- More specifically, they should reflect our mission to support and promote the work of our member organizations (and of course, our own good work!)
+- A little levity and humor is ok but making jokes at the expense of others, being overly snarky, etc. is not. 
 
 ### Individual Accounts
 
