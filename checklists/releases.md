@@ -35,3 +35,26 @@ For example:
 ## After pushing a tagged release:
 
 - [ ] Publish a `changelog` for the new version on the project page
+
+## WordPress.org plugin directory releases
+
+Refer to the [wordpress.org plugin directory about page](https://wordpress.org/plugins/about/) for information on procuring an svn repository.
+
+Use this [release.sh](https://gist.github.com/rnagle/40d84cbd5fef86e3de7781fc31b46d94) gist as the base script for deploying plugins to a wordpress.org svn repository.
+
+### Pre-release checklist:
+
+- [ ] Update version numbers in all appropriate files
+- [ ] Compile, minify, build, etc. all assets and language files
+- [ ] Where applicable, run the test suite and fix any failing tests
+- [ ] Commit all changes to master and push
+- [ ] Tag a release (e.g., `git tag -a v0.4.0 -m "tagging v0.4.0"`)
+- [ ] Push tags (e.g., `git push --tags`)
+
+### Using the release.sh script
+
+1. Copy the contents of [this gist](https://gist.github.com/rnagle/40d84cbd5fef86e3de7781fc31b46d94) to a `release.sh` file in the root of the plugin repository to be deployed/published.
+2. Change the slug in the `release.sh` file from "plugin-slug-goes-here" to whatever the slug is for your plugin on wordpress.org.
+3. Release/publish to wordpress.org: `./release.sh`. The first time you run this, you'll be asked to provide credentials for the svn repository.
+
+NOTE: you can also test the release by running `./release.sh --dry_run`. This will produce a `release/wp-release.zip` file, the contents of which represent what will be published to wordpress.org.
