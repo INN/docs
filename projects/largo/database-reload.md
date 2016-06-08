@@ -15,6 +15,26 @@ If that fails, and if you have the secrets repo set up, you can run:
 curl sftp://$LARGOPROJECT_PRODUCTION_SFTP_HOST:2222/wp-content/mysql.sql --user $LARGOPROJECT_PRODUCTION_SFTP_USER:$LARGOPROJECT_PRODUCTION_SFTP_PASSWORD --retry 999 --retry-max-time 0 --remote-name
 ```
 
+This command will probably appear to fail:
+
+```
+Warning: Invalid character is found in given range. A specified range MUST 
+Warning: have only digits in 'start'-'stop'. The server's response to this 
+Warning: request is uncertain.
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100 3026M  100 3026M    0     0   796k      0  1:04:49  1:04:49 --:--:--  815k
+100 3026M  100 3026M    0     0   796k      0  1:04:49  1:04:49 --:--:--  796k
+curl: (7) Couldn't connect to server
+```
+
+To verify the program's success, you should run `tail -n 1 mysql.sql` to verify that the last line of the file is correct for the end of the dump. Here's the correct end of the file:
+
+```
+$ tail -n 1 mysql.sql
+-- Dump completed
+```
+
 ### 2. Take vagrant snapshot
 
 Say it with me now
