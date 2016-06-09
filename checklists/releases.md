@@ -40,6 +40,10 @@ For example:
 
 Refer to the [wordpress.org plugin directory about page](https://wordpress.org/plugins/about/) for information on procuring an svn repository.
 
+Make sure the plugin has a readme.txt that:
+- [ ] Conforms to the [WordPress readme standard](https://wordpress.org/plugins/about/readme.txt) and [validates](https://wordpress.org/plugins/about/validator/)
+- [ ] Has the correct header information including our wp.org username (inn_nerds), donate link (inn.org/donate) and appropriate tags (see the list of popular wp.org tags here: https://wordpress.org/plugins/tags/)
+
 Use this [release.sh](https://gist.github.com/rnagle/40d84cbd5fef86e3de7781fc31b46d94) gist as the base script for deploying plugins to a wordpress.org svn repository.
 
 ### Pre-release checklist:
