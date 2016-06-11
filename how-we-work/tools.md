@@ -9,8 +9,8 @@ These are some of the tools we rely on to make our remote work possible.
 	- **All INN Staff** has read/write access to a number of repositories relevant to all INN staff
 	- **Secret** is only for people who have permission to deploy to production (this should always be limited to only core team members who are comfortable with our git workflow, deployment process and hosting infrastructure)
 - **[Bitbucket](https://bitbucket.org):** Versioning and hosting for [Largo](http://largoproject.org) child themes for all the member sites we host. This allows us to add devs at member organizations to a repo just for their child theme so they can commit changes to a theme for us to review and push to production.
-- **[JIRA](https://www.atlassian.com/software/jira):** For project management, planning sprints and iteration cycles, time tracking, and service desk features
-- **[Bee](http://www.neat.io/bee/):** Combines issues and tickets from JIRA, GitHub and others into a streamlined interface. Also offers time tracking and task prioritization.
+- **[Asana](https://app.asana.com/):** Task and project management. Note that there are different teams within the INN organization for different workgroups. Ask your supervisor to make sure you've been added to the right one(s).
+- **[Harvest](https://innnerds.harvestapp.com/)** and **[Forecast](https://forecastapp.com):** For timekeeping/billing and roadmap planning
 - **[Screenhero](https://screenhero.com/):** Remote pair programming software
 - **[Google Hangouts](https://plus.google.com/hangouts):** For [meetings](meetings.md) like our daily scrum and for public events like our monthly [book club meetings](/projects/book-club/) and [open office hours](/projects/office-hours/).
 - **[Google Calendar](https://www.google.com/calendar/):** for coordinating our schedules and creating recurring events with hangout invites associated with them. We have a shared calendar (INN - Technology) that we're all able to add events to and we use this for things like recurring events, team meetings and deadlines for conference submissions, travel, vacations, etc.
