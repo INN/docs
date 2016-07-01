@@ -24,7 +24,7 @@ What's next?
 
 While we use Github for hosting our open source contributions, we use Bitbucket instead for the actual production code that powers our websites. Bitbucket allows for unlimited private repositories for Non-Profits like us, and gives us finer-grained control of permissions to individual projects.
 
-If you haven't already, register a BitBucket account with your INN email address, and then tell Adam or Ryan that you need access to the [largo-umbrella project](https://bitbucket.org/projectlargo/largo-umbrella). If you're using the command-line interface to git, you'll need to generate an SSH key with `ssh-keygen` and save it to your Bitbucket profile settings as described [here](https://confluence.atlassian.com/display/BITBUCKET/Add+an+SSH+key+to+an+account).
+If you haven't already, register a BitBucket account with your INN email address, and then tell Adam that you need access to the [largo-umbrella project](https://bitbucket.org/projectlargo/largo-umbrella). If you're using the command-line interface to git, you'll need to generate an SSH key with `ssh-keygen` and save it to your Bitbucket profile settings as described [here](https://confluence.atlassian.com/display/BITBUCKET/Add+an+SSH+key+to+an+account).
 
 When you have access to the repository, you can now clone it to your local system. The address is `git@bitbucket.org:projectlargo/largo-umbrella.git` which you can clone at the command line with:
 
