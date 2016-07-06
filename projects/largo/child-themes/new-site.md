@@ -52,7 +52,7 @@ We also need to change the settings in the Largo-umbrella network site so that `
 
 1. Return to the tab for the site you just preformed the search-and-replance on. Refresh for good measure.
 
-2. In the **Domain** text field, change `project.org` to `project.vagrant.dev` substituting in the sub-site's actual name.
+2. In the **Site Address (URL)** text field, change `project.org` to `project.vagrant.dev` substituting in the sub-site's actual name.
 
 3. Click on the "Settings" tab.
 
