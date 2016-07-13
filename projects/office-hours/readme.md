@@ -22,7 +22,7 @@ Video calls are sometimes a pain, particularly if you're on a slow internet conn
 
 If you know you might have connectivity issues, **it is also possible to join a video call by phone**: [call the number here, then enter the meeting ID](https://nerds.inn.org/2016/07/13/changes-to-office-hours-moving-to-zoom-us/).
 
-**The default for these conferences will be public** because we think sharing ideas in the open helps everyone learn and improve but if you want to keep the conversation just between us, indicate that on the signup sheet and we'll boot people out and make the call invite-only when your time slot comes around. 
+**The default for these video calls will be public** because we think sharing ideas in the open helps everyone learn and improve but if you want to keep the conversation just between us, indicate that on the signup sheet and we'll boot people out and make the call invite-only when your time slot comes around. 
 
 **The format for these is really determined by the type of questions or issues you have.** To make the most of our time together you might want to prepare a list of questions or [email us](mailto:nerds@inn.org) some background information, links to your website/project, git repos, etc. ahead of time so we can take a look and be better prepared to help you out.
 
