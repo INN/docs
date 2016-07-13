@@ -89,8 +89,8 @@ You will more than likely encounter GitHub either through reporting issues with 
 
 ## Other Opportunities to Interact With Us
 
-- **[Open Office Hours](/projects/office-hours/)** are held the first Thursday of the month from 4-6pm ET. These are primarily intended as an opportunity for members to sign up for a slot and come ask us questions, get feedback on work in progress or present a project that they've recently completed. These are held via Google Hangout and are completely open to anyone, including any INN staff that would like to attend.
+- **[Open Office Hours](/projects/office-hours/)** are held the first Thursday of the month from 4-6pm ET. These are primarily intended as an opportunity for members to sign up for a slot and come ask us questions, get feedback on work in progress or present a project that they've recently completed. These are held via Zoom.us video call and are completely open to anyone, including any INN staff that would like to attend.
 - **[Book Club](/projects/book-club/)** is held the second Wednesday of each month at 1pm ET. This is a monthly book discussion, open to anyone, held via Google Hangout.
-- **All of our regular team [meetings](/how-we-work/meetings.md)** are not strictly limited to our team and anyone from INN is welcome to attend. This includes our morning scrum (daily at 10am ET) and our weekly recap and planning meeting (Friday at 10am ET). These meetings are all conducted via Google Hangout. If you'd like to be added to the recurring event invitation for either (or both) of these meetings just [send us an email](mailto:nerds@inn.org) and we'll add you.
+- **All of our regular team [meetings](/how-we-work/meetings.md)** are not strictly limited to our team and anyone from INN is welcome to attend. This includes our morning scrum (daily at 10am ET) and our weekly recap and planning meeting (Friday at 10am ET). These meetings are all conducted via Zoom.us. If you'd like to be added to the recurring event invitation for either (or both) of these meetings just [send us an email](mailto:nerds@inn.org) and we'll add you.
 
 

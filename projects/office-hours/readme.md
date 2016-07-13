@@ -16,13 +16,13 @@ So we want to set aside some dedicated time every week to answer questions, talk
 
 INN members will get priority but, if space is available, we'll open the signups to outside organizations/individuals. If we're already booked, you can put yourself on the waitlist and we'll let you know if a spot becomes available. If there are open slots in the schedule we'll plan to do a design or code review for one of our projects so you can see how we handle this sort of feedback and hopefully take some ideas back to your organization.
 
-Since we're a remote team, these will be **Google hangouts** (the persistent link for this hangout is [right here](https://plus.google.com/hangouts/_/investigativenewsnetwork.org/office-hours)).
+Since we're a remote team, these will be **Zoom.us video calls**. The persistent link for this call is [right here](https://zoom.us/j/298377456). We used Google Hangouts [until July 2016](https://nerds.inn.org/2016/07/13/changes-to-office-hours-moving-to-zoom-us/).
 
-Hangouts are sometimes a pain, particularly if you're on a slow internet connection. When you join the hangout, try to be on time for your scheduled slot and be on a fast enough connection so we don't have to spend too much time troubleshooting technical issues.
+Video calls are sometimes a pain, particularly if you're on a slow internet connection. When you join the call, try to be on time for your scheduled slot and be on a fast enough connection so we don't have to spend too much time troubleshooting technical issues.
 
-If you know you might have connectivity issues, **it is also possible to join a hangout by phone** (just [email us the phone number](mailto:nerds@inn.org) you want us to call before the hangout and we'll dial you in.
+If you know you might have connectivity issues, **it is also possible to join a video call by phone**: [call the number here, then enter the meeting ID](https://nerds.inn.org/2016/07/13/changes-to-office-hours-moving-to-zoom-us/).
 
-**The default for these hangouts will be public** because we think sharing ideas in the open helps everyone learn and improve but if you want to keep the conversation just between us, indicate that on the signup sheet and we'll boot people out and make the hangout invite only when your time slot comes around. 
+**The default for these conferences will be public** because we think sharing ideas in the open helps everyone learn and improve but if you want to keep the conversation just between us, indicate that on the signup sheet and we'll boot people out and make the call invite-only when your time slot comes around. 
 
 **The format for these is really determined by the type of questions or issues you have.** To make the most of our time together you might want to prepare a list of questions or [email us](mailto:nerds@inn.org) some background information, links to your website/project, git repos, etc. ahead of time so we can take a look and be better prepared to help you out.
 
@@ -31,7 +31,7 @@ If you have any **questions or suggestions** for us on how to make these office 
 ### Helpful Links
 
 - [Signup sheet](https://docs.google.com/spreadsheets/d/1p-twn2D8oow7vXBfkcdYcZnVA4z8Q42OMs77KlHwf-g/edit) (Google spreadsheet)
-- [Google Hangout link](https://plus.google.com/hangouts/_/investigativenewsnetwork.org/office-hours) (this is the same every month)
+- [Zoom.us call link](https://zoom.us/j/298377456) and [phone numbers](https://zoom.us/j/298377456) (these are the same every month)
 - [Leader Responsibilites](/projects/office-hours/leader-responsibilities.md)
 - [Feedback Survey](https://docs.google.com/forms/d/11OkWX1K71DOYJVPVca_QRY17VrFPZ2Ok2xIxKVGQjzc/viewform?usp=send_form) for participants
 
