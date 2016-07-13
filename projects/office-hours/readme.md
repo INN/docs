@@ -31,7 +31,7 @@ If you have any **questions or suggestions** for us on how to make these office 
 ### Helpful Links
 
 - [Signup sheet](https://docs.google.com/spreadsheets/d/1p-twn2D8oow7vXBfkcdYcZnVA4z8Q42OMs77KlHwf-g/edit) (Google spreadsheet)
-- [Zoom.us call link](https://zoom.us/j/298377456) and [phone numbers](https://zoom.us/j/298377456) (these are the same every month)
+- [Zoom.us call link](https://zoom.us/j/298377456) and [phone numbers](https://zoom.us/j/298377456) (these are the same every week)
 - [Leader Responsibilites](/projects/office-hours/leader-responsibilities.md)
 - [Feedback Survey](https://docs.google.com/forms/d/11OkWX1K71DOYJVPVca_QRY17VrFPZ2Ok2xIxKVGQjzc/viewform?usp=send_form) for participants
 
