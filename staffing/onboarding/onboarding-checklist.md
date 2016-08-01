@@ -13,7 +13,8 @@
   - [ ] Slack
   - [ ] Dropbox
   - [ ] Website
-  - [ ] JIRA
+  - [ ] Asana
+  - [ ] Harvest/Forecast
   - [ ] GitHub
   - [ ] Bitbucket
   - [ ] WP Engine
@@ -24,5 +25,5 @@
   - [ ] Shared Google Calendars
 - [ ] 1password
   - Install app
-  - Add INN shared vault ([on dropbox](https://www.dropbox.com/sh/gyd23qs0mf9at77/AACSVoYJXDXCEYUQ2fzdQlkha?dl=0)) ([instructions](https://support.1password.com/guides/mac/share-a-vault.html), get the passphrase from your supervisor)
+  - Invite to INN team/shared vault
 - [ ] Create and review onboarding plan
