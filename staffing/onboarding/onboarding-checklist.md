@@ -25,5 +25,5 @@
   - [ ] Shared Google Calendars
 - [ ] 1password
   - Install app
-  - Invite to INN team/shared vault
+  - Invite to INN team/shared vault (https://innorg.1password.com)
 - [ ] Create and review onboarding plan
