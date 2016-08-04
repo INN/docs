@@ -12,4 +12,4 @@ The fastest way to start tracking your time, is to simply login to Harvest and s
 
 Alternatively, Asana has an integration with Harvest that lets you track time right from the Task view in Asana.
 
-![Asana Time Tracking Feature](https://github.com/rclations/docs/blob/141-time-tracking/how-we-work/asana-time-tracking.png)
+![Asana Time Tracking Feature](asana-time-tracking.png)
