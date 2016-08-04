@@ -101,3 +101,11 @@ Note: Slack account creation can only be done by someone with Admin/Owner privil
 - HelloSign is used for electronically signing documents.
 - To create an account, you can connect HelloSign to your inn.org Google account from the [HelloSign website](https://www.hellosign.com/).
 
+### Google Analytics
+
+- Log into [Google Analytics](https://analytics.google.com).
+- Click on the "Admin" tab in the horizontal navigation bar. 
+- Select the account you'd like to share access to using the dropdown selector, then click "User Management".
+- This should bring you to the User Management screen, which displays a list of users on the account.
+- Scroll to the bottom of the page and you'll find a form that allows you to add access for additional Google Accounts.
+- Enter the email address associated with a Google Account for the user you want to add, select the permissions level appropriate for the user, and click "Add".
