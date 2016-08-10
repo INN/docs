@@ -2,7 +2,7 @@
 
 ## Install VirtualBox, Vagrant, and VVV 
 
-- Start by following the [official installation guide for VVV on Github[(https://github.com/varying-vagrant-vagrants/vvv/#installation---the-first-vagrant-up), but pay special attention to the notes below:
+- Start by following the [official installation guide for VVV on Github](https://github.com/varying-vagrant-vagrants/vvv/#installation---the-first-vagrant-up), but pay special attention to the notes below:
  - We strongly recommend also installing all of the optional Vagrant plugins mentioned in step 4. These will only make it easier and more convenient for you to use VVV later.
  - Between steps 6 and 7, you'll want to run the follwing commands to get the latest official release (without these you'll get the latest development build)
 
