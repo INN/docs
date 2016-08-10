@@ -69,7 +69,7 @@ cat > vv-blueprints.json
 By default, VVV gives you a few places to work from:
 
 | URL                                   | Usage                                                         |
-| ------------------------------------- |:-------------------------------------------------------------:|
+| ---                                   |---                                                            |
 | http://local.wordpress.dev/           | for WordPress stable                                          |
 | http://local.wordpress-trunk.dev/     | for WordPress trunk                                           |
 | http://src.wordpress-develop.dev/     | for trunk WordPress development files                         |
