@@ -58,7 +58,7 @@ cat > vv-blueprints.json
 }
 ```
 
-- Alternatively, if you'd like to learn more about VV Blueprints and how they work, you can run `vv --blueprint-init` from the vagrant folder in your terminal to create a sample blueprint named `vv-blueprints.json`, which you'll modify to match the file above.
+- Alternatively, if you'd like to learn more about VV Blueprints and how they work, you can run `vv --blueprint-init` from the vagrant folder in your terminal to create a sample blueprint named `vv-blueprints.json`, which you can modify to match the file above.
 
 ## Vagrant Up
 
