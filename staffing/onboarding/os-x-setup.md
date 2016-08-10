@@ -80,9 +80,13 @@ Since we're on the topic of git, you should configure your name and email global
 
 There are two basic ways of setting up a local server environment for development and testing.
 
-If you're just getting started, the easiest method is to use [MAMP](https://www.mamp.info) (on Mac) or [WAMP](http://www.wampserver.com/en/) (on Windows). MAMP & WAMP are applications that use your existing operating system to build a server environment on your computer.
+If you're not a developer, the easiest method is to work on our projects is to use [MAMP](https://www.mamp.info). MAMP is an application that uses your existing operating system to build a server environment on your computer.
 
-For more advanced configurations, we use [VirtualBox](https://www.virtualbox.org/wiki/Downloads) and [Vagrant](https://www.vagrantup.com/downloads.html) to build virtual machines that simulate the server environments where our work will be publicly hosted. By mirroring our public hosting environment, we gain greater confidence that our work has been accurately tested and will function as expected when deployed. To help us setup Vagrant for WordPress development, we use [VVV](https://github.com/varying-vagrant-vagrants/vvv/), which simplifies the setup of our Vagrant box and gives us a quick-start with a slew of features for WordPress development.
+- [MAMP Setup Instructions](/staffing/onboarding/mamp-setup.md)
+
+For developers, Vagrant is a more advanced configuration that allows us to mirror our production environment locally and test our code more comprehensively. We use [VirtualBox](https://www.virtualbox.org/wiki/Downloads) and [Vagrant](https://www.vagrantup.com/downloads.html) to build virtual machines that simulate the server environments where our work will be publicly hosted. To help us setup Vagrant for WordPress development, we use [VVV](https://github.com/varying-vagrant-vagrants/vvv/), which simplifies the setup of our Vagrant box and gives us a quick-start with a slew of features for WordPress development.
+
+- [Vagrant Setup Instructions](/staffing/onboarding/vvv-setup.md)
 
 For a real-world example of using VirtualBox, Vagrant, and VVV, check out our documentation on [Setting up a complete Largo dev environment](http://largo.readthedocs.io/developers/setup.html).
 
