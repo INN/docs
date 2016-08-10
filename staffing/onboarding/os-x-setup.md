@@ -76,11 +76,19 @@ Since we're on the topic of git, you should configure your name and email global
     git config --global user.email nick@inn.org
 
 
-## Virtual Machines
+## Local Server Environment
 
-We use virtual machines to set up simulated environments of the public web servers we ultimately deploy to, mirroring in many ways the setup of that final environment but with greater speed and control. We use the free and open source project [VirtualBox](https://www.virtualbox.org/wiki/Downloads) as a host for our virtual machines, in conjunction with [Vagrant](https://www.vagrantup.com/downloads.html) which gives us a scripted way to efficiently create those virtual machines.
+There are two basic ways of setting up a local server environment for development and testing.
 
-For a real example of using VirtualBox and Vagrant, check out our [deploy-tools project on Github](https://github.com/INN/deploy-tools#the-basics); we use this for every one of our WordPress site projects. If you are developing a WordPress site, I highly recommend checking this out to smooth your development and deployment process.
+If you're just getting started, the easiest method is to use [MAMP](https://www.mamp.info) (on Mac) or [WAMP](http://www.wampserver.com/en/) (on Windows). MAMP & WAMP are applications that use your existing operating system to build a server environment on your computer.
+
+For more advanced configurations, we use [VirtualBox](https://www.virtualbox.org/wiki/Downloads) and [Vagrant](https://www.vagrantup.com/downloads.html) to build virtual machines that simulate the server environments where our work will be publicly hosted. By mirroring our public hosting environment, we gain greater confidence that our work has been accurately tested and will function as expected when deployed. To help us setup Vagrant for WordPress development, we use [VVV](https://github.com/varying-vagrant-vagrants/vvv/), which simplifies the setup of our Vagrant box and gives us a quick-start with a slew of features for WordPress development.
+
+For a real-world example of using VirtualBox, Vagrant, and VVV, check out our documentation on [Setting up a complete Largo dev environment](http://largo.readthedocs.io/developers/setup.html).
+
+## Deploy Tools
+
+We use a [Fabric](http://www.fabfile.org) for deployment and to automate common tasks in our development workflow. Visit our [deploy-tools project on Github](https://github.com/INN/deploy-tools#the-basics) to learn more about this setup. we use this for every one of our WordPress site projects. If you are developing a WordPress site, we highly recommend checking this out to streamline your development and deployment process.
 
 ## Communications
 
