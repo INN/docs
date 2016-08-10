@@ -6,7 +6,7 @@
 
 Once the software has finished installing and the application launches, you should see something like this:
 
-[MAMP Startup Screen](mamp-startup.png)
+![MAMP Startup Screen](mamp-startup.png)
 
 - Click "Start Servers" and you're ready to go!
 - Add some files to your server roon at /Applications/MAMP/htdocs and Visit http://localhost:8888 to view your server.
@@ -24,4 +24,4 @@ Once the software has finished installing and the application launches, you shou
 - Under the Web Server tab, click on the folder icon to select a new location for your web server to point to. This can be anywhere on your computer, but generally it's best to make subfolders in /Applications/MAMP/htdocs for each of your projects, and switch between them as needed.
 - Once you select a new Document Root, MAMP will restart the server and you can continue working on the new site you just setup. 
 
-[MAMP Document Root](mamp-document-root.png)
+![MAMP Document Root](mamp-document-root.png)
