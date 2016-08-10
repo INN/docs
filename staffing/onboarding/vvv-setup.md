@@ -83,3 +83,7 @@ You can create new environments easily using VV's site wizard by running `vv cre
 To create a site with the Largo theme pre-installed and activated, enter `largo` as your blueprint name when prompted (to use the blueprint we created earlier).
 
 If you want to explore more of what VV can do, just type `vv` into the terminal and you'll get a list of commands it accepts.
+
+# Additional Resources 
+
+- http://vagrantmanager.com - GUI for managing your vagrant machines on OS X.
