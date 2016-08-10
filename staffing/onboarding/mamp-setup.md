@@ -9,9 +9,9 @@ Once the software has finished installing and the application launches, you shou
 ![MAMP Startup Screen](mamp-startup.png)
 
 - Click "Start Servers" and you're ready to go!
-- Add some files to your server roon at /Applications/MAMP/htdocs and Visit http://localhost:8888 to view your server.
-- To access server utilities and tools, visit http://localhost:8888/MAMP/ 
-- To access MySQL using phpMyAdmin, visit http://localhost:8888/phpMyAdmin/
+- Add some files to your server root at `/Applications/MAMP/htdocs` and visit [http://localhost:8888](http://localhost:8888) to view your server.
+- To access server utilities and tools, visit [http://localhost:8888/MAMP/](http://localhost:8888/MAMP/) 
+- To access MySQL using phpMyAdmin, visit [http://localhost:8888/phpMyAdmin/](http://localhost:8888/phpMyAdmin/)
 
 ## Changing PHP Versions
 
@@ -21,7 +21,7 @@ Once the software has finished installing and the application launches, you shou
 ## Update the Document Root
 
 - From the application home screen (shown above), click on "Preferences".
-- Under the Web Server tab, click on the folder icon to select a new location for your web server to point to. This can be anywhere on your computer, but generally it's best to make subfolders in /Applications/MAMP/htdocs for each of your projects, and switch between them as needed.
+- Under the Web Server tab, click on the folder icon to select a new location for your web server to point to. This can be anywhere on your computer, but generally it's best to make subfolders in `/Applications/MAMP/htdocs` for each of your projects, and switch between them as needed.
 - Once you select a new Document Root, MAMP will restart the server and you can continue working on the new site you just setup. 
 
 ![MAMP Document Root](mamp-document-root.png)
