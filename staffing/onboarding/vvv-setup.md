@@ -78,4 +78,8 @@ By default, VVV gives you a few places to work from:
 | http://build.wordpress-develop.dev/   | for the version of those development files built with Grunt   |
 | http://vvv.dev/                       | for a default dashboard containing several useful tools       |
 
-You can create new environments easily using VV's site wizard by running `vv create` in the root folder of VVV. To create a site with the Largo theme pre-installed and activated, enter `largo` as your blueprint name when prompted (to use the blueprint we created earlier). If you want to explore more of what VV can do, just type `vv` into the terminal and you'll get a list of commands it accepts.
+You can create new environments easily using VV's site wizard by running `vv create` in the root folder of VVV.
+
+To create a site with the Largo theme pre-installed and activated, enter `largo` as your blueprint name when prompted (to use the blueprint we created earlier).
+
+If you want to explore more of what VV can do, just type `vv` into the terminal and you'll get a list of commands it accepts.
