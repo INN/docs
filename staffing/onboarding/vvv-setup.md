@@ -6,8 +6,10 @@
  - We strongly recommend also installing all of the optional Vagrant plugins mentioned in step 4. These will only make it easier and more convenient for you to use VVV later.
  - Between steps 6 and 7, you'll want to run the follwing commands to get the latest official release (without these you'll get the latest development build)
 
-```git fetch
-git checkout master```
+```
+git fetch
+git checkout master
+```
 
 ## Install VV
 
