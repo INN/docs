@@ -8,6 +8,9 @@
 -  [Support Specialist (Contract) (September 2014)](INN-support-specialist-2014.md)
 -  [News Apps Developer (Junior - January 2015)](INN-developer-junior-2015.md)
 -  [Summer Design/Dev Apprentices (2015)](INN-summer-apprentices-2015.md)
+-  [Documentation, Support and Training Manager (2015)](INN-support-training-manager-2015.md)
+-  [Design Lead (January 2016)](INN-designer-2016.md)
+-  [Full Stack WordPress Developer (July 2016)](INN-full-stack-developer-wordpress-2016.md)
 
 ### From Member Organizations
 
