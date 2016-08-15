@@ -2,7 +2,7 @@
 
 NOTE: If you're setting up a new umbrella repo for a project/client, see the instructions in the largo docs: [https://largo.readthedocs.io/developers/setup.html](https://largo.readthedocs.io/developers/setup.html)
 
-You're new to INN, or you've been here for a while and never set up the Largo Umbrella of sites before on your computer, or you you've been here and have it set up but you did the setup back in the Cenozoic era and avoid doing it because you forget all the details.
+You're new to INN, or you've been here for a while and never set up the Largo Umbrella of sites before on your computer, or you've been here and have it set up but you did the setup back in the Cenozoic era and avoid doing it because you forget all the details.
 
 Fret not! This guide will show you how to go from a Mac OS X system, with a baseline of what is described in our [setup docs](/staffing/onboarding/os-x-setup.md#terminal-emulator), and get to the point of:
 
@@ -20,7 +20,78 @@ Most of this stuff works from your command line, which you get to through the de
 
 What's next?
 
-## 1. Clone the largo-umbrella git repository hosted at BitBucket.
+## Before you get started
+
+This guide assumes that you already have VVV setup on your machine. If you haven't setup VVV yet, follow the instructions on the [VVV Setup page](/staffing/onboarding/vvv-setup.md) before continuing.
+
+## 1. Download production database.
+
+Let's get the latest version of the WordPress database that powers the live, production sites.
+
+**NOTE**: Access to the INN/secrets repo is required.
+
+Do that with:
+```
+$ fab production wp.fetch_sql_dump
+```
+
+Go make another cup of tea, or two. At the time of this writing, the SQL dump file was 3.1 GB. This will take at least an hour.
+
+
+
+
+## 2. Create a new site using VV
+
+Run the following command from your vagrant root to initiate the vv site creation wizard:
+
+```
+vv create
+```
+
+Follow the prompts, entering the information below, or hitting [Enter] to skip.
+
+Prompt | Text to enter 
+------------ | -------------
+Name of new site directory: | largo-umbrella 
+Blueprint to use (leave blank for none or use largo): | *hit [Enter]* 
+Blueprint to use (leave blank for none or use largo): | *hit [Enter]*
+Domain to use (leave blank for largo-umbrella.dev): | *hit [Enter]*
+WordPress version to install (leave blank for latest version or trunk for trunk/nightly version): | *hit [Enter]*
+Install as multisite? (y/N): | y 
+Install as subdomain or subdirectory? : | subdomain 
+Git repo to clone as wp-content (leave blank to skip): | *hit [Enter]*
+Local SQL file to import for database (leave blank to skip): | *This directory must be an absolute path, so the easiest thing to do is to drag your mysql file into your terminal window here and the absolute filepath with fill itself in.*
+Remove default themes and plugins? (y/N): | N 
+Add sample content to site (y/N): | N 
+Enable WP_DEBUG and WP_DEBUG_LOG (y/N): | y
+ 
+This will take a few minutes to build your new site and load in the database, so be patient.
+
+## 3. Add the Largo Umbrella files to your new site
+
+First, lets navigate to our new install using 
+```
+cd www/largo-umbrella/htdocs
+```
+
+Remove default wp-content folder
+```
+rm -rf wp-content
+```
+
+Run the following commands to initialize a new git repository and sync it with the largo-umbrella remote. This is similar to cloning a git repository, but lets us work with the files and folders we already have setup.
+```
+git init
+git remote add origin git@bitbucket.org:rclations/largo-umbrella.git
+git pull origin master
+```
+
+Remove the vagrant file previously used by running
+```
+rm Vagrantfile
+```
+
+## 4. Clone the largo-umbrella git repository hosted at BitBucket.
 
 While we use Github for hosting our open source contributions, we use Bitbucket instead for the actual production code that powers our websites. Bitbucket allows for unlimited private repositories for Non-Profits like us, and gives us finer-grained control of permissions to individual projects.
 
@@ -38,7 +109,7 @@ Change directory into the new `largo-umbrella` folder:
 $ cd largo-umbrella
 ```
 
-## 2. Download git submodules.
+## 5. Download git submodules.
 
 All of the member sites use Largo child themes, which are individually tracked in their own Bitbucket repositories and then linked with the largo-umbrella repository via git submodules. In addition, the INN deploy-tools, some plugins, and the Largo parent theme are included as submodules. Download them now with:
 
@@ -46,7 +117,7 @@ All of the member sites use Largo child themes, which are individually tracked i
 $ git submodule init && git submodule update
 ```
 
-## 3. Install Python tools.
+## 6. Install Python tools.
 
 We use a few Python libraries for this project, including [Fabric](http://www.fabfile.org/) which powers the INN deploy-tools to elegantly run common but complex tasks. In the [OS X setup guide](/staffing/onboarding/os-x-setup.md), you should have installed Python virtualenv and virtualenvwrapper.
 
@@ -66,7 +137,7 @@ $ workon largo-umbrella
 $ pip install -r requirements.txt
 ```
 
-## 4. Verify utility prerequisites.
+## 7. Verify utility prerequisites.
 
 There are a couple other tools that might need to be updated specifically to be able to download from and deploy to the live web sites, production and staging. Now that you have Fabric installed, you can check for those requirements and install them automatically with:
 
@@ -75,11 +146,11 @@ $ fab wp.verify_prerequisites
 ```
 Make sure to have [git-ftp] (https://github.com/git-ftp/git-ftp/blob/develop/INSTALL.md) and the latest version of curl installed. 
 
-## 5. Set up the secrets repository.
+## 8. Set up the secrets repository.
 
 In order to access the live website data, and to send notifications to HipChat when you do deploy, you'll need to set up the INN secrets repository.
 
-1. If you don't already have access to it on Github, talk to Adam or Ryan to get access. Once you get access, clone the repository to your local system:
+1. If you don't already have access to it on Github, talk to Adam to get access. Once you get access, clone the repository to your local system:
 
 	```
 	$ git clone git@github.com:INN/secrets.git
@@ -101,69 +172,30 @@ In order to access the live website data, and to send notifications to HipChat w
 	$ source ~/src/secrets/all_secrets.sh
 	```
 
-## 6. Set up a virtual machine.
 
-We use Vagrant, in conjunction with Virtual Box, to create and manage virtual machines on our development systems. If you don't have these installed yet, the [OS X setup guide](/staffing/onboarding/os-x-setup.md#virtual-machines) explains where to get them.
+## 9.  Create an administrator account for yourself
 
-With Vagrant installed, start the largo-umbrella virtual machine setup process with:
+1. To start, first connect to your virtual machine via ssh using
 
-```
-$ vagrant up
-```
-
-Now you can go make a cup of tea and answer some emails, because this might take up to an hour. In that time, it downloads the image of a Ubuntu Linux system, installs the MySQL and PHP servers, along with all of the most recent updates, and configures it just so that all the Fabric commands work.
-
-When it's done, edit your `/etc/hosts` file:
-
-```
-$ sudo nano /etc/hosts
+- ```
+vagrant ssh
 ```
 
-Enter your password, use the arrow keys to position the cursor at the end of the file and add the following line:
-
-```
-192.168.33.10 vagrant.dev
-```
-
-Then use Ctrl-O to save your changes and Ctrl-X to exit the editor.
-
-This tells your system that whenever you use the address `http://vagrant.dev`, you really mean the IP address of the virtual machine.
-
-## 7. Download WordPress.
-
-We still need to get the WordPress core files downloaded to the right locations to tie all of this together. Download the latest version of WordPress (4.5.3 as of July 2016) using Fabric. Check for the latest version of Wordpress [here](https://wordpress.org/download/).
-
-```
-$ fab wp.install:4.5.3
+2 Navigate to your largo-umbrella install
+- ```
+cd /srv/www/largo-umbrella/
 ```
 
-## 8. Download production database.
-
-Let's get the latest version of the WordPress database that powers the live, production sites.
-
-**NOTE**: Access to the INN/secrets repo is required.
-
-Do that with:
-```
-$ fab production wp.fetch_sql_dump
+3 Use WP-CLI to create a new WordPress user for you
+- ```
+wp user create superadmin superadmin@vagrant.dev --role=administrator --user_pass=password
+wp super-admin add superadmin
 ```
 
-Go make another cup of tea, or two. At the time of this writing, the SQL dump file was 3.1 GB. This will take at least an hour.
-
-## 9. Load the production database into the virtual machine.
-
-After you've downloaded the mammoth database dump file, it's time to load it into the vagrant virtual machine. Create the database for the data to get loaded into and load the data with:
-
+That's it! Now you can logout of ssh with
 ```
-$ fab vagrant.create_db
-$ fab vagrant.load_db:mysql.sql
+exit
 ```
-
-The `vagrant.create_db` command knows what to name the database based on the `env.project_name` value set in `fabfile.py`. In this case it is `largoproject`.
-
-#### Alternative to using production database
-
-If you can't wait for 3 GB of SQL to download or don't have access to the INN/secrets repository, use a vanilla WordPress database. You can then complete the WordPress setup to make sure everything is working. Ignore steps 13, 14 and 15 below.
 
 ## 10. Take a snapshot of the virtual machine.
 
@@ -187,27 +219,7 @@ You can name the snapshot anything you want, and I would recommend describing it
 
 We'll be doing some work soon of searching through the database we just loaded and replacing certain values. To make this easier, download version 2.1.0 of this [database search and replace script written in PHP](https://interconnectit.com/products/search-and-replace-for-wordpress-databases/). Unzip it and move the file `searchreplacedb2.php` to your `largo-umbrella` folder.
 
-## 12. Base configuration of WordPress.
-
-We need to tell WordPress where to look for the database and how to access it on the virtual machine.
-
-1. Go to [http://vagrant.dev](http://vagrant.dev), which should automatically redirect you to the config page of [http://vagrant.dev/wp-admin/setup-config.php](http://vagrant.dev/wp-admin/setup-config.php).
-
-2. Choose your language and then go to the next screen.
-
-3. Enter the following details for the database settings:
-
-    * Database Name: `largoproject`
-    * User Name: `root`
-    * Password: `root`
-    * Database Host: `localhost`
-    * Table Prefix: `wp_`
-
-4. Go to the next screen, where you have only one button to click, `Run the install`. Click that, and it will create the file `wp-config.php` in your `largo-umbrella` folder.
-
-5. You may then see the message "Already Installed" because you already loaded the WordPress database in a previous step.
-
-## 13. Changing largoproject.wpengine.com to vagrant.dev.
+## 12. Changing largoproject.wpengine.com to vagrant.dev.
 
 The database we downloaded from the production website has the base address, largoproject.org, hardcoded in several places. We need to update this to instead be vagrant.dev.
 
@@ -224,67 +236,6 @@ The database we downloaded from the production website has the base address, lar
 ```
 $ vagrant snapshot take default after_largoproject_searchandreplace
 ```
-
-## 14. Add multisite variables to WordPress config.
-
-The file `wp-config.php` that was created by the WordPress basic configuration process is meant for a standalone site install. Largo-umbrella, on the other hand, is a special kind of WordPress site called multisite. In order for this to work for us, we need to add some variables to the file. Open `wp-config.php` in a text editor and add the following text somewhere before `/* That's all, stop editing! Happy blogging. */`:
-
-```
-/* Make this a multisite install. */
-define('MULTISITE', true);
-define('SUBDOMAIN_INSTALL', true);
-define('DOMAIN_CURRENT_SITE', 'vagrant.dev');
-define('PATH_CURRENT_SITE', '/');
-define('SITE_ID_CURRENT_SITE', 1);
-define('BLOG_ID_CURRENT_SITE', 1);
-```
-
-It's important that you add this before the last line of `require_once(ABSPATH . 'wp-settings.php');` because the variables will be ignored if you add them after.
-
-## 15. Add a network super-admin for yourself!
-
-When we copied down the database from the real site, we got all of the real user accounts with it. Unless you have access to the real network super-admin account on the live site, you'll need to create your own so that you can administer this local copy of the project.
-
-At the command line, run this to access the virtual machine's command line directly:
-
-```
-$ vagrant ssh
-```
-
-Once you've connected, change directory into the `/vagrant` directory and create a new user account with the following commands:
-
-```
-$ cd /vagrant
-$ wp user create superadmin superadmin@vagrant.dev --role=administrator --user_pass=password
-$ wp super-admin add superadmin
-$ exit
-```
-
-This will create the network super-admin with username `superadmin` and password `password`. You can use this to log in to [http://vagrant.dev/wp-login.php](http://vagrant.dev/wp-login.php).
-
-**SNAPSHOT**: Let's save our progress now. In your command line, take another snapshot with:
-
-```
-$ vagrant snapshot take default after_adding_superadmin
-```
-
-## 16. Configure Your Virtual Machine Memory
-
-The default virtual machine has 384MB of RAM to be respectful of a range machines.  If you have adequate memory (we assume, but don't insist you have more than this), bump this towards 1-2GB.
-
-**Slow WordPress = Less Being Awesome.**
-
-1. Run ```vagrant halt``` or start with your machine shut down. If you haven't, ```vagrant snapshot take default some_name```.
-
-2. Open VirtualBox and find the vagrant.
-
-3. Right-click the vagrant and click **Settings...** (or select then Command + S).
-
-4. RAM is under System (2nd tab) as Base Memory. If 4-8GB between 768-1024MB is healthy. *With 16GB, I tossed it 2048MB because VM lag burns daylight and client dollars.*
-
-5. ```vagrant up``` and check all is well.
-
-6. ```vagrant snapshot take default speed_demon```
 
 #### Rock on! But wait, you're not done.
 
