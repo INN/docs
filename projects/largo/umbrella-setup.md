@@ -82,7 +82,7 @@ rm -rf wp-content
 Run the following commands to initialize a new git repository and sync it with the largo-umbrella remote. This is similar to cloning a git repository, but lets us work with the files and folders we already have setup.
 ```
 git init
-git remote add origin git@bitbucket.org:rclations/largo-umbrella.git
+git remote add origin git@bitbucket.org:projectlargo/largo-umbrella.git
 git pull origin master
 ```
 
