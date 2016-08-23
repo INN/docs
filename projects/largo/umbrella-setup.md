@@ -177,25 +177,17 @@ In order to access the live website data, and to send notifications to HipChat w
 
 1. To start, first connect to your virtual machine via ssh using
 
-- ```
-vagrant ssh
-```
+- ```vagrant ssh```
 
 2 Navigate to your largo-umbrella install
-- ```
-cd /srv/www/largo-umbrella/
-```
+- ```cd /srv/www/largo-umbrella/```
 
 3 Use WP-CLI to create a new WordPress user for you
-- ```
-wp user create superadmin superadmin@vagrant.dev --role=administrator --user_pass=password
-wp super-admin add superadmin
-```
+- ```wp user create superadmin superadmin@vagrant.dev --role=administrator --user_pass=password```
+- ```super-admin add superadmin```
 
 That's it! Now you can logout of ssh with
-```
-exit
-```
+```exit```
 
 ## 10. Take a snapshot of the virtual machine.
 
