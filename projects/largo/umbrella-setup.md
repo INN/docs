@@ -186,8 +186,7 @@ In order to access the live website data, and to send notifications to HipChat w
 - ```wp user create superadmin superadmin@vagrant.dev --role=administrator --user_pass=password```
 - ```super-admin add superadmin```
 
-That's it! Now you can logout of ssh with
-```exit```
+That's it! Now you can logout of ssh with `exit`
 
 ## 10. Take a snapshot of the virtual machine.
 
