@@ -40,7 +40,7 @@ You can see a complete list of activated plugins for each site by opening these 
   2. At least one post
   3. At least one page
   4. Any pages generated or dependent upon plugins
-3. Make note of any new issues. We’ve never had a total meltdown (is this true?) but if the front end is badly broken on production after clearing the WPEngine cache we’d want to restore from the backup point immediately.
+3. Make note of any new issues. We’ve never had a total meltdown but if the front end is badly broken on production after clearing the WPEngine cache we’d want to restore from the backup point immediately.
 4. Visit the dashboard of each site. We’re going to do a bunch of tests to make sure the site is functioning normally. 
   1. Do a quick visual inspection of the dashboard home to verify everything is looking normal.
   2. Open and verify the Posts list page.
@@ -50,7 +50,7 @@ You can see a complete list of activated plugins for each site by opening these 
   6. Open Appearance > Theme Options and click thru the tabs to verify that everything appears correct.
   7. Open Users and make sure things look normal.
 5. Now look at the site’s plugins to verify they’re OK.
-  1. Check the list of plugins for a given site using the links above. Flag any plugins known to be problematic, which includes: Edit Flow, TablePress (is this right?), (What other plugins should be named here?)
+  1. Check the list of plugins for a given site using the links above. Flag any plugins known to be problematic. These tend to be junky plugins we've installed for only a single site and they all know that we are not able to offer our usual support around updates for these plugins (i.e. - they need to pay for the work to update them if the updates don't go smoothly).
   2. For any plugins that have their own settings, check these to verify they appear normal. This is especially important for plugins that require API keys or other connections to third-party services.
   3. On staging at least you can further test the functioning of plugins, for example in test posts. Testing is going to depend on the plugins, but be as thorough as possible to verify everything is working correctly. 
 6. If anything is awry make thorough notes, and take appropriate actions to remedy. In worst case we’ll need to restore from the backup point, but if so this must be done very soon to avoid loss of content published after the backup point.
