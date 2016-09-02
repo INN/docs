@@ -52,4 +52,4 @@ We welcome your feedback on this and every other aspect of INN, and we thank you
 
 ----
 
-This Code of Conduct is licensed CC BY-SA 4.0. Credit to the SRCCON Code of Conduct, Citizen Code of Conduct, the Conference Code of Conduct, and the Open Source & Feelings Code of Conduct, with general thanks to the Ada Initiative’s “how to design a code of conduct for your community.”
+This Code of Conduct is licensed [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Credit to the [SRCCON Code of Conduct](http://srccon.org/conduct/), [Citizen Code of Conduct](http://citizencodeofconduct.org/), the [Conference Code of Conduct](http://confcodeofconduct.com/), and the [Open Source & Feelings Code of Conduct](http://www.osfeels.com/conduct/), with general thanks to the [Ada Initiative’s “how to design a code of conduct for your community.”](https://adainitiative.org/2014/02/18/howto-design-a-code-of-conduct-for-your-community/)
