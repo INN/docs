@@ -8,7 +8,7 @@ All attendees, speakers, sponsors and volunteers at INN events are required to a
 
 ## Need Help?
 
-Contact any INN staff in person at event, or by email at nerds@inn.org.
+Contact any INN staff in person at event, or by email at [events@inn.org](mailto:events@inn.org).
 
 ## Long Version
 
@@ -44,7 +44,7 @@ If any attendee engages in unacceptable behavior, the conference organizers may 
 
 Anyone asked to stop unacceptable behavior is expected to comply immediately.
 
-If you feel that someone has harassed you or otherwise treated you inappropriately, please alert any member of the conference team in person, or via email at nerds@inn.org.
+If you feel that someone has harassed you or otherwise treated you inappropriately, please alert any member of the conference team in person, or via email at [events@inn.org](mailto:events@inn.org).
 
 If you feel you have been unfairly accused of violating this code of conduct, you should contact the INN team with a concise description of your grievance; any grievances filed will be considered by the INN leadership team.
 
