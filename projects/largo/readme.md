@@ -17,7 +17,7 @@ Logo by [Alli Berry](http://alliberry.com/)
 - Project website: [largoproject.org](http://largoproject.org)
 - [Github repo](https://github.com/INN/Largo)
 - [User guide](https://largo.inn.org/series/largo-user-guide/)
-- [Developer documentation](http://largo.readthedocs.org)
+- [Developer documentation](http://largo.readthedocs.io)
 - [Help desk](http://support.largoproject.org)
 - [Knowledgebase](http://support.largoproject.org/support/solutions)
 - Project Twitter account is [@LargoProject](http://twitter.com/largoproject) and it has its own [MailChimp list](http://eepurl.com/yu0bT) for project updates in the main INN MailChimp account.
