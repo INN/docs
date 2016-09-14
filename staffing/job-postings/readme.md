@@ -2,11 +2,14 @@
 
 ### From INN:
 
--  [News Applications Developer (WordPress Focus) (January 2014)](INN-news-apps-developer-wordpress-2014.md)
 -  [Designer/Developer (July 2014)](INN-designer-2015.md)
--  [News Applications and Technology Intern (July 2014)](INN-dev-intern-2014.md)
--  [Support Specialist (Contract) (September 2014)](INN-support-specialist-2014.md)
+-  [Lead Designer (2016)](INN-designer-2016.md)
+-  [News Applications Developer (WordPress Focus) (January 2014)](INN-news-apps-developer-wordpress-2014.md)
+-  [Full Stack Developer (WordPress Focus) (July 2016)](INN-full-stack-developer-wordpress-2016.md)
 -  [News Apps Developer (Junior - January 2015)](INN-developer-junior-2015.md)
+-  [Support Specialist (Contract) (September 2014)](INN-support-specialist-2014.md)
+-  [Manager of Documentation, Training and Support (2015)](INN-support-training-manager-2015.md)
+-  [News Applications and Technology Intern (July 2014)](INN-dev-intern-2014.md)
 -  [Summer Design/Dev Apprentices (2015)](INN-summer-apprentices-2015.md)
 
 ### From Member Organizations
