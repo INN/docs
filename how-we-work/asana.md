@@ -82,7 +82,9 @@ There are also various status tags (needs review, needs docs, waiting for approv
 
 ## Time Tracking
 
-Asana has an integration with Harvest that lets you track time right from the Task view in Asana.
+We log time spent on all client and internal projects to make sure we're billing our time accurately and also to improve our estimates and make sure projects are staying on track.
+
+Time is tracked in Harvest ([docs on that here](/how-we-work/time-tracking.md)) and Asana has an integration with Harvest that lets you track time right from the Task view in Asana.
 
 ![Asana Time Tracking Feature](img/asana-time-tracking.png)
 
