@@ -84,7 +84,7 @@ There are also various status tags (needs review, needs docs, waiting for approv
 
 Asana has an integration with Harvest that lets you track time right from the Task view in Asana.
 
-![Asana Time Tracking Feature](asana-time-tracking.png)
+![Asana Time Tracking Feature](img/asana-time-tracking.png)
 
 Best practice is to start Asana's time tracking when you start work on a task, then stop the clock in Asana when you stop working on that task.
 
