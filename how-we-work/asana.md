@@ -10,11 +10,11 @@ We're assuming familiarity with Asana before reading this guide to how we use it
 
 In the Projects list in Asana, there's a project named **Template: New Project**. This should be used to create any new projects. To do that, hover over the three dots to the right of the project name, click to open the Project Actions menu, and select **Copy Project (Use as a template)**:
 
-![Creating a new project in Asana by compying the New Project Template](.img/asana-new-project-menu.png)
+![Creating a new project in Asana by compying the New Project Template](img/asana-new-project-menu.png)
 
 This will open the New Project dialogue box where you give it a project name. You can leave the checkboxes as they are and click **Create New Project**. 
 
-![New Project dialogue box](.img/asana-new-project-dialogue.png)
+![New Project dialogue box](img/asana-new-project-dialogue.png)
 
 The new project appears in Asana's project list, yay!
 
@@ -22,7 +22,7 @@ The new project appears in Asana's project list, yay!
 
 After creating a project, give it a short description so it's clear to all concerned what it is. Click on the project name in the Asana project list, then click the dropdown arrow on the right side of its name:
 
-![Editing a project in Asana](.img/asana-edit-project.png)
+![Editing a project in Asana](img/asana-edit-project.png)
 
 Add the project description, which in most cases should be a single sentence. You can also add this project to your Asana dashboard, give it a different highlight color, etc.
 
