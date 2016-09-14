@@ -62,7 +62,7 @@ We use a standard set of tags which are defined in this [sample Asana ticket](ht
 
 Clicking a tag in any task opens other tasks that have that tag. So it's easy to see all tasks that are tagged "Priority" etc.
 
-Definitely assign tags to tasks and subtasks as you create them, and add them as appropriate.
+Definitely use this list to assign tags to tasks and subtasks as you create them, and add them as appropriate.
 
 ## Time Tracking
 
@@ -74,4 +74,4 @@ Best practice is to start Asana's time tracking when you start work on a task, t
 
 ### Asana/Harvest Time Tracking Gotcha
 
-Due to synch peculiarities, when you stop the clock on a task in Asana then switch over to Harvest, time tracking for that task may look like it's still running. If you refresh the browser tab where you have Harvest, the clock will show that it's been stopped. But if you already stopped the clock in Asana, then stop the clock in Harvest, the Harvest clock for that task will return to 0:00. This leads to incorrect time tracking for the task, and potential billing errors on client projects which we don't want.
+Due to synch peculiarities, when you stop the clock on a task in Asana then switch over to Harvest, time tracking for that task may look like it's still running. If you refresh the browser tab where you have Harvest, the clock will show that it's been stopped. But if you already stopped the clock in Asana, then stop the clock in Harvest, the Harvest clock for that task will return to 0:00. This leads to incorrect time tracking for the task, and potential billing errors on client projects. 
