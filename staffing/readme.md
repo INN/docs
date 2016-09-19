@@ -10,8 +10,6 @@ How we write job descriptions, approach recruiting, evaluate candidates and help
 -  [Sample interview questions](/staffing/hiring/interview-questions.md) we use for screening candidates (usually with a few additional questions that are unique to each position) and [some exercises](/staffing/hiring/exercises.md) to evaluate candidates for different types of roles.
 -  [Onboarding resources](/staffing/onboarding/readme.md) for new team members
 -  [Information regarding purchasing and travel requests and expsense reports](/staffing/miscellany/expense-reports.md)
->>>>>>> 110c7c32ad675a9fcdb3cafcfa8216f717b15521
-
 
 ### Not in here, but related:
 
