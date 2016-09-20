@@ -6,7 +6,7 @@
 
 **REPORTS TO** Senior Director, Product and Technology
 
-**BRIEF DESCRIPTION/PURPOSE** The ideal candidate for this position is an experienced full stack developer with some specific expertise working with WordPress who is looking to apply her/his skills to moving the industry forward by tackling problems facing nonprofit news organizations.
+**BRIEF DESCRIPTION/PURPOSE** The ideal candidate for this position is passionate about design and looking to put her/his skills to use tackling problems facing nonprofit news organizations. As the team's design lead this role is responsible for creating beautiful and usable solutions to design problems, managing their implementation and sharing what we've learned with the broader news design community. 
 
 **KEY AREAS OF RESPONSIBILITY (ESSENTIAL FUNCTIONS)**
 
