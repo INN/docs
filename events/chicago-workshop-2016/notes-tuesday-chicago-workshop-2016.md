@@ -1,5 +1,7 @@
 # Notes - INN Chicago Workshop, Tuesday, September 27, 2016
 
+Group notes were recorded on this Hackpad: https://hackpad.com/INN-Tech-Roadmap-Discussion-September-27-2016-iQEx9YmY6oK
+
 From Google Doc at https://docs.google.com/document/d/1rW2CLAQOloeBxW6ePL2gtyG6d3CCltWYIJSQ7ZpNKIk/edit
 
 ## Attendees
