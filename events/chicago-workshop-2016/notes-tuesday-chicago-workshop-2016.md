@@ -1,21 +1,23 @@
 # Notes - INN Chicago Workshop, Tuesday, September 27, 2016
 
+From Google Doc at https://docs.google.com/document/d/1rW2CLAQOloeBxW6ePL2gtyG6d3CCltWYIJSQ7ZpNKIk/edit
+
 ## Attendees
 
-Amanda K - formerly Texas Tribune
-Marc P - public media platform
-Ryan S - chalkbeat, formerly gannett
-Fernando D - Reveal/CIR
-Robert W - MotherJones
-Jahna B - MotherJones
-Julia S - INN
-Jonathan S - MinnPost
-Jack B - INN
-Rebekah M - WhereBy.Us
-Lauren F - Wisconsin Center for Investigative Journalism
-Kyle E - SND, American City Business Journals
-Sue C - INN
-Adam S - INN
+- Amanda K - formerly Texas Tribune
+- Marc P - public media platform
+- Ryan S - chalkbeat, formerly gannett
+- Fernando D - Reveal/CIR
+- Robert W - MotherJones
+- Jahna B - MotherJones
+- Julia S - INN
+- Jonathan S - MinnPost
+- Jack B - INN
+- Rebekah M - WhereBy.Us
+- Lauren F - Wisconsin Center for Investigative Journalism
+- Kyle E - SND, American City Business Journals
+- Sue C - INN
+- Adam S - INN
 
 ## Let’s hear from each organization what your tools are, what your staff looks like, what you contract out, what problems you run into, what kind of help you need...
 
