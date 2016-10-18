@@ -1,6 +1,6 @@
-# Evaluation Form for the Chicago Wordshop 2016
+# Evaluation Form Text
 
-This is the content of the form posted at https://form.jotform.com/62667139071964
+Use Jotform to create a form specific to each event. Customize the form as needed.
 
 ## INN Event Evaluation: Technology and Product Design For News Leaders
 

@@ -1,4 +1,4 @@
-# Nametags for INN Events
+# How to Produce Nametags for INN Events
 
 Order nametag holders here (clip-on badge holder 4x3): http://www.mybadges.com/conference-id/name-badge-holders-name-tags/conference-name-badges-standard/
 
