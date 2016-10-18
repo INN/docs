@@ -13,3 +13,7 @@ We've learned a lot about planning and promoting events like conferences and tra
 ## Events Archives
 
 - [Technology and Product Design For News Leaders - Chicago 2016](chicago-workshop-2016)
+
+## Resources/Inspiration
+
+- Sunlight Foundation: [How to host your own Transparency Camp](http://transparencycamp.org/how-to/)
