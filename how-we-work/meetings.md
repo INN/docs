@@ -60,9 +60,8 @@ No detailed discussion of issues during this meeting. You can always stay on the
 
 -  Replaces daily scrum every Monday
 -  Uses the Zoom link from the recurring event invite on the team Google calendar
-
 -  Leadership team meets at 9:45 before the rest of the team joins
--  During this time we will review priorities and assignments for the week and update the [roadmap doc](https://docs.google.com/document/d/1WCCB_N93d3jyYbFfKMr1z4Ag1n4EMe5YlaoSgdh8MYY/edit) (login required)
+-  During this time we will review priorities and assignments for the week and update Forecast/Asana to make sure everyone has a clear set of tasks defined for the week (login required)
 -  We will also discuss new clients/prospects, projects kicking off, important deadlines for the week, etc.
 -  The rest of the team joins at 10 am ET
 -  Meeting begins with a review of the roadmap for the week, important deadlines, top priorities, etc.
@@ -85,9 +84,10 @@ Each team member, in about a minute:
 As a team (no more than 5 minutes):
 
 -  What went well this week? What could be improved?
--  Review [editorial calendar](https://docs.google.com/spreadsheets/d/1nJ2LAfQRzbDpxDfhpwfJo_a4DFM5-T4GDzRpj2t6qvk/edit#gid=0) (you'll need to request access to view this) for the following week, make sure everyone knows what's due and when
+-  Review editorial calendar and rotating responsibilities for the following week, make sure everyone knows what's due and when
 -  New project ideas
 -  Shoutouts
+-  Additional agenda items as raised on the [related Asana ticket](https://app.asana.com/0/100231559474831/203568180899456)
 
 Team leader (no more than 5 minutes):
 
