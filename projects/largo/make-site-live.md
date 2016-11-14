@@ -10,7 +10,7 @@
 3. Add the domain to the new install.
 	- https://my.wpengine.com/installs/___/domains
 	- set `___.com` to be the primary
-	- set `___.wpengine.com` to redirect to `___.com`
+	- set `___.wpengine.com` to redirect to `___.com` by clicking "edit" next to `___.wpengine.com` and setting it to redirect to `___.com`
 4. Check that you can login at the new url
 5. Enable the CDN at https://my.wpengine.com/installs/___/cdn
 6. If there was an existing `___.com` site in the old install:
