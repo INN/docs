@@ -7,8 +7,8 @@
 -  **[A manifesto](manifesto.md)** outlining our team's mission and values
 -  **[Our Strategy for 2015](/strategy/2015.md)**
 -  **[Staffing and Hiring](/staffing)** including how we recruit and hire new team members, plus:
-    - [Some information](/staffing/application-process.md) on our application/interview process
-	- [Sample job descriptions](/staffing/job-descriptions) from our team and from INN member organizations
+    - [Some information](/staffing/hiring/application-process.md) on our application/interview process
+	- [Sample job descriptions](/staffing/job-postings/readme.md) from our team and from INN member organizations
 	- [Interview questions](/staffing/hiring/interview-questions.md) for screening candidates
 	- [Our onboarding process](/staffing/onboarding)
 -  **[How we work](/how-we-work)** including:
