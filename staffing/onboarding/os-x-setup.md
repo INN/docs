@@ -80,7 +80,7 @@ Since we're on the topic of git, you should configure your name and email global
 
 There are two basic ways of setting up a local server environment for development and testing.
 
-If you're not a developer, the easiest method is to work on our projects is to use [MAMP](https://www.mamp.info). MAMP is an application that uses your existing operating system to build a server environment on your computer.
+If you're not a developer, the easiest method to work on our projects is to use [MAMP](https://www.mamp.info). MAMP is an application that uses your existing operating system to build a server environment on your computer.
 
 - [MAMP Setup Instructions](/staffing/onboarding/mamp-setup.md)
 
