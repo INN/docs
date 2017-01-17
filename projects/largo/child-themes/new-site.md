@@ -1,6 +1,6 @@
 # Setup Process for Each Member Site
 
-You've probably [just installed the largo-umbrella](/onboarding/largo-umbrella-setup.md) or updated your database! Huzzah!
+You've probably [just installed the largo-umbrella](/projects/largo/umbrella-setup.md) or updated your database! Huzzah!
 
 However, you'll need to do a brief setup for **each** member site you work with.
 
