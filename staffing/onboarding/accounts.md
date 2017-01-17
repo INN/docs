@@ -78,7 +78,7 @@ Note: Slack account creation can only be done by someone with Admin/Owner privil
 
 - Login to [WP Engine](https://my.wpengine.com/) and click on the "users" tab at the top of the dashboard.
 - From here you can add/manage users and the specific WordPress instances they have access to.
-- Additionally you will need to create (for users where this is required) FTP credentials and/or grant the user access to INN Secrets GitHub repo (see above) if they need to be able to deploy.
+- Additionally you will need to create (for users where this is required) FTP credentials and/or grant the user access to INN secrets GitHub repo if they need to be able to deploy. New FTP credentials for the team should be created in the secrets repo according to the instructions there.
 
 
 ### Harvest/Forecast
