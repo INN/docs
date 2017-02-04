@@ -69,8 +69,8 @@ $ vagrant up
 $ vagrant ssh
 vagrant@precise64:~$ cd /vagrant
 vagrant@precise64:/vagrant$ wp plugin deactivate --url="largoproject.wpengine.com" redirection
-vagrant@precise64:/vagrant$ wp search-replace 'largoproject.org' 'vagrant.dev' 'wp_*_options' wp_options wp_blogs wp_sitemeta
-vagrant@precise64:/vagrant$ wp search-replace 'largoproject.wpengine.com' 'vagrant.dev' 'wp_*_options' wp_options wp_blogs wp_sitemeta
+vagrant@precise64:/vagrant$ wp search-replace --url="largoproject.wpengine.com" 'largoproject.org' 'vagrant.dev' 'wp_*_options' wp_options wp_blogs wp_sitemeta --network
+vagrant@precise64:/vagrant$ wp search-replace --url="largoproject.wpengine.com" 'largoproject.wpengine.com' 'vagrant.dev' 'wp_*_options' wp_options wp_blogs wp_sitemeta --network
 ```
 
 That will update all the options tables that have largoproject.wpengine.com. You will have to go back and do this later with every other site listed in [largoproject.wpengine.com/wp-admin/network/sites.php](//largoproject.wpengine.com/wp-admin/network/sites.php), because not all sites have domain names of the form `*.largoproject.wpengine.com`.
@@ -80,9 +80,11 @@ That will update all the options tables that have largoproject.wpengine.com. You
 A breakdown of what's happening in the search-replace commands:
 
 - `wp search-replace`: http://wp-cli.org/commands/search-replace/
+- `--url="largoproject.wpengine.com"`: Behave as if the request is coming from the core site of the network. Replace `largoproject.wpengine.com` as appropriate with the URL of the site the dump came from.
 - `'largoproject.org' 'vagrant.dev'`: Replace 'largoproject.org' with 'vagrant.dev' in all the tables specified
 - `'largoproject.wpengine.com' 'vagrant.dev'`: Replace 'largoproject.wpengine.com' with 'vagrant.dev' in all the tables specified
 - `'wp_*_options' wp_options wp_blogs wp_sitemeta`: these are the tables that the search-replace will be performed upon. `'wp_*_options'` needs version 0.23 to work properly; it failed in 0.21 because glob expansion wasn't available.
+- `--network`: run the search-replace against all tables that are registered with `$wpdb` (not necessary if this is being done on a single-site install)
 
 To leave the Vagrant machine, run the following:
 
