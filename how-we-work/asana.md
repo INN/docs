@@ -94,4 +94,4 @@ When you create a time log on a task in Asana it will add a link to the time log
 
 ### Asana/Harvest Time Tracking Gotcha
 
-Due to synch peculiarities, when you stop the clock on a task in Asana then switch over to Harvest, time tracking for that task may look like it's still running. If you refresh the browser tab where you have Harvest, the clock will show that it's been stopped. But if you already stopped the clock in Asana, then stop the clock in Harvest, the Harvest clock for that task will return to 0:00. This leads to incorrect time tracking for the task, and potential billing errors on client projects. 
+Due to sync peculiarities, when you stop the clock on a task in Asana then switch over to Harvest, time tracking for that task may look like it's still running. If you refresh the browser tab where you have Harvest, the clock will show that it's been stopped. But if you already stopped the clock in Asana, then stop the clock in Harvest, the Harvest clock for that task will return to 0:00. This leads to incorrect time tracking for the task, and potential billing errors on client projects. 
