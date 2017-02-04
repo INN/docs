@@ -8,8 +8,8 @@ These are some of the tools we rely on to make our remote work possible.
 	- **Tech Team** has read/write/admin to a smaller subset of our projects
 	- **All INN Staff** has read/write access to a number of repositories relevant to all INN staff
 	- **Secret** is only for people who have permission to deploy to production (this should always be limited to only core team members who are comfortable with our git workflow, deployment process and hosting infrastructure)
-- **[Bitbucket](https://bitbucket.org):** Versioning and hosting for [Largo](http://largoproject.org) child themes for all the member sites we host. This allows us to add devs at member organizations to a repo just for their child theme so they can commit changes to a theme for us to review and push to production.
 - **[Asana](https://app.asana.com/):** Task and project management. Note that there are different teams within the INN organization for different workgroups. Ask your supervisor to make sure you've been added to the right one(s).
+- **[FreshDesk](https://freshdesk.com/):** for support requests (mostly relating to Largo) and managing help desk tickets.
 - **[Harvest](https://innnerds.harvestapp.com/)** and **[Forecast](https://forecastapp.com):** For timekeeping/billing and roadmap planning
 - **[Screenhero](https://screenhero.com/):** Remote pair programming software
 - **[Zoom](https://zoom.us/signup)/[Google Hangouts](https://plus.google.com/hangouts):** For [meetings](meetings.md) like our daily scrum and for public events like our monthly [book club meetings](/projects/book-club/) and [open office hours](/projects/office-hours/).
