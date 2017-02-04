@@ -22,7 +22,7 @@ Everyone gets stuck from time to time and we're here to help. Given the volume o
 
 #### Slack
 
-[Slack](https://www.hipchat.com/) is an "always on" group chat application that we use for conversation throughout the day as well as to keep conversations visible to all members of a team or project. 
+[Slack](https://slack.com/) is an "always on" group chat application that we use for conversation throughout the day as well as to keep conversations visible to all members of a team or project. 
 
 Instead of having one-on-one conversations or losing important details in endless email threads, posting in the relevant Slack channel makes these conversations visible, searchable and archivable so that everyone involved can easily see what is going on and/or quickly catch up if they're out of the office.
 
@@ -30,7 +30,7 @@ This also has the effect of avoiding the, at times, unfortunate feeling that som
 
 Slack also allows you to add links to important documents, resources or webpages and to upload files which are then also archived and searchable. This is a great way to share links to things like documentation, screenshots, mockups, etc. that you may want to be able to easily refer back to later.
 
-For these reasons, Slack is typically the best place to start most conversations regarding support or to ask questions about a project.
+Asana (see below) is typically a better place to keep threaded conversations, to-do items, relevant files, etc. but Slack is a great way to have quick conversations and make decisions when less organization is required.
 
 When we kickoff a new project we will typically create a private channel specifically for that project and add the people who are involved. If you feel like you're missing a conversation you can always ping one of your coworkers to make sure you haven't been left out inadvertently.
 
