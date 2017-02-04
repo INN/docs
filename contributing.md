@@ -10,8 +10,8 @@ We welcome contributions and suggestions to help us improve any of these documen
 4.  Push the changes to your fork (`git push origin my-branch`)
 5.  [Submit a pull request to the parent repo](https://help.github.com/articles/creating-a-pull-request). Please read our [guide to submitting pull requests](/how-to-work-with-us/pull-requests.md) to see what we expect in a good pull request message.
 6.  Pull request should be assigned to:
-    - [@aschweigert](http://github.com/aschweigert) (primary)
-    - [@kaeti](http://github.com/kaeti) or [@rnagle](http://github.com/rnagle) (secondary)
+    - [@julia67](http://github.com/julia67) (primary)
+    - [@kaylima](http://github.com/kaylima) or [@rclations](http://github.com/rclations) (secondary)
 
 We have [a helpful how-to](/how-to-work-with-us/via-github.md) that walks through this process in more detail if you're new to using Git.
 
