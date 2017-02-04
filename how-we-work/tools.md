@@ -5,7 +5,6 @@ These are some of the tools we rely on to make our remote work possible.
 - **[1password](https://agilebits.com/onepassword)** for password management. We use 1password's team function to share logins with different teams and workgroups and you can also create a personal vault for anything that does need to be shared.
 - **[Asana](https://app.asana.com/):** Task and project management. Note that there are different teams within the INN organization for different workgroups. Ask your supervisor to make sure you've been added to the right one(s).
 - **[Dropbox](http://dropbox.com)** for file sharing.
-
 - **[FreshDesk](https://freshdesk.com/):** for support requests (mostly relating to Largo) and managing help desk tickets.
 - **[GitHub](http://www.github.com):** For versioning and hosting our open source projects. We have a number of teams under our [INN organization account](http://github.com/inn) to grant access to various groups of projects to various types of users: 
 	- **Tech Team** has read/write/admin to a smaller subset of our projects
