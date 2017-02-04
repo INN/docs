@@ -1,4 +1,14 @@
-# Communication Tools
+# Tools
+
+## What's in Here?
+
+- A list of communication and project management tools we use as a team
+- Some helpful tips and tricks:
+	- [Setting up a Hackpad (for book club or  office hours)](#hackpad)
+	- [Setting up a Google form (for book club voting, etc.)](#google-form)
+	- [Creating a public Google Hangout for community events](#public-hangouts)
+
+## Communication and Project Management
 
 These are some of the tools we rely on to make our remote work possible.
 
@@ -16,4 +26,60 @@ These are some of the tools we rely on to make our remote work possible.
 - **[Slack](https://slack.com/):** We use this as our group chat tool and always-on back channel. We have three channels we primarily use: a room for all INN staff (#00-inn-staff) a room restricted to our team only (#00-tech team) and a room that is open to all tech folks at partner/member organizations (#00-open-tech). In addition we create a channel for each project we work on to collaborate internally and also, at times, with members/partners/vendors.
 - **[Zoom](https://zoom.us/signup)/[Google Hangouts](https://plus.google.com/hangouts):** For [meetings](meetings.md) like our daily scrum and for public events like our monthly [book club meetings](/projects/book-club/) and [open office hours](/projects/office-hours/). For group calls, we typically use Zoom, but we occasionally also use Google Hangouts or Slack video calls for quick one-on-one chats.
 
-We also maintain [a large list of tools and services](http://nerds.inn.org/discounts/) (including many of the above) that offer discounts to nonprofits on our team blog.
+## Discounts
+
+We maintain [a large list of tools and services](http://nerds.inn.org/discounts/) (including many of the above) that offer discounts to nonprofits on our team blog.
+
+
+## Tips and Tricks
+
+Hacks and how-tos that we use for various projects.
+
+<a id="hackpad"></a>
+### Setting up a Hackpad
+
+1. Log into your Google account.
+2. Go to [Hackpad](http://hackpad.com)
+3. Click on the New Hackpad icon.
+4. Fill in the title
+5. Share the link. Hackpad
+[Reference](https://hackpad.com/How-to-use-Hackpad-mlZvEsJykI5)
+
+<a id="google-form"></a>
+### Creating a Google form for a quick survey
+
+1. Log into your Google account.
+2. Navigate to Google Drive.
+3. Click "Create."
+4. Select Form from the options.
+5. Fill in the title.
+6. Fill in the Question Title.
+7. Select Question Type, for book club book survey Multiple choice.
+8. Fill in the Options.
+9. Review your work.
+10. Click Send Form. This will allow to tweet the link and generate a public link. Form
+[Reference](https://support.google.com/docs/answer/87809?hl=en)
+
+<a id="public-hangouts"></a>
+### Creating a public Google Hangout for community events
+
+1. Go to [Google+ Events](https://plus.google.com/events).
+2. Click "Create Event."
+
+    ![Create Event](http://apps.inn.org/docs/hangouts/create_an_event.png)
+
+3. Fill in the title, date and time.
+4. Click "Event options" and expand "Advanced."
+
+    ![Advanced menu](http://apps.inn.org/docs/hangouts/event_advanced_details.png)
+
+5. Select "Hangouts (Event is online-only)" from the Advanced menu.
+
+    ![Event is online-only](http://apps.inn.org/docs/hangouts/event_advanced_details_closeup.png)
+
+6. In the "To:" field, start typing "Public" and the form will make suggestions for autocompletion.
+
+    ![Select Public](http://apps.inn.org/docs/hangouts/event_details_public_invite.png)
+
+7. Select the "Public" suggestion to create a Hangout that anyone can join.
+8. Click the "Invite" button to finish creating your event.
