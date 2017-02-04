@@ -17,7 +17,9 @@ Each project we work on requires a number of common documents and assets. This i
 
 For most projects, we will create a number of design, IA, and UX assets. Including:
 
-- **Wireframes** — To give broad level structural framework for the project. Every page type should be mocked up.
+- **Personas** — Based on the key audience(s) from the Project Summary, we'll typically create 3 or 4 personas to use in guiding our decision making throughout the project.
+
+- **Wireframes** — To give broad level structural framework for the project. Every key page type should be mocked up.
 
 - **A site plan or site map** — The information architecture of the site or app. Hierarchy defined, all page types identified and ordered, and taxonomy.
 
@@ -42,6 +44,6 @@ All of the templates live, aptly, in [the templates folder](https://drive.google
 
 - If you create a new sort of document or design asset for a project that we might be able to use again, create a template and put it in the templates folder.
  
-
-
-
+### Further Reading/Reference
+- [Describing Personas](https://medium.com/@indiyoung/describing-personas-af992e3fc527#.ywrt0sdkb)
+- [LUMA Activity Templates](https://www.dropbox.com/sh/350ctvr0fv0uyrj/AACV3SdRHKQifEERj-2ABHtWa?dl=0)

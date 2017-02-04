@@ -7,8 +7,8 @@
 -  **[A manifesto](manifesto.md)** outlining our team's mission and values
 -  **[Our Strategy for 2015](/strategy/2015.md)**
 -  **[Staffing and Hiring](/staffing)** including how we recruit and hire new team members, plus:
-    - [Some information](/staffing/application-process.md) on our application/interview process
-	- [Sample job descriptions](/staffing/job-descriptions) from our team and from INN member organizations
+    - [Some information](/staffing/hiring/application-process.md) on our application/interview process
+	- [Sample job descriptions](/staffing/job-postings/readme.md) from our team and from INN member organizations
 	- [Interview questions](/staffing/hiring/interview-questions.md) for screening candidates
 	- [Our onboarding process](/staffing/onboarding)
 -  **[How we work](/how-we-work)** including:
@@ -67,14 +67,13 @@ We welcome contributions and suggestions to help us improve any of these documen
 The INN news apps and technology team is:
 
 -  **[Adam Schweigert](https://github.com/aschweigert)** ([@aschweig](http://twitter.com/aschweig)), Senior Director of Product and Technology
--  **[Denise Malan](https://github.com/dnmalan)** ([@denisemalan](http://twitter.com/denisemalan)), Director of Data Services
--  **[Ryan Nagle](https://github.com/rnagle)** ([@ryannagle](http://twitter.com/ryannagle)), Director of Technology
--  **[Jack Brighton](http://github.com/jackbrighton)** ([@jackbrighton](http://twitter.com/jackbrighton)), Manager of Support, Documentation and Training
+-  **[Gabriel Hongsdusit](https://github.com/gabehong)** ([@ghongsdusit](https://twitter.com/ghongsdusit)), Apprentice Designer
 -  **[Ben Keith](https://github.com/benlk)** ([@benlkeith](http://twitter.com/benlkeith)), News Apps Developer
+-  **[RC Lations](https://github.com/rclations)** ([@rclations](https://twitter.com/rclations)), Lead Developer
+-  **[Kay Lima](https://github.com/kaylima)** ([@kayleen_lima](http://twitter.com/kayleen_lima)), Support and Community Lead
 -  **[Julia Smith](https://github.com/julia67)** ([@julia67](https://twitter.com/julia67)), Lead Designer
--  **[Sinduja Rangarajan](https://github.com/cynduja)** ([@cynduja](https://twitter.com/cynduja)), Apprentice Developer
 
-**Nerds emeriti:** [Kaeti Hinck](https://github.com/kaeti), [David Ryan](https://github.com/dryanmedia), [Nick Bennett](https://github.com/tothebeat), [Meredith Melragon](https://github.com/meredithinn), [Will Haynes](https://github.com/willhaynes) and [Dani Litovsky Alcalá](https://github.com/danilito19)
+**Nerds emeriti:** [Nick Bennett](https://github.com/tothebeat), [Jack Brighton](http://github.com/jackbrighton), [Will Haynes](https://github.com/willhaynes), [Kaeti Hinck](https://github.com/kaeti), [Dani Litovsky Alcalá](https://github.com/danilito19), [Denise Malan](https://github.com/dnmalan), [Meredith Melragon](https://github.com/meredithinn), [Ryan Nagle](https://github.com/rnagle), [Sinduja Rangarajan](https://github.com/cynduja) and [David Ryan](https://github.com/dryanmedia)
 
 **Additional contributions from:** [@chriszs](https://github.com/chriszs) and [@brentajones](https://github.com/brentajones)
 

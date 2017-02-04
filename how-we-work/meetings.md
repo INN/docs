@@ -21,7 +21,7 @@ Guidelines for how to run effective meetings and descriptions of various meeting
 ## General Meeting Guidelines
 
 -  **Avoid unnecessary meetings.** Meetings are time-consuming, expensive and leave less time for periods of focused, uninterrupted work. 
--  **Most meetings are unnecessary.** Never schedule a meeting when email, IM or a quick hangout or phone call will do.
+-  **Most meetings are unnecessary.** Never schedule a meeting when email, IM or a quick video chat or phone call will do.
 -  **Use asynchronous communication wherever possible** Prefer, in this order: chat or IM > individual phone/video calls > meetings or video chats > conference calls
 -  **All meetings start and end on time.** Be respectful of your colleagues' and our partners' time and don't keep them waiting. Meetings should also end on time. Not having an end time leads to conversations that are rambling and aimless instead of focused and actionable.
 -  **All meetings should have a clearly stated purpose**. We don't have meetings just for the sake of having a meeting. An agenda distributed ahead of time is even better.
@@ -37,7 +37,7 @@ Guidelines for how to run effective meetings and descriptions of various meeting
 ### Daily Scrum
 
 -  Every weekday at 10 AM ET (Monday and Friday are a little different, as described below)
--  Uses the Google Hangout link from the recurring event invite on the team Google calendar
+-  Uses the Zoom link from the recurring event invite on the team Google calendar
 -  Starts on time, no exceptions
 -  Never longer than 10 minutes
 -  Literally stand up
@@ -53,16 +53,15 @@ Scrum Master schedules any necessary follow-up to remove blockers.
 
 It's important to acknowledge anything keeping you from accomplishing your tasks and make the team aware of them so we can try to help; don't be shy.
 
-No detailed discussion of issues during this meeting. You can always stay on the hangout with one or more team members to discuss projects or issues after the daily scrum is completed or take the discussion to chat.
+No detailed discussion of issues during this meeting. You can always stay on the call with one or more team members to discuss projects or issues after the daily scrum is completed or take the discussion to chat.
 
 <a id="planning"></a>
 ### Weekly Planning
 
 -  Replaces daily scrum every Monday
--  Uses the Google Hangout link from the recurring event invite on the team Google calendar
-
+-  Uses the Zoom link from the recurring event invite on the team Google calendar
 -  Leadership team meets at 9:45 before the rest of the team joins
--  During this time we will review priorities and assignments for the week and update the [roadmap doc](https://docs.google.com/document/d/1WCCB_N93d3jyYbFfKMr1z4Ag1n4EMe5YlaoSgdh8MYY/edit) (login required)
+-  During this time we will review priorities and assignments for the week and update Forecast/Asana to make sure everyone has a clear set of tasks defined for the week (login required)
 -  We will also discuss new clients/prospects, projects kicking off, important deadlines for the week, etc.
 -  The rest of the team joins at 10 am ET
 -  Meeting begins with a review of the roadmap for the week, important deadlines, top priorities, etc.
@@ -72,7 +71,7 @@ No detailed discussion of issues during this meeting. You can always stay on the
 ### Weekly Recap Meeting
 
 -  Replaces daily scrum every Friday (at 10:00 AM ET)
--  Uses the Google Hangout link from the recurring event invite on the team Google calendar
+-  Uses the Zoom link from the recurring event invite on the team Google calendar
 -  Limited to 20 minutes
 
 Each team member, in about a minute:
@@ -85,9 +84,10 @@ Each team member, in about a minute:
 As a team (no more than 5 minutes):
 
 -  What went well this week? What could be improved?
--  Review [editorial calendar](https://docs.google.com/spreadsheets/d/1nJ2LAfQRzbDpxDfhpwfJo_a4DFM5-T4GDzRpj2t6qvk/edit#gid=0) (you'll need to request access to view this) for the following week, make sure everyone knows what's due and when
+-  Review editorial calendar and rotating responsibilities for the following week, make sure everyone knows what's due and when
 -  New project ideas
 -  Shoutouts
+-  Additional agenda items as raised on the [related Asana ticket](https://app.asana.com/0/100231559474831/203568180899456)
 
 Team leader (no more than 5 minutes):
 
@@ -125,7 +125,7 @@ We should cover:
 <a id="staff-meeting"></a>
 ### Bi-weekly All INN Staff Meeting
 
--  Every other Monday at 4 PM ET via Google Hangout (link in the shared Google Calendar invite)
+-  Every other Monday at 4 PM ET via Zoom (link in the shared Google Calendar invite)
 -  Usually takes about an hour
 -  Mandatory for all full-time INN staff. Hourly staff and contractors may attend in some cases, but typically won't need to. Your supervisor will let you know if your attendance is required.
 -  Team leader will report for the entire team but may in some cases ask other team members to report on and/or provide more specifics for projects they're working on.

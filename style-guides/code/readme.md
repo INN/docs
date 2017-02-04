@@ -26,7 +26,7 @@ The contents of this repository are released under a [Creative Commons CC BY 3.0
 Always ensure the following things are documented in the README:
 
 * Steps to setup the project from a blank slate. (Data loading, etc.)
-* Required environment variables. If these are secrets they should be stored in the team's secrets repo.
+* Required environment variables. If these are secrets they should be stored in the team's secrets repo. See instructions there for adding new variables.
 * Cron jobs that must be installed on the servers. When using the app-template specifying these in the `crontab` file is sufficient.
 * Dependencies that are not part of our standard stack. This includes documenting how to install them. Whenever feasible this documentation should be in the form of `fab` commands.
 
@@ -64,11 +64,11 @@ Naming things (variables, files, classes, etc.) consistently and intuitively is 
 * A ``stable`` branch should always be present and should merge *from* ``master``, only when deploying to production.
 * Don't store binary files (comps, databases) in the repository.
 * If a binary object needs to be shared then store it in Dropbox or on S3. If it is part of the setup process (e.g., a database backup) then use fabric commands to read and write it.
-* **Never, ever store passwords, keys or credentials in any repository.** (Use environment variables instead.)
+* **Never, ever store passwords, keys or credentials in any repository.** Use environment variables instead. There is one repository where credentials are allowed; that is INN's secrets repository. Follow instructions there for adding new secrets.
 
 ### Where we host our code
 
-We use Github and Bitbucket to host our code. 
+We use Github and Bitbucket to host our code.
 
 -  Github is where we keep code meant for the general public. We will always provide adequate documentation for projects hosted here, monitor issues and pull requests and try to ensure this code is stable and ready for general use.
 -  We use Bitbucket to house repositories that we deploy from. Code hosted on Bitbucket, while technically open, is usually specific to a particular INN member. Typically, this is not code that anyone outside INN or the member it pertains to would want to use or fork to start their own project, but all of our work is open source so we make this code available and free to use should you find it helpful.

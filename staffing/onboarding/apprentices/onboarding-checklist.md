@@ -11,9 +11,11 @@
   - [ ] In dropbox
 - [ ] Accounts
   - [ ] Slack
+  - [ ] Harvest
+  - [ ] Asana
+  - [ ] Zoom
   - [ ] Dropbox
   - [ ] Website
-  - [ ] JIRA
   - [ ] GitHub
   - [ ] Bitbucket
   - [ ] WP Engine

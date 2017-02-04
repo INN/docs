@@ -30,14 +30,14 @@ Note: You need to be an owner or have certain admin privileges in our apps accou
 
 ### Dropbox
 
-- Team members need access to at least the main shared INN folder (because this is where we keep many shared docs and also the 1password keychain that you'll need in the next step).
+- Team members need access to at least the [main shared INN folder](https://www.dropbox.com/work/INN%20Permanent%20Files%20Team%20Folder).
 - Optionally (particularly for FT staff who need to store a lot of stuff on dropbox without maxing out their personal account) we can add them to the INN organization (Adam is the account admin and the only person able to do this, unfortunately). Note that this costs money so we'll typically only do this for FT staff and share individual folders/docs on a case-by-case basis otherwise.
 
 
 ### 1password
 
 - New team members will need to purchase, download and install 1password ([https://agilebits.com/store](https://agilebits.com/store)).
-- Then, follow the instructions here: [https://learn2.agilebits.com/1Password4/Mac/en/Tutorials/share-vault.html](https://learn2.agilebits.com/1Password4/Mac/en/Tutorials/share-vault.html) and use the INN keychain (in the main INN dropbox folder) to add a new vault. You will need to enter a confidential passphrase that you can get from Adam.
+- Then, they need to be added to the INN team and granted access to the INN shared vault (an account administrator needs to do this part).
 - This vault contains most of the login information we share among the staff/team (for things like social media accounts, etc.).
 
 
@@ -78,18 +78,34 @@ Note: Slack account creation can only be done by someone with Admin/Owner privil
 
 - Login to [WP Engine](https://my.wpengine.com/) and click on the "users" tab at the top of the dashboard.
 - From here you can add/manage users and the specific WordPress instances they have access to.
-- Additionally you will need to create (for users where this is required) FTP credentials and/or grant the user access to INN Secrets GitHub repo (see above) if they need to be able to deploy.
+- Additionally you will need to create (for users where this is required) FTP credentials and/or grant the user access to INN secrets GitHub repo if they need to be able to deploy. New FTP credentials for the team should be created in the secrets repo according to the instructions there.
 
 
-### Jira
+### Harvest/Forecast
 
-- When logged in to [Jira](http://jira.inn.org/secure/Dashboard.jspa), click on the gear icon at the top right corner of the dashboard and then select "user management."
-- From here select "create new user" and add their info (it will also give you an option to email them instructions to set their password, etc).
-- Once the account is created it will send you to their profile page where you will also likely need to change the groups they belong to (we're still working this out so more details on which groups they need to be added to will be added here eventually).
+- When logged in to [Harvest](https://innnerds.harvestapp.com), click on "manage" from the top menu. You should land on the people tab.
+- From here select "add person" and fill out the relevant details to invite a new user. 
+- Once the account is created, go to [Forecast](https://forecastapp.com/599780/) and click on "team" in the main dropdown menu.
+- Then, click "Import from Harvest" and you should see the new user you just created. Select the users you want to import and click "import people" and you should be all set.
 
+
+### Asana
+
+- Login to [Asana](https://app.asana.com).
+- In the left menu you should see one or more teams. Hover over the name of the team you want to invite someone to and you'll see a gear icon appear. Click on it.
+- Click on the "members" tab in the modal that appears and then click "invite more members"
+- Enter the email address for the user you want to add and click "invite"
 
 ### HelloSign
 
 - HelloSign is used for electronically signing documents.
 - To create an account, you can connect HelloSign to your inn.org Google account from the [HelloSign website](https://www.hellosign.com/).
 
+### Google Analytics
+
+- Log into [Google Analytics](https://analytics.google.com).
+- Click on the "Admin" tab in the horizontal navigation bar. 
+- Select the account you'd like to share access to using the dropdown selector, then click "User Management".
+- This should bring you to the User Management screen, which displays a list of users on the account.
+- Scroll to the bottom of the page and you'll find a form that allows you to add access for additional Google Accounts.
+- Enter the email address associated with a Google Account for the user you want to add, select the permissions level appropriate for the user, and click "Add".

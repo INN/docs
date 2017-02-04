@@ -15,6 +15,26 @@ If that fails, and if you have the secrets repo set up, you can run:
 curl sftp://$LARGOPROJECT_PRODUCTION_SFTP_HOST:2222/wp-content/mysql.sql --user $LARGOPROJECT_PRODUCTION_SFTP_USER:$LARGOPROJECT_PRODUCTION_SFTP_PASSWORD --retry 999 --retry-max-time 0 --remote-name
 ```
 
+This command will probably appear to fail:
+
+```
+Warning: Invalid character is found in given range. A specified range MUST 
+Warning: have only digits in 'start'-'stop'. The server's response to this 
+Warning: request is uncertain.
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100 3026M  100 3026M    0     0   796k      0  1:04:49  1:04:49 --:--:--  815k
+100 3026M  100 3026M    0     0   796k      0  1:04:49  1:04:49 --:--:--  796k
+curl: (7) Couldn't connect to server
+```
+
+To verify the program's success, you should run `tail -n 1 mysql.sql` to verify that the last line of the file is correct for the end of the dump. Here's the correct end of the file:
+
+```
+$ tail -n 1 mysql.sql
+-- Dump completed
+```
+
 ### 2. Take vagrant snapshot
 
 Say it with me now
@@ -49,8 +69,8 @@ $ vagrant up
 $ vagrant ssh
 vagrant@precise64:~$ cd /vagrant
 vagrant@precise64:/vagrant$ wp plugin deactivate --url="largoproject.wpengine.com" redirection
-vagrant@precise64:/vagrant$ wp search-replace 'largoproject.org' 'vagrant.dev' 'wp_*_options' wp_options wp_blogs wp_sitemeta
-vagrant@precise64:/vagrant$ wp search-replace 'largoproject.wpengine.com' 'vagrant.dev' 'wp_*_options' wp_options wp_blogs wp_sitemeta
+vagrant@precise64:/vagrant$ wp search-replace --url="largoproject.wpengine.com" 'largoproject.org' 'vagrant.dev' 'wp_*_options' wp_options wp_blogs wp_sitemeta --network
+vagrant@precise64:/vagrant$ wp search-replace --url="largoproject.wpengine.com" 'largoproject.wpengine.com' 'vagrant.dev' 'wp_*_options' wp_options wp_blogs wp_sitemeta --network
 ```
 
 That will update all the options tables that have largoproject.wpengine.com. You will have to go back and do this later with every other site listed in [largoproject.wpengine.com/wp-admin/network/sites.php](//largoproject.wpengine.com/wp-admin/network/sites.php), because not all sites have domain names of the form `*.largoproject.wpengine.com`.
@@ -60,9 +80,11 @@ That will update all the options tables that have largoproject.wpengine.com. You
 A breakdown of what's happening in the search-replace commands:
 
 - `wp search-replace`: http://wp-cli.org/commands/search-replace/
+- `--url="largoproject.wpengine.com"`: Behave as if the request is coming from the core site of the network. Replace `largoproject.wpengine.com` as appropriate with the URL of the site the dump came from.
 - `'largoproject.org' 'vagrant.dev'`: Replace 'largoproject.org' with 'vagrant.dev' in all the tables specified
 - `'largoproject.wpengine.com' 'vagrant.dev'`: Replace 'largoproject.wpengine.com' with 'vagrant.dev' in all the tables specified
 - `'wp_*_options' wp_options wp_blogs wp_sitemeta`: these are the tables that the search-replace will be performed upon. `'wp_*_options'` needs version 0.23 to work properly; it failed in 0.21 because glob expansion wasn't available.
+- `--network`: run the search-replace against all tables that are registered with `$wpdb` (not necessary if this is being done on a single-site install)
 
 To leave the Vagrant machine, run the following:
 
