@@ -30,71 +30,26 @@ Let's get the latest version of the WordPress database that powers the live, pro
 
 **NOTE**: Access to the INN/secrets repo is required.
 
-Do that with:
-```
-$ fab production wp.fetch_sql_dump
-```
 
-Go make another cup of tea, or two. At the time of this writing, the SQL dump file was 3.1 GB. This will take at least an hour.
+## 2. Create a new WordPress install for the largoproject site  using VV
+
+Follow the instructions in the largoproject repository: https://github.com/INN/umbrella-largoproject/blob/master/README.md
+
+When those instructions ask you to run `fab production wp.fetch_sql_dump`, go make another cup of tea, or two. At the time of this writing, the SQL dump file was 3.1 GB. This will take at least an hour. If the download fails:
+
+1. Run `ls *.sql` to find SQL files in your local directory
+2. For the largest SQL file, run `tail largest.sql`
+3. If the output of that command does not end with `-- Dump completed`, do one of the following:
+	- ask someone else for their vagrant copy of the database
+	- download it via a different SFTP client
+
+When running `fab vagrant.reload_db:mysql.sql`, if you receive an error, try running the command that fab would run manually. Common causes of errors are:
+
+- `mysql` is not installed on the host computer
+- The vagrant machine needs to have its version of mysql updated: https://github.com/INN/deploy-tools/issues/51
 
 
-
-
-## 2. Create a new site using VV
-
-Run the following command from your vagrant root to initiate the vv site creation wizard:
-
-```
-vv create
-```
-
-Follow the prompts, entering the information below, or hitting [Enter] to skip.
-
-Prompt | Text to enter 
------------- | -------------
-Name of new site directory: | largo-umbrella 
-Blueprint to use (leave blank for none or use largo): | *hit [Enter]* 
-Blueprint to use (leave blank for none or use largo): | *hit [Enter]*
-Domain to use (leave blank for largo-umbrella.dev): | *hit [Enter]*
-WordPress version to install (leave blank for latest version or trunk for trunk/nightly version): | *hit [Enter]*
-Install as multisite? (y/N): | y 
-Install as subdomain or subdirectory? : | subdomain 
-Git repo to clone as wp-content (leave blank to skip): | *hit [Enter]*
-Local SQL file to import for database (leave blank to skip): | *This directory must be an absolute path, so the easiest thing to do is to drag your mysql file into your terminal window here and the absolute filepath with fill itself in.*
-Remove default themes and plugins? (y/N): | N 
-Add sample content to site (y/N): | N 
-Enable WP_DEBUG and WP_DEBUG_LOG (y/N): | y
- 
-This will take a few minutes to build your new site and load in the database, so be patient.
-
-## 3. Add the Largo Umbrella files to your new site
-
-First, lets navigate to our new install using 
-```
-cd www/largo-umbrella/htdocs
-```
-
-Remove default wp-content folder
-```
-rm -rf wp-content
-```
-
-Run the following commands to initialize a new git repository and sync it with the largo-umbrella remote. This is similar to cloning a git repository, but lets us work with the files and folders we already have setup.
-```
-git init
-git remote add origin git@github.com:INN/umbrella-largoproject.git
-git pull origin master
-```
-
-## 4. Download git submodules.
-
-All of the member sites use Largo child themes, which are individually tracked in their own Bitbucket repositories and then linked with the largo-umbrella repository via git submodules. In addition, the INN deploy-tools, some plugins, and the Largo parent theme are included as submodules. Download them now with:
-
-```
-$ git submodule init && git submodule update
-```
-
-## 5. Install Python tools.
+## 3. Install Python tools.
 
 We use a few Python libraries for this project, including [Fabric](http://www.fabfile.org/) which powers the INN deploy-tools to elegantly run common but complex tasks. In the [OS X setup guide](/staffing/onboarding/os-x-setup.md), you should have installed Python virtualenv and virtualenvwrapper.
 
@@ -114,7 +69,7 @@ $ workon largo-umbrella
 $ pip install -r requirements.txt
 ```
 
-## 6. Verify utility prerequisites.
+## 4. Verify utility prerequisites.
 
 There are a couple other tools that might need to be updated specifically to be able to download from and deploy to the live web sites, production and staging. Now that you have Fabric installed, you can check for those requirements and install them automatically with:
 
@@ -123,7 +78,7 @@ $ fab wp.verify_prerequisites
 ```
 Make sure to have [git-ftp] (https://github.com/git-ftp/git-ftp/blob/develop/INSTALL.md) and the latest version of curl installed. 
 
-## 7. Set up the secrets repository.
+## 5. Set up the secrets repository.
 
 In order to access the live website data, you'll need to set up the INN secrets repository.
 
@@ -150,7 +105,7 @@ In order to access the live website data, you'll need to set up the INN secrets 
 	```
 
 
-## 8.  Create an administrator account for yourself
+## 6.  Create an administrator account for yourself
 
 1. To start, first connect to your virtual machine via ssh using
 
@@ -165,7 +120,7 @@ In order to access the live website data, you'll need to set up the INN secrets 
 
 That's it! Now you can logout of ssh with `exit`
 
-## 9. Take a snapshot of the virtual machine.
+## 7. Take a snapshot of the virtual machine.
 
 Let's take a snapshot of the virtual machine as of this time when the database has just been loaded for the first time. If you make a mistake with the data and remove or modify something you didn't want to, you can revert to a snapshot much more easily than reloading the database.
 
@@ -183,11 +138,11 @@ $ vagrant snapshot save original_database_2015_04_09
 
 You can name the snapshot anything you want, and I would recommend describing it in a short way that describes what that state would give you if you were to revert.
 
-## 10. Get PHP tool for Database Search and Replace.
+## 8. Get PHP tool for Database Search and Replace.
 
 We'll be doing some work soon of searching through the database we just loaded and replacing certain values. To make this easier, download version 2.1.0 of this [database search and replace script written in PHP](https://interconnectit.com/products/search-and-replace-for-wordpress-databases/). Unzip it and move the file `searchreplacedb2.php` to your `largo-umbrella` folder.
 
-## 11. Changing largoproject.wpengine.com to largo-umbrella.dev.
+## 9. Changing largoproject.wpengine.com to largo-umbrella.dev.
 
 There are two ways to do this. The first uses [searchreplacedb2](https://interconnectit.com/products/search-and-replace-for-wordpress-databases/), a PHP script placed in your home directory, and the other uses [WP-CLI](http://wp-cli.org/), a command-line interface for WordPress.
 
