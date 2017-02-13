@@ -6,6 +6,7 @@ A list of projects we've worked on or are currently working on as well as links 
 
 - [Largo](/projects/largo/)
 - [WordPress plugins](/projects/wordpress-plugins/)
+- [Apps We've Built](/projects/apps/)
 - [News Nerd Book Club](/projects/book-club/)
 - [Open Office Hours](/projects/office-hours/)
 - [Responsive Tables](/projects/responsive-tables/)
@@ -13,4 +14,5 @@ A list of projects we've worked on or are currently working on as well as links 
 
 ### Retired Projects
 
-- [Impaq.Me](/projects/impaq-me/)
+- [Impaq.Me](/projects/apps/impaqme.md)
+- [OneLiner](/projects/apps/oneliner.md)
