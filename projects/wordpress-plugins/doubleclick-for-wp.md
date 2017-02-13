@@ -10,7 +10,7 @@ Built to make serving and targeting responsive ads from DoubleClick for Publishe
 
 ### Relevant links:
 
- - [__Github plugin repo__](https://github.com/inn/DoubleClick-for-WordPress)
- - [__WordPress plugin listing__](https://wordpress.org/plugins/doubleclick-for-wp/)
- - [__Read the Docs__](http://dfw.readthedocs.org/en/latest/)
- - [__Blog post announcement__](http://nerds.inn.org/2015/03/03/new-plugin-easier-doubleclick-ads-for-wordpress/)
+ - [Github plugin repo](https://github.com/inn/DoubleClick-for-WordPress)
+ - [WordPress plugin listing](https://wordpress.org/plugins/doubleclick-for-wp/)
+ - [Read the Docs](http://dfw.readthedocs.org/en/latest/)
+ - [Blog post announcement](http://nerds.inn.org/2015/03/03/new-plugin-easier-doubleclick-ads-for-wordpress/)
