@@ -10,6 +10,7 @@ A list of projects we've worked on or are currently working on as well as links 
 - [News Nerd Book Club](/projects/book-club/)
 - [Open Office Hours](/projects/office-hours/)
 - [INN's Own Websites](/projects/inn-websites/)
+- [Our Apprenticeship Program](/projects/apprenticeships/)
 
 ### Retired Projects
 
