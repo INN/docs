@@ -29,6 +29,7 @@
 -  **[Style guides](/style-guides)** for:
 	- [Code](/style-guides/code)
 	- [Design/ui](/style-guides/design) elements
+	- [Data projects](/style-guides/data)
 -  **[Projects](/projects)** we work on with descriptions of each project and relevant resources.
 -  **[Checklists](/checklists)** to help keep us organized.
 -  **[Our Communications Strategy](/communications)** including:
