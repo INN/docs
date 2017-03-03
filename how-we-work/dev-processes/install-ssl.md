@@ -8,7 +8,10 @@
 
 ### Update WordPress URLs to use SSL
 
-1.
+1. Download the search & replace db tool at https://interconnectit.com/products/search-and-replace-for-wordpress-databases/
+2. Upload to the server root and rename the folder (so it's not discoverable by others while you're using it).
+3. Visit the path for the folder in your browser & enter your search & replace params.
+4. *Important*: Delete the folder from the server when you're done.
 
 ### Setup Content Security Policy
 
@@ -28,3 +31,7 @@ In the **HTML Post-Processing** textarea, enter `#domain\.com/(wp-content/upload
 ![WP Engine Post Processing](wp-engine-html-post-processing.png)
 
 More information about WP Engine Post Processing can be found at https://wpengine.com/support/html-post-processing/.
+
+### Update Google Analytics & Search Console
+
+Login to Google Analytics and Search Console to update the URL to use `https://`
