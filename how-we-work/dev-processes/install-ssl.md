@@ -4,7 +4,9 @@
 
 1. Log on to the [WP Engine User Portal](https://my.wpengine.com/dashboard)
 2. Click your install_name > SSL > Add Certificates.
-3. Choose the certificate option that you prefer. *@TODO Need to expand this*
+3. Choose Let's Encrypt free certificate.
+4. Select the domains you'd like to add SSL to and click "Request SSL Certificate".
+5. It maye take a few minutes for your new SSL certificate to setup. Once this is complete, return to the WP Engine dashboard and check the settings on your new SSL certificate.
 
 ### Update WordPress URLs to use SSL
 
