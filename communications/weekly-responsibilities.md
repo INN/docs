@@ -3,7 +3,7 @@
 
 Overview of the team's rotating weekly tasks and how to manage the rotation.
 
-### Overview of Weekly Tasks:
+### Weekly Tasks:
 
 - [Nerd Alert (our weekly newsletter)](/communications/newsletter/)
 - [Twitter(s)](/communications/twitter.md)
