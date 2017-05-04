@@ -38,12 +38,12 @@ Remember that this is a public space. Act accordingly.
 
 **Harassment and exclusionary behavior are not acceptable.**
 
-Harassment and exclusionary behavior include offensive verbal comments related to gender, age, sexual orientation, disability, physical appearance, body size, race, religion, sexual images in public spaces, deliberate intimidation, stalking, following, harassing photography or recording, sustained disruption of talks or other events, inappropriate physical contact, and unwelcome sexual attention.<sup>*</sup>
+Harassment and exclusionary behavior include offensive verbal comments related to gender, age, sexual orientation, disability, physical appearance, body size, race, religion, sexual images in public spaces, deliberate intimidation, stalking, following, harassing photography or recording, sustained disruption of talks or other events, inappropriate physical contact, and unwelcome sexual attention.<sup>1</sup>
 
-<sup>*</sup>From the [Conference Code of Conduct](http://confcodeofconduct.com/)
+<sup>1</sup> From the [Conference Code of Conduct](http://confcodeofconduct.com/)
 
 
-###How to contribute code
+### How to contribute code
 
 - Send us [pull requests](/how-to-work-with-us/pull-requests.md) for bug fixes and small suggestions.
 - For feature requests, create an issue to start a discussion. We'll decide together whether or not the requested feature gets built and where it fits into our product roadmap. Be sure and explain clearly why your feature request is essential and particularly why it would be useful to others beyond just you/your organization.
@@ -51,7 +51,7 @@ Harassment and exclusionary behavior include offensive verbal comments related t
 - To contribute to a repository using Github.com directly, follow [this guide](/how-to-work-with-us/via-github.md).
 
 
-###Other resources
+### Other resources
 
 This document is based on similar documents created by other organizations. Inspiration for this guide came from the following:
 
