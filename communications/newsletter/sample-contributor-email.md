@@ -12,7 +12,9 @@ All we need is:
 - A link to the best thing you read this week and a couple sentences on what it is, why it grabbed your attention and why you think other people should read it
 - Optional: a photo (doesn't need to be very big, square is best)
 
-By Thursday, [DATE] at 3 pm CT.
+You can see examples of past guest contributions at https://nerds.inn.org/tag/guest
+
+We would need your contribution by Thursday, [DATE] at 3 pm CT.
 
 Please let us know at nerds@inn.org as soon as possible if you're interested and able to contribute. We're excited to hear from you!
 
