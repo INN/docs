@@ -16,6 +16,8 @@ And then for each newsletter:
 - [ ] Complete all of the tasks in the [pre-publish checklist](/checklists/newsletter.md)
 
 - [ ] Add newsletter content to the blog as a draft (reference the [blog post checklist](/checklists/blog-post.md) for more details)
+	- [ ] if the post has a guest contributor, tag it 'guest'
+	- [ ] put it in the "Newsletter" category
 
 - [ ] Newsletter sent via MailChimp by 2 p.m. CT on Friday
 
