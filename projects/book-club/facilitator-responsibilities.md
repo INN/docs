@@ -2,7 +2,6 @@
 
 Like all of our recurring programs, we take turns leading the monthly book club meeting. Here's what the facilitator for that month is responsible for:
 
-- [ ] Actually read the book in its entirety
 - [ ] Manage the @NewsNerdBooks Twitter account for the month (guidelines are in the communications folder)
 - [ ] Create the Google event and hangout
 - [ ] Write discussion questions
