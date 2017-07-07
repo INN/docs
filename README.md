@@ -5,7 +5,6 @@
 **What's in here (so far):**
 
 -  **[A manifesto](manifesto.md)** outlining our team's mission and values
--  **[Our Strategy for 2015](/strategy/2015.md)**
 -  **[Staffing and Hiring](/staffing)** including how we recruit and hire new team members, plus:
     - [Some information](/staffing/hiring/application-process.md) on our application/interview process
 	- [Sample job descriptions](/staffing/job-postings/readme.md) from our team and from INN member organizations
@@ -70,15 +69,14 @@ We welcome contributions and suggestions to help us improve any of these documen
 
 The INN news apps and technology team is:
 
--  **[Gabriel Hongsdusit](https://github.com/gabehong)** ([@ghongsdusit](https://twitter.com/ghongsdusit)), Design Apprentice
 -  **[Ben Keith](https://github.com/benlk)** ([@benlkeith](http://twitter.com/benlkeith)), News Apps Developer
 -  **[RC Lations](https://github.com/rclations)** ([@rclations](https://twitter.com/rclations)), Lead Developer
 -  **[Kay Lima](https://github.com/kaylima)** ([@kayleen_lima](http://twitter.com/kayleen_lima)), Support and Community Lead
--  **[Julia Smith](https://github.com/julia67)** ([@julia67](https://twitter.com/julia67)), Acting Director, Product & Technology
+-  **[Julia Smith](https://github.com/julia67)** ([@julia67](https://twitter.com/julia67)), Director, Product & Technology
 
 **Head Nerd emeritus:** **[Adam Schweigert](https://github.com/aschweigert)** ([@aschweig](http://twitter.com/aschweig))
 
-**Nerds emeriti:** [Nick Bennett](https://github.com/tothebeat), [Jack Brighton](http://github.com/jackbrighton), [Will Haynes](https://github.com/willhaynes), [Kaeti Hinck](https://github.com/kaeti), [Dani Litovsky Alcalá](https://github.com/danilito19), [Denise Malan](https://github.com/dnmalan), [Meredith Melragon](https://github.com/meredithinn), [Ryan Nagle](https://github.com/rnagle), [Sinduja Rangarajan](https://github.com/cynduja) and [David Ryan](https://github.com/dryanmedia)
+**Nerds emeriti:** [Nick Bennett](https://github.com/tothebeat), [Jack Brighton](http://github.com/jackbrighton), [Will Haynes](https://github.com/willhaynes), [Kaeti Hinck](https://github.com/kaeti), [Gabriel Hongsdusit](https://github.com/gabehong), [Dani Litovsky Alcalá](https://github.com/danilito19), [Denise Malan](https://github.com/dnmalan), [Meredith Melragon](https://github.com/meredithinn), [Ryan Nagle](https://github.com/rnagle), [Sinduja Rangarajan](https://github.com/cynduja), [David Ryan](https://github.com/dryanmedia)
 
 **Additional contributions from:** [@chriszs](https://github.com/chriszs) and [@brentajones](https://github.com/brentajones)
 
