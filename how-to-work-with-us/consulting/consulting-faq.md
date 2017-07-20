@@ -33,8 +33,6 @@ The way we're hoping to solve this problem is by forming a sort of "co-op" compr
 
 **What are the rates? How do you structure your contracts?**
 
-Our rates [can be found right here](consulting-rates.md).
-
 Contracts will typically be project based and we will bill monthly for the actual hours worked during the previous month. Under certain circumstances we may agree to do fixed bid contracts but we believe it's typically more fair for both parties to charge for actual hours worked.
 
 **I have ongoing tech needs but we're not ready to hire a full-time staff member yet, can you help?**
