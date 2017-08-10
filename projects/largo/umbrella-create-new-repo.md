@@ -1,3 +1,5 @@
+This walks you through the process of creating both a new site and a new umbrella repo for that site.
+
 ## Prerequirements
 
 - git
