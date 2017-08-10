@@ -65,6 +65,10 @@ To set up the new site:
 
 Move the dump SQL file to the root of your WordPress install.
 
+Upload it using the appropriate method below.
+
+Once you've uploaded it, check that the domain names in the wp_options table match the chosen local development domain.
+
 #### VVV
 
 Use `fab vagrant.reload_db` as described in https://github.com/INN/deploy-tools/blob/master/COMMANDS.md#database-commands
