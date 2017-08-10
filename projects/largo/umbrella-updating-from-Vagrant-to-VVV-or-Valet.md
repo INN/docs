@@ -60,3 +60,24 @@ To set up the new site:
 4. Push your changes to github.
 5. Follow the setup instructions in README.md, cloning the newly-updated repository into the place where you keep your VVV or Valet installs.
 6. If you're running with `yo wordpress` and Valet, run `yo wordpress` from within the post-cloning folder. Make sure that the database name you give to Yeoman matches the project name in the `fabfile.py`
+
+### Setting up the new database
+
+Move the dump SQL file to the root of your WordPress install.
+
+#### VVV
+
+Use `fab vagrant.reload_db` as described in https://github.com/INN/deploy-tools/blob/master/COMMANDS.md#database-commands
+
+#### Valet
+
+use `fab local.reload_db` as described in https://github.com/INN/deploy-tools/blob/master/COMMANDS.md#database-commands
+
+If you receive an `AttributeError: local_db_user` when running that fabric command, create a file in the root of the WordPress install named `local_fabfile.py` and containing the following, with password and username adjusted as appropriate:
+
+```
+from tools.fablib import *
+
+env.local_db_user = 'uwhatever'
+env.local_db_pass = 'pwhatever'
+```
