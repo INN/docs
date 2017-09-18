@@ -16,6 +16,7 @@ Gruntfile.js
 release/\*
 tests/\*
 node_modules/\*
+./\*\*/.\*
 );
 
 function ensure_release_dir() {
