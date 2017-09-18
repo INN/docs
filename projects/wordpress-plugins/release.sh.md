@@ -1,8 +1,8 @@
 ## Working with release.sh
 
-Many of our plugins use a shell script, `release.sh`, to handle pushing new versions to `wordpress.org`'s plugins SVN repository.
+Many of our plugins use a shell script, `release.sh`, to handle pushing new versions to `wordpress.org`'s plugins SVN repository. The canonical copy of this file [is in this repository](/.release.sh).
 
-This file provides setup, usage, and configuration instructions for `release.sh`.
+This file provides setup, usage, and configuration instructions for `release.sh` in your WordPress plugins.
 
 ### The first release
 
