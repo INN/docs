@@ -31,7 +31,7 @@ If you don't have a recent `wp-release.zip`, generate one in the following manne
 2. When it asks you if you really want to deploy, type `y`: it will not actually deploy, because of the `--dry_run` flag.
 3. Check for the existence of `release/wp-release.zip`.
 
-Once you have `release/wp-release.zip`, upload `release/wp-release.zip` to GitHub as [a binary asset for the release](https://github.com/blog/1547-release-your-software). This can only be done for [tagged release](https://help.github.com/articles/creating-releases/).
+Once you have `release/wp-release.zip`, upload `release/wp-release.zip` to GitHub as [a binary asset for the release](https://github.com/blog/1547-release-your-software). This can only be done for [tagged releases](https://help.github.com/articles/creating-releases/).
 
 ### Updating the `assets/` directory of `svn/`
 
