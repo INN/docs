@@ -1,6 +1,6 @@
-# Sales Account Manager
+# Account Manager
 
-**JOB TITLE** Sales Account Manager
+**JOB TITLE** Account Manager
 
 **DEPARTMENT** INN Labs (Product and Technology)
 
@@ -9,9 +9,9 @@
 **BRIEF DESCRIPTION/PURPOSE** 
 
 
-We are looking for a qualified Sales Account Manager to join the INN Labs team. You will be responsible for developing long-term relationships with customers and overseeing sales.
+We are looking for a qualified Account Manager to join the INN Labs team. You will be responsible for developing long-term relationships with customers and overseeing sales.
 
-As our Sales Account Manager, you will work to satisfy customers’ needs and requests, expediently respond to inqueries, and aspire to deliver a positive customer experience. You should have excellent communication and negotiation skills and be customer service oriented.
+As our Account Manager, you will work to satisfy customers’ needs and requests, expediently respond to inqueries, and aspire to deliver a positive customer experience. You should have excellent communication and negotiation skills and be customer service oriented.
 
 Ultimately, you should be able to grow our business by building successful, long-term client relationships.
 
