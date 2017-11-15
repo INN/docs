@@ -18,7 +18,7 @@
 6. Serve as an advocate for INN’s work, including writing posts for the team blog, promoting our work, presenting at conferences, etc. (10%)
 7. Assist in fundraising and business development as needed (5%)
 
-**SKILLS AND QUALIFICATIONS(REQUIRED AND PREFERRED)**
+**SKILLS AND QUALIFICATIONS (REQUIRED AND PREFERRED)**
 
 **Required:**
 
