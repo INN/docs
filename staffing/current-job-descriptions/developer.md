@@ -1,6 +1,6 @@
-# Developer
+# Web Developer
 
-**JOB TITLE** News Applications Developer
+**JOB TITLE** Web Developer
 
 **DEPARTMENT** Product and Technology
 
@@ -19,13 +19,14 @@
 
 **SKILLS AND QUALIFICATIONS (REQUIRED AND PREFERRED)**
 
--  1-2+ years professional experience in web/mobile development; degree in computer science or another relevant field preferred (but not required)
+-  1-2+ years professional experience in web/mobile development; degree in computer science or another relevant field preferred (but not required).
 -  Strong front-end web development skills (HTML/CSS/JS) and design sensibility with a focus on end-user experience; experience with responsive design principles. Experience with CSS pre-compilers and front-end frameworks such as LESS/SASS, jQuery, Bootstrap, etc. would also be helpful.
 -  Intermediate to expert knowledge of the full LAMP stack with a particular focus on PHP/MySQL and experience developing for WordPress including themes, plugins, and working with WordPress multisite; Some exposure to and/or experience with one or more other modern server-side programming languages such as Python or Ruby.
 -  Experience with version control (we use git), automated deployment tools (we use grunt) and project management tools (we use GitHub and Harvest).
 -  It would be great if you had some experience with one or more of the following: data visualization and mapping tools; photo, video, illustration and other visual/graphic design skills.
+-  Experience working with clients in an agency environment.
 -  Strong communication skills including the ability to explain complex things simply and experience writing documentation for a variety of audiences; commitment to openness and showing/writing/talking about your work. We open source and write about nearly every project we do and encourage our team members to speak at industry conferences, local tech meetups, etc.
--  Curiosity and the willingness to learn, adapt and teach
+-  Curiosity and the willingness to learn, adapt and teach.
 
 **ADDITIONAL INFORMATION (I.E. CERTIFICATES, EDUCATION, LICENSES)**
 
