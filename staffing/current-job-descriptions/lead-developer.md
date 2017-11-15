@@ -37,6 +37,7 @@
 -  Experience with one or more other server-side programming languages (for our non-WordPress stuff we're mostly using Python)
 -  WordPress core contributor and/or active involvement in the WordPress developer community
 -  Experience writing end-user documentation and explaining complex technical concepts to non- (or less-) technical users.
+-  Experience working with clients in an agency environment
 
 **ADDITIONAL INFORMATION (I.E. CERTIFICATES, EDUCATION, LICENSES)**
 
