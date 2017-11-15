@@ -1,4 +1,4 @@
-# INN News Apps And Technology Team Docs
+# INN Labs – News Apps And Technology Team Docs
 
 ### Table of Contents
 
