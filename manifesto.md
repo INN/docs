@@ -15,7 +15,6 @@ As we began to build our team, we wanted to clearly identify the values that wil
 ### Always be learning
 Growth and learning drive us forward. A commitment to teaching and mentorship helps us build each other up and make our community stronger.
 
-- We will host a [book club](/projects/book-club) every other month for the news nerd community
 - We’ll pair program and share what we learn with each other.
 - We’ll attend local and national events and user-groups, and stay actively involved in the journalism and tech communities.
 - We’ll invest in education: creating curriculum and training for members, investing in our apprentices/students, and pursuing continuing education opportunities for ourselves.
@@ -27,14 +26,14 @@ Growth and learning drive us forward. A commitment to teaching and mentorship he
 A happy team has fun together.
 
 - We'll share recipes and music and GIFs and pictures of our pets!
-- We'll meet in person at least two times a year (probably more) to work together in the same space, share meals and spend time together as a team.
-- We'll keep INN weird~
+- We'll meet in person at least two times a year (sometimes more) to work together in the same space, share meals and spend time together as a team.
+- We'll keep INN weird.
 
 ### Diversity
 As we hire and grow, we want our team to represent the diverse population we work with. This means a diversity of ideas, perspectives, genders, race, orientations, socioeconomic class, and more.
 
 - We will hire well-rounded people who live full lives outside of work.
-- When hiring, we will post jobs publicly and leave them open long enough to recruit a diverse pool of candidates (see also: [guidelines for job postings](/staffing/job-descriptions/readme.md)).
+- When hiring, we will post jobs publicly and leave them open long enough to recruit a diverse pool of candidates.
 - We'll proactively reach out to people in less-represented communities.
 - We'll be committed to gender parity in staffing and salaries.
 - We'll talk about it publicly and hold ourselves and others accountable for making things better.
@@ -46,24 +45,24 @@ As we hire and grow, we want our team to represent the diverse population we wor
 We believe in treating each other as whole human beings, meeting people where they are, and practicing kindness.
 
 - Life happens. Bad days happen. When personal stuff comes up, we will carry the workload so our colleagues can focus on what matters most
-- We'll hold each other accountable in the way we talk about our work — staying positive and not trash talking. The kindness panda can be deployed in Slack to give each other a gentle nudge
-- When we share frustrations, we'll also talk about solutions 
-- We’ll never judge you or shame you for not knowing something
+- We'll hold each other accountable in the way we talk about our work — staying positive and not trash talking. The kindness panda can be deployed in Slack to give each other a gentle nudge.
+- When we share frustrations, we'll also talk about solutions.
+- We’ll never judge you or shame you for not knowing something.
 - We won’t feign surprise or jump into conversations with [“Well, actually...”](https://www.hackerschool.com/manual#sub-sec-social-rules)
-- In emergencies, we will send pie
+- In emergencies, we will send pie.
 
 ### Fiscal sustainability
 Our work has value, and if we value ourselves the people we work with are more likely to value what we do, too.
 
-- Where applicable we will charge for our time at a fair market value.
-- We will work to create products that make our own work sustainable and that contribute to the sustainability of nonprofit journalism as a whole
-- We will be careful stewards of the money we receive from clients and our funders. We don't fly first class and we won't buy a news island (...yet, anyway)
+- We will charge for our time at a fair market value.
+- We will work to create products that make our own work sustainable and that contribute to the sustainability of nonprofit journalism as a whole.
+- We will be careful stewards of the money we receive from clients and our funders. We don't fly first class and we won't buy a news island (...yet, anyway).
 
 
 ### Making things better
-We want to build up instead of tearing down and we want to make our community better. We're in this together. Everything’s going to be awesome.
+We want to build up instead of tearing down, and we want to make our community better. We're in this together. Everything’s going to be awesome.
 
-- We’ll actively contribute to the journalism community by attending and speaking at conferences, contributing to open source projects, writing exemplary documentation, participating in listserv discussions, and joining and taking a leadership role in professional organizations.
+- We’ll actively contribute to the journalism community by attending and speaking at conferences, contributing to open-source projects, writing exemplary documentation, participating in listserv discussions, and joining and taking a leadership role in professional organizations.
 - We’ll leave things better than how we found them.
 - We will focus on creating things that work, not tearing down what doesn’t.
 - We will host hackathon-style events for nonprofit journalism/journalists to learn from each other and build community.
