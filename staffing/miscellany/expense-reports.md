@@ -19,7 +19,7 @@ Should be requested [through this form](https://docs.google.com/a/investigativen
 
 To be reimbursed for any purchases you make on a personal card, you will to submit receipts and an expense report.
 
-The expense report form can be found [in the INN shared dropbox folder here](https://www.dropbox.com/s/8vicmqhstxa0wtp/Expense%20report%20template_INN.xlsx?dl=0).
+The expense report form can be found in the INN shared Dropbox folder at `INN/Exmployment Docs/Expense report template_INN.xlsx`.
 
 Once you fill out this report, submit scans of all receipts and the completed expense report through [HelloSign](https://www.hellosign.com/). 
 
