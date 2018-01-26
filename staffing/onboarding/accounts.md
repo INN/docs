@@ -50,6 +50,7 @@ Note: Slack account creation can only be done by someone with Admin/Owner privil
 - An admin/owner should then add them to the #00-tech-team #00-inn-staff private rooms and  and any relevant project-specific rooms.
 - New user will need to click on a confirmation link in the email invitation.
 - And optionally they can download the slack desktop/mobile apps from the [Slack website](https://slack.com/downloads).
+- Add a `:personname:` emoji to Slack.
 
 
 ### GitHub
