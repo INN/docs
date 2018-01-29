@@ -19,6 +19,7 @@
   - [ ] GitHub
   - [ ] Bitbucket
   - [ ] WP Engine
+  - [ ] Flywheel
   - [ ] Hellosign
 - [ ] Shared folders/calendars
   - [ ] Dropbox

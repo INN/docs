@@ -70,7 +70,7 @@ Note: Slack account creation can only be done by someone with Admin/Owner privil
 
 - Typically we'll need to at least add new team members to the [team blog](http://nerds.inn.org) but they may also need access to other INN sites and/or to the Largo WP instance.
 - User creation for any of these sites follows the typical WordPress multisite user creation process. Always use the person's @inn.org email address.
-- Super admin privileges to the Largo instance should be granted sparingly (typically users only need access to certain sites and only certain permissions on those sites).
+- Super admin privileges to the Largo instance should be granted sparingly (typically users only need access to certain sites and only certain permissions on those sites). See also: 1Password
 - For each WordPress instance a new team member is added to, they should fill out their profile as completely as possible.
 - Avatars on Largo sites use [gravatar](http://gravatar.com) so new users will need to create a gravatar associated with their @inn.org email address for avatars to display properly (alternately, in newer versions of Largo, they can upload an avatar photo directly to the site by editing their user profile).
 
@@ -80,6 +80,10 @@ Note: Slack account creation can only be done by someone with Admin/Owner privil
 - Login to [WP Engine](https://my.wpengine.com/) and click on the "users" tab at the top of the dashboard.
 - From here you can add/manage users and the specific WordPress instances they have access to.
 - Additionally you will need to create (for users where this is required) FTP credentials and/or grant the user access to INN secrets GitHub repo if they need to be able to deploy. New FTP credentials for the team should be created in the secrets repo according to the instructions there.
+
+### Flywheel
+
+- Follow Flywheel's [instructions for inviting a new user](https://intercom.help/flywheel/getting-started/managing-your-teams-and-vendors/how-to-inviteadd-a-user) to an organizational account.
 
 
 ### Harvest/Forecast
