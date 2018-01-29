@@ -9,6 +9,7 @@
 - [ ] Add to staff directory
   - [ ] On website
   - [ ] In dropbox
+  - [ ] https://twitter.com/INNnerds/lists/team/members
 - [ ] Accounts
   - [ ] Slack
   - [ ] Dropbox
