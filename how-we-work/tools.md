@@ -12,19 +12,20 @@
 
 These are some of the tools we rely on to make our remote work possible.
 
-- **[1password](https://agilebits.com/onepassword)** for password management. We use 1password's team function to share logins with different teams and workgroups and you can also create a personal vault for anything that does need to be shared.
-- **[Asana](https://app.asana.com/):** Task and project management. Note that there are different teams within the INN organization for different workgroups. Ask your supervisor to make sure you've been added to the right one(s).
-- **[Dropbox](http://dropbox.com)** for file sharing.
-- **[FreshDesk](https://freshdesk.com/):** for support requests (mostly relating to Largo) and managing help desk tickets.
+- **[1password](https://agilebits.com/onepassword)** For password management. We use 1password's team function to share logins with different teams and workgroups and you can also create a personal vault for anything that does need to be shared.
+- **[Asana](https://app.asana.com/):** Task management. No longer used for project management (see ZenHub, below), but still available for personal task organization.
+- **[Dropbox](http://dropbox.com)** For file sharing.
+- **[HelpScout](https://helpscout.com/):** For managing support and project-based conversations and our knowledge base ("Docs").
 - **[GitHub](http://www.github.com):** For versioning and hosting our open source projects. We have a number of teams under our [INN organization account](http://github.com/inn) to grant access to various groups of projects to various types of users: 
 	- **Tech Team** has read/write/admin to a smaller subset of our projects
 	- **Secret** is only for people who have permission to deploy to production (this should always be limited to only core team members who are comfortable with our git workflow, deployment process and hosting infrastructure)
+- **[ZenHub] (https://www.zenhub.com/):** For project management within GitHub.
 - **[Google Apps](https://gsuite.google.com/):** For email correspondence we use inn.org email addresses managed through Google Apps. The admin login uses investigativenewsnetwork.org as the primary domain (a holdover from when the account was originally created) but there are aliases set up so that you can use yourusername@inn.org or yourusername@largoproject.org as appropriate and the messages will still be routed to your primary address. If you have multiple email addresses you may want to forward this to a primary address. Here are instructions on how to do that in [Gmail](https://support.google.com/mail/answer/10957?hl=en), [Apple Mail](https://support.apple.com/kb/PH2642?locale=en_US) or [Microsoft Outlook](https://support.office.com/en-ca/article/Automatically-forward-my-messages-to-another-e-mail-account-9f124e4a-749e-4288-a266-2d009686b403). There are also some group email addresses setup in Google Apps for various purposes. Check with your supervisor to make sure you've been added to the relevant groups as part of your onboarding.
-- **[Google Calendar](https://www.google.com/calendar/):** for coordinating our schedules and creating recurring events with hangout invites associated with them. We have a shared calendar (INN - Technology) that we're all able to add events to and we use this for things like recurring events, team meetings and deadlines for conference submissions, travel, vacations, etc.
+- **[Google Calendar](https://www.google.com/calendar/):** For coordinating our schedules and creating recurring events with Zoom invites associated with them. We have a shared calendar (INN - Technology) that we're all able to add events to and we use this for things like recurring events, team meetings and deadlines for conference submissions, travel, vacations, etc.
 - **[Harvest](https://innnerds.harvestapp.com/)** and **[Forecast](https://forecastapp.com):** For timekeeping/billing and roadmap planning
-- **[Screenhero](https://screenhero.com/):** Remote pair programming software.
+- Screenhero: Remote pair programming and screen sharing built into Slack (see below).
 - **[Slack](https://slack.com/):** We use this as our group chat tool and always-on back channel. We have three channels we primarily use: a room for all INN staff (#00-inn-staff) a room restricted to our team only (#00-tech team) and a room that is open to all tech folks at partner/member organizations (#00-open-tech). In addition we create a channel for each project we work on to collaborate internally and also, at times, with members/partners/vendors.
-- **[Zoom](https://zoom.us/signup)/[Google Hangouts](https://plus.google.com/hangouts):** For [meetings](meetings.md) like our daily scrum and for public events like our monthly [book club meetings](/projects/book-club/) and [open office hours](/projects/office-hours/). For group calls, we typically use Zoom, but we occasionally also use Google Hangouts or Slack video calls for quick one-on-one chats.
+- **[Zoom](https://zoom.us/signup)/[Google Hangouts](https://plus.google.com/hangouts):** For [meetings](meetings.md) like our daily scrum and for public events like our [open office hours](/projects/office-hours/). For group calls, we typically use Zoom, but we occasionally also use Google Hangouts or Slack video calls for quick one-on-one chats.
 
 ## Discounts
 
