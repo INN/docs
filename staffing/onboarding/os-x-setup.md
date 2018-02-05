@@ -92,7 +92,7 @@ For a real-world example of using VirtualBox, Vagrant, and VVV, check out our do
 
 ## Deploy Tools
 
-We use a [Fabric](http://www.fabfile.org) for deployment and to automate common tasks in our development workflow. Visit our [deploy-tools project on Github](https://github.com/INN/deploy-tools#the-basics) to learn more about this setup. we use this for every one of our WordPress site projects. If you are developing a WordPress site, we highly recommend checking this out to streamline your development and deployment process.
+We use a [Fabric](http://www.fabfile.org) for deployment and to automate common tasks in our development workflow. Visit our [deploy-tools project on Github](https://github.com/INN/deploy-tools#the-basics) to learn more about this setup. We use this for every one of our WordPress site projects. If you are developing a WordPress site, we highly recommend checking this out to streamline your development and deployment process.
 
 ## Communications
 
