@@ -6,7 +6,7 @@
 
 ### Accounts Our Team Manages
 
-The responsibility for managing the team accounts rotates month to month (see the [team editorial calendar](https://docs.google.com/spreadsheets/d/1nJ2LAfQRzbDpxDfhpwfJo_a4DFM5-T4GDzRpj2t6qvk/edit))
+The responsibility for managing the team accounts rotates month to month (see the [team editorial calendar](https://docs.google.com/spreadsheets/d/1akpzhzJ8r2e43X-s7Y9LJIydJiffQ-D8VifjIQqQKjc/edit))
 
 **[@INNnerds](http://twitter.com/innnerds)** is our main team account. This account should tweet:
 
