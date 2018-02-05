@@ -18,12 +18,12 @@ Note: You need to be an owner or have certain admin privileges in our apps accou
 **Groups**
 
 - Also managed from [Google Apps](http://apps.google.com).
-- There are a variety of groups setup for various projects but the main one new team members need to be added to is nerds@inn.org so they receive all of the email to the shared team account.
+- There are a variety of groups setup for various projects but the main one new team members need to be added to is labs@inn.org so they receive all of the email to the shared team account.
 - To add someone to this group go to Groups > Technology > Manage users in group, add the new team member using their @INN email address and select "add as member."
 
 **Calendar**
 
-- We have a shared Google Calendar (INN - Technology) that all team members should be added to.
+- We have a shared Google Calendar (INN - Main) that all team members should be added to.
 - From Google Calendar, click on the down arrow by the calendar name and select "share this calendar."
 - Team members should be added using their @INN email address and the permissions will typically be "make changes to events AND manage sharing."
 
@@ -31,7 +31,7 @@ Note: You need to be an owner or have certain admin privileges in our apps accou
 ### Dropbox
 
 - Team members need access to at least the [main shared INN folder](https://www.dropbox.com/work/INN%20Permanent%20Files%20Team%20Folder).
-- Optionally (particularly for FT staff who need to store a lot of stuff on dropbox without maxing out their personal account) we can add them to the INN organization (Adam is the account admin and the only person able to do this, unfortunately). Note that this costs money so we'll typically only do this for FT staff and share individual folders/docs on a case-by-case basis otherwise.
+- Optionally (particularly for FT staff who need to store a lot of stuff on dropbox without maxing out their personal account) we can add them to the INN organization (Julia is one of the account admins). Note that this costs money so we'll typically only do this for FT staff and share individual folders/docs on a case-by-case basis otherwise.
 
 
 ### 1password
@@ -47,9 +47,9 @@ Note: Slack account creation can only be done by someone with Admin/Owner privil
 
 - Our Slack org is [http://innorg.slack.com](http://innorg.slack.com)
 - Add new account using the new team member's @inn.org email address (will send user an email invitation).
-- An admin/owner should then add them to the #00-tech-team #00-inn-staff private rooms and  and any relevant project-specific rooms.
+- An admin/owner should then add them to the #00-tech-team #00-inn-staff private room and any relevant project-specific rooms.
 - New user will need to click on a confirmation link in the email invitation.
-- And optionally they can download the slack desktop/mobile apps from the [Slack website](https://slack.com/downloads).
+- They can download the slack desktop/mobile apps from the [Slack website](https://slack.com/downloads).
 - Add a `:personname:` emoji to Slack.
 
 
@@ -58,13 +58,6 @@ Note: Slack account creation can only be done by someone with Admin/Owner privil
 - To add a user to any of our GitHub teams they need to first create a personal GitHub account.
 - Assuming you know the new team member's account, are logged into GitHub and are an administrator of the INN organization, you can go to [https://github.com/orgs/INN/teams](https://github.com/orgs/INN/teams) and select the team you want to add the user to.
 - Typically we'll add all team members to the "Tech Team" team and then optionally to "Owners" (for core team members) and "Secret" for people with permission to deploy sites/apps to production.
-
-
-### Bitbucket
-
-- To add a user to any of our Bitbucket teams they need to first create a personal Bitbucket account.
-- Assuming you know the new team member's account and are logged into Bitbucket, go to [https://bitbucket.org/account/user/projectlargo/groups/](https://bitbucket.org/account/user/projectlargo/groups/). There are two teams, Administrators for staff and Interns for apprentices. Enter their username in the text field under the appropriate team and click the "Add" button.
-
 
 ### Websites
 
