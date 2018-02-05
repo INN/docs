@@ -36,22 +36,17 @@ Guidelines for how to run effective meetings and descriptions of various meeting
 <a id="scrum"></a>
 ### Daily Scrum
 
--  Every weekday at 10 AM ET (Monday and Friday are a little different, as described below)
+-  Every weekday at 10 AM ET
 -  Uses the Zoom link from the recurring event invite on the team Google calendar
 -  Starts on time, no exceptions
 -  Never longer than 10 minutes
 -  Literally stand up
--  Scrum Master role rotates monthly - see the [team editorial calendar](https://docs.google.com/a/investigativenewsnetwork.org/spreadsheets/d/1nJ2LAfQRzbDpxDfhpwfJo_a4DFM5-T4GDzRpj2t6qvk/edit#gid=0) (login required) for rotating responsibilities
+-  Scrum Master is a bot! We use [Geekbot](https://geekbot.io/) to collect individual updates:
+  -  What did you do yesterday?
+  -  What are you planning to do today?
+  -  Do you have any blockers? (i.e. - anything keeping you from accomplishing what you need to do today) The team works together in Slack to schedule any necessary follow-up and/or remove blockers.
 
-Each team member answers three questions (no more than about a minute per person):
-
--  What did you do yesterday?
--  What are you planning to do today?
--  Do you have any blockers? (i.e. - anything keeping you from accomplishing what you need to do today)
-
-Scrum Master schedules any necessary follow-up to remove blockers.
-
-It's important to acknowledge anything keeping you from accomplishing your tasks and make the team aware of them so we can try to help; don't be shy.
+It's important to acknowledge anything keeping you from accomplishing your tasks and make the team aware of them so we can try to help; don't be shy!
 
 No detailed discussion of issues during this meeting. You can always stay on the call with one or more team members to discuss projects or issues after the daily scrum is completed or take the discussion to chat.
 
@@ -61,7 +56,7 @@ No detailed discussion of issues during this meeting. You can always stay on the
 -  Replaces daily scrum every Monday
 -  Uses the Zoom link from the recurring event invite on the team Google calendar
 -  Leadership team meets at 9:45 before the rest of the team joins
--  During this time we will review priorities and assignments for the week and update Forecast/Asana to make sure everyone has a clear set of tasks defined for the week (login required)
+-  During this time we will review priorities and assignments for the week and update Forecast/GitHub/HelpScout to make sure everyone has a clear set of tasks defined for the week (login required)
 -  We will also discuss new clients/prospects, projects kicking off, important deadlines for the week, etc.
 -  The rest of the team joins at 10 am ET
 -  Meeting begins with a review of the roadmap for the week, important deadlines, top priorities, etc.
@@ -76,7 +71,6 @@ No detailed discussion of issues during this meeting. You can always stay on the
 
 Each team member, in about a minute:
 
--  What you did yesterday, your plan for today (your regular scrum)
 -  Your main accomplishments this week
 -  What did you learn?
 -  Blockers/issues to resolve so you can start strong next week
@@ -87,7 +81,7 @@ As a team (no more than 5 minutes):
 -  Review editorial calendar and rotating responsibilities for the following week, make sure everyone knows what's due and when
 -  New project ideas
 -  Shoutouts
--  Additional agenda items as raised on the [related Asana ticket](https://app.asana.com/0/100231559474831/203568180899456)
+-  Additional agenda items as raised in Slack
 
 Team leader (no more than 5 minutes):
 
@@ -125,10 +119,10 @@ We should cover:
 <a id="staff-meeting"></a>
 ### Bi-weekly All INN Staff Meeting
 
--  Every other Monday at 4 PM ET via Zoom (link in the shared Google Calendar invite)
--  Usually takes about an hour
+-  Every other Tuesday via Zoom (link in the shared Google Calendar invite)
+-  Usually takes about 30 minutes
 -  Mandatory for all full-time INN staff. Hourly staff and contractors may attend in some cases, but typically won't need to. Your supervisor will let you know if your attendance is required.
--  Team leader will report for the entire team but may in some cases ask other team members to report on and/or provide more specifics for projects they're working on.
+-  Updates are relayed in Slack via Geekbot prompts then agenda items are voted on to discuss during our meeting.
 
 <a id="additional-reading"></a>
 ### Additional Reading
