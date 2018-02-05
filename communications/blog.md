@@ -1,6 +1,6 @@
 # Blog
 
-[nerds.inn.org](http://nerds.inn.org)
+[labs.inn.org](http://labs.inn.org/community)
 
 
 ### Strategy
@@ -15,4 +15,4 @@ Coming soon!
 
 ### Checklists/Helpful Links
 
-- [Editorial Calendar and upcoming posts in Asana (login required)](https://app.asana.com/0/100231559474831/107569831465088)
+- [Editorial Calendar](https://docs.google.com/spreadsheets/d/1akpzhzJ8r2e43X-s7Y9LJIydJiffQ-D8VifjIQqQKjc/edit)
