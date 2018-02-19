@@ -22,11 +22,3 @@ pym update instructions:
 2. run `fab assets.sync`
 3. replace the copy of pym.js acquired by running `fab assets.sync` with the latest copy of pym.js
 4. run `fab assets.sync` to upload the local copy.
-
-## INN Discounts Page
-
-status:
-
-repo: none; https://labs.inn.org/wp-content/uploads/static/discounts/
-
-pym update instructions: do it via SFTP
