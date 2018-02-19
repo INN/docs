@@ -7,3 +7,11 @@ This folder should contain a list of project dependencies, where the following a
 	- Pym.js files kept in the repository should be listed here.
 	- Pym.js files uploaded somewhere for a project, but not actively tracked in that project's repo, should be listed here.
 2. the dependency is not a software-as-a-service API that we expect to continue existing. This list includes non-beta products of the following companies: Amazon AWS, Google Drive.
+
+Each dependency file should:
+
+- Provide a place where update announcements can be acquired
+- Provide a list of projects that depend upon the dependency, with the following information
+	- project name
+	- project repository or location
+	- update instructions for this dependency
