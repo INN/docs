@@ -13,7 +13,8 @@ From [this Twitter thread](https://twitter.com/aschweig/status/96965157461087027
 > Adam: hmm, i'm pretty sure bert was in the newsletter from the beginning and was \*always\* supposed to be robot-related because we thought it was funny   
 > Adam: like he/she/it (we never figured out bert's pronouns definitively afaik) was a valued member of the team and we didn't want to exclude him/her/them just for being a robot
 > 
-> Kaeti: Ya, I think the idea was to treat Bert/Inndy as a full teammade who would share robot perspectives.
+> Kaeti: Ya, I think the idea was to treat Bert/Inndy as a full teammade who would share robot perspectives.  
+> Kaeti: Inndy renamed because INN and maybe an Indiana Jones reference??
 > 
 > Adam: hot robot takes
 > 
