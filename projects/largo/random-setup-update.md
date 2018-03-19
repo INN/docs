@@ -4,7 +4,9 @@ Prerequisites: Having a running install of [Laravel Valet](https://laravel.com/d
 
 1. `cd` to the directory where you have chosen to keep your valet sites
 2. Create the install's directory:
-	- If an umbrella repo exists: `git clone git@github.com:INN/umbrella-example.git example`
+	- If an umbrella repo exists:
+		1. `git clone git@github.com:INN/umbrella-example.git example`
+		2. `git submodule update --init --recursive`
 	- If you do not have a pre-existing umbrella repository, and wish to create one, follow the instructions at https://github.com/INN/umbrella-boilerplate
 	- Or `mkdir example`
 3. `cd example`
