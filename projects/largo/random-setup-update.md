@@ -19,13 +19,12 @@ Prerequisites: Having a running install of [Laravel Valet](https://laravel.com/d
 			- where `example.test` is the domain created by Valet for this directory
 			- `--title=foo` must be passed but is unimportant and will be reset when you load the database.
 7. `wp db reset`
-8. If you have cloned an existing umbrella repository, `git submodule update --init --recursive`
-9. download the sql file, through phpmyadmin/flywheel's interface
-10. `wp db import database.sql`, replacing `database.sql` with the path to the database you downloaded
-11. `wp search-replace example.org example.test --url=example.org  --all-tables-with-prefix`
+8. download the sql file, through phpmyadmin/flywheel's interface
+9. `wp db import database.sql`, replacing `database.sql` with the path to the database you downloaded
+10. `wp search-replace example.org example.test --url=example.org  --all-tables-with-prefix`
 	- if you're doing a multisite, make sure to rerun that command, replacing `example.org` with `subdomain.org` and `example.test` with `subdomain.example.test`, and changing the `--url=` parameter to match the valet domain that you just set everything to in the preceding search-replace:
 		- `wp search-replace subdomain.org subdomain.example.org --url=example.test --all-tables-with-prefix`
 		- `wp search-replace subdomain.example.org subdomain.example.org --url=example.test --all-tables-with-prefix`
 		- if you're not sure what the URLs for the sites in the multisite are, check the `wp_blogs` table.
-12. Optionally, download images and uploads via SFTP. You'll probably only need the newest month's images and the images referenced in the theme settings. Feel free to upload replacement images to the new development site via the normal browser interface.
-13. In the repo's child theme, if there's a `package.json`, run `npm install`
+11. Optionally, download images and uploads via SFTP. You'll probably only need the newest month's images and the images referenced in the theme settings. Feel free to upload replacement images to the new development site via the normal browser interface.
+12. In the repo's child theme, if there's a `package.json`, run `npm install`
