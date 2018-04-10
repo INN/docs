@@ -10,7 +10,7 @@ Originally, we started from NPR's [Project Argo](https://github.com/argoproject/
 
 The early work on Largo was done by Adam Schweigert but we've since benefitted from the contributions of everyone on the INN team and a number of [open source contributors](https://github.com/INN/Largo/graphs/contributors).
 
-Logo by [Alli Berry](http://alliberry.com/)
+Logo by [Alli Berry](http://alliberry.com/).
 
 ### Other relevant info/links:
 
@@ -27,8 +27,8 @@ Logo by [Alli Berry](http://alliberry.com/)
 ### Child Themes
 
 - [Sample Largo child theme](https://github.com/INN/Largo-Sample-Child-Theme) for reference purposes, typically you will **not** want to clone this directly
-- Child themes for all of the sites we host can be found [on bitbucket](https://bitbucket.org/projectlargo/) as can [the umbrella repository](https://bitbucket.org/projectlargo/largo-umbrella) we use for deployment purposes.
-- [How to setup and add a new member site to the umbrella repo](/projects/largo/child-themes/new-site.md)
+- Child themes for all of the sites we host can be found on GitHub, usually prefixed with [`theme-`](https://github.com/INN?utf8=%E2%9C%93&q=theme&type=&language=) or in an [umbrella repository](https://github.com/INN?utf8=%E2%9C%93&q=umbrella-&type=&language=)'s `wp-content/themes/` folder. Umbrella repositories are used to track child themes, Largo, certain plugins, and deployment locations.
+- [How to set up and add a new member site to an extant umbrella repo](/projects/largo/child-themes/new-site.md), and [How to create a new umbrella repository](https://github.com/INN/umbrella-boilerplate/blob/master/docs/README.md).
 
 ### Our hosted version of Largo (for INN members)
 
