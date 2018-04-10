@@ -1,12 +1,12 @@
-# Set up Largo-Umbrella Local Environment
+# Set up Largo-Umbrella Local Environment using VVV and VV and Vagrant
 
-NOTE: If you're setting up a new umbrella repo for a project/client, see the instructions in the largo docs: [https://largo.readthedocs.io/developers/setup.html](https://largo.readthedocs.io/developers/setup.html)
+NOTE: If you're setting up a new umbrella repo for a project/client, see the instructions in the [INN/umbrella-boilerplate](https://github.com/INN/umbrella-boilerplate) repo.
 
 You're new to INN, or you've been here for a while and never set up the Largo Umbrella of sites before on your computer, or you've been here and have it set up but you did the setup back in the Cenozoic era and avoid doing it because you forget all the details.
 
 Fret not! This guide will show you how to go from a Mac OS X system, with a baseline of what is described in our [setup docs](/staffing/onboarding/os-x-setup.md#terminal-emulator), and get to the point of:
 
-* being able to browse the current version of [http://largoproject.org/](http://largoproject.org/) at the local URL [http://largo-umbrella.dev/](http://largo-umbrella.dev/)
+* being able to browse the current version of [largoproject.org](http://largoproject.org/) at the local URL [http://largo-umbrella.test/](http://largo-umbrella.test/)
 * being able to browse every INN member's site that uses Largo and which we host, such as [http://wisconsinwatch.org/](http://wisconsinwatch.org/) and [http://current.org/](http://current.org/), at local URLs
 * having a complete local copy of the database for all aforementioned sites, which includes all site content, users, and organization.
 * having a network admin account to log in to your local version of largoproject.org, which will allow you to administer your local copy of any of the INN member sites.
@@ -115,7 +115,7 @@ In order to access the live website data, you'll need to set up the INN secrets 
 - ```cd /srv/www/largo-umbrella/```
 
 3 Use WP-CLI to create a new WordPress user for you
-- ```wp user create superadmin superadmin@largo-umbrella.dev --role=administrator --user_pass=password```
+- ```wp user create superadmin superadmin@largo-umbrella.test --role=administrator --user_pass=password```
 - ```super-admin add superadmin```
 
 That's it! Now you can logout of ssh with `exit`
@@ -142,7 +142,7 @@ You can name the snapshot anything you want, and I would recommend describing it
 
 We'll be doing some work soon of searching through the database we just loaded and replacing certain values. To make this easier, download version 2.1.0 of this [database search and replace script written in PHP](https://interconnectit.com/products/search-and-replace-for-wordpress-databases/). Unzip it and move the file `searchreplacedb2.php` to your `largo-umbrella` folder.
 
-## 9. Changing largoproject.wpengine.com to largo-umbrella.dev.
+## 9. Changing largoproject.wpengine.com to largo-umbrella.test.
 
 There are two ways to do this. The first uses [searchreplacedb2](https://interconnectit.com/products/search-and-replace-for-wordpress-databases/), a PHP script placed in your home directory, and the other uses [WP-CLI](http://wp-cli.org/), a command-line interface for WordPress.
 
@@ -155,8 +155,8 @@ $ vagrant up
 $ vagrant ssh
 vagrant@precise64:~$ cd /vagrant
 vagrant@precise64:/vagrant$ wp plugin deactivate --url="largoproject.wpengine.com" redirection
-vagrant@precise64:/vagrant$ wp search-replace 'largoproject.org' 'largo-umbrella.dev' 'wp_*_options' wp_options wp_blogs wp_sitemeta
-vagrant@precise64:/vagrant$ wp search-replace 'largoproject.wpengine.com' 'largo-umbrella.dev' 'wp_*_options' wp_options wp_blogs wp_sitemeta
+vagrant@precise64:/vagrant$ wp search-replace 'largoproject.org' 'largo-umbrella.test' 'wp_*_options' wp_options wp_blogs wp_sitemeta
+vagrant@precise64:/vagrant$ wp search-replace 'largoproject.wpengine.com' 'largo-umbrella.test' 'wp_*_options' wp_options wp_blogs wp_sitemeta
 ```
 
 That will update all the options tables that have largoproject.wpengine.com. You will have to go back and do this later with every other site listed in [largoproject.wpengine.com/wp-admin/network/sites.php](//largoproject.wpengine.com/wp-admin/network/sites.php), because not all sites have domain names of the form `*.largoproject.wpengine.com`.
@@ -166,8 +166,8 @@ That will update all the options tables that have largoproject.wpengine.com. You
 A breakdown of what's happening in the search-replace commands:
 
 - `wp search-replace`: http://wp-cli.org/commands/search-replace/
-- `'largoproject.org' 'largo-umbrella.dev'`: Replace 'largoproject.org' with 'largo-umbrella.dev' in all the tables specified
-- `'largoproject.wpengine.com' 'largo-umbrella.dev'`: Replace 'largoproject.wpengine.com' with 'largo-umbrella.dev' in all the tables specified
+- `'largoproject.org' 'largo-umbrella.test'`: Replace 'largoproject.org' with 'largo-umbrella.test' in all the tables specified
+- `'largoproject.wpengine.com' 'largo-umbrella.test'`: Replace 'largoproject.wpengine.com' with 'largo-umbrella.test' in all the tables specified
 - `'wp_*_options' wp_options wp_blogs wp_sitemeta`: these are the tables that the search-replace will be performed upon. `'wp_*_options'` needs version 0.23 to work properly; it failed in 0.21 because glob expansion wasn't available.
 
 To leave the Vagrant machine, run the following:
@@ -182,7 +182,7 @@ Or skip ahead to Step 5: Recreate your superadmin user
 
 Here we update the core WordPress tables for our multisite installation using [searchreplacedb2.php](https://interconnectit.com/products/search-and-replace-for-wordpress-databases/).
 
-1. We need to open searchreplacedb2.php to perform kosher search and replace. If your vagrant is up, [use this link](http://largo-umbrella.dev/searchreplacedb2.php).
+1. We need to open searchreplacedb2.php to perform kosher search and replace. If your vagrant is up, [use this link](http://largo-umbrella.test/searchreplacedb2.php).
 2. Leave "Pre-populate the DB values..." checked and submit.
 3. Submit prefilled database information.
 4. WordPress Multisite stores each member site with an ID, which can be seen prefixed in database tables. We want to select **all** the tables (probably at the bottom of the list) **without** numbered prefixes (i.e. wp_comments_meta *not* wp_55_comments_meta) and continue.
@@ -194,7 +194,7 @@ largoproject.wpengine.com
 ```
 With:
 ```
-largo-umbrella.dev
+largo-umbrella.test
 ```
 
 **SNAPSHOT**: Let's save our progress now. In your command line, take another snapshot with:
@@ -218,9 +218,9 @@ Be sure to take vagrant snapshots liberally when you make changes to the databas
 
 ## Troubleshooting
 
-If you get a redirect loop when you try to log in to [http://largo-umbrella.dev/wp-login.php](http://largo-umbrella.dev/wp-login.php) after creating the network super-admin, this may happen if the replacement of `largoproject.wpengine.com` to `largo-umbrella.dev` didn't complete. Try redoing this step.
+If you get a redirect loop when you try to log in to [http://largo-umbrella.test/wp-login.php](http://largo-umbrella.test/wp-login.php) after creating the network super-admin, this may happen if the replacement of `largoproject.wpengine.com` to `largo-umbrella.test` didn't complete. Try redoing this step.
 
-If you don't see the "Network Admin" menu when trying to add your user to a subsite via [http://largo-umbrella.dev/wp-admin/](http://largo-umbrella.dev/wp-admin/), your network super-admin might not be so super after all. Redo the step of adding the network super-admin, only skipping the command to create the account. The command `wp super-admin add superadmin` should respond with `Success: Granted super-admin capabilities.`.
+If you don't see the "Network Admin" menu when trying to add your user to a subsite via [http://largo-umbrella.test/wp-admin/](http://largo-umbrella.test/wp-admin/), your network super-admin might not be so super after all. Redo the step of adding the network super-admin, only skipping the command to create the account. The command `wp super-admin add superadmin` should respond with `Success: Granted super-admin capabilities.`.
 
 Make sure your .htaccess file contains the SubFolder configuration designed for OLD wordpress:
 ```
