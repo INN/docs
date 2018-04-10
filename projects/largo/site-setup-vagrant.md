@@ -214,7 +214,7 @@ Now you can work with the full Largo-umbrella network of sites locally, with all
 
 Be sure to take vagrant snapshots liberally when you make changes to the database, as they're a real timesaver in the event of making a mistake or a system crash. My system crashed with no warning while I was writing this up, and when I tried starting my virtual machine again I got an error that the virtual machine image was corrupted. I was saved a whole lot of work because I was able to just revert to the latest snapshot I had made (`vagrant snapshot restore original_database_2015_04_09`).
 
-### You may need to [reload the database](../database-reload.md) at some point 
+### You may need to [reload the database](../database-reload-vagrant.md) at some point 
 
 ## Troubleshooting
 
