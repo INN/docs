@@ -6,7 +6,7 @@ The target audience should be primarily INN members (likely mostly managers and 
 
 ### Format
 
-Each of our team members picks one link per week, writes a couple sentences about what it is and why it matters.
+Each of our team members picks one link per week, writes a couple sentences about what it is and why it matters. ([Inndy picks one, too.](/communications/newsletter/inndy.md))
 
 We will also ask someone from outside of our team to be our guest star each week and do the same. This could be someone who works on product/tech stuff at an INN member organization, someone from elsewhere in the journalism and tech world or someone completely random. We should use this as a way to highlight people who may not be among the usual suspects but who we think has an interesting perspective to share.
 
