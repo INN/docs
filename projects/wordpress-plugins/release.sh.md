@@ -8,17 +8,30 @@ This file provides setup, usage, and configuration instructions for `release.sh`
 
 1. Review the files in the `BLACKLIST` variable in `release.sh`. Make changes as necessary.
 2. Update the `SVN_REPO` variable with your plugin's `plugins.svn.wordpress.org` SVN repository.
-3. `chmod +x release.sh`
-4. Add `release/` to the project's `.gitignore`
-5. Commit all changes and push your commits to the plugin's repository.
-
-6. Run `release.sh`.
+3. `chmod +x release.sh`.
+4. Add `release/` to the project's `.gitignore`>
+5. Commit all changes.
+6. Tag your new release using `git tag`.
+7. `git push` your commits and `git push --tags` your tags to the plugin's repository.
+8. Run `release.sh`.
   - You may need to verify the receiving server's key fingerprint.
   - If it asks you to enter the password for your computer's username, press the `[enter]` key to get the username prompt, then enter your `wordpress.org` username and password.
 
 ### Later releases
 
-1. Run `release.sh`
+1. Commit all changes.
+2. Make sure that you have bumped the version number in:
+	- `readme.txt`
+	- `README.md`
+	- the plugin's primary `.php` file
+3. Make sure that you have also updated:
+	- `Tested up to:` WordPress version number in `readme.txt`
+	- `Requires at least:` WordPress version number in `readme.txt`
+	- `Requires PHP:` minimum PHP version number in `readme.txt`
+	- `Changelog` section in `readme.txt`
+2. Tag your new release using `git tag`.
+3. `git push` your commits and `git push --tags` your tags to the plugin's repository.
+4. Run `release.sh`.
 
 ### Generating zip files for GitHub
 
@@ -57,4 +70,4 @@ This list may be incomplete.
 - https://github.com/INN/link-roundups
 - https://github.com/INN/super-cool-ad-inserter-plugin
 
-Significant changes to `release.sh` should be copied between plugins.
+Significant changes to `release.sh` should be copied between plugins, and merged into this repository.
