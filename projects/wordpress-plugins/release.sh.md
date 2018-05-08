@@ -33,6 +33,18 @@ This file provides setup, usage, and configuration instructions for `release.sh`
 3. `git push` your commits and `git push --tags` your tags to the plugin's repository.
 4. Run `release.sh`.
 
+### Common issues
+
+```
+$ ./release.sh
+fatal: No remote configured to list refs from.
+fatal: No remote configured to list refs from.
+Bad release state for git repo!
+Make sure you've checked out a tag or the master branch before releasing.
+```
+
+Make sure that one of your remotes is named `origin`.
+
 ### Generating zip files for GitHub
 
 GitHub's default release `.zip` files do not contain files installed by package management systems through commands like `npm install`, `bower install`, and `composer install`.
