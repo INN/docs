@@ -35,6 +35,8 @@ This file provides setup, usage, and configuration instructions for `release.sh`
 
 ### Common issues
 
+
+#### no remote configured
 ```
 $ ./release.sh
 fatal: No remote configured to list refs from.
@@ -44,6 +46,37 @@ Make sure you've checked out a tag or the master branch before releasing.
 ```
 
 Make sure that one of your remotes is named `origin`.
+
+#### "forbidden" when committing
+
+```
+Committing release/svn/tags/1.7 (slow) ...
+Authentication realm: <https://plugins.svn.wordpress.org:443> Use your WordPress.org login
+Password for 'user': 
+svn: E195023: Commit failed (details follow):
+svn: E195023: Changing directory '/Users/local_username/sites/example/wp-content/plugins/PLUGIN-NAME/release/svn/tags/1.7' is forbidden by the server
+svn: E175013: Access to '/!svn/txr/RANDOM-CHARACTERS/PLUGIN-NAME/tags/1.7' forbidden
+```
+
+A possible cause of this is that your WordPress.org account does not have commit access. Check to make sure that your WordPress user has the "committer" role on wordpress.org for this plugin, as [described in the Plugin Handbook](https://developer.wordpress.org/plugins/wordpress-org/special-user-roles-capabilities/).
+
+#### certificate error
+
+```
+Error validating server certificate for 'https://plugins.svn.wordpress.org:443':
+ - The certificate is not issued by a trusted authority. Use the
+   fingerprint to validate the certificate manually!
+Certificate information:
+ - Hostname: *.svn.wordpress.org
+ - Valid: from Fri, 12 Jun 2015 17:44:41 GMT until Sun, 15 Jul 2018 19:04:26 GMT
+ - Issuer: http://certs.godaddy.com/repository/, GoDaddy.com, Inc., Scottsdale, Arizona, US
+ - Fingerprint: 5c:f0:21:33:a0:f1:f6:37:ac:06:87:c8:62:03:08:d0:32:50:6f:77
+(R)eject, accept (t)emporarily or accept (p)ermanently? p
+```
+
+According to https://make.wordpress.org/core/handbook/tutorials/installing-wordpress-locally/from-svn/#1-2-using-command-line the accepted solution is "Type `p` to accept it permanently."
+
+###
 
 ### Generating zip files for GitHub
 
