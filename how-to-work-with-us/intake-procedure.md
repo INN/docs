@@ -26,5 +26,5 @@ Nobody is clicking our donate button, could you help with that? | Make this butt
 We want to tell this important story in a big way that sets it apart | Build us a Snowfall  | 
 We want readers to know what our current top stories are     | Can you add a carousel to the homepage? ([Ahem.](http://shouldiuseacarousel.com/))  | 
 
-###Get in touch!
+### Get in touch!
 Have a product idea you'd like us to help you with? We'd love to [hear from you](mailto:nerds@inn.org).
