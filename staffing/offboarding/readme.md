@@ -4,3 +4,4 @@ This folder is meant to contain instructions and checklists for when an employee
 
 - [1Password](./1Password.md)
 - [Google Account](./google.md)
+- [Dropbox](./dropbox.md)
