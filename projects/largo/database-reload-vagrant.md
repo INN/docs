@@ -1,13 +1,14 @@
-# Reloading Largo Umbrella Database
+# Reloading the database of a WP Engine site in a Vagrant install
 
-With some regularity it's necessary to reload the Largo Umbrella's Database.
+These instructions were originally written for use with the [umbrella-largoproject](https://github.com/INN/umbrella-largoproject) repository. With some regularity it's necessary to reload the Largo Umbrella's Database.
 
 ### 1. Get a new database dump from host
 
 ```
 $ fab production wp.fetch_sql_dump
 ```
-*Pulls latest from host via SFTP -- requires INN/secrets access.*
+
+Pulls latest from host via SFTP -- requires INN/secrets access, a working [INN/deploy-tools](https://github.com/INN/deploy-tools) install on this umbrella repository, and that the site be **hosted on WPEngine**.
 
 If that fails, and if you have the secrets repo set up, you can run:
 
