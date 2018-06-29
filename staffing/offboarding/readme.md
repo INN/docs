@@ -7,5 +7,8 @@ This folder is meant to contain instructions and checklists for when an employee
 - [Google Account](./google.md)
 - [Dropbox](./dropbox.md)
 - [GitHub](./github.md)
+- [Slack](./slack.md)
+- [Physical stuff](./hardware.md)
+- [Contacts](./contacts.md)
 
 Please, update these docs as you're leaving.
