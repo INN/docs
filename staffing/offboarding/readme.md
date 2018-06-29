@@ -7,3 +7,5 @@ This folder is meant to contain instructions and checklists for when an employee
 - [Google Account](./google.md)
 - [Dropbox](./dropbox.md)
 - [GitHub](./github.md)
+
+Please, update these docs as you're leaving.
