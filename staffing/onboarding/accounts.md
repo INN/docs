@@ -51,6 +51,7 @@ Note: Slack account creation can only be done by someone with Admin/Owner privil
 - New user will need to click on a confirmation link in the email invitation.
 - They can download the slack desktop/mobile apps from the [Slack website](https://slack.com/downloads).
 - Add a `:personname:` emoji to Slack.
+- Our semiofficial slack theme is `#535C61,#1DC1F3,#1DC1F3,#FFFFFF,#1DC1F3,#FFFFFF,#FF8E46,#DF4646`; [Kaeti made it](https://innorg.slack.com/archives/G0DSN1109/p1447444861000130).
 
 
 ### GitHub
