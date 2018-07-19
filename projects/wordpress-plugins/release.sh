@@ -284,6 +284,9 @@ function help_text() {
   echo "";
   echo "--help:    Display this help screen and exit.";
   echo "";
+  echo "For more information about this script, see:
+  https://github.com/INN/docs/blob/master/projects/wordpress-plugins/release.sh.md";
+  echo "";
   exit 0;
 }
 
