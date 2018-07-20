@@ -9,7 +9,7 @@ This file provides setup, usage, and configuration instructions for `release.sh`
 1. Review the files in the `BLACKLIST` variable in `release.sh`. Make changes as necessary.
 2. Update the `SVN_REPO` variable with your plugin's `plugins.svn.wordpress.org` SVN repository.
 3. `chmod +x release.sh`.
-4. Add `release/` to the project's `.gitignore`>
+4. Add `release/` to the project's `.gitignore`.
 5. Commit all changes.
 6. Tag your new release using `git tag`.
 7. `git push` your commits and `git push --tags` your tags to the plugin's repository.
