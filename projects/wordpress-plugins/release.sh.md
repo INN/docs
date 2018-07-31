@@ -9,7 +9,7 @@ This file provides setup, usage, and configuration instructions for `release.sh`
 1. Review the files in the `BLACKLIST` variable in `release.sh`. Make changes as necessary.
 2. Update the `SVN_REPO` variable with your plugin's `plugins.svn.wordpress.org` SVN repository.
 3. `chmod +x release.sh`.
-4. Add `release/` to the project's `.gitignore`>
+4. Add `release/` to the project's `.gitignore`.
 5. Commit all changes.
 6. Tag your new release using `git tag`.
 7. `git push` your commits and `git push --tags` your tags to the plugin's repository.
@@ -76,7 +76,13 @@ Certificate information:
 
 According to https://make.wordpress.org/core/handbook/tutorials/installing-wordpress-locally/from-svn/#1-2-using-command-line the accepted solution is "Type `p` to accept it permanently."
 
-###
+#### `.git/` directories contained within the plugin's release .zip file
+
+Check your plugin's `release.sh` to make sure that `./\*\*/.\*` is contained within the `BLACKLIST` variable.
+
+https://github.com/INN/docs/blob/1e53bd3a6793ea8c7197670316e49c9ff6da8661/projects/wordpress-plugins/release.sh#L19
+
+This line is a [bash glob](http://www.tldp.org/LDP/abs/html/globbingref.html) of the form `./**/.*`, which says: in the current directory, in any child directory of any depth, match files or directories the name of which starts with a `.`. This should catch `./vendor/composer-dependency/.git/`, `./node_modules/dependency/node_modules/other-dependency/node_modules/yes-really/.git/`, and also files like `./node_modules/zlib-browserify/.travis.yml`, `./js/vendor/jquery/src/.eslintrc.json`, and really anything found by the command `find . -type f -name '.*'`.
 
 ### Generating zip files for GitHub
 
