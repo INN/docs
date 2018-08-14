@@ -10,5 +10,6 @@ This folder is meant to contain instructions and checklists for when an employee
 - [Slack](./slack.md)
 - [Physical stuff](./hardware.md)
 - [Contacts](./contacts.md)
+- [INN's websites](./websites.md)
 
 Please, update these docs as you're leaving.
