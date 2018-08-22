@@ -23,6 +23,8 @@ Prerequisites: Having a running install of [Laravel Valet](https://laravel.com/d
 7. `wp db reset`
 8. download the sql file, through phpmyadmin/flywheel's interface
 9. `wp db import database.sql`, replacing `database.sql` with the path to the database you downloaded
+	- If the output of that command contains `ERROR 2006 (HY000) at line 488: MySQL server has gone away` or your mysql error log contains `[Note] Aborted connection 10 to db: 'example' user: 'user' host: 'localhost' (Got a packet bigger than 'max_allowed_packet' bytes)`, [this StackOverflow solution worked for Ben on 2018-08-22](https://stackoverflow.com/a/722656).
+		- Find your mysql error log on OSX by running `ps auxww | grep mysqld` and looking for a string like `--log-error=/usr/local/var/mysql/example.local.err`
 10. `wp search-replace example.org example.test --url=example.org  --all-tables-with-prefix`
 	- if you're doing a multisite, make sure to rerun that command, replacing `example.org` with `subdomain.org` and `example.test` with `subdomain.example.test`, and changing the `--url=` parameter to match the valet domain that you just set everything to in the preceding search-replace:
 		- `wp search-replace subdomain.org subdomain.example.org --url=example.test --all-tables-with-prefix`
