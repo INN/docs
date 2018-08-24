@@ -43,7 +43,7 @@ We don't want to rule anyone out at this stage just because their qualification
 
 ### Initial Interviews
 
-Once we've settled on a group of semifinalists, we'll split them up among a few senior members of our team and schedule initial one-on-one conversations (usually via Google Hangout).
+Once we've settled on a group of semifinalists, we'll split them up among a few senior members of our team and schedule initial one-on-one conversations (usually via Zoom video conferencing).
 
 In these conversations we're interested in getting to know you but also want to give you a chance to get to know us. These conversations are informal and you don't need to over-prepare.
 
