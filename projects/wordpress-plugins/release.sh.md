@@ -120,5 +120,6 @@ This list may be incomplete.
 - https://github.com/INN/DoubleClick-for-WordPress
 - https://github.com/INN/link-roundups
 - https://github.com/INN/super-cool-ad-inserter-plugin
+- https://github.com/INN/pym-shortcode
 
 Significant changes to `release.sh` should be copied between plugins, and merged into this repository.
