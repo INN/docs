@@ -1,39 +1,14 @@
-# Installing SSL on WP Engine
+# Installing SSL on sites
 
-### Setup SSL Certificates through LetsEncrypt
+There are site-specific docs for each of these hosts:
 
-1. Log on to the [WP Engine User Portal](https://my.wpengine.com/dashboard)
-2. Click your install_name > SSL > Add Certificates.
-3. Choose Let's Encrypt free certificate.
-4. Select the domains you'd like to add SSL to and click "Request SSL Certificate".
-5. It maye take a few minutes for your new SSL certificate to setup. Once this is complete, return to the WP Engine dashboard and check the settings on your new SSL certificate.
+- [WPEngine](./install-ssl-wpengine.md)
+- [Flywheel](./install-ssl-flywheel.md)
 
-### Update WordPress URLs to use SSL
+Beyond that, here's a checklist of things to check that might need to be updated:
 
-1. Download the search & replace db tool at https://interconnectit.com/products/search-and-replace-for-wordpress-databases/
-2. Upload to the server root and rename the folder (so it's not discoverable by others while you're using it).
-3. Visit the path for the folder in your browser & enter your search & replace params.
-4. *Important*: Delete the folder from the server when you're done.
-
-### Setup Content Security Policy
-
-This will prevent cross-site scripting attempts by specifying where a user's browser can load content from.
-You can also use this to track any mixed-content errors occurring on the site.
-
-*Need a solution for this - best option so far is https://wordpress.org/plugins/wp-content-security-policy/, but the author abandoned/disappeared ~6months ago*
-
-### Force WP Engine CDN to always load assets over SSL
-
-To do this, we use their HTML Post Processing feature.
-
-In `/wp-admin`, navigate to the WP Engine tab, and scroll down to the **Advanced Configuration** section.
-
-In the **HTML Post-Processing** textarea, enter `#domain\.com/(wp-content/uploads)/# =>ZONE.wpengine.netdna-cdn.com/$1/` and click **Save**.
-
-![WP Engine Post Processing](wp-engine-html-post-processing.png)
-
-More information about WP Engine Post Processing can be found at https://wpengine.com/support/html-post-processing/.
-
-### Update Google Analytics & Search Console
-
-Login to Google Analytics and Search Console to update the URL to use `https://`
+- [ ] Dashboard > Appearance > Theme Options > Theme Images: Update all URLs from `http:` to `https:`
+- [ ] Dashboard > Settings > General > WordPress Address
+- [ ] Dashboard > Settings > General > Site Address
+- [ ] Search `/?s=pym` and update any Pym.js embed URLs
+- [ ] follow troubleshooting options at https://getflywheel.com/wordpress-support/i-forced-ssl-and-now-my-images-arent-displaying/
