@@ -13,7 +13,7 @@ Please do not make any purchases before you receive approval for your request fr
 
 ### Personal travel, vacation, sick leave
 
-Should be requested [through this form](https://docs.google.com/a/investigativenewsnetwork.org/forms/d/e/1FAIpQLSeO1sPSN-Avza_MS8SfxxVrehKSPRvx58lm9ESWy9bVy1hsEg/viewform). Please also add any anticipated time off to the main INN calendar so the rest of the staff knows when you're planning to be out. 
+Should be requested [through this form](https://form.jotform.com/83325123620951). Please also add any anticipated time off to the main INN calendar so the rest of the staff knows when you're planning to be out.
 
 ### Expense reporting
 
