@@ -17,12 +17,19 @@ Should be requested [through this form](https://form.jotform.com/83325123620951)
 
 ### Expense reporting
 
-To be reimbursed for any purchases you make on a personal card, you will to submit receipts and an expense report.
+To be reimbursed for any purchases you make on a personal card, you will to submit receipts and an expense report. Guidance for INN employees can be found in the most-recent Employee Handbook. Here's the [link for the 2016-09-21 revision](https://docs.google.com/document/d/1MkXPsg6nD3yAfwXWczhscdoze7QhHgsrd_vLK1uQPB4/edit).
 
-The expense report form can be found in the INN shared Dropbox folder at `INN/Exmployment Docs/Expense report template_INN.xlsx`. Optionally, you may use a PDF export from a personal Expensify account instead.
+The most-recently-revised expense report form can be found in the INN shared Dropbox folder at:
 
-Once you fill out this report, submit scans of all receipts and the completed expense report through [HelloSign](https://www.hellosign.com/). 
+- `INN/Exmployment Docs/2018 Expense Reimbursement Form.pdf`
+- `INN/Exmployment Docs/2018 Expense Reimbursement Form.xlsx`
 
-The form must be signed by both your direct supervisor and INN's CEO, so submit the form for signatures by both people and cc: accounting@inn.org to make the processing of your request as efficient as possible.
+Optionally, you may use a PDF export from a personal Expensify account instead.
+
+The following sectoin is under review:
+
+> Once you fill out this report, submit scans of all receipts and the completed expense report through [HelloSign](https://www.hellosign.com/).
+>
+> The form must be signed by both your direct supervisor and INN's CEO, so submit the form for signatures by both people and cc: accounting@inn.org to make the processing of your request as efficient as possible.
 
 Once approved, your reimbursement will be processed the next time the accounting firm does payroll (typically the 15th and 30th of each month).
