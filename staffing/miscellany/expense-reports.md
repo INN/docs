@@ -17,7 +17,7 @@ Should be requested [through this form](https://form.jotform.com/83325123620951)
 
 ### Expense reporting
 
-To be reimbursed for any purchases you make on a personal card, you will to submit receipts and an expense report. Guidance for INN employees can be found in the most-recent Employee Handbook. Here's the [link for the 2016-09-21 revision](https://docs.google.com/document/d/1MkXPsg6nD3yAfwXWczhscdoze7QhHgsrd_vLK1uQPB4/edit).
+To be reimbursed for any purchases you make on a personal card, you will to submit receipts and an expense report. Guidance for INN employees can be found in the most-recent Employee Handbook. Here's the [link for the 2019-12-03 revision](https://docs.google.com/document/d/1ZP3s5IP41vMSZOTGZwnJ4Ui3q8uZpGQHwk9Y0Aql9B8/edit), which was edited more recently than that date.
 
 The most-recently-revised expense report form can be found in the INN shared Dropbox folder at:
 
