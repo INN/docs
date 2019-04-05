@@ -8,7 +8,7 @@ This folder is meant to contain instructions and checklists for when an employee
 - [GitHub](./github.md)
 - [Google Account](./google.md)
 - [Hellosign and Docusign](./hellosign.md)
-- [INN's websites](./websites.md)
+- [INN's websites](./website.md)
 - [Physical stuff](./hardware.md)
 - [Project status updates](./project-statuses.md)
 - [Slack](./slack.md)
