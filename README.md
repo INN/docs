@@ -69,20 +69,14 @@ We welcome contributions and suggestions to help us improve any of these documen
 
 The INN news apps and technology team is:
 
--  **[Julia Smith](https://github.com/julia67)** ([@julia67](https://twitter.com/julia67)), Director, Product & Technology
--  **[Ben Keith](https://github.com/benlk)** ([@benlkeith](http://twitter.com/benlkeith)), News Apps Developer
--  **[Kay Lima](https://github.com/kaylima)** ([@kayleen_lima](http://twitter.com/kayleen_lima)), Support and Community Lead
--  **[Tyler Machado](https://github.com/tylermachado)** ([@tylermachado](https://twitter.com/tylermachado)), Front-End Developer
+-  **[Kay Lima](https://github.com/kaylima)** ([@kayleen_lima](http://twitter.com/kayleen_lima)), Director
+-  **[Ben Keith](https://github.com/benlk)** ([@benlkeith](http://twitter.com/benlkeith)), Lead Developer
+-  **Joshua Darby, Senior Developer
+-  **Miranda Krapf, Project Manager
+-  **Paola Baradello, Account Manager
 
 **Head Nerd emeritus:** **[Adam Schweigert](https://github.com/aschweigert)** ([@aschweig](http://twitter.com/aschweig))
 
-**Nerds emeriti:** [Nick Bennett](https://github.com/tothebeat), [Jack Brighton](http://github.com/jackbrighton), [Will Haynes](https://github.com/willhaynes), [Kaeti Hinck](https://github.com/kaeti), [Gabriel Hongsdusit](https://github.com/gabehong), [Dani Litovsky Alcalá](https://github.com/danilito19), [Denise Malan](https://github.com/dnmalan), [Meredith Melragon](https://github.com/meredithinn), [Ryan Nagle](https://github.com/rnagle), [Sinduja Rangarajan](https://github.com/cynduja), [David Ryan](https://github.com/dryanmedia), [RC Lations](https://github.com/rclations)
+**Nerds emeriti:** [Nick Bennett](https://github.com/tothebeat), [Jack Brighton](http://github.com/jackbrighton), [Will Haynes](https://github.com/willhaynes), [Kaeti Hinck](https://github.com/kaeti), [Gabriel Hongsdusit](https://github.com/gabehong), [Dani Litovsky Alcalá](https://github.com/danilito19), [Denise Malan](https://github.com/dnmalan), [Meredith Melragon](https://github.com/meredithinn), [Ryan Nagle](https://github.com/rnagle), [Sinduja Rangarajan](https://github.com/cynduja), [David Ryan](https://github.com/dryanmedia), [RC Lations](https://github.com/rclations), [Julia Smith](https://github.com/julia67)** ([@julia67](https://twitter.com/julia67)), [Tyler Machado](https://github.com/tylermachado)** ([@tylermachado](https://twitter.com/tylermachado))
 
 **Additional contributions from:** [@chriszs](https://github.com/chriszs) and [@brentajones](https://github.com/brentajones)
-
-### Changelog
-
-**Version 0.1**
-
-- Initial Release
-
