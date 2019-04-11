@@ -71,7 +71,7 @@ The INN news apps and technology team is:
 
 -  **[Kay Lima](https://github.com/kaylima)** ([@kayleen_lima](http://twitter.com/kayleen_lima)), Director
 -  **[Ben Keith](https://github.com/benlk)** ([@benlkeith](http://twitter.com/benlkeith)), Lead Developer
--  **Joshua Darby, Senior Developer
+-  **Joshua Darby**, Senior Developer
 -  **Miranda Krapf**, Project Manager
 -  **Paola Baradello**, Account Manager
 
