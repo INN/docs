@@ -25,6 +25,8 @@
   - [ ] Dropbox
   - [ ] Google Drive
   - [ ] Shared Google Calendars
+- [ ] Responsibilities lists
+  - [ ] https://docs.google.com/spreadsheets/d/1akpzhzJ8r2e43X-s7Y9LJIydJiffQ-D8VifjIQqQKjc/edit
 - [ ] 1password
   - Install app
   - Invite to INN team/shared vault (https://innorg.1password.com)
