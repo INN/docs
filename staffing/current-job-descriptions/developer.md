@@ -26,7 +26,7 @@ Required and preferred items are closely related, so for browsability's sake the
 -  Intermediate to expert knowledge of PHP/MySQL is required. Experience with Apache and Nginx configuration is a bonus.
 -  Experience developing for WordPress including themes, plugins, and working with WordPress multisite.
 -  Some exposure to and/or experience with one or more other server-side programming languages such as Python, Ruby, or Node.js is preferred.
--  Some experience with local scripting languages such as Bash, Node.js, or Python is preferred.
+-  Some experience with local scripting languages such as Bash, Node.js, or Python is preferred. We use wp-cli and Grunt in WordPress project, and non-WordPress projects have used tools written in Python and Node.js.
 -  Experience with Git is required, and experience with GitHub is preferred.
 -  Experience with project management tools such as GitHub, Harvest, Trello, and ClickUp is preferred.
 -  It would be great if you had some experience with one or more of the following:
