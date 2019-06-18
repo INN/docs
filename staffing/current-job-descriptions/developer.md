@@ -1,12 +1,12 @@
 # Web Developer
 
-**JOB TITLE** Web Developer
+**JOB TITLE:** Web Developer
 
-**DEPARTMENT** Product and Technology
+**DEPARTMENT:** Product and Technology
 
-**REPORTS TO** Director, Product and Technology
+**REPORTS TO:** Director, Product and Technology
 
-**BRIEF DESCRIPTION/PURPOSE** Working closely with our senior developer and the rest of the team, this position works on design and technology problems facing our member organizations and consulting clients.
+**BRIEF DESCRIPTION/PURPOSE:** Working closely with our senior developer and the rest of the team, this position works on design and technology problems facing our member organizations and consulting clients.
 
 ## KEY AREAS OF RESPONSIBILITY (ESSENTIAL FUNCTIONS)
 
