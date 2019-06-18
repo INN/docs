@@ -25,7 +25,7 @@ Required and preferred items are closely related, so for browsability's sake the
 -  Strong front-end web development skills (HTML/CSS/JS) and design sensibility with a focus on end-user experience; experience with responsive design principles. Experience with CSS pre-compilers such as LESS and SASS, and front-end frameworks such as jQuery, Bootstrap, React, etc. would also be helpful.
 -  Intermediate to expert knowledge of PHP/MySQL is required. Experience with Apache and Nginx configuration is a bonus.
 -  Experience developing for WordPress including themes, plugins, and working with WordPress multisite.
--  Some exposure to and/or experience with one or more other server-side programming languages such as Python, Ruby, or Node.js is preferred.
+-  Some exposure to and/or experience with one or more other server-side programming languages such as Python, Ruby, or Node.js is a bonus.
 -  Some experience with local scripting languages such as Bash, Node.js, or Python is preferred. We use wp-cli and Grunt in WordPress project, and non-WordPress projects have used tools written in Python and Node.js.
 -  Experience with Git is required, and experience with GitHub is preferred.
 -  Experience with project management tools such as GitHub, Harvest, Trello, and ClickUp is preferred.
