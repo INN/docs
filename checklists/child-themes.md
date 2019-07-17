@@ -1,6 +1,6 @@
 # Child Theme Review
 
-A checklist for reviewing child themes when updating from pre-version 0.4. Also a general checklist for doing a theme review for any child themes we didn't build before allowing them on our hosting.
+A checklist for reviewing child themes when updating from an earlier version of Largo. Also a general checklist for doing a theme review for any child themes we didn't build before allowing them on our hosting.
 
 ### Research
 
