@@ -59,6 +59,8 @@ Note: Slack account creation can only be done by someone with Admin/Owner privil
 - To add a user to any of our GitHub teams they need to first create a personal GitHub account.
 - Assuming you know the new team member's account, are logged into GitHub and are an administrator of the INN organization, you can go to [https://github.com/orgs/INN/teams](https://github.com/orgs/INN/teams) and select the team you want to add the user to.
 - Typically we'll add all team members to the "Tech Team" team and then optionally to "Owners" (for core team members) and "Secret" for people with permission to deploy sites/apps to production.
+- Have that user create a [Read the Docs](https://readthedocs.org/) account using their GitHub account, and grant them permission to our projects there. 
+    - https://readthedocs.org/dashboard/largo/users/
 
 ### Websites
 
