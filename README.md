@@ -50,7 +50,7 @@ These docs draw on (and sometimes straight up steal) excellent work from teams t
 
 - [ProPublica's News App and Data Style Guides](https://github.com/propublica/guides)
 - The NPR Visuals Team's [app template](https://github.com/nprapps/app-template), [coding best practices](https://github.com/nprapps/bestpractices) and [manifesto](http://blog.apps.npr.org/2014/06/04/how-we-work.html)
-- [Guides](https://github.com/newsapps/guides) and [Process Docs](http://blog.apps.chicagotribune.com/2014/03/05/everything-you-ever-wanted-to-know-about-the-news-apps-process/) from The Chicago Tribune's News Apps Team
+- [Guides](https://github.com/newsapps/guides) and [Process Docs](https://web.archive.org/web/20160909203500/http://blog.apps.chicagotribune.com/2014/03/05/everything-you-ever-wanted-to-know-about-the-news-apps-process/) from The Chicago Tribune's News Apps Team
 - [MinnPost's UI Style Guide](https://github.com/MinnPost/minnpost-styles)
 
 [<img src="https://www.browserstack.com/images/layout/browserstack-logo-600x315.png" width=250 />](https://browserstack.com)
