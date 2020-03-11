@@ -5,7 +5,7 @@
 - A list of communication and project management tools we use as a team
 - Some helpful tips and tricks:
 	- [Setting up a Google form (for book club voting, etc.)](#google-form)
-	- [Creating a public Google Hangout for community events](#public-hangouts)
+	- [Creating a scheduled Zoom call for community events](https://support.zoom.us/hc/en-us/articles/201362413-Scheduling-meetings)
 
 ## Communication and Project Management
 
@@ -50,27 +50,3 @@ Hacks and how-tos that we use for various projects.
 9. Review your work.
 10. Click Send Form. This will allow to tweet the link and generate a public link. Form
 [Reference](https://support.google.com/docs/answer/87809?hl=en)
-
-<a id="public-hangouts"></a>
-### Creating a public Google Hangout for community events
-
-1. Go to [Google+ Events](https://plus.google.com/events).
-2. Click "Create Event."
-
-    ![Create Event](http://apps.inn.org/docs/hangouts/create_an_event.png)
-
-3. Fill in the title, date and time.
-4. Click "Event options" and expand "Advanced."
-
-    ![Advanced menu](http://apps.inn.org/docs/hangouts/event_advanced_details.png)
-
-5. Select "Hangouts (Event is online-only)" from the Advanced menu.
-
-    ![Event is online-only](http://apps.inn.org/docs/hangouts/event_advanced_details_closeup.png)
-
-6. In the "To:" field, start typing "Public" and the form will make suggestions for autocompletion.
-
-    ![Select Public](http://apps.inn.org/docs/hangouts/event_details_public_invite.png)
-
-7. Select the "Public" suggestion to create a Hangout that anyone can join.
-8. Click the "Invite" button to finish creating your event.
