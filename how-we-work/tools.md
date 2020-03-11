@@ -4,7 +4,6 @@
 
 - A list of communication and project management tools we use as a team
 - Some helpful tips and tricks:
-	- [Setting up a Hackpad (for book club or  office hours)](#hackpad)
 	- [Setting up a Google form (for book club voting, etc.)](#google-form)
 	- [Creating a public Google Hangout for community events](#public-hangouts)
 
@@ -35,16 +34,6 @@ We maintain [a large list of tools and services](http://nerds.inn.org/discounts/
 ## Tips and Tricks
 
 Hacks and how-tos that we use for various projects.
-
-<a id="hackpad"></a>
-### Setting up a Hackpad
-
-1. Log into your Google account.
-2. Go to [Hackpad](http://hackpad.com)
-3. Click on the New Hackpad icon.
-4. Fill in the title
-5. Share the link. Hackpad
-[Reference](https://hackpad.com/How-to-use-Hackpad-mlZvEsJykI5)
 
 <a id="google-form"></a>
 ### Creating a Google form for a quick survey

@@ -14,16 +14,15 @@ For remote meetings (most months) we need to create a persistent link to a publi
 
 For in-person meetings (likely a couple times a year at conferences) we'll create an Eventbrite listing with details so people can RSVP because we'll need a rough count to make sure we choose an appropriate venue.
 
-For all book club meetings/hangouts we will create a Hackpad in advance of the hangout to collect notes and discussion questions. The link for this Hackpad should be posted on the blog, Twitter, etc.
+For all book club meetings/hangouts we will create an editable document in advance of the hangout to collect notes and discussion questions. The link for this editable document should be posted on the blog, Twitter, etc.
 
-For the meeting itself we will designate someone to facilitate the conversation and someone else to take notes and update the Hackpad. Finally, after the meeting we will take the notes from the Hackpad and turn them into a blog post which will also include the link to the survey to choose the book for next month and an announcement of the date of the next meeting.
+For the meeting itself we will designate someone to facilitate the conversation and someone else to take notes. Finally, after the meeting we will take the notes from the shared doc and turn them into a blog post which will also include the link to the survey to choose the book for next month and an announcement of the date of the next meeting.
 
 Wherever possible, there should be pie.
 
 ### Helpful Links
 
 - [Facilitator Responsibilites](/projects/book-club/facilitator-responsibilities.md)
-- [Book Suggestions Hackpad](https://hackpad.com/News-Nerd-Book-Club-Reading-List-YAApSL79SO2)
 - [Past months' archives](http://nerds.inn.org/category/book-club/)
 - [@NewsNerdBooks on Twitter](https://twitter.com/newsnerdbooks) (credentials are in the shared 1password vault in dropbox)
 - [How to create the Google event/hangout](/projects/tools.md#google-hangouts)
