@@ -16,5 +16,5 @@ For in person events there may be some additional responsibilities involved such
 ### Helpful links
 
 - [How to plan a session](https://opennews.org/blog/srccon-session-planning) from SRCCON
-- [How to create the Google event/hangout](/projects/tools.md#google-hangouts)
+- [How to create the scheduled Zoom call](https://support.zoom.us/hc/en-us/articles/201362413-Scheduling-meetings)
 - [Blog post checklist](/checklists/blog-post.md)

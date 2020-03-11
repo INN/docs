@@ -25,4 +25,3 @@ Wherever possible, there should be pie.
 - [Facilitator Responsibilites](/projects/book-club/facilitator-responsibilities.md)
 - [Past months' archives](http://nerds.inn.org/category/book-club/)
 - [@NewsNerdBooks on Twitter](https://twitter.com/newsnerdbooks) (credentials are in the shared 1password vault in dropbox)
-- [How to create the Google event/hangout](/projects/tools.md#google-hangouts)
