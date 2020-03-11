@@ -5,6 +5,7 @@ Guidelines for how to run effective meetings and descriptions of various meeting
 ### What's in here:
 -  [Meeting Guidelines](#guidelines)
 -  [Daily Scrum](#scrum)
+-  [Daily Scrumbot](#scrumbot)
 -  [Weekly Planning Meeting](#planning)
 -  [Weekly Recap Meeting](#recap)
 -  [Project Kickoff Meetings](#kickoff)
@@ -49,6 +50,32 @@ Guidelines for how to run effective meetings and descriptions of various meeting
 It's important to acknowledge anything keeping you from accomplishing your tasks and make the team aware of them so we can try to help; don't be shy!
 
 No detailed discussion of issues during this meeting. You can always stay on the call with one or more team members to discuss projects or issues after the daily scrum is completed or take the discussion to chat.
+
+<a id="scrumbot"></a>
+### Daily Scrumbot
+
+We use [Geekbot](https://geekbot.com/) to run end-of-day automated checkins. Here's the question set we're currently running with, as of March 2020, but we change it up as needed.
+
+- Which issues/tasks did you work on today, and what is their current status?
+- Which issues/tasks are awaiting review from someone else on the team?
+- Which issues, tasks, or projects are currently blocked? If so why, and by whom?
+- What needs to be accomplished tomorrow?
+- What might not be done tomorrow but needs to get done this week?
+- Any questions on deadlines, milestones, or priorities? (Make sure to `@mention` someone on the team!)
+- Is anything blocking you from getting work done? (Make sure to `@mention` someone on the team!)
+- Give a shoutout!
+
+We also use Geekbot for end-of-week check-ins:
+
+- What went well?
+- What didn't go so well and how can we avoid this going forward?
+- What have you learned?
+- What still puzzles you?
+- What do you need to do your best work? Is it something you can create or do you need help? (Make sure to `@mention`.)
+- What 1 thing will you do differently next week?
+- Do you have any planned time off next week?
+
+The bot DMs us these questions at a set time, in a conversational UI format, and then posts them to a specific channel that we keep for these standups: `#00-tech-standup`
 
 <a id="planning"></a>
 ### Weekly Planning
