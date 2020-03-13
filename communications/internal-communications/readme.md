@@ -12,7 +12,7 @@ Everyone gets stuck from time to time and we're here to help. Given the volume o
 
 **General questions** or requests for documentation - [open a new issue](https://github.com/INN/docs/issues) on the [INN docs github repo](https://github.com/INN/docs). Slack is also great for general questions, choose the most appropriate room and ask away!
 
-**Help with INN web properties** (inn.org, learn.inn.org, etc.) - open an issue on the [INN Website Asana project](https://app.asana.com/0/109153924668695/list) (login required, email [nerds@inn.org](mailto:nerds@inn.org) if you need access)
+**Help with INN web properties** (inn.org, learn.inn.org, etc.) - email [support@inn.org](mailto:support@inn.org).
 
 **Help with Largo** - use the [Largo help desk](http://support.largoproject.org/) (additional help can be found in the [knowledgebase](http://support.largoproject.org/support/solutions) and [documentation](http://largo.readthedocs.io/)) or email [support@largoproject.org](mailto:support@largoproject.org).
 
@@ -28,9 +28,7 @@ Instead of having one-on-one conversations or losing important details in endles
 
 This also has the effect of avoiding the, at times, unfortunate feeling that someone has been left out in a particular conversation.
 
-Slack also allows you to add links to important documents, resources or webpages and to upload files which are then also archived and searchable. This is a great way to share links to things like documentation, screenshots, mockups, etc. that you may want to be able to easily refer back to later.
-
-Asana (see below) is typically a better place to keep threaded conversations, to-do items, relevant files, etc. but Slack is a great way to have quick conversations and make decisions when less organization is required.
+Slack also allows you to add links to important documents, resources or webpages and to upload files which are then also archived and searchable. This is a great way to share links to things like documentation, screenshots, mockups, etc. that you may want to be able to easily refer back to later. It's great for quick questions.
 
 When we kickoff a new project we will typically create a private channel specifically for that project and add the people who are involved. If you feel like you're missing a conversation you can always ping one of your coworkers to make sure you haven't been left out inadvertently.
 
@@ -60,7 +58,7 @@ Mostly you'll need to be able to login, create issues on projects and then track
 
 **Getting Started**
 
-- The login URL for Asana is: [https://app.asana.com](https://app.asana.com). If you don't have an account, email [nerds@inn.org](nerds@inn.org) and we'll create one for you.
+- The login URL for Asana is: [app.asana.com](https://app.asana.com). If you don't have an account, email [nerds@inn.org](nerds@inn.org) and we'll create one for you.
 - Once you log in you will see a menu at the left of the screen that allows you to select from the teams and projects that you have been added to. Once you select a project you'll be able to see issues related to that project and can click "create" in the top menu to add a new issue.
 - For issues you create, you will also (by default) receive email notifications anytime the issue is updated. You can also reply to these emails to add new comments to the thread associated with that issue.
 - For more on Asana, check out their [user guide](https://asana.com/guide/help/fundamentals/welcome).
@@ -75,9 +73,9 @@ You will more than likely encounter GitHub either through reporting issues with 
 
 **Getting Started**
 
-- Visit [http://github.com](http://github.com) and create an account.
+- Visit [github.com](http://github.com) and create an account.
 - Email your username to [nerds@inn.org](mailto:nerds@inn.org) so we can add you to the INN team account and give you access to the relevant repositories.
-- Click on the **issues** tab of any repository (for example, the INN docs repository: [https://github.com/INN/docs/issues](https://github.com/INN/docs/issues)) and then click on the green **new issue** button to create a new issue. You will automatically be subscribed to notifications when someone comments or updates the issue.
+- Click on the **issues** tab of any repository (for example, the INN docs repository: [github.com/INN/docs/issues](https://github.com/INN/docs/issues)) and then click on the green **new issue** button to create a new issue. You will automatically be subscribed to notifications when someone comments or updates the issue.
 
 **Want to learn more about git?** Here are some resources and tutorials to help you get started:
 	

@@ -5,7 +5,7 @@ Like all of our recurring programs, we take turns leading the office hours. Here
 - [ ] Make sure we're promoting the hangout and encouraging signups
 - [ ] Send a reminder email the day before to make sure the people who signed up are still planning to come
 - [ ] Invite anyone else at INN not on our team who might be able to help if a particular question warrants it (membership or funding questions, for example)
-- [ ] Create hackpad for notes
+- [ ] Create google doc for notes
 - [ ] Attend the hangout, make sure everything runs smoothly, take notes
 - [ ] Edit notes and write recap blog post
 - [ ] Make sure Luis and Laura know what's going on so it gets promoted via the main INN newsletters/Twitter/Facebook/etc.
