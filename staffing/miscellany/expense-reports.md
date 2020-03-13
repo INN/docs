@@ -19,17 +19,13 @@ Should be requested [through this form](https://form.jotform.com/83325123620951)
 
 To be reimbursed for any purchases you make on a personal card, you will to submit receipts and an expense report. Guidance for INN employees can be found in the most-recent Employee Handbook. Here's the [link for the 2019-12-03 revision](https://docs.google.com/document/d/1ZP3s5IP41vMSZOTGZwnJ4Ui3q8uZpGQHwk9Y0Aql9B8/edit), which was edited more recently than that date.
 
-The most-recently-revised expense report form can be found in the INN shared Dropbox folder at:
+The most-recently-revised expense report form can be found in Google Drive at https://docs.google.com/a/investigativenewsnetwork.org/spreadsheets/d/1Oszz-4DJ0wI_cs1EDYZPBiuIzNPZoPBhZPegkFjbhvg/edit?usp=drive_web
 
-- `INN/Exmployment Docs/2018 Expense Reimbursement Form.pdf`
-- `INN/Exmployment Docs/2018 Expense Reimbursement Form.xlsx`
+INN Ops director Chip Potts's guidance for using the form is in a February 28, 2020 email titled "Using the Employee Reimbursement Form":
 
-Optionally, you may use a PDF export from a personal Expensify account instead.
+1. Please be sure to put you name and date in the areas towards the top of the form, highlighted in grey.
+2. Make sure that the cells wrap to reveal all of the information you are putting in there. They are set to wrap but please make sure they are.
+3. If there is any information missing in the receipts that are not on the receipt, please notate them in the notes area. An example would be say a tip not included on a receipt. For something that does not have a receipt such as a tip for a bellhop, etc., it would be good to notate that on a separate piece of paper.
+4. Also please convert the completed form, into a PDF and send along with all of the other receipts.
 
-The following sectoin is under review:
-
-> Once you fill out this report, submit scans of all receipts and the completed expense report through [HelloSign](https://www.hellosign.com/).
->
-> The form must be signed by both your direct supervisor and INN's CEO, so submit the form for signatures by both people and cc: accounting@inn.org to make the processing of your request as efficient as possible.
-
-Once approved, your reimbursement will be processed the next time the accounting firm does payroll (typically the 15th and 30th of each month).
+Submit the form and your receipts to accounting@inn.org.
