@@ -23,6 +23,8 @@ We no longer maintain these plugins, but their docs are being kept here as a his
 - [News Quiz](news-quiz.md)
 - [Google Analytics Popular Posts](google-analytics-popular-posts.md)
 - [Term Debt Consolidator](term-debt-consolidator.md)
+- [News Match Donation Shortcode](news-match-donation-shortcode.md) (rivard, okwatch donation shortcodes)
+- [News Match Popup Basics](news-match-popup-basics.md)
 
 To add a plugin to this list, copy [`_template.md`](_template.md) into a new file.
 

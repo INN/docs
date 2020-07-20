@@ -2,6 +2,7 @@
 
 GitHub repo: https://github.com/inn/
 wordpress.org plugin repo: https://wordpress.org/plugins/
+status: &#128128; retired
 
 ## Description:
 
