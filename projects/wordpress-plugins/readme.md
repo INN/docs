@@ -13,12 +13,18 @@ Some plugins we have built and maintain include:
 - [Super Cool Ad Inserter](super-cool-ad-inserter.md)
 - [Link Roundups](link-roundups.md)
 
+Plugins which are neither maintained nor not-maintained:
+
+- [Developer-Driven Custom Post Classes](developer-driven-custom-post-classes)
+
 We no longer maintain these plugins, but their docs are being kept here as a historical reference:
 
 - [Public Media Platform](public-media-platform.md)
 - [News Quiz](news-quiz.md)
 - [Google Analytics Popular Posts](google-analytics-popular-posts.md)
 - [Term Debt Consolidator](term-debt-consolidator.md)
+
+To add a plugin to this list, copy [`_template.md`](_template.md) into a new file.
 
 ### Utilities
 
