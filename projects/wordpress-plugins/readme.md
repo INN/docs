@@ -22,18 +22,21 @@ Plugins which are neither maintained nor not-maintained:
 
 We no longer maintain these plugins, but their docs are being kept here as a historical reference:
 
-- [Public Media Platform](public-media-platform.md)
-- [Public Media Platform Distribution Extension](pmp-distribution.md)
-- [News Quiz](news-quiz.md)
 - [Google Analytics Popular Posts](google-analytics-popular-posts.md)
-- [Term Debt Consolidator](term-debt-consolidator.md)
+- [INN Members](inn-members.md)
+- [Largo Clean Contact](largo-clean-contact.md)
+- [NPR Audio Player](npr-audio-player.md)
 - [News Match Donation Shortcode](news-match-donation-shortcode.md) (rivard, okwatch donation shortcodes)
 - [News Match Popup Basics](news-match-popup-basics.md)
-- [NPR Audio Player](npr-audio-player.md)
-- [INN Members](inn-members.md)
+- [News Quiz](news-quiz.md)
+- [Public Media Platform Distribution Extension](pmp-distribution.md)
+- [Public Media Platform](public-media-platform.md)
+- [RNS Transmissions](rns-transmissions.md)
+- [Term Debt Consolidator](term-debt-consolidator.md)
 
 To add a plugin to this list, copy [`_template.md`](_template.md) into a new file.
 
 ### Utilities
 
 - [Plugin release script](release.sh.md) (for wordpress.org plugins)
+- [WordPress MailChimp Tools](wordpress-mailchimp-tools.md) (library)
