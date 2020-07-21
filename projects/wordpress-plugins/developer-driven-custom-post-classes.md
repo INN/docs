@@ -2,6 +2,7 @@
 
 GitHub repo: https://github.com/INN/developer-driven-custom-post-classes
 wordpress.org plugin repo: not published
+Status: ?
 
 ## Description:
 

@@ -1,9 +1,14 @@
 # Plugin name
 
-GitHub repo: https://github.com/inn/
-wordpress.org plugin repo: https://wordpress.org/plugins/
-status: &#128128; retired
+Status: &#128128; retired
 
-## Description:
+## Relevant links:
+
+- GitHub repo: https://github.com/inn/
+- Wordpress.org plugin repo: https://wordpress.org/plugins/
+
+## What is it?
 
 Historical information should go in this area of the file.
+
+## Who made it?
