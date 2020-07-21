@@ -14,6 +14,7 @@ Some plugins we have built and maintain include:
 - [Super Cool Ad Manager Plugin](doubleclick-for-wp.md)
 - [Super Cool Ad Inserter](super-cool-ad-inserter.md)
 - [Link Roundups](link-roundups.md)
+- [Trust Indicators](trust-indicators.md)
 
 Plugins which are neither maintained nor not-maintained:
 
@@ -28,6 +29,8 @@ We no longer maintain these plugins, but their docs are being kept here as a his
 - [Term Debt Consolidator](term-debt-consolidator.md)
 - [News Match Donation Shortcode](news-match-donation-shortcode.md) (rivard, okwatch donation shortcodes)
 - [News Match Popup Basics](news-match-popup-basics.md)
+- [NPR Audio Player](npr-audio-player.md)
+- [INN Members](inn-members.md)
 
 To add a plugin to this list, copy [`_template.md`](_template.md) into a new file.
 
