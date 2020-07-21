@@ -20,6 +20,7 @@ Plugins which are neither maintained nor not-maintained:
 We no longer maintain these plugins, but their docs are being kept here as a historical reference:
 
 - [Public Media Platform](public-media-platform.md)
+- [Public Media Platform Distribution Extension](pmp-distribution.md)
 - [News Quiz](news-quiz.md)
 - [Google Analytics Popular Posts](google-analytics-popular-posts.md)
 - [Term Debt Consolidator](term-debt-consolidator.md)
