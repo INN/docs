@@ -6,6 +6,8 @@ In addition to our work on [Largo](/projects/largo/), our team has created a num
 
 You can find [the current list of maintained plugins at support.inn.org](https://support.inn.org/category/202-plugins-by-inn-labs).
 
+Some plugins in this list may have private, archived, or deleted repositories, and consequently may not be visible.
+
 Some plugins we have built and maintain include:
 
 - [Pym.js Embeds](pym-shortcode.md)
