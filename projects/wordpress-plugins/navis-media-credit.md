@@ -6,6 +6,7 @@ Status: &#128128; retired
 
 - GitHub repo: https://github.com/INN/navis-media-credit
 - Wordpress.org plugin repo: none
+- NPR Project Argo docs: http://argoproject.org/media-credit.php.html
 
 ## What is it?
 

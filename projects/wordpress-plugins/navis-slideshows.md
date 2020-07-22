@@ -5,7 +5,7 @@ Status: &#128128; retired
 ## Relevant links:
 
 - GitHub repo: https://github.com/INN/navis-slideshows
-- Wordpress.org plugin repo: none
+- NPR Argo Project docs: http://argoproject.org/slideshow.php.html
 
 ## What is it?
 

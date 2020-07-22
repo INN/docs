@@ -26,6 +26,8 @@ We no longer maintain these plugins, but their docs are being kept here as a his
 - [INN Members](inn-members.md)
 - [Largo Clean Contact](largo-clean-contact.md)
 - [NPR Audio Player](npr-audio-player.md)
+- [Navis DocumentCloud](navis-documentcloud.md)
+- [Navis Jiffy Posts](navis-jiffy-posts.md)
 - [Navis Media Credits](navis-media-credit.md)
 - [Navis Slideshows](navis-slideshows.md)
 - [News Match Donation Shortcode](news-match-donation-shortcode.md) (rivard, okwatch donation shortcodes)
