@@ -33,6 +33,7 @@ We no longer maintain these plugins, but their docs are being kept here as a his
 - [News Match Donation Shortcode](news-match-donation-shortcode.md) (rivard, okwatch donation shortcodes)
 - [News Match Popup Basics](news-match-popup-basics.md)
 - [News Quiz](news-quiz.md)
+- [No Nonsense Google Analytics](no-nonsense-google-analytics.md)
 - [Public Media Platform Distribution Extension](pmp-distribution.md)
 - [Public Media Platform](public-media-platform.md)
 - [RNS Transmissions](rns-transmissions.md)
