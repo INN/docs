@@ -24,6 +24,7 @@ We no longer maintain these plugins, but their docs are being kept here as a his
 
 - [Google Analytics Popular Posts](google-analytics-popular-posts.md)
 - [INN Members](inn-members.md)
+- [Knight Lab Storytelling Tools](knight-lab-storytelling-tools.md)
 - [Largo Clean Contact](largo-clean-contact.md)
 - [NPR Audio Player](npr-audio-player.md)
 - [Navis DocumentCloud](navis-documentcloud.md)
