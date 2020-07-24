@@ -15,6 +15,7 @@ Some plugins we have built and maintain include:
 - [Super Cool Ad Inserter](super-cool-ad-inserter.md)
 - [Link Roundups](link-roundups.md)
 - [Trust Indicators](trust-indicators.md)
+- [Republication Tracker Tool](republication-tracker-tool.md)
 
 Plugins which are neither maintained nor not-maintained:
 
