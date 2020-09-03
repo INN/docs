@@ -43,6 +43,7 @@ We no longer maintain these plugins, but their docs are being kept here as a his
 - [Public Media Platform](public-media-platform.md)
 - [RNS Transmissions](rns-transmissions.md)
 - [Term Debt Consolidator](term-debt-consolidator.md)
+- [Term Enhancements](term-enhancements.md)
 
 To add a plugin to this list, copy [`_template.md`](_template.md) into a new file.
 
