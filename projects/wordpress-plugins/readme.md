@@ -29,6 +29,7 @@ We no longer maintain these plugins, but their docs are being kept here as a his
 - [INN Members](inn-members.md)
 - [Knight Lab Storytelling Tools](knight-lab-storytelling-tools.md)
 - [Largo Clean Contact](largo-clean-contact.md)
+- [Largo Related Posts](largo-related-posts.md)
 - [NPR Audio Player](npr-audio-player.md)
 - [Navis DocumentCloud](navis-documentcloud.md)
 - [Navis Jiffy Posts](navis-jiffy-posts.md)
