@@ -23,6 +23,7 @@ Plugins which are neither maintained nor not-maintained:
 
 We no longer maintain these plugins, but their docs are being kept here as a historical reference:
 
+- [Client Hosting Manager](client-hosting-manager.md)
 - [Credentials](credentials.md)
 - [Google Analytics Popular Posts](google-analytics-popular-posts.md)
 - [INN Members](inn-members.md)
