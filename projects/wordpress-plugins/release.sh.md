@@ -16,6 +16,15 @@ This file provides setup, usage, and configuration instructions for `release.sh`
 8. Run `release.sh`.
   - You may need to verify the receiving server's key fingerprint.
   - If it asks you to enter the password for your computer's username, press the `[enter]` key to get the username prompt, then enter your `wordpress.org` username and password.
+  
+### Using a new device with an existing plugin repository
+1. Review the files in the `BLACKLIST` variable in `release.sh`. Make changes as necessary.
+2. Update the `SVN_REPO` variable with your plugin's `plugins.svn.wordpress.org` SVN repository.
+3. `chmod +x release.sh`.
+4. `mkdir release`.
+5. `svn co https://plugins.svn.wordpress.org/plugin-slug/ release` to make the `release` directory. 
+6. `cd ..` to get back to the root of the plugin.
+7. Run `release.sh`.
 
 ### Later releases
 
