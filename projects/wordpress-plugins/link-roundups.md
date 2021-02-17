@@ -17,3 +17,4 @@ This is one of the plugins we adopted from NPR's Project Argo but it has since b
 - [Plugin repository on GitHub](https://github.com/INN/link-roundups)
 - [Plugin listing on wordpress.org](https://wordpress.org/plugins/link-roundups/)
 - [WordPress MailChimp tools](https://github.com/INN/wordpress-mailchimp-tools/tree/12225e55f2bbe7fff3baf2d93d4c1b5b83c0f316) (used for MailChimp integration)
+- [NPR Argo Project original documentation](http://argoproject.org/argo-links.php.html)
