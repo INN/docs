@@ -7,7 +7,7 @@
 RELEASE_DIR=release;
 SVN_PATH=$RELEASE_DIR/svn;
 SVN_REPO="https://plugins.svn.wordpress.org/plugin-slug-goes-here/";
-BLACKLIST=(
+OMIT_LIST=(
 .\*
 release.sh
 mkdocs.yml
@@ -129,7 +129,8 @@ function create_release_zip() {
   echo "Creating release/wp-release.zip";
 
   OUT=`rm -f release/wp-release.zip`;
-  OUT=`zip -x "${BLACKLIST[@]}" -q -r release/wp-release.zip .`;
+  OUT=`zip -x "${OMIT_LIST
+  [@]}" -q -r release/wp-release.zip .`;
 
   if [[ $? -ne 0 ]]
   then
