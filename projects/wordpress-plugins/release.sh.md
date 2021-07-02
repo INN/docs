@@ -6,7 +6,7 @@ This file provides setup, usage, and configuration instructions for `release.sh`
 
 ### The first release
 
-1. Review the files in the `BLACKLIST` variable in `release.sh`. Make changes as necessary.
+1. Review the files in the `OMIT_LIST` variable in `release.sh`. Make changes as necessary.
 2. Update the `SVN_REPO` variable with your plugin's `plugins.svn.wordpress.org` SVN repository.
 3. `chmod +x release.sh`.
 4. Add `release/` to the project's `.gitignore`.
@@ -18,7 +18,7 @@ This file provides setup, usage, and configuration instructions for `release.sh`
   - If it asks you to enter the password for your computer's username, press the `[enter]` key to get the username prompt, then enter your `wordpress.org` username and password.
   
 ### Using a new device with an existing plugin repository
-1. Review the files in the `BLACKLIST` variable in `release.sh`. Make changes as necessary.
+1. Review the files in the `OMIT_LIST` variable in `release.sh`. Make changes as necessary.
 2. Update the `SVN_REPO` variable with your plugin's `plugins.svn.wordpress.org` SVN repository.
 3. `chmod +x release.sh`.
 4. `mkdir release`.
@@ -87,7 +87,7 @@ According to https://make.wordpress.org/core/handbook/tutorials/installing-wordp
 
 #### `.git/` directories contained within the plugin's release .zip file
 
-Check your plugin's `release.sh` to make sure that `./\*\*/.\*` is contained within the `BLACKLIST` variable.
+Check your plugin's `release.sh` to make sure that `./\*\*/.\*` is contained within the `OMIT_LIST` variable.
 
 https://github.com/INN/docs/blob/1e53bd3a6793ea8c7197670316e49c9ff6da8661/projects/wordpress-plugins/release.sh#L19
 
